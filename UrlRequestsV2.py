@@ -65,7 +65,7 @@ def render_func():
     url = ('https://www.twitch.tv/' + streamerName)
     print('Fetching a valid url render response state for: ' + 'https://www.twitch.tv/' + streamerName)
     response = session.get(url)
-    if not response.html.render(timeout=10, sleep=5):
+    if not response.html.render(timeout=10, sleep=10):
         print('Render response is successful')
         body = response.html.find('body', first=True).text
         newTxt = body.split('Expand')[0]
