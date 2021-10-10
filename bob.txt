@@ -1,0 +1,873 @@
+------- STREAMER LOGS RESPONSE----
+TwitchName:roflgator, Game:VRChat, Followers:230K, Viewers:3,356, Date & Time:2021-09-07 22:27:08
+
+TwitchName:roflgator, Game:VRChat, Followers:230K, Viewers:3,500, Date & Time:2021-09-07 22:29:26
+
+TwitchName:roflgator, Game:VRChat, Followers:230K, Viewers:3,648, Date & Time:2021-09-07 23:18:01
+
+TwitchName:roflgator, Game:VRChat, Followers:230K, Viewers:3,725, Date & Time:2021-09-07 23:19:26
+
+TwitchName:roflgator, Game:VRChat, Followers:230K, Viewers:3,725, Date & Time:2021-09-07 23:24:26, Users In Chat:3840
+
+TwitchName:tevin_vr, Game:VRChat, Followers:1.8K, Viewers:23, Date & Time:2021-09-07 23:31:42, Users In Chat:51
+
+TwitchName:tevin_vr, Game:VRChat, Followers:1.8K, Viewers:21, Date & Time:2021-09-07 23:51:30, Users In Chat:49
+
+TwitchName:tevin_vr, Game:VRChat, Followers:1.8K, Viewers:25, Date & Time:2021-09-08 00:36:55, Users In Chat:55
+
+TwitchName:tevin_vr, Game:Apex Legends, Followers:1.8K, Viewers:12, Date & Time:2021-09-09 18:22:39, Users In Chat:46
+
+TwitchName:SHIZU, Game:Tales of Arise, Followers:20.9K, Viewers:40, Date & Time:2021-09-09 18:32:28, Users In Chat:117
+
+TwitchName:SHIZU, Game:Tales of Arise, Followers:20.9K, Viewers:31, Date & Time:2021-09-09 18:33:41, Users In Chat:117
+
+TwitchName:SNOWSOS, Game:Dead by Daylight, Followers:61.7K, Viewers:80, Date & Time:2021-09-09 18:36:18, Users In Chat:122
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:63.4K, Viewers:1,647, Date & Time:2021-09-09 18:38:32, Users In Chat:1861
+
+TwitchName:SplattercatGaming, Game:Cannibal Crossing, Followers:77.6K, Viewers:631, Date & Time:2021-09-09 18:52:27, Users In Chat:563
+
+TwitchName:tevin_vr, Game:Apex Legends, Followers:1.8K, Viewers:12, Date & Time:2021-09-09 20:30:31, Users In Chat:44
+
+TwitchName:tevin_vr, Game:Apex Legends, Followers:18451, Viewers:10, Date & Time:2021-09-09 20:43:20, Users In Chat:44
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:18451, Viewers:2,029, Date & Time:2021-09-09 20:56:44, Users In Chat:2130
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:63449, Viewers:2,059, Date & Time:2021-09-09 21:17:14, Users In Chat:2130
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:63449, Viewers:2,081, Date & Time:2021-09-09 21:17:57, Users In Chat:2130
+
+TwitchName:tevin_vr, Game:Apex Legends, Followers:1805, Viewers:13, Date & Time:2021-09-09 21:20:16, Users In Chat:43
+
+TwitchName:roflgator, Game:Just Chatting, Followers:230362, Viewers:3,401, Date & Time:2021-09-09 23:21:55, Users In Chat:3598
+
+TwitchName:tevin_vr, Game:VRChat, Followers:1805, Viewers:20, Date & Time:2021-09-09 23:23:25, Users In Chat:45
+
+TwitchName:roflgator, Game:VRChat, Followers:230375, Viewers:3,241, Date & Time:2021-09-10 00:22:05, Users In Chat:3459
+
+TwitchName:tevin_vr, Game:VRChat, Followers:1805, Viewers:10, Date & Time:2021-09-10 00:23:46, Users In Chat:37
+
+TwitchName:roflgator, Game:VRChat, Followers:230391, Viewers:3,178, Date & Time:2021-09-10 02:34:47, Twitch's Users In Chat:3305, My Users in Chat:3364
+
+TwitchName:roflgator, Game:Just Chatting, Followers:230392, Viewers:2,817, Date & Time:2021-09-10 03:29:38, Twitch's Users In Chat:2977, My Users in Chat:2988 Users name(s):
+
+TwitchName:Kareeda, Game:VRChat, Followers:10806, Viewers:21, Date & Time:2021-09-10 03:35:33, Twitch's Users In Chat:50, My Users in Chat:49 Users name(s):
+
+TwitchName:Lanfear_vr, Game:VRChat, Followers:9986, Viewers:139, Date & Time:2021-09-10 03:37:15, Twitch's Users In Chat:179, My Users in Chat:178 Users name(s):
+
+TwitchName:Kohrean, Game:Minecraft, Followers:12361, Viewers:76, Date & Time:2021-09-10 03:49:02, Twitch's Users In Chat:168, My Users in Chat:150 Users name(s):
+
+TwitchName:roflgator, Game:Just Chatting, Followers:230402, Viewers:2,596, Date & Time:2021-09-10 04:18:33, Twitch's Users In Chat:2805, My Users in Chat:2779 Users name(s):
+
+TwitchName:Mioshi_, Game:Shadow of the Tomb Raider, Followers:6324, Viewers:176, Date & Time:2021-09-10 10:25:31, Twitch's Users In Chat:262, My Users in Chat:264 Users name(s):
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:63511, Viewers:1,505, Date & Time:2021-09-10 18:41:19, Twitch's Users In Chat:1793, My Users in Chat:1764 Users name(s):
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:63511, Viewers:1,556, Date & Time:2021-09-10 18:42:18, Twitch's Users In Chat:1793, My Users in Chat:1764 Users name(s):
+
+TwitchName:tevin_vr, Game:Apex Legends, Followers:1807, Viewers:9, Date & Time:2021-09-10 19:57:01, Twitch's Users In Chat:35, My Users in Chat:30 Users name(s):
+
+TwitchName:tevin_vr, Game:Apex Legends, Followers:1808, Viewers:14, Date & Time:2021-09-11 17:38:45, Twitch's Users In Chat:36, My Users in Chat:32 Users name(s):
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:63709, Viewers:2,018, Date & Time:2021-09-12 19:34:35, Twitch's Users In Chat:2147, My Users in Chat:2150 Users name(s):
+
+TwitchName:SHIZU, Game:Apex Legends, Followers:20909, Viewers:21, Date & Time:2021-09-12 19:36:13, Twitch's Users In Chat:92, My Users in Chat:75 Users name(s):
+
+TwitchName:Mioshi_, Game:Just Chatting, Followers:6379, Viewers:64, Date & Time:2021-09-12 19:50:44, Twitch's Users In Chat:149, My Users in Chat:148 Users name(s):
+
+TwitchName:roflgator, Game:VRChat, Followers:230530, Viewers:3,631, Date & Time:2021-09-13 00:20:02, Twitch's Users In Chat:3838, My Users in Chat:3733 Users name(s):
+
+TwitchName:roflgator, Game:VRChat, Followers:230538, Viewers:3,983, Date & Time:2021-09-13 01:01:52, Twitch's Users In Chat:4025, My Users in Chat:3990 Users name(s):
+
+TwitchName:roflgator, Game:Bigfoot, Followers:230540, Viewers:4,193, Date & Time:2021-09-13 01:49:42, Twitch's Users In Chat:4112, My Users in Chat:4186 Users name(s):
+
+TwitchName:roflgator, Game:Bigfoot, Followers:230543, Viewers:4,149, Date & Time:2021-09-13 02:01:48, Twitch's Users In Chat:4093, My Users in Chat:NA Users name(s):
+
+TwitchName:Kareeda, Game:VRChat, Followers:10824, Viewers:35, Date & Time:2021-09-13 02:06:19, Twitch's Users In Chat:53, My Users in Chat:52 Users name(s):
+
+TwitchName:Oathmeal, Game:Dead by Daylight, Followers:52724, Viewers:132, Date & Time:2021-09-13 02:07:44, Twitch's Users In Chat:316, My Users in Chat:310 Users name(s):
+
+TwitchName:MurderCrumpet, Game:The Dark Occult, Followers:63776, Viewers:1,433, Date & Time:2021-09-13 15:40:26, Twitch's Users In Chat:1655, My Users in Chat:NA Users name(s):
+
+TwitchName:Cirno_TV, Game:PowerWash Simulator, Followers:193250, Viewers:489, Date & Time:2021-09-13 15:42:24, Twitch's Users In Chat:680, My Users in Chat:NA Users name(s):
+
+TwitchName:Shenpai, Game:Art, Followers:299921, Viewers:508, Date & Time:2021-09-13 15:43:17, Twitch's Users In Chat:470, My Users in Chat:NA Users name(s):
+
+TwitchName:TheDevilDogGamer, Game:Escape from Tarkov, Followers:235903, Viewers:351, Date & Time:2021-09-13 15:44:11, Twitch's Users In Chat:321, My Users in Chat:NA Users name(s):
+
+TwitchName:MurderCrumpet, Game:The Dark Occult, Followers:63783, Viewers:1,517, Date & Time:2021-09-13 16:05:08, Twitch's Users In Chat:1657, My Users in Chat:NA Users name(s):
+
+TwitchName:Cirno_TV, Game:PowerWash Simulator, Followers:193249, Viewers:548, Date & Time:2021-09-13 16:06:11, Twitch's Users In Chat:711, My Users in Chat:NA Users name(s):
+
+TwitchName:tevin_vr, Game:Apex Legends, Followers:1818, Viewers:4, Date & Time:2021-09-13 16:27:31, Twitch's Users In Chat:21, My Users in Chat:NA Users name(s):
+
+TwitchName:tevin_vr, Game:Apex Legends, Followers:1819, Viewers:13, Date & Time:2021-09-13 17:08:15, Twitch's Users In Chat:30, My Users in Chat:NA Users name(s):
+
+TwitchName:Sn0wBreeze, Game:Minecraft, Followers:8653, Viewers:35, Date & Time:2021-09-13 17:12:08, Twitch's Users In Chat:122, My Users in Chat:114 Users name(s):
+
+TwitchName:SHIZU, Game:Arboria, Followers:20919, Viewers:18, Date & Time:2021-09-13 17:13:11, Twitch's Users In Chat:86, My Users in Chat:88 Users name(s):
+
+TwitchName:MurderCrumpet, Game:The Dark Occult, Followers:63789, Viewers:1,722, Date & Time:2021-09-13 17:14:10, Twitch's Users In Chat:1896, My Users in Chat:NA Users name(s):
+
+TwitchName:tevin_vr, Game:Apex Legends, Followers:1819, Viewers:8, Date & Time:2021-09-13 18:38:08, Twitch's Users In Chat:31, My Users in Chat:NA Users name(s):
+
+TwitchName:MurderCrumpet, Game:The Dark Occult, Followers:63803, Viewers:1,777, Date & Time:2021-09-13 18:40:52, Twitch's Users In Chat:1908, My Users in Chat:NA Users name(s):
+
+TwitchName:MurderCrumpet, Game:The Dark Occult, Followers:63823, Viewers:1,797, Date & Time:2021-09-13 20:10:59, Twitch's Users In Chat:1912, My Users in Chat:NA Users name(s):
+
+TwitchName:tevin_vr, Game:Overwatch, Followers:1819, Viewers:10, Date & Time:2021-09-13 20:11:33, Twitch's Users In Chat:41, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:Just Chatting, Followers:230545, Viewers:596, Date & Time:2021-09-13 20:13:16, Twitch's Users In Chat:1260, My Users in Chat:NA Users name(s):
+
+TwitchName:Kareeda, Game:VRChat, Followers:10825, Viewers:126, Date & Time:2021-09-13 20:13:49, Twitch's Users In Chat:144, My Users in Chat:NA Users name(s):
+
+TwitchName:Sn0wBreeze, Game:Minecraft, Followers:8656, Viewers:62, Date & Time:2021-09-13 20:14:25, Twitch's Users In Chat:191, My Users in Chat:NA Users name(s):
+
+TwitchName:EJ_SA, Game:Icarus, Followers:62838, Viewers:333, Date & Time:2021-09-13 20:15:31, Twitch's Users In Chat:364, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:VRChat, Followers:230549, Viewers:4,143, Date & Time:2021-09-13 23:23:40, Twitch's Users In Chat:4256, My Users in Chat:NA Users name(s):
+
+TwitchName:tevin_vr, Game:VRChat, Followers:1820, Viewers:22, Date & Time:2021-09-13 23:24:34, Twitch's Users In Chat:47, My Users in Chat:NA Users name(s):
+
+TwitchName:Oathmeal, Game:VRChat, Followers:52718, Viewers:206, Date & Time:2021-09-13 23:26:56, Twitch's Users In Chat:404, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:VRChat, Followers:230569, Viewers:2,152, Date & Time:2021-09-14 20:20:59, Twitch's Users In Chat:1764, My Users in Chat:NA Users name(s):
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:63891, Viewers:1,977, Date & Time:2021-09-14 20:22:09, Twitch's Users In Chat:2117, My Users in Chat:NA Users name(s):
+
+TwitchName:SHIZU, Game:Dead by Daylight, Followers:20918, Viewers:38, Date & Time:2021-09-14 20:22:56, Twitch's Users In Chat:108, My Users in Chat:NA Users name(s):
+
+TwitchName:SHIZU, Game:Dead by Daylight, Followers:20919, Viewers:37, Date & Time:2021-09-14 21:10:29, Twitch's Users In Chat:105, My Users in Chat:NA Users name(s):
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:63898, Viewers:1,783, Date & Time:2021-09-14 21:11:32, Twitch's Users In Chat:1865, My Users in Chat:NA Users name(s):
+
+TwitchName:MurderCrumpet, Game:Just Chatting, Followers:63979, Viewers:1,726, Date & Time:2021-09-16 18:49:02, Twitch's Users In Chat:1853, My Users in Chat:NA Users name(s):
+
+TwitchName:tevin_vr, Game:osu!, Followers:1828, Viewers:9, Date & Time:2021-09-16 18:50:00, Twitch's Users In Chat:31, My Users in Chat:NA Users name(s):
+
+TwitchName:sodapoppin, Game:I Am Fish, Followers:3108988, Viewers:28,781, Date & Time:2021-09-16 18:51:01, Twitch's Users In Chat:27354, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:VRChat, Followers:230782, Viewers:1,095, Date & Time:2021-09-17 20:30:40, Twitch's Users In Chat:1580, My Users in Chat:NA Users name(s):
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:64079, Viewers:1,640, Date & Time:2021-09-17 20:31:52, Twitch's Users In Chat:1858, My Users in Chat:NA Users name(s):
+
+TwitchName:Momo, Game:Tom Clancy's Rainbow Six Siege, Followers:224722, Viewers:2,531, Date & Time:2021-09-17 20:47:40, Twitch's Users In Chat:2719, My Users in Chat:NA Users name(s):
+
+TwitchName:sodapoppin, Game:Timberborn, Followers:3109397, Viewers:20,003, Date & Time:2021-09-17 20:57:54, Twitch's Users In Chat:18964, My Users in Chat:NA Users name(s):
+
+TwitchName:HappyThoughts, Game:StarCraft II, Followers:44760, Viewers:120, Date & Time:2021-09-17 20:59:11, Twitch's Users In Chat:506, My Users in Chat:NA Users name(s):
+
+TwitchName:TheDevilDogGamer, Game:Enlisted, Followers:235908, Viewers:166, Date & Time:2021-09-17 21:00:41, Twitch's Users In Chat:174, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:VRChat, Followers:230821, Viewers:3,496, Date & Time:2021-09-18 01:09:05, Twitch's Users In Chat:3553, My Users in Chat:NA Users name(s):
+
+TwitchName:Oathmeal, Game:VRChat, Followers:52764, Viewers:125, Date & Time:2021-09-18 01:09:50, Twitch's Users In Chat:374, My Users in Chat:NA Users name(s):
+
+TwitchName:Lanfear_vr, Game:VRChat, Followers:10268, Viewers:93, Date & Time:2021-09-18 01:10:44, Twitch's Users In Chat:181, My Users in Chat:NA Users name(s):
+
+TwitchName:Kareeda, Game:VRChat, Followers:10847, Viewers:49, Date & Time:2021-09-18 01:11:18, Twitch's Users In Chat:85, My Users in Chat:NA Users name(s):
+
+TwitchName:Oathmeal, Game:VRChat, Followers:52764, Viewers:122, Date & Time:2021-09-18 01:12:17, Twitch's Users In Chat:370, My Users in Chat:NA Users name(s):
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:64236, Viewers:1,326, Date & Time:2021-09-20 22:28:39, Twitch's Users In Chat:1505, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:VRChat, Followers:230865, Viewers:2,097, Date & Time:2021-09-20 22:29:31, Twitch's Users In Chat:2381, My Users in Chat:NA Users name(s):
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:64241, Viewers:1,207, Date & Time:2021-09-20 23:17:57, Twitch's Users In Chat:1392, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:VRChat, Followers:230863, Viewers:2,243, Date & Time:2021-09-20 23:18:39, Twitch's Users In Chat:2424, My Users in Chat:NA Users name(s):
+
+TwitchName:SNOWSOS, Game:Apex Legends, Followers:61805, Viewers:62, Date & Time:2021-09-20 23:19:40, Twitch's Users In Chat:84, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:VRChat, Followers:230852, Viewers:2,019, Date & Time:2021-09-21 22:10:22, Twitch's Users In Chat:2343, My Users in Chat:NA Users name(s):
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:64271, Viewers:1,601, Date & Time:2021-09-21 22:10:54, Twitch's Users In Chat:1818, My Users in Chat:NA Users name(s):
+
+TwitchName:sodapoppin, Game:Red Dead Redemption 2, Followers:3112556, Viewers:18,869, Date & Time:2021-09-21 22:11:28, Twitch's Users In Chat:16928, My Users in Chat:NA Users name(s):
+
+TwitchName:Shenpai, Game:Dark Souls III, Followers:301639, Viewers:847, Date & Time:2021-09-21 22:12:26, Twitch's Users In Chat:811, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:VRChat, Followers:230849, Viewers:2,140, Date & Time:2021-09-21 23:23:29, Twitch's Users In Chat:2491, My Users in Chat:NA Users name(s):
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:64269, Viewers:1,330, Date & Time:2021-09-21 23:24:13, Twitch's Users In Chat:1586, My Users in Chat:NA Users name(s):
+
+TwitchName:SNOWSOS, Game:Just Chatting, Followers:61806, Viewers:93, Date & Time:2021-09-21 23:25:00, Twitch's Users In Chat:107, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:Minecraft, Followers:230846, Viewers:2,498, Date & Time:2021-09-22 00:44:49, Twitch's Users In Chat:2839, My Users in Chat:NA Users name(s):
+
+TwitchName:Lanfear_vr, Game:VRChat, Followers:10353, Viewers:139, Date & Time:2021-09-22 00:46:27, Twitch's Users In Chat:218, My Users in Chat:NA Users name(s):
+
+TwitchName:SNOWSOS, Game:Just Chatting, Followers:61810, Viewers:112, Date & Time:2021-09-22 00:47:39, Twitch's Users In Chat:125, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:Just Chatting, Followers:231030, Viewers:5,764, Date & Time:2021-09-23 00:14:31, Twitch's Users In Chat:5505, My Users in Chat:NA Users name(s):
+
+TwitchName:Oathmeal, Game:Just Chatting, Followers:52832, Viewers:133, Date & Time:2021-09-23 00:29:35, Twitch's Users In Chat:315, My Users in Chat:NA Users name(s):
+
+TwitchName:SNOWSOS, Game:Apex Legends, Followers:61811, Viewers:88, Date & Time:2021-09-23 00:30:02, Twitch's Users In Chat:109, My Users in Chat:NA Users name(s):
+
+TwitchName:Momo, Game:Apex Legends, Followers:226339, Viewers:2,897, Date & Time:2021-09-23 00:30:54, Twitch's Users In Chat:2997, My Users in Chat:NA Users name(s):
+
+TwitchName:artesianbuilds, Game:Just Chatting, Followers:215876, Viewers:888, Date & Time:2021-09-23 00:35:54, Twitch's Users In Chat:946, My Users in Chat:NA Users name(s):
+
+TwitchName:tevin_vr, Game:Apex Legends, Followers:1880, Viewers:8, Date & Time:2021-09-24 22:26:36, Twitch's Users In Chat:39, My Users in Chat:NA Users name(s):
+
+TwitchName:Oathmeal, Game:VRChat, Followers:52828, Viewers:76, Date & Time:2021-09-24 22:27:19, Twitch's Users In Chat:269, My Users in Chat:NA Users name(s):
+
+TwitchName:SNOWSOS, Game:Halo Infinite, Followers:61826, Viewers:85, Date & Time:2021-09-24 22:28:16, Twitch's Users In Chat:103, My Users in Chat:NA Users name(s):
+
+TwitchName:tevin_vr, Game:Cat Goes Fishing, Followers:1894, Viewers:26, Date & Time:2021-09-25 22:04:03, Twitch's Users In Chat:45, My Users in Chat:NA Users name(s):
+
+TwitchName:SNOWSOS, Game:Halo Infinite, Followers:61825, Viewers:85, Date & Time:2021-09-25 22:04:52, Twitch's Users In Chat:97, My Users in Chat:NA Users name(s):
+
+TwitchName:StealthRG, Game:VRChat, Followers:78030, Viewers:278, Date & Time:2021-09-25 22:05:13, Twitch's Users In Chat:244, My Users in Chat:NA Users name(s):
+
+TwitchName:Kareeda, Game:VRChat, Followers:10876, Viewers:47, Date & Time:2021-09-25 22:05:33, Twitch's Users In Chat:84, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:VRChat, Followers:232319, Viewers:1,196, Date & Time:2021-09-26 20:24:00, Twitch's Users In Chat:1602, My Users in Chat:NA Users name(s):
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:64960, Viewers:2,059, Date & Time:2021-09-26 20:24:37, Twitch's Users In Chat:2263, My Users in Chat:NA Users name(s):
+
+TwitchName:Oathmeal, Game:Just Chatting, Followers:52827, Viewers:93, Date & Time:2021-09-26 20:24:57, Twitch's Users In Chat:275, My Users in Chat:NA Users name(s):
+
+TwitchName:tevin_vr, Game:Overwatch, Followers:1892, Viewers:11, Date & Time:2021-09-26 20:25:34, Twitch's Users In Chat:47, My Users in Chat:NA Users name(s):
+
+TwitchName:SHIZU, Game:Tom Clancy's Rainbow Six Siege, Followers:21000, Viewers:47, Date & Time:2021-09-26 20:26:00, Twitch's Users In Chat:104, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:VRChat, Followers:232337, Viewers:2,186, Date & Time:2021-09-26 21:00:28, Twitch's Users In Chat:2495, My Users in Chat:NA Users name(s):
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:64966, Viewers:1,833, Date & Time:2021-09-26 21:00:56, Twitch's Users In Chat:1982, My Users in Chat:NA Users name(s):
+
+TwitchName:Oathmeal, Game:Just Chatting, Followers:52827, Viewers:84, Date & Time:2021-09-26 21:01:21, Twitch's Users In Chat:299, My Users in Chat:NA Users name(s):
+
+TwitchName:tevin_vr, Game:Overwatch, Followers:1892, Viewers:17, Date & Time:2021-09-26 21:01:50, Twitch's Users In Chat:54, My Users in Chat:NA Users name(s):
+
+TwitchName:SHIZU, Game:Tom Clancy's Rainbow Six Siege, Followers:21001, Viewers:53, Date & Time:2021-09-26 21:02:15, Twitch's Users In Chat:112, My Users in Chat:NA Users name(s):
+
+TwitchName:MurderCrumpet, Game:VRChat, Followers:65086, Viewers:1,921, Date & Time:2021-09-28 20:49:11, Twitch's Users In Chat:2041, My Users in Chat:NA Users name(s):
+
+TwitchName:SHIZU, Game:ANVIL: Vault Breakers, Followers:21016, Viewers:25, Date & Time:2021-09-28 20:49:40, Twitch's Users In Chat:99, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:VRChat, Followers:232632, Viewers:2,002, Date & Time:2021-09-28 21:25:34, Twitch's Users In Chat:2220, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:VRChat, Followers:232675, Viewers:2,230, Date & Time:2021-09-29 00:18:14, Twitch's Users In Chat:2593, My Users in Chat:NA Users name(s):
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3121733, Viewers:73,690, Date & Time:2021-09-29 00:18:37, Twitch's Users In Chat:64500, My Users in Chat:NA Users name(s):
+
+TwitchName:SNOWSOS, Game:Dead by Daylight, Followers:61836, Viewers:86, Date & Time:2021-09-29 00:19:11, Twitch's Users In Chat:107, My Users in Chat:NA Users name(s):
+
+TwitchName:SHIZU, Game:Tom Clancy's Rainbow Six Siege, Followers:21020, Viewers:27, Date & Time:2021-09-29 00:20:11, Twitch's Users In Chat:96, My Users in Chat:NA Users name(s):
+
+TwitchName:roflgator, Game:Grand Theft Auto V, Followers:232811, Viewers:3,281, Date & Time:2021-09-29 22:25:13, Twitch's Users In Chat:3511, My Users in Chat:NA Users name(s):
+
+TwitchName:SNOWSOS, Game:Rust, Followers:61837, Viewers:49, Date & Time:2021-09-29 22:25:35, Twitch's Users In Chat:72, My Users in Chat:NA Users name(s):
+
+TwitchName:Lanfear_vr, Game:VRChat, Followers:10539, Viewers:96, Date & Time:2021-09-29 22:28:04, Twitch's Users In Chat:194, My Users in Chat:NA Users name(s):
+
+TwitchName:Kareeda, Game:VRChat, Followers:10896, Viewers:26, Date & Time:2021-09-29 22:29:33, Twitch's Users In Chat:55, My Users in Chat:NA Users name(s):
+
+TwitchName:tevin_vr, Game:VRChat, Followers:1903, Viewers:9, Date & Time:2021-09-29 22:29:57, Twitch's Users In Chat:36, My Users in Chat:NA Users name(s):
+
+TwitchName:Sn0wBreeze, Game:VRChat, Followers:8715, Viewers:48, Date & Time:2021-10-02 16:41:59, Twitch's Users In Chat:163, My Users in Chat:NA Users name(s):
+
+TwitchName:Sn0wBreeze, Game:VRChat, Followers:8713, Viewers:60, Date & Time:2021-10-02 17:01:52, Twitch's Users In Chat:178, My Users in Chat:NA Users name(s):
+
+TwitchName:Kareeda, Game:VRChat, Followers:10911, Viewers:43, Date & Time:2021-10-02 22:12:21, Twitch's Users In Chat:89
+
+TwitchName:tevin_vr, Game:Music, Followers:1911, Viewers:10, Date & Time:2021-10-02 22:49:54, Twitch's Users In Chat:27
+
+TwitchName:tevin_vr, Game:Music, Followers:1911, Viewers:12, Date & Time:2021-10-02 23:29:07, Twitch's Users In Chat:29
+
+TwitchName:SNOWSOS, Game:VRChat, Followers:61844, Viewers:98, Date & Time:2021-10-02 23:33:29, Twitch's Users In Chat:109
+
+TwitchName:SNOWSOS, Game:VRChat, Followers:61846, Viewers:110, Date & Time:2021-10-02 23:38:18, Twitch's Users In Chat:115
+
+TwitchName:Kareeda, Game:VRChat, Followers:10911, Viewers:35, Date & Time:2021-10-02 23:38:51, Twitch's Users In Chat:83
+
+TwitchName:aikasanvr, Game:Dead by Daylight, Followers:4373, Viewers:81, Date & Time:2021-10-02 23:44:51, Twitch's Users In Chat:115
+
+TwitchName:pookiechan, Game:VRChat, Followers:4595, Viewers:17, Date & Time:2021-10-02 23:51:01, Twitch's Users In Chat:29
+
+TwitchName:pookiechan, Game:VRChat, Followers:4596, Viewers:18, Date & Time:2021-10-02 23:54:50, Twitch's Users In Chat:33
+
+TwitchName:snowsos, Game:VRChat, Followers:61847, Viewers:99, Date & Time:2021-10-03 00:23:14, Twitch's Users In Chat:119
+
+TwitchName:Kareeda, Game:VRChat, Followers:10912, Viewers:35, Date & Time:2021-10-03 00:23:48, Twitch's Users In Chat:82
+
+TwitchName:aikasanvr, Game:Dead by Daylight, Followers:4375, Viewers:127, Date & Time:2021-10-03 00:24:02, Twitch's Users In Chat:152
+
+TwitchName:snowsos, Game:VRChat, Followers:61851, Viewers:131, Date & Time:2021-10-03 01:22:09, Twitch's Users In Chat:149
+
+TwitchName:Kareeda, Game:VRChat, Followers:10912, Viewers:27, Date & Time:2021-10-03 01:22:50, Twitch's Users In Chat:73
+
+TwitchName:Kareeda, Game:VRChat, Followers:10912, Viewers:26, Date & Time:2021-10-03 01:25:26, Twitch's Users In Chat:74
+
+TwitchName:aikasanvr, Game:Dead by Daylight, Followers:4378, Viewers:152, Date & Time:2021-10-03 01:25:45, Twitch's Users In Chat:175
+
+TwitchName:snowsos, Game:VRChat, Followers:61851, Viewers:131, Date & Time:2021-10-03 01:28:15, Twitch's Users In Chat:157
+
+TwitchName:Kareeda, Game:VRChat, Followers:10912, Viewers:26, Date & Time:2021-10-03 01:29:14, Twitch's Users In Chat:75
+
+TwitchName:aikasanvr, Game:Dead by Daylight, Followers:4378, Viewers:148, Date & Time:2021-10-03 01:29:29, Twitch's Users In Chat:175
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3129323, Viewers:3,257, Date & Time:2021-10-03 14:29:31, Twitch's Users In Chat:3988
+
+TwitchName:momo, Game:Dungeons & Dragons, Followers:227902, Viewers:1,373, Date & Time:2021-10-03 14:31:51, Twitch's Users In Chat:1507
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3129456, Viewers:22,692, Date & Time:2021-10-03 15:04:05, Twitch's Users In Chat:20560
+
+TwitchName:momo, Game:Dungeons & Dragons, Followers:227905, Viewers:1,432, Date & Time:2021-10-03 15:06:17, Twitch's Users In Chat:1569
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3129552, Viewers:26,066, Date & Time:2021-10-03 15:27:39, Twitch's Users In Chat:24127
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65235, Viewers:1,026, Date & Time:2021-10-03 16:13:27, Twitch's Users In Chat:1221
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65235, Viewers:1,008, Date & Time:2021-10-03 16:14:17, Twitch's Users In Chat:1233
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65236, Viewers:1,026, Date & Time:2021-10-03 16:15:22, Twitch's Users In Chat:1233
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65236, Viewers:1,061, Date & Time:2021-10-03 16:17:11, Twitch's Users In Chat:1294
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65243, Viewers:1,323, Date & Time:2021-10-03 16:46:05, Twitch's Users In Chat:1520
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3129849, Viewers:33,738, Date & Time:2021-10-03 16:46:25, Twitch's Users In Chat:30479
+
+TwitchName:momo, Game:Dungeons & Dragons, Followers:227924, Viewers:1,282, Date & Time:2021-10-03 16:48:08, Twitch's Users In Chat:1414
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65243, Viewers:1,432, Date & Time:2021-10-03 17:26:51, Twitch's Users In Chat:1651
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3130026, Viewers:38,154, Date & Time:2021-10-03 17:27:29, Twitch's Users In Chat:34600
+
+TwitchName:momo, Game:Dungeons & Dragons, Followers:227921, Viewers:1,356, Date & Time:2021-10-03 17:31:03, Twitch's Users In Chat:1428
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65248, Viewers:1,575, Date & Time CDT:2021-10-03 17:51:32, Twitch's Users In Chat:1724
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3130109, Viewers:38,781, Date & Time CDT:2021-10-03 17:52:10, Twitch's Users In Chat:34192
+
+TwitchName:momo, Game:Dungeons & Dragons, Followers:227923, Viewers:1,342, Date & Time CDT:2021-10-03 17:55:34, Twitch's Users In Chat:1449
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65249, Viewers:1,762, Date & Time CDT:2021-10-03 18:37:42, Twitch's Users In Chat:1911
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65249, Viewers:1,736, Date & Time CDT:2021-10-03 18:51:28, Twitch's Users In Chat:1845
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3130403, Viewers:40,167, Date & Time CDT:2021-10-03 18:52:08, Twitch's Users In Chat:36160
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65249, Viewers:1,713, Date & Time CDT:2021-10-03 18:54:13, Twitch's Users In Chat:1841
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65249, Viewers:1,726, Date & Time CDT:2021-10-03 18:55:42, Twitch's Users In Chat:1841
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65249, Viewers:1,714, Date & Time CDT:2021-10-03 18:56:52, Twitch's Users In Chat:1847
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3130433, Viewers:40,052, Date & Time CDT:2021-10-03 18:57:30, Twitch's Users In Chat:35898
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65249, Viewers:1,717, Date & Time CDT:2021-10-03 18:57:58, Twitch's Users In Chat:1806
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65249, Viewers:1,717, Date & Time CDT:2021-10-03 18:59:25, Twitch's Users In Chat:1886
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3130450, Viewers:39,313, Date & Time CDT:2021-10-03 19:00:04, Twitch's Users In Chat:36022
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65249, Viewers:1,710, Date & Time CDT:2021-10-03 19:02:13, Twitch's Users In Chat:1872
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3130459, Viewers:39,126, Date & Time CDT:2021-10-03 19:02:55, Twitch's Users In Chat:35830
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65250, Viewers:1,750, Date & Time CDT:2021-10-03 19:04:47, Twitch's Users In Chat:1844
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3130473, Viewers:38,968, Date & Time CDT:2021-10-03 19:05:27, Twitch's Users In Chat:35662
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65252, Viewers:1,669, Date & Time CDT:2021-10-03 19:18:32, Twitch's Users In Chat:1893
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3130532, Viewers:38,841, Date & Time CDT:2021-10-03 19:19:11, Twitch's Users In Chat:34490
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65253, Viewers:1,735, Date & Time CDT:2021-10-03 19:35:48, Twitch's Users In Chat:1905
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3130649, Viewers:43,135, Date & Time CDT:2021-10-03 19:36:27, Twitch's Users In Chat:37255
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65260, Viewers:1,775, Date & Time CDT:2021-10-03 20:00:56, Twitch's Users In Chat:1922
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3130745, Viewers:40,139, Date & Time CDT:2021-10-03 20:01:35, Twitch's Users In Chat:36176
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65264, Viewers:1,783, Date & Time CDT:2021-10-03 20:35:47, Twitch's Users In Chat:1925
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3130904, Viewers:40,754, Date & Time CDT:2021-10-03 20:36:24, Twitch's Users In Chat:36495
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65269, Viewers:1,835, Date & Time CDT:2021-10-03 21:00:52, Twitch's Users In Chat:1985
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3131016, Viewers:40,634, Date & Time CDT:2021-10-03 21:01:31, Twitch's Users In Chat:36351
+
+TwitchName:roflgator, Game:VRChat, Followers:233075, Viewers:283, Date & Time CDT:2021-10-03 21:03:23, Twitch's Users In Chat:847
+
+TwitchName:shizu, Game:Apex Legends, Followers:21037, Viewers:54, Date & Time CDT:2021-10-03 21:05:24, Twitch's Users In Chat:119
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3131092, Viewers:37,474, Date & Time CDT:2021-10-03 21:21:25, Twitch's Users In Chat:33530
+
+TwitchName:roflgator, Game:VRChat, Followers:233087, Viewers:2,802, Date & Time CDT:2021-10-03 21:23:10, Twitch's Users In Chat:3085
+
+TwitchName:shizu, Game:Apex Legends, Followers:21037, Viewers:35, Date & Time CDT:2021-10-03 21:24:57, Twitch's Users In Chat:127
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3131171, Viewers:36,757, Date & Time CDT:2021-10-03 21:41:28, Twitch's Users In Chat:32695
+
+TwitchName:roflgator, Game:VRChat, Followers:233096, Viewers:3,082, Date & Time CDT:2021-10-03 21:43:16, Twitch's Users In Chat:3222
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3131254, Viewers:25,806, Date & Time CDT:2021-10-03 22:01:33, Twitch's Users In Chat:29107
+
+TwitchName:roflgator, Game:VRChat, Followers:233103, Viewers:3,729, Date & Time CDT:2021-10-03 22:03:21, Twitch's Users In Chat:3445
+
+TwitchName:roflgator, Game:VRChat, Followers:233121, Viewers:3,728, Date & Time CDT:2021-10-03 22:33:10, Twitch's Users In Chat:3805
+
+TwitchName:snowsos, Game:Just Chatting, Followers:61854, Viewers:44, Date & Time CDT:2021-10-03 23:02:11, Twitch's Users In Chat:48
+
+TwitchName:snowsos, Game:Just Chatting, Followers:61854, Viewers:113, Date & Time CDT:2021-10-03 23:41:55, Twitch's Users In Chat:114
+
+TwitchName:roflgator, Game:SCARY TALES VOL 1, Followers:233142, Viewers:3,412, Date & Time CDT:2021-10-03 23:43:06, Twitch's Users In Chat:3478
+
+TwitchName:snowsos, Game:Just Chatting, Followers:61850, Viewers:108, Date & Time CDT:2021-10-04 01:01:57, Twitch's Users In Chat:116
+
+TwitchName:snowsos, Game:Just Chatting, Followers:61852, Viewers:108, Date & Time CDT:2021-10-04 01:22:03, Twitch's Users In Chat:117
+
+TwitchName:roflgator, Game:Just Chatting, Followers:233163, Viewers:2,921, Date & Time CDT:2021-10-04 01:23:13, Twitch's Users In Chat:3035
+
+TwitchName:snowsos, Game:Just Chatting, Followers:61852, Viewers:107, Date & Time CDT:2021-10-04 01:42:03, Twitch's Users In Chat:121
+
+TwitchName:roflgator, Game:Just Chatting, Followers:233168, Viewers:2,878, Date & Time CDT:2021-10-04 01:43:12, Twitch's Users In Chat:2941
+
+TwitchName:roflgator, Game:Just Chatting, Followers:233170, Viewers:2,760, Date & Time CDT:2021-10-04 02:03:14, Twitch's Users In Chat:2890
+
+TwitchName:Kareeda, Game:VRChat, Followers:10916, Viewers:11, Date & Time CDT:2021-10-04 02:03:57, Twitch's Users In Chat:31
+
+TwitchName:roflgator, Game:Just Chatting, Followers:233175, Viewers:2,682, Date & Time CDT:2021-10-04 02:23:00, Twitch's Users In Chat:2736
+
+TwitchName:Kareeda, Game:VRChat, Followers:10916, Viewers:13, Date & Time CDT:2021-10-04 02:23:40, Twitch's Users In Chat:28
+
+TwitchName:roflgator, Game:VRChat, Followers:233182, Viewers:2,613, Date & Time CDT:2021-10-04 02:43:12, Twitch's Users In Chat:2636
+
+TwitchName:Kareeda, Game:VRChat, Followers:10916, Viewers:16, Date & Time CDT:2021-10-04 02:43:53, Twitch's Users In Chat:38
+
+TwitchName:roflgator, Game:VRChat, Followers:233184, Viewers:2,848, Date & Time CDT:2021-10-04 03:03:05, Twitch's Users In Chat:2668
+
+TwitchName:Kareeda, Game:VRChat, Followers:10916, Viewers:16, Date & Time CDT:2021-10-04 03:03:47, Twitch's Users In Chat:45
+
+TwitchName:roflgator, Game:VRChat, Followers:233276, Viewers:5,996, Date & Time CDT:2021-10-04 03:23:16, Twitch's Users In Chat:6338
+
+TwitchName:Kareeda, Game:VRChat, Followers:10916, Viewers:15, Date & Time CDT:2021-10-04 03:23:57, Twitch's Users In Chat:43
+
+TwitchName:roflgator, Game:VRChat, Followers:233293, Viewers:5,683, Date & Time CDT:2021-10-04 03:43:09, Twitch's Users In Chat:5856
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65307, Viewers:1,634, Date & Time CDT:2021-10-04 16:40:53, Twitch's Users In Chat:1737
+
+TwitchName:shizu, Game:New World, Followers:21035, Viewers:30, Date & Time CDT:2021-10-04 16:45:05, Twitch's Users In Chat:110
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65308, Viewers:1,685, Date & Time CDT:2021-10-04 17:01:35, Twitch's Users In Chat:1797
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65311, Viewers:1,791, Date & Time CDT:2021-10-04 17:20:59, Twitch's Users In Chat:1891
+
+TwitchName:shizu, Game:New World, Followers:21034, Viewers:42, Date & Time CDT:2021-10-04 17:25:02, Twitch's Users In Chat:131
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65318, Viewers:1,794, Date & Time CDT:2021-10-04 17:40:53, Twitch's Users In Chat:1969
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3131454, Viewers:1,427, Date & Time CDT:2021-10-04 17:41:32, Twitch's Users In Chat:3264
+
+TwitchName:shizu, Game:Goose Goose Duck, Followers:21034, Viewers:33, Date & Time CDT:2021-10-04 17:45:17, Twitch's Users In Chat:122
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65322, Viewers:1,850, Date & Time CDT:2021-10-04 18:01:07, Twitch's Users In Chat:1992
+
+TwitchName:murdercrumpet, Game:Jump King, Followers:65324, Viewers:1,529, Date & Time CDT:2021-10-04 18:20:45, Twitch's Users In Chat:1762
+
+TwitchName:sodapoppin, Game:New World, Followers:3131527, Viewers:17,906, Date & Time CDT:2021-10-04 18:21:18, Twitch's Users In Chat:16962
+
+TwitchName:murdercrumpet, Game:Jump King, Followers:65324, Viewers:1,364, Date & Time CDT:2021-10-04 18:40:47, Twitch's Users In Chat:1591
+
+TwitchName:sodapoppin, Game:New World, Followers:3131557, Viewers:19,738, Date & Time CDT:2021-10-04 18:41:25, Twitch's Users In Chat:18956
+
+TwitchName:shizu, Game:Goose Goose Duck, Followers:21034, Viewers:29, Date & Time CDT:2021-10-04 18:44:52, Twitch's Users In Chat:118
+
+TwitchName:murdercrumpet, Game:Jump King, Followers:65327, Viewers:1,335, Date & Time CDT:2021-10-04 19:00:49, Twitch's Users In Chat:1538
+
+TwitchName:sodapoppin, Game:New World, Followers:3131609, Viewers:22,637, Date & Time CDT:2021-10-04 19:01:28, Twitch's Users In Chat:20735
+
+TwitchName:shizu, Game:Hell Let Loose, Followers:21034, Viewers:25, Date & Time CDT:2021-10-04 19:04:57, Twitch's Users In Chat:122
+
+TwitchName:murdercrumpet, Game:Jump King, Followers:65329, Viewers:1,295, Date & Time CDT:2021-10-04 19:21:06, Twitch's Users In Chat:1528
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3131658, Viewers:23,129, Date & Time CDT:2021-10-04 19:21:43, Twitch's Users In Chat:21710
+
+TwitchName:shizu, Game:Hell Let Loose, Followers:21035, Viewers:33, Date & Time CDT:2021-10-04 19:25:15, Twitch's Users In Chat:126
+
+TwitchName:murdercrumpet, Game:Jump King, Followers:65329, Viewers:1,303, Date & Time CDT:2021-10-04 19:40:52, Twitch's Users In Chat:1518
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3131718, Viewers:25,686, Date & Time CDT:2021-10-04 19:41:31, Twitch's Users In Chat:23973
+
+TwitchName:shizu, Game:Hell Let Loose, Followers:21035, Viewers:38, Date & Time CDT:2021-10-04 19:45:06, Twitch's Users In Chat:129
+
+TwitchName:murdercrumpet, Game:Jump King, Followers:65326, Viewers:1,279, Date & Time CDT:2021-10-04 20:03:02, Twitch's Users In Chat:1443
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3131753, Viewers:24,914, Date & Time CDT:2021-10-04 20:03:40, Twitch's Users In Chat:23587
+
+TwitchName:sodapoppin, Game:If On A Winter's Night, Four Travelers, Followers:3131954, Viewers:16,723, Date & Time CDT:2021-10-04 22:03:22, Twitch's Users In Chat:16460
+
+TwitchName:roflgator, Game:VRChat, Followers:233372, Viewers:2,523, Date & Time CDT:2021-10-04 22:05:10, Twitch's Users In Chat:2866
+
+TwitchName:Kareeda, Game:VRChat, Followers:10915, Viewers:30, Date & Time CDT:2021-10-04 22:05:52, Twitch's Users In Chat:60
+
+TwitchName:shizu, Game:Just Chatting, Followers:21037, Viewers:41, Date & Time CDT:2021-10-04 22:07:06, Twitch's Users In Chat:126
+
+TwitchName:sodapoppin, Game:If On A Winter's Night, Four Travelers, Followers:3131975, Viewers:16,536, Date & Time CDT:2021-10-04 22:21:32, Twitch's Users In Chat:16429
+
+TwitchName:snowsos, Game:Apex Legends, Followers:61856, Viewers:59, Date & Time CDT:2021-10-04 22:22:11, Twitch's Users In Chat:65
+
+TwitchName:sodapoppin, Game:New World, Followers:3132062, Viewers:20,811, Date & Time CDT:2021-10-04 23:01:21, Twitch's Users In Chat:19118
+
+TwitchName:snowsos, Game:Apex Legends, Followers:61858, Viewers:70, Date & Time CDT:2021-10-04 23:01:58, Twitch's Users In Chat:94
+
+TwitchName:roflgator, Game:VRChat, Followers:233381, Viewers:2,544, Date & Time CDT:2021-10-04 23:03:07, Twitch's Users In Chat:2818
+
+TwitchName:Kareeda, Game:VRChat, Followers:10915, Viewers:28, Date & Time CDT:2021-10-04 23:03:47, Twitch's Users In Chat:55
+
+TwitchName:sodapoppin, Game:New World, Followers:3132168, Viewers:20,609, Date & Time CDT:2021-10-04 23:36:13, Twitch's Users In Chat:18341
+
+TwitchName:sodapoppin, Game:New World, Followers:3132193, Viewers:20,456, Date & Time CDT:2021-10-04 23:47:02, Twitch's Users In Chat:18183
+
+TwitchName:snowsos, Game:Apex Legends, Followers:61859, Viewers:75, Date & Time CDT:2021-10-04 23:47:40, Twitch's Users In Chat:102
+
+TwitchName:sodapoppin, Game:New World, Followers:3132370, Viewers:20,599, Date & Time CDT:2021-10-05 01:01:27, Twitch's Users In Chat:18677
+
+TwitchName:snowsos, Game:Apex Legends, Followers:61860, Viewers:66, Date & Time CDT:2021-10-05 01:02:05, Twitch's Users In Chat:92
+
+TwitchName:roflgator, Game:Nickelodeon All-Star Brawl, Followers:233387, Viewers:2,824, Date & Time CDT:2021-10-05 01:03:15, Twitch's Users In Chat:2763
+
+TwitchName:Kareeda, Game:VRChat, Followers:10915, Viewers:35, Date & Time CDT:2021-10-05 01:03:57, Twitch's Users In Chat:50
+
+TwitchName:sodapoppin, Game:New World, Followers:3132495, Viewers:20,538, Date & Time CDT:2021-10-05 01:41:25, Twitch's Users In Chat:18567
+
+TwitchName:snowsos, Game:Apex Legends, Followers:61861, Viewers:68, Date & Time CDT:2021-10-05 01:42:04, Twitch's Users In Chat:96
+
+TwitchName:roflgator, Game:Nickelodeon All-Star Brawl, Followers:233394, Viewers:2,443, Date & Time CDT:2021-10-05 01:43:15, Twitch's Users In Chat:2552
+
+TwitchName:Kareeda, Game:New World, Followers:10915, Viewers:24, Date & Time CDT:2021-10-05 01:43:56, Twitch's Users In Chat:42
+
+TwitchName:sodapoppin, Game:New World, Followers:3132571, Viewers:21,098, Date & Time CDT:2021-10-05 02:01:35, Twitch's Users In Chat:18508
+
+TwitchName:snowsos, Game:Apex Legends, Followers:61861, Viewers:70, Date & Time CDT:2021-10-05 02:02:13, Twitch's Users In Chat:90
+
+TwitchName:roflgator, Game:Nickelodeon All-Star Brawl, Followers:233393, Viewers:2,580, Date & Time CDT:2021-10-05 02:03:26, Twitch's Users In Chat:2586
+
+TwitchName:sodapoppin, Game:New World, Followers:3132692, Viewers:22,866, Date & Time CDT:2021-10-05 02:41:25, Twitch's Users In Chat:20610
+
+TwitchName:roflgator, Game:Nickelodeon All-Star Brawl, Followers:233398, Viewers:2,309, Date & Time CDT:2021-10-05 02:43:12, Twitch's Users In Chat:2433
+
+TwitchName:Kareeda, Game:New World, Followers:10916, Viewers:45, Date & Time CDT:2021-10-05 02:43:56, Twitch's Users In Chat:76
+
+TwitchName:aikasanvr, Game:Pistol Whip, Followers:4401, Viewers:59, Date & Time CDT:2021-10-05 02:44:30, Twitch's Users In Chat:117
+
+TwitchName:sodapoppin, Game:New World, Followers:3132745, Viewers:23,702, Date & Time CDT:2021-10-05 03:01:26, Twitch's Users In Chat:21259
+
+TwitchName:roflgator, Game:Nickelodeon All-Star Brawl, Followers:233401, Viewers:2,203, Date & Time CDT:2021-10-05 03:03:21, Twitch's Users In Chat:2268
+
+TwitchName:sodapoppin, Game:New World, Followers:3132806, Viewers:23,790, Date & Time CDT:2021-10-05 03:21:22, Twitch's Users In Chat:21303
+
+TwitchName:roflgator, Game:Nickelodeon All-Star Brawl, Followers:233401, Viewers:2,153, Date & Time CDT:2021-10-05 03:23:10, Twitch's Users In Chat:2283
+
+TwitchName:Kareeda, Game:New World, Followers:10916, Viewers:46, Date & Time CDT:2021-10-05 03:23:49, Twitch's Users In Chat:67
+
+TwitchName:sodapoppin, Game:New World, Followers:3132876, Viewers:24,624, Date & Time CDT:2021-10-05 03:41:34, Twitch's Users In Chat:22194
+
+TwitchName:roflgator, Game:Nickelodeon All-Star Brawl, Followers:233407, Viewers:2,155, Date & Time CDT:2021-10-05 03:43:17, Twitch's Users In Chat:2286
+
+TwitchName:sodapoppin, Game:New World, Followers:3132992, Viewers:29,229, Date & Time CDT:2021-10-05 04:01:25, Twitch's Users In Chat:24397
+
+TwitchName:Kareeda, Game:New World, Followers:10916, Viewers:40, Date & Time CDT:2021-10-05 04:03:49, Twitch's Users In Chat:65
+
+TwitchName:aikasanvr, Game:Dead by Daylight, Followers:4401, Viewers:84, Date & Time CDT:2021-10-05 04:04:24, Twitch's Users In Chat:120
+
+TwitchName:sodapoppin, Game:New World, Followers:3133058, Viewers:28,855, Date & Time CDT:2021-10-05 04:21:36, Twitch's Users In Chat:24394
+
+TwitchName:aikasanvr, Game:Dead by Daylight, Followers:4401, Viewers:87, Date & Time CDT:2021-10-05 04:24:26, Twitch's Users In Chat:125
+
+TwitchName:sodapoppin, Game:New World, Followers:3133134, Viewers:28,212, Date & Time CDT:2021-10-05 04:41:32, Twitch's Users In Chat:24154
+
+TwitchName:aikasanvr, Game:Heroes of the Storm, Followers:4401, Viewers:83, Date & Time CDT:2021-10-05 04:44:28, Twitch's Users In Chat:117
+
+TwitchName:sodapoppin, Game:New World, Followers:3133188, Viewers:27,725, Date & Time CDT:2021-10-05 05:01:32, Twitch's Users In Chat:24302
+
+TwitchName:aikasanvr, Game:Heroes of the Storm, Followers:4400, Viewers:83, Date & Time CDT:2021-10-05 05:04:25, Twitch's Users In Chat:120
+
+TwitchName:sodapoppin, Game:New World, Followers:3133243, Viewers:28,016, Date & Time CDT:2021-10-05 05:21:23, Twitch's Users In Chat:24141
+
+TwitchName:aikasanvr, Game:Heroes of the Storm, Followers:4400, Viewers:69, Date & Time CDT:2021-10-05 05:24:11, Twitch's Users In Chat:111
+
+TwitchName:sodapoppin, Game:New World, Followers:3133296, Viewers:27,918, Date & Time CDT:2021-10-05 05:41:21, Twitch's Users In Chat:24690
+
+TwitchName:aikasanvr, Game:Heroes of the Storm, Followers:4400, Viewers:76, Date & Time CDT:2021-10-05 05:44:07, Twitch's Users In Chat:114
+
+TwitchName:sodapoppin, Game:New World, Followers:3133352, Viewers:27,042, Date & Time CDT:2021-10-05 06:01:33, Twitch's Users In Chat:24033
+
+TwitchName:aikasanvr, Game:Heroes of the Storm, Followers:4400, Viewers:75, Date & Time CDT:2021-10-05 06:04:23, Twitch's Users In Chat:113
+
+TwitchName:aikasanvr, Game:Heroes of the Storm, Followers:4400, Viewers:77, Date & Time CDT:2021-10-05 06:24:07, Twitch's Users In Chat:111
+
+TwitchName:aikasanvr, Game:Heroes of the Storm, Followers:4400, Viewers:83, Date & Time CDT:2021-10-05 06:44:09, Twitch's Users In Chat:115
+
+TwitchName:shizu, Game:Visage, Followers:21036, Viewers:15, Date & Time CDT:2021-10-05 15:45:02, Twitch's Users In Chat:90
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65335, Viewers:1,299, Date & Time CDT:2021-10-05 16:50:52, Twitch's Users In Chat:1532
+
+TwitchName:shizu, Game:Visage, Followers:21037, Viewers:17, Date & Time CDT:2021-10-05 16:54:57, Twitch's Users In Chat:92
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65336, Viewers:1,398, Date & Time CDT:2021-10-05 17:50:52, Twitch's Users In Chat:1625
+
+TwitchName:sodapoppin, Game:New World, Followers:3133554, Viewers:6,684, Date & Time CDT:2021-10-05 17:51:29, Twitch's Users In Chat:8951
+
+TwitchName:shizu, Game:Hell Let Loose, Followers:21038, Viewers:20, Date & Time CDT:2021-10-05 17:54:57, Twitch's Users In Chat:100
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65337, Viewers:1,418, Date & Time CDT:2021-10-05 18:00:51, Twitch's Users In Chat:1624
+
+TwitchName:sodapoppin, Game:New World, Followers:3133579, Viewers:9,918, Date & Time CDT:2021-10-05 18:01:30, Twitch's Users In Chat:10979
+
+TwitchName:shizu, Game:Hell Let Loose, Followers:21038, Viewers:18, Date & Time CDT:2021-10-05 18:05:10, Twitch's Users In Chat:109
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65337, Viewers:1,407, Date & Time CDT:2021-10-05 18:20:56, Twitch's Users In Chat:1640
+
+TwitchName:sodapoppin, Game:New World, Followers:3133600, Viewers:12,455, Date & Time CDT:2021-10-05 18:21:35, Twitch's Users In Chat:12987
+
+TwitchName:shizu, Game:Hell Let Loose, Followers:21040, Viewers:31, Date & Time CDT:2021-10-05 18:25:05, Twitch's Users In Chat:107
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65336, Viewers:1,598, Date & Time CDT:2021-10-05 18:40:50, Twitch's Users In Chat:1735
+
+TwitchName:sodapoppin, Game:New World, Followers:3133631, Viewers:13,614, Date & Time CDT:2021-10-05 18:41:29, Twitch's Users In Chat:14619
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65336, Viewers:1,682, Date & Time CDT:2021-10-05 19:00:53, Twitch's Users In Chat:1769
+
+TwitchName:sodapoppin, Game:New World, Followers:3133674, Viewers:15,658, Date & Time CDT:2021-10-05 19:01:33, Twitch's Users In Chat:15653
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65338, Viewers:1,610, Date & Time CDT:2021-10-05 19:20:52, Twitch's Users In Chat:1816
+
+TwitchName:sodapoppin, Game:New World, Followers:3133719, Viewers:17,161, Date & Time CDT:2021-10-05 19:21:32, Twitch's Users In Chat:15873
+
+TwitchName:shizu, Game:Hell Let Loose, Followers:21047, Viewers:67, Date & Time CDT:2021-10-05 19:25:14, Twitch's Users In Chat:166
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65338, Viewers:1,718, Date & Time CDT:2021-10-05 19:40:56, Twitch's Users In Chat:1824
+
+TwitchName:sodapoppin, Game:New World, Followers:3133770, Viewers:17,258, Date & Time CDT:2021-10-05 19:41:35, Twitch's Users In Chat:16348
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65342, Viewers:1,677, Date & Time CDT:2021-10-05 20:00:50, Twitch's Users In Chat:1832
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65346, Viewers:1,668, Date & Time CDT:2021-10-05 20:20:53, Twitch's Users In Chat:1833
+
+TwitchName:sodapoppin, Game:New World, Followers:3133837, Viewers:19,059, Date & Time CDT:2021-10-05 20:21:32, Twitch's Users In Chat:17090
+
+TwitchName:shizu, Game:Tom Clancy's Rainbow Six Siege, Followers:21050, Viewers:51, Date & Time CDT:2021-10-05 20:24:42, Twitch's Users In Chat:146
+
+TwitchName:momo, Game:Vampire: The Masquerade - Bloodhunt, Followers:228053, Viewers:2,425, Date & Time CDT:2021-10-05 20:25:25, Twitch's Users In Chat:2395
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65351, Viewers:1,780, Date & Time CDT:2021-10-05 20:40:43, Twitch's Users In Chat:1873
+
+TwitchName:sodapoppin, Game:New World, Followers:3133876, Viewers:19,752, Date & Time CDT:2021-10-05 20:41:23, Twitch's Users In Chat:17612
+
+TwitchName:shizu, Game:Tom Clancy's Rainbow Six Siege, Followers:21049, Viewers:46, Date & Time CDT:2021-10-05 20:44:47, Twitch's Users In Chat:142
+
+TwitchName:momo, Game:Vampire: The Masquerade - Bloodhunt, Followers:228066, Viewers:2,408, Date & Time CDT:2021-10-05 20:45:20, Twitch's Users In Chat:2405
+
+TwitchName:murdercrumpet, Game:VRChat, Followers:65347, Viewers:1,747, Date & Time CDT:2021-10-05 21:00:55, Twitch's Users In Chat:1926
+
+TwitchName:sodapoppin, Game:New World, Followers:3133941, Viewers:9,398, Date & Time CDT:2021-10-05 21:21:26, Twitch's Users In Chat:14220
+
+TwitchName:roflgator, Game:VRChat, Followers:233423, Viewers:1,786, Date & Time CDT:2021-10-05 21:23:11, Twitch's Users In Chat:2182
+
+TwitchName:shizu, Game:Tom Clancy's Rainbow Six Siege, Followers:21048, Viewers:47, Date & Time CDT:2021-10-05 21:25:08, Twitch's Users In Chat:126
+
+TwitchName:momo, Game:Vampire: The Masquerade - Bloodhunt, Followers:228082, Viewers:2,390, Date & Time CDT:2021-10-05 21:25:53, Twitch's Users In Chat:2298
+
+TwitchName:sodapoppin, Game:New World, Followers:3133979, Viewers:10,386, Date & Time CDT:2021-10-05 21:41:29, Twitch's Users In Chat:13977
+
+TwitchName:sodapoppin, Game:New World, Followers:3134010, Viewers:11,633, Date & Time CDT:2021-10-05 22:01:31, Twitch's Users In Chat:14178
+
+TwitchName:roflgator, Game:VRChat, Followers:233429, Viewers:2,395, Date & Time CDT:2021-10-05 22:03:16, Twitch's Users In Chat:2660
+
+TwitchName:sodapoppin, Game:New World, Followers:3134057, Viewers:12,569, Date & Time CDT:2021-10-05 22:21:42, Twitch's Users In Chat:14489
+
+TwitchName:roflgator, Game:VRChat, Followers:233431, Viewers:2,461, Date & Time CDT:2021-10-05 22:23:26, Twitch's Users In Chat:2750
+
+TwitchName:momo, Game:New World, Followers:228190, Viewers:2,461, Date & Time CDT:2021-10-05 22:25:52, Twitch's Users In Chat:2484
+
+TwitchName:sodapoppin, Game:New World, Followers:3134078, Viewers:12,537, Date & Time CDT:2021-10-05 22:41:27, Twitch's Users In Chat:14758
+
+TwitchName:snowsos, Game:Just Chatting, Followers:61863, Viewers:61, Date & Time CDT:2021-10-05 22:42:04, Twitch's Users In Chat:78
+
+TwitchName:roflgator, Game:VRChat, Followers:233440, Viewers:2,692, Date & Time CDT:2021-10-05 22:43:14, Twitch's Users In Chat:2916
+
+TwitchName:momo, Game:New World, Followers:228190, Viewers:2,358, Date & Time CDT:2021-10-05 22:45:47, Twitch's Users In Chat:2390
+
+TwitchName:sodapoppin, Game:New World, Followers:3134112, Viewers:12,769, Date & Time CDT:2021-10-05 23:01:28, Twitch's Users In Chat:14207
+
+TwitchName:snowsos, Game:Just Chatting, Followers:61862, Viewers:77, Date & Time CDT:2021-10-05 23:02:06, Twitch's Users In Chat:97
+
+TwitchName:roflgator, Game:VRChat, Followers:233442, Viewers:2,737, Date & Time CDT:2021-10-05 23:03:18, Twitch's Users In Chat:2924
+
+TwitchName:momo, Game:New World, Followers:228199, Viewers:2,324, Date & Time CDT:2021-10-05 23:05:51, Twitch's Users In Chat:2359
+
+TwitchName:sodapoppin, Game:New World, Followers:3134164, Viewers:13,992, Date & Time CDT:2021-10-05 23:21:22, Twitch's Users In Chat:14793
+
+TwitchName:snowsos, Game:Just Chatting, Followers:61862, Viewers:99, Date & Time CDT:2021-10-05 23:22:02, Twitch's Users In Chat:110
+
+TwitchName:roflgator, Game:VRChat, Followers:233449, Viewers:2,698, Date & Time CDT:2021-10-05 23:23:14, Twitch's Users In Chat:2959
+
+TwitchName:momo, Game:New World, Followers:228203, Viewers:2,257, Date & Time CDT:2021-10-05 23:25:36, Twitch's Users In Chat:2260
+
+TwitchName:sodapoppin, Game:New World, Followers:3134205, Viewers:13,833, Date & Time CDT:2021-10-05 23:41:26, Twitch's Users In Chat:14898
+
+TwitchName:snowsos, Game:Just Chatting, Followers:61862, Viewers:105, Date & Time CDT:2021-10-05 23:42:04, Twitch's Users In Chat:111
+
+TwitchName:roflgator, Game:VRChat, Followers:233451, Viewers:2,664, Date & Time CDT:2021-10-05 23:43:14, Twitch's Users In Chat:2968
+
+TwitchName:momo, Game:New World, Followers:228206, Viewers:2,281, Date & Time CDT:2021-10-05 23:45:36, Twitch's Users In Chat:2266
+
+TwitchName:sodapoppin, Game:New World, Followers:3134324, Viewers:14,068, Date & Time CDT:2021-10-06 01:01:41, Twitch's Users In Chat:14536
+
+TwitchName:snowsos, Game:Just Chatting, Followers:61859, Viewers:107, Date & Time CDT:2021-10-06 01:02:21, Twitch's Users In Chat:117
+
+TwitchName:roflgator, Game:VRChat, Followers:233504, Viewers:2,960, Date & Time CDT:2021-10-06 01:03:32, Twitch's Users In Chat:2885
+
+TwitchName:momo, Game:New World, Followers:228227, Viewers:2,340, Date & Time CDT:2021-10-06 01:06:02, Twitch's Users In Chat:2285
+
+TwitchName:sodapoppin, Game:New World, Followers:3134344, Viewers:13,703, Date & Time CDT:2021-10-06 01:21:28, Twitch's Users In Chat:13871
+
+TwitchName:snowsos, Game:Just Chatting, Followers:61860, Viewers:107, Date & Time CDT:2021-10-06 01:22:06, Twitch's Users In Chat:119
+
+TwitchName:roflgator, Game:VRChat, Followers:233515, Viewers:2,357, Date & Time CDT:2021-10-06 01:23:19, Twitch's Users In Chat:2605
+
+TwitchName:momo, Game:New World, Followers:228233, Viewers:2,288, Date & Time CDT:2021-10-06 01:25:49, Twitch's Users In Chat:2247
+
+TwitchName:sodapoppin, Game:New World, Followers:3134366, Viewers:13,285, Date & Time CDT:2021-10-06 01:41:26, Twitch's Users In Chat:13873
+
+TwitchName:snowsos, Game:Just Chatting, Followers:61861, Viewers:108, Date & Time CDT:2021-10-06 01:42:06, Twitch's Users In Chat:116
+
+TwitchName:snowsos, Game:Battlefield 2042, Followers:61863, Viewers:105, Date & Time CDT:2021-10-06 02:02:09, Twitch's Users In Chat:120
+
+TwitchName:roflgator, Game:Minecraft, Followers:233519, Viewers:2,121, Date & Time CDT:2021-10-06 02:03:22, Twitch's Users In Chat:2349
+
+TwitchName:snowsos, Game:Battlefield 2042, Followers:61862, Viewers:58, Date & Time CDT:2021-10-06 02:22:05, Twitch's Users In Chat:105
+
+TwitchName:roflgator, Game:Minecraft, Followers:233521, Viewers:1,853, Date & Time CDT:2021-10-06 02:23:17, Twitch's Users In Chat:2107
+
+TwitchName:aikasanvr, Game:Battlefield 2042, Followers:4400, Viewers:35, Date & Time CDT:2021-10-06 02:24:27, Twitch's Users In Chat:90
+
+TwitchName:snowsos, Game:Battlefield 2042, Followers:61863, Viewers:65, Date & Time CDT:2021-10-06 02:41:56, Twitch's Users In Chat:103
+
+TwitchName:roflgator, Game:Minecraft, Followers:233530, Viewers:1,717, Date & Time CDT:2021-10-06 02:43:06, Twitch's Users In Chat:2060
+
+TwitchName:aikasanvr, Game:Battlefield 2042, Followers:4402, Viewers:57, Date & Time CDT:2021-10-06 02:44:19, Twitch's Users In Chat:118
+
+TwitchName:snowsos, Game:Battlefield 2042, Followers:61863, Viewers:78, Date & Time CDT:2021-10-06 03:01:55, Twitch's Users In Chat:109
+
+TwitchName:roflgator, Game:Minecraft, Followers:233536, Viewers:1,712, Date & Time CDT:2021-10-06 03:03:08, Twitch's Users In Chat:1943
+
+TwitchName:aikasanvr, Game:Battlefield 2042, Followers:4402, Viewers:71, Date & Time CDT:2021-10-06 03:04:16, Twitch's Users In Chat:134
+
+TwitchName:snowsos, Game:Battlefield 2042, Followers:61862, Viewers:83, Date & Time CDT:2021-10-06 03:22:05, Twitch's Users In Chat:107
+
+TwitchName:roflgator, Game:Minecraft, Followers:233542, Viewers:1,660, Date & Time CDT:2021-10-06 03:23:14, Twitch's Users In Chat:1921
+
+TwitchName:sodapoppin, Game:VRChat, Followers:3136125, Viewers:14,927, Date & Time CDT:2021-10-08 01:00:34, Twitch's Users In Chat:14560
+
+TwitchName:snowsos, Game:Just Chatting, Followers:61857, Viewers:101, Date & Time CDT:2021-10-08 01:00:58, Twitch's Users In Chat:117
+
+TwitchName:roflgator, Game:VRChat, Followers:233764, Viewers:3,329, Date & Time CDT:2021-10-08 01:01:37, Twitch's Users In Chat:3420
+
+TwitchName:Kareeda, Game:VRChat, Followers:10913, Viewers:24, Date & Time CDT:2021-10-08 01:01:55, Twitch's Users In Chat:55
+
+TwitchName:momo, Game:Tom Clancy's Rainbow Six Siege, Followers:228263, Viewers:1,690, Date & Time CDT:2021-10-08 01:02:51, Twitch's Users In Chat:1671
+
+TwitchName:sodapoppin, Game:Just Chatting, Followers:3136266, Viewers:17,525, Date & Time CDT:2021-10-08 01:18:05, Twitch's Users In Chat:14636
+
+TwitchName:snowsos, Game:Just Chatting, Followers:61857, Viewers:107, Date & Time CDT:2021-10-08 01:18:21, Twitch's Users In Chat:121
+
+TwitchName:roflgator, Game:Minecraft, Followers:233981, Viewers:3,821, Date & Time CDT:2021-10-08 03:37:04, Twitch's Users In Chat:2526
+
+TwitchName:Kareeda, Game:VRChat, Followers:10916, Viewers:54, Date & Time CDT:2021-10-08 03:37:31, Twitch's Users In Chat:79
+
+TwitchName:roflgator, Game:Minecraft, Followers:233990, Viewers:3,714, Date & Time CDT:2021-10-08 03:55:53, Twitch's Users In Chat:2465
+
+TwitchName:aikasanvr, Game:Battlefield 2042, Followers:4418, Viewers:98, Date & Time CDT:2021-10-08 04:01:23, Twitch's Users In Chat:132
+
+TwitchName:tevin_vr, Game:Minecraft, Followers:1942, Viewers:18, Date & Time CDT:2021-10-08 04:02:31, Twitch's Users In Chat:49
+
+TwitchName:roflgator, Game:Minecraft, Followers:233992, Viewers:3,576, Date & Time CDT:2021-10-08 04:06:41, Twitch's Users In Chat:2419
+
+TwitchName:aikasanvr, Game:Battlefield 2042, Followers:4419, Viewers:118, Date & Time CDT:2021-10-08 04:07:17, Twitch's Users In Chat:136
+
+TwitchName:tevin_vr, Game:Minecraft, Followers:1942, Viewers:16, Date & Time CDT:2021-10-08 04:07:49, Twitch's Users In Chat:42
+
+TwitchName:oathmeal, Game:VRChat, Followers:52880, Viewers:147, Date & Time CDT:2021-10-08 04:08:25, Twitch's Users In Chat:289
+
+TwitchName:roflgator, Game:Minecraft, Followers:233998, Viewers:3,652, Date & Time CDT:2021-10-08 04:24:33, Twitch's Users In Chat:2824
+
+TwitchName:aikasanvr, Game:Battlefield 2042, Followers:4419, Viewers:92, Date & Time CDT:2021-10-08 04:25:25, Twitch's Users In Chat:132
+
+TwitchName:tevin_vr, Game:Minecraft, Followers:1942, Viewers:19, Date & Time CDT:2021-10-08 04:26:18, Twitch's Users In Chat:47
+
+TwitchName:oathmeal, Game:VRChat, Followers:52884, Viewers:163, Date & Time CDT:2021-10-08 04:27:09, Twitch's Users In Chat:323
+
+TwitchName:lanfear_vr, Game:Legendary Tales, Followers:10765, Viewers:136, Date & Time CDT:2021-10-08 04:27:35, Twitch's Users In Chat:215
+
+TwitchName:oathmeal, Game:VRChat, Followers:52884, Viewers:159, Date & Time CDT:2021-10-08 04:30:52, Twitch's Users In Chat:323
+
+TwitchName:lanfear_vr, Game:Legendary Tales, Followers:10765, Viewers:125, Date & Time CDT:2021-10-08 04:31:18, Twitch's Users In Chat:224
+
+TwitchName:roflgator, Game:Minecraft, Followers:234014, Viewers:3,402, Date & Time CDT:2021-10-08 05:09:47, Twitch's Users In Chat:2522
+
+TwitchName:aikasanvr, Game:Battlefield 2042, Followers:4420, Viewers:110, Date & Time CDT:2021-10-08 05:10:40, Twitch's Users In Chat:139
+
+TwitchName:tevin_vr, Game:Minecraft, Followers:1942, Viewers:11, Date & Time CDT:2021-10-08 05:11:32, Twitch's Users In Chat:41
+
+TwitchName:lanfear_vr, Game:Legendary Tales, Followers:10769, Viewers:169, Date & Time CDT:2021-10-08 05:12:50, Twitch's Users In Chat:230
+
+TwitchName:roflgator, Game:Minecraft, Followers:234024, Viewers:3,034, Date & Time CDT:2021-10-08 05:40:17, Twitch's Users In Chat:2369
+
+TwitchName:tevin_vr, Game:Minecraft, Followers:1943, Viewers:10, Date & Time CDT:2021-10-08 05:42:06, Twitch's Users In Chat:46
+
+TwitchName:lanfear_vr, Game:Legendary Tales, Followers:10769, Viewers:181, Date & Time CDT:2021-10-08 05:43:28, Twitch's Users In Chat:223
+
+TwitchName:sodapoppin, Game:Age of Darkness: Final Stand, Followers:3137095, Viewers:32,477, Date & Time CDT:2021-10-09 15:14:58, Twitch's Users In Chat:31442
+
+TwitchName:sodapoppin, Game:Age of Darkness: Final Stand, Followers:3137104, Viewers:32,241, Date & Time CDT:2021-10-09 15:21:43, Twitch's Users In Chat:30838
+
+TwitchName:sodapoppin, Game:Hidden Words, Followers:3137125, Viewers:32,326, Date & Time CDT:2021-10-09 15:27:18, Twitch's Users In Chat:31343
+
+TwitchName:sodapoppin, Game:Hidden Words, Followers:3137141, Viewers:33,520, Date & Time CDT:2021-10-09 15:32:51, Twitch's Users In Chat:32004
+
+TwitchName:sodapoppin, Game:Hidden Words, Followers:3137166, Viewers:33,365, Date & Time CDT:2021-10-09 15:38:25, Twitch's Users In Chat:31411
+
+TwitchName:sodapoppin, Game:Hidden Words, Followers:3137234, Viewers:34,835, Date & Time CDT:2021-10-09 16:00:59, Twitch's Users In Chat:33456
+
+TwitchName:sodapoppin, Game:Hidden Words, Followers:3137245, Viewers:35,340, Date & Time CDT:2021-10-09 16:06:32, Twitch's Users In Chat:33655
+
+TwitchName:sodapoppin, Game:Hidden Words, Followers:3137283, Viewers:36,621, Date & Time CDT:2021-10-09 16:25:08, Twitch's Users In Chat:34540
+
+TwitchName:sodapoppin, Game:Stumble Guys: Multiplayer Royale, Followers:3137347, Viewers:38,524, Date & Time CDT:2021-10-09 16:51:08, Twitch's Users In Chat:35220
+
+TwitchName:sodapoppin, Game:Stumble Guys: Multiplayer Royale, Followers:3137375, Viewers:42,344, Date & Time CDT:2021-10-09 17:01:04, Twitch's Users In Chat:38262
+
+TwitchName:sodapoppin, Game:Games + Demos, Followers:3137417, Viewers:41,543, Date & Time CDT:2021-10-09 17:11:41, Twitch's Users In Chat:38704
+
+TwitchName:sodapoppin, Game:Games + Demos, Followers:3137436, Viewers:41,575, Date & Time CDT:2021-10-09 17:21:18, Twitch's Users In Chat:37431
+
+TwitchName:sodapoppin, Game:Games + Demos, Followers:3137457, Viewers:41,256, Date & Time CDT:2021-10-09 17:31:38, Twitch's Users In Chat:37298
+
+TwitchName:sodapoppin, Game:Metroid Dread, Followers:3137554, Viewers:28,804, Date & Time CDT:2021-10-09 18:33:22, Twitch's Users In Chat:27372
+
+TwitchName:sodapoppin, Game:Eco Hole, Followers:3137694, Viewers:24,859, Date & Time CDT:2021-10-09 19:59:18, Twitch's Users In Chat:23434
+
+TwitchName:sodapoppin, Game:Eco Hole, Followers:3137733, Viewers:23,763, Date & Time CDT:2021-10-09 20:10:25, Twitch's Users In Chat:23789
+
+TwitchName:sodapoppin, Game:Eco Hole, Followers:3137741, Viewers:25,335, Date & Time CDT:2021-10-09 20:12:51, Twitch's Users In Chat:23861
+
+TwitchName:sodapoppin, Game:Eco Hole, Followers:3137757, Viewers:25,035, Date & Time CDT:2021-10-09 20:20:06, Twitch's Users In Chat:23644
+
+TwitchName:sodapoppin, Game:Eco Hole, Followers:3137766, Viewers:25,188, Date & Time CDT:2021-10-09 20:23:40, Twitch's Users In Chat:24113
+
+TwitchName:sodapoppin, Game:Eco Hole, Followers:3137785, Viewers:25,649, Date & Time CDT:2021-10-09 20:30:08, Twitch's Users In Chat:24221
+
+TwitchName:sodapoppin, Game:Horror Legends, Followers:3138116, Viewers:35265, Date & Time CDT:2021-10-09 21:10:56, Twitch's Users In Chat:34855
+
+TwitchName:sodapoppin, Game:Horror Legends, Followers:3138157, Viewers:30887, Date & Time CDT:2021-10-09 21:24:01, Twitch's Users In Chat:28237
+
+TwitchName:Kareeda, Game:VRChat, Followers:10918, Viewers:24, Date & Time CDT:2021-10-09 21:24:13, Twitch's Users In Chat:29
+
