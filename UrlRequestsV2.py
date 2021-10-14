@@ -58,7 +58,6 @@ print("\n------ THIS IS A SCRIPT TO GET STREAMERS STATISTICS FROM TWITCH.TV ----
 
 
 def print_stats(followers, twitchChatCount, Game, viewers, date):
-
     print("Streamer: " + str(streamerName))
     LogFile.write("\nStreamer: " + str(streamerName))
     print("Viewers: " + str(viewers))
@@ -73,7 +72,6 @@ def print_stats(followers, twitchChatCount, Game, viewers, date):
 
 
 def post_request_func():
-
     #  GET TWITCH'S USER IN CHAT DATA DIRECTLY FROM A POST REQUEST
     global game, Viewers
     url = ('https://www.twitch.tv/' + streamerName)
@@ -132,9 +130,9 @@ def post_request_func():
         twitchChatCount = resp2.json()[0]["data"]["user"]["channel"]["chatters"]["count"]
         live = resp3.json()[0]["data"]["user"]["stream"] or ["type"]
 
-        if not live == ['type']:    # make sure that game is not NONE
-            game = resp4.json()[0]["data"]["user"]["stream"]["game"]["name"]    # Game name
-            Viewers = resp5.json()[0]["data"]["user"]["stream"]["viewersCount"]    # VIEWERS
+        if not live == ['type']:  # make sure that game is not NONE
+            game = resp4.json()[0]["data"]["user"]["stream"]["game"]["name"]  # Game name
+            Viewers = resp5.json()[0]["data"]["user"]["stream"]["viewersCount"]  # VIEWERS
 
         if live == ['type']:
             print('User is offline or does not exists. Moving on...')
@@ -146,7 +144,6 @@ def post_request_func():
 
 
 def create_excel_func(Game, followers, viewers, date, twitchChatCount):
-
     #   GET READY TO CREATE OR OPEN A EXCEL FILE TO POST NEW INFORMATION
     print('Creating Excel data')
     LogFile.write('\nCreating excel data')
@@ -168,25 +165,38 @@ def create_excel_func(Game, followers, viewers, date, twitchChatCount):
     import pandas as pd
     from openpyxl.workbook import Workbook
 
-    #   Create or open an Excel file to append gathered values
+    #   Create a simple log file of statistic value(s)
     headers = ['TwitchName', 'Game', 'Followers', 'Viewers', 'Date & time CDT', 'Twitch\'s Users In Chat']
     wb = Workbook()
     page = wb.active
     page.title = 'Steamer_Statistics'
     page.append(headers)  # write the headers to the first line
-
-    #   Data to write:
+    nameExcel = streamerName + ".xlsx"
     statistics = [streamerName, Game, followers, viewers, date, twitchChatCount]
+    #   Create or open an Excel file to append gathered values
 
+    # Create Current statistic values
     page.append(statistics)
     wb.save(filename=workbook_name)
 
+    # Create Old statistic values excel file(s) if needed
+
+    try:
+        open(nameExcel)
+        pass
+    except IOError:
+        print('Created new excel file for streamer:' + streamerName)
+        wb2 = Workbook()
+        page = wb2.active
+        page.title = streamerName + '_Statistics'
+        wb2.save(filename=nameExcel)
+
     #   Append Old to New stuff excel files
     old_file = pd.read_excel("OldTiwtch.xlsx")
-    New_file = pd.read_excel("NewTwitch.xlsx")
+    New_file = pd.read_excel(nameExcel)
     append_df = pd.concat([old_file, New_file])  # append old and statistics
 
-    append_df.to_excel("NewTwitch.xlsx", index=False, sheet_name='Steamer_Statistics')
+    append_df.to_excel(nameExcel, index=False, sheet_name=streamerName + '_Statistics')
     print('Excel Complete')
     LogFile.write('\nExcel Complete')
 
