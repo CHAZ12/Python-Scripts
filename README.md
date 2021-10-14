@@ -1,4 +1,4 @@
----------------Get Streamer Statistics READ ME--------------\n
+---------------Get Streamer Statistics READ ME--------------
 ABOUT:
 This projext was to understand the relationship from viewers displayed at the bottom of the streamer Vs Users in chat, but I leared I could get more information from a streamer.
 This scipt will automatically get statistics from twitch.tv about a specifc streamer. The information includes: Streamer Name, Game, Followers, Viewers, Users In Chat. This File also creates a simple log file with given statistics, detail log of entire process, create and update an excel file with statsistics for specific streamer, and add own Streamer Name in "Streamers.txt"
