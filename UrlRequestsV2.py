@@ -173,16 +173,15 @@ def create_excel_func(Game, followers, viewers, date, twitchChatCount):
     page.append(headers)  # write the headers to the first line
     nameExcel = streamerName + ".xlsx"
     statistics = [streamerName, Game, followers, viewers, date, twitchChatCount]
-    #   Create or open an Excel file to append gathered values
-
-    # Create Current statistic values
+    
+    #   Create or open Excel file by stramer name to append gathered values
+    # Create Excel file by stramer name for Current statistic values
     page.append(statistics)
     wb.save(filename=workbook_name)
 
-    # Create Old statistic values excel file(s) if needed
-
+    # Create an excel file for Older statistic values excel file(s) if needed
     try:
-        open(nameExcel)
+        open(nameExcel)  #try to open an excel file by streamer name
         pass
     except IOError:
         print('Created new excel file for streamer:' + streamerName)
@@ -208,7 +207,7 @@ with open("LogFile.txt", 'a+', encoding="utf-8") as LogFile:
             post_request_func()
             time.sleep(1)
 
-    LogFile.write('\n------------------Finished-----------')
+    LogFile.write('\n------------------Finished------------------)
     LogFile.close()
 
 print('Finished')
