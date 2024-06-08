@@ -1,0 +1,171 @@
+" @ sea level"
+"F<130kN"
+Ta= 288.2[K]
+gamma = 1.403
+R = 287.1[J/kg*K]
+Pa=101.3[kPa]
+Pstp = Pa
+Tstp = 293[K]
+" @ 35000ft"
+"F<50kN"
+ 
+ 
+"paramaters"
+ 
+"T < 1700K"
+ 
+Ma=0.85
+m_dot[1]= 74.83[lb_m/s]
+sigma=0.25
+eta_m=0.995
+eta_c=0.85
+eta_f=0.85
+eta_t=0.85
+eta_fn = 0.85
+eta_n =0.9
+eta_b = 0.95
+eta_ab = 0.89
+pi_b=0.95
+pi_d =0.95
+pi_ab=0.95
+pi_c = 15
+pi_f = 2
+pi_m = 0.95
+pi_u = 0.95
+alpha = 8
+tau_ab = 2
+LHV_f=41400 [kJ/kg]
+ 
+ 
+ 
+"constants"
+ Tt[4] = 1389[K]
+gamma_d = 1.3997 "diffuser"
+ 
+ 
+gamma_c = 1.3805 "compressor"
+cp_c = 1.041
+ 
+gamma_f = 1.3971 "fan"
+ 
+gamma_t = 1.3286 "turbine"
+cp_t = 1.160
+ 
+cp_b = 1.143 "combustor"
+ 
+gamma_fn = 1.3946
+cp_fn = 1.010 "fan nozzle"
+ 
+cp_ab = 0.2904 "afterburner"
+ 
+cp_mc = 1.091 "mixer"
+cp_mu = 1.042 
+ 
+gamma_n = 1.3664 "pimary nozzle"
+cp_n = 1.070 
+ 
+"State 1 ambient 0-1" 
+ 
+ht[1] = enthalpy(Air, T=Ta[1])
+s[1] = entropy(Air, T=Ta[1], Pa=P[1])
+
+"State 2 difuser 1-2"
+aa = sqrt(gamma*R*Ta)
+ua = Ma*aa
+m_dot[2] = m_dot[1]
+ 
+"State 3 compressor 2-3"
+
+P[2] = Pi_c * Pt[1]
+hs[2] = enthalpy(Air, P = Pt[2], s = s[1])
+eta_c =  (hts[2] - ht[1]) / (ht[2] - ht[1])
+Tt[2] = temperature(Air, h=h[2])
+s[2] = entropy(Air, T=Tt[2], P=Pt[2])
+
+Pt[3] = pi_c *Pt[2]
+tau_c = ((((pi_c)^((gamma_c - 1) / gamma_c)) - 1 ) / eta_c) + 1
+Tt[3] = tau_c * Tt[2]
+m_dot[3] = m_dot[1]
+ 
+" State 7 Fan 2-7"
+tau_f = ((((pi_f)^((gamma_f -1) / gamma_f)) - 1) / eta_f)+1
+Tt[7] = tau_f *Tt[2]
+Pt[7] = Pt[2] *pi_f
+ 
+a[7] = sqrt(gamma_f * R *Tt[7])
+m_dot[7] = m_dot[1]
+ 
+"corrected mass _flow - bypass"
+theta_t7 = Tt[7]/Tstp
+del_t7 = Pt[7]/Pstp
+m_dot_c7 = m_dot[7] * ((sqrt(theta_t7)) / del_t7)
+ 
+"State 7.5 Bypass duct 7-7.5"
+P7.5[7] = Pt[7] * pi_u
+Tt7.5[7] = Tt[7]
+ 
+"State 4 Primary Combustor 3-4"
+
+Pt[4] = pi_b *Pt[3]
+m_dot_f = m_dot[1]* (ht[4]-Tt[3]) / ( eta_b * LHV_f - ht[4])
+f = m_dot_f / m_dot[1]
+m_dot[4] = m_dot_f
+ 
+"State 5 Turbine 4-5"
+
+ht[5] = enthalpy(Air, T=Tt[4])
+m_dot_t = m_dot[1] + m_dot_f
+m_dot[1] *(ht[3] - ht[2]) + alpha * m_dot[1] * (ht[7] -ht[2]) = eta_m * m_dot_t * (ht[4]-ht[5])
+tau_t = Tt[5]/Tt[4]
+pi_t =  (1 - (( 1- tau_t) / eta_t))^(gamma_t / ( gamma_t - 1))
+Pt[5] = pi_t* Pt[4]
+m_dot[5] = m_dot_t
+ 
+"State 5.5 mixer 5-5.5"
+Tt5.5[5] = ((1 + f ) * ht[5] + sigma * alpha * ht7.5[7]) / ((1 + f) * cp_mc + sigma * alpha * cp_mu)
+Pt5.5[5] = pi_m * Pt[5]
+m_dot5.5 = m_dot[5]
+ 
+"State 6 Afterburner 5.5-6"
+Tt[6] = Tt5.5[5] * tau_ab
+Pt[6] = pi_ab *Pt5.5[5]
+LHV_f  * eta_ab * m_dot_fab = (m_dot[1] + m_dot_f ) * (ht[6] - ht5.5[5]) + m_dot_fab * ht[6] "solve for m_dot_fab"
+m_dot_ft = m_dot_f + m_dot_fab
+m_dot[6] = m_dot_ft
+ 
+"Primary Nozzle"
+"corrected mass _flow -primary nozzle"
+theta_t6 = Tt[6]/Tstp
+del_t6 = Pt[6]/Pstp
+m_dot_c6 = m_dot[6] * ((sqrt(theta_t6)) / del_t6)
+ 
+" State 8 Primary Nozzle 6-8"
+P[8] = Pa "Variable converging diverging nozzle no need to check for choking"
+T_prime[8] =Tt[6]*(P[8] / Pt[6])^ ((gamma_n -1 ) / gamma_n)
+T[8] = Tt[6] - eta_n * (Tt[6] - T_prime[8])
+Tt[8] = T[8] * (1 + ((gamma_n - 1) / 2) *M[8]^2)
+ 
+u[8] = sqrt(2 * cp_n * (Tt[6] - T[8]) * 1000)
+a[8]= sqrt(gamma_n * R * T[8])
+ 
+M[8] = u[8] / a[8]
+m_dot_a[8] = m_dot[1] + alpha * sigma * m_dot[1]
+m_dot[8] = m_dot_a[8] +m_dot_ft
+roe[8] = (P[8] *1000) / (R * T[8])
+A_[8] = m_dot[8] / (roe[8] * u[8])
+ 
+" State 9 Fan nozzle"
+P_star[9] = Pt[7] *( 1 + (( 1 - gamma_fn) / (eta_fn * (1 + gamma_fn)))) ^ (gamma_fn / (gamma_fn -1))
+P[9] = P_star[9]   " pa < P9* so choked, M9 = 1" " want Pa = P*  P8 = Pa M8 =1"
+M[9] = 1
+T[9] = 2 * Tt[7] / (1 + gamma_fn)
+a[9] = sqrt(gamma_fn*R*T[9])
+M[9] = u[9]/a[9] "find u[9]"
+m_dot[9] = alpha * (1 - sigma) *m_dot[1]
+roe[9] = (P[9] *1000) / (R * T[9])
+A_[9] = m_dot[9] / (roe[9] * u[9])
+Tt[9] = T[9] * (1 + ((gamma_fn - 1) / 2) *M[9]^2)
+ 
+"Total Thrust and TFSC"
+F_ = m_dot[8]*u[8] - m_dot_a[8]*ua 
+TSFC = (m_dot_ft / F_ ) * 3600
