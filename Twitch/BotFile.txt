@@ -1,0 +1,2354 @@
+2022-08-27 16:19:51, bigboy
+ Bots:["'aten'", "'commanderroot'", "'elysian'", "'gowithhim'", "'isnicable'", "'kittykat513'", "'rimastino'", "'spiketrapclair'", "'xhylane'", "'yamickle'"]
+2022-08-27 16:25:49: sodapoppin
+ Bots:[]
+2022-08-27 16:26:33: margot
+ Bots:["'aten'", "'yamickle'"]
+2022-08-27 16:52:49: cirno_tv
+ Bots:["'faps247'", "'lanarayyyy'", "'remasuri_bot'", "'sunamano'", "'virgoproz'"]
+2022-08-27 18:39:18: cirno_tv
+ Bots:["'nightmarejoker2'", "'shypuf'", "'yamickle'"]
+2022-08-27 18:41:22: cirno_tv
+ Bots:["'brokemystreamdeck'", "'isnicable'", "'rogueg1rl'", "'shypuf'", "'stygian_styx'", "'tizcloud'", "'underworldnaiad'", "'violets_tv'", "'virgoproz'"]
+2022-08-27 18:42:17: cirno_tv
+ Bots:["'anotherttvviewer'", "'faps247'", "'spiketrapclair'", "'virgoproz'"]
+2022-08-27 18:42:40: kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'claire_sir_chistory'", "'commanderroot'", "'losjaraswines'", "'natzelly'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'xyfm'", "'0_supa'"]
+2022-08-27 18:54:09: sodapoppin
+ Bots:[]
+2022-08-27 18:55:05: tevin_vr
+ Bots:["'0ax2'", "'0niva'", "'soicluberville'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-27 19:22:27: tevin_vr
+ Bots:["'0ax2'", "'0niva'", "'btovar3'", "'soicluberville'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-27 20:34:25: tevin_vr
+ Bots:["'0ax2'", "'abjuui'", "'btovar3'", "'soicluberville'", "'spiketrapclair'", "'xyfm'", "'0_supa'"]
+2022-08-27 20:35:27: tevin_vr
+ Bots:["'0ax2'", "'abjuui'", "'btovar3'", "'soicluberville'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-27 20:45:02: tevin_vr
+ Bots:["'0ax2'", "'abjuui'", "'soicluberville'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-27 20:50:43: tinamickel
+ Bots:["'commanderroot'", "'xyfm'", "'0_supa'"]
+2022-08-27 20:57:00: snowsos
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'extramoar'", "'isnicable'", "'kittykat513'", "'lanarayyyy'", "'maddynsun'", "'rimastino'", "'spiketrapclair'", "'violets_tv'", "'0_supa'"]
+2022-08-27 21:00:09: tevin_vr
+ Bots:["'0ax2'", "'0niva'", "'btovar3'", "'lanarayyyy'", "'soicluberville'", "'tizcloud'", "'0_supa'"]
+2022-08-27 21:16:23: tevin_vr
+ Bots:["'0ax2'", "'0niva'", "'btovar3'", "'lanarayyyy'", "'soicluberville'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-27 21:30:16: tevin_vr
+ Bots:["'0ax2'", "'0niva'", "'btovar3'", "'claire_sir_chistory'", "'lanarayyyy'", "'soicluberville'", "'spiketrapclair'", "'xyfm'", "'0_supa'"]
+2022-08-27 21:45:21: tevin_vr
+ Bots:["'0ax2'", "'btovar3'", "'claire_sir_chistory'", "'lanarayyyy'", "'spiketrapclair'", "'xyfm'"]
+2022-08-27 22:01:01: tevin_vr
+ Bots:["'0ax2'", "'0niva'", "'btovar3'", "'soicluberville'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-27 22:16:26: sodapoppin
+ Bots:[]
+2022-08-27 22:16:29: snowsos
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'extramoar'", "'kittykat513'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'0_supa'"]
+2022-08-27 22:16:33: Stealthrg
+ Bots:["'commanderroot'", "'extramoar'", "'spiketrapclair'"]
+2022-08-27 22:16:39: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'aliengathering'", "'anotherttvviewer'", "'claire_sir_chistory'", "'commanderroot'", "'lanarayyyy'", "'rimastino'", "'rogueg1rl'", "'sirrelu'", "'spiketrapclair'", "'waptart'", "'xyfm'", "'0_supa'"]
+2022-08-27 22:16:43: aikasanvr
+ Bots:["'spiketrapclair'", "'0_supa'"]
+2022-08-27 22:16:49: tevin_vr
+ Bots:["'0niva'", "'btovar3'", "'lanarayyyy'", "'xyfm'", "'0_supa'"]
+2022-08-27 22:16:56: oathmeal
+ Bots:["'4fxz'", "'commanderroot'", "'geall'", "'kattynah'"]
+2022-08-27 22:30:17: sodapoppin
+ Bots:[]
+2022-08-27 22:30:24: Stealthrg
+ Bots:["'commanderroot'", "'extramoar'", "'v_and_k'"]
+2022-08-27 22:30:30: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'claire_sir_chistory'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rogueg1rl'", "'sirrelu'", "'spiketrapclair'", "'xyfm'", "'0_supa'"]
+2022-08-27 22:30:34: aikasanvr
+ Bots:["'tinarif'"]
+2022-08-27 22:30:41: tevin_vr
+ Bots:["'0ax2'", "'btovar3'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-27 22:30:48: oathmeal
+ Bots:["'4fxz'", "'commanderroot'", "'kattynah'", "'senolass'", "'sonyplaystations'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-08-27 22:45:06: sodapoppin
+ Bots:[]
+2022-08-27 22:45:13: Stealthrg
+ Bots:["'commanderroot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-08-27 22:45:19: Kareeda
+ Bots:["'0ax2'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'claire_sir_chistory'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rimastino'", "'rogueg1rl'", "'sirrelu'", "'xyfm'", "'0_supa'"]
+2022-08-27 22:45:23: aikasanvr
+ Bots:["'commanderroot'", "'spiketrapclair'", "'0_supa'"]
+2022-08-27 22:45:30: tevin_vr
+ Bots:["'0niva'", "'btovar3'", "'lanarayyyy'", "'soicluberville'", "'spiketrapclair'", "'tizcloud'", "'xyfm'"]
+2022-08-27 22:45:37: oathmeal
+ Bots:["'4fxz'", "'geall'", "'senolass'", "'sonyplaystations'", "'v_and_k'"]
+2022-08-27 23:15:07: sodapoppin
+ Bots:[]
+2022-08-27 23:15:14: Stealthrg
+ Bots:["'extramoar'", "'rimastino'", "'spiketrapclair'"]
+2022-08-27 23:15:21: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'claire_sir_chistory'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rimastino'", "'sirrelu'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-08-27 23:15:24: aikasanvr
+ Bots:["'tinarif'", "'0_supa'"]
+2022-08-27 23:15:31: tevin_vr
+ Bots:["'0ax2'", "'btovar3'", "'lanarayyyy'", "'soicluberville'", "'spiketrapclair'", "'tizcloud'", "'0_supa'"]
+2022-08-27 23:15:37: oathmeal
+ Bots:["'geall'", "'v_and_k'", "'0_supa'"]
+2022-08-27 23:30:06: sodapoppin
+ Bots:[]
+2022-08-27 23:30:12: Stealthrg
+ Bots:["'commanderroot'", "'spiketrapclair'"]
+2022-08-27 23:30:19: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'claire_sir_chistory'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rimastino'", "'rogueg1rl'", "'sirrelu'", "'spiketrapclair'", "'xyfm'", "'0_supa'"]
+2022-08-27 23:30:22: aikasanvr
+ Bots:["'spiketrapclair'", "'0_supa'"]
+2022-08-27 23:30:36: oathmeal
+ Bots:["'elysian'", "'geall'", "'kattynah'", "'senolass'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-08-27 23:30:43: magykrose
+ Bots:[]
+2022-08-27 23:34:35: sodapoppin
+ Bots:[]
+2022-08-27 23:34:42: Stealthrg
+ Bots:["'commanderroot'", "'losjaraswines'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'yamickle'"]
+2022-08-27 23:34:49: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'claire_sir_chistory'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rimastino'", "'sirrelu'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-08-27 23:34:52: aikasanvr
+ Bots:["'0_supa'"]
+2022-08-27 23:35:05: oathmeal
+ Bots:["'commanderroot'", "'geall'", "'kattynah'", "'rimastino'", "'senolass'", "'sonyplaystations'"]
+2022-08-27 23:35:12: magykrose
+ Bots:["'graphmau'"]
+2022-08-27 23:43:18: sodapoppin
+ Bots:[]
+2022-08-27 23:43:24: Stealthrg
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'losjaraswines'", "'rimastino'", "'v_and_k'"]
+2022-08-27 23:43:31: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'commanderroot'", "'natzelly'", "'rimastino'", "'rogueg1rl'", "'sirrelu'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-08-27 23:43:34: aikasanvr
+ Bots:["'tinarif'"]
+2022-08-27 23:43:47: oathmeal
+ Bots:["'geall'", "'kattynah'", "'rimastino'", "'v_and_k'", "'0_supa'"]
+2022-08-27 23:43:54: magykrose
+ Bots:["'graphmau'"]
+2022-08-27 23:45:06: sodapoppin
+ Bots:[]
+2022-08-27 23:45:13: Stealthrg
+ Bots:["'commanderroot'", "'losjaraswines'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'yamickle'"]
+2022-08-27 23:45:19: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rimastino'", "'rogueg1rl'", "'sirrelu'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-08-27 23:45:23: aikasanvr
+ Bots:["'tinarif'"]
+2022-08-27 23:45:36: oathmeal
+ Bots:["'4fxz'", "'commanderroot'", "'rimastino'", "'senolass'", "'sonyplaystations'", "'spiketrapclair'", "'yamickle'", "'0_supa'"]
+2022-08-27 23:45:42: magykrose
+ Bots:["'commanderroot'", "'graphmau'"]
+2022-08-28 00:00:12: Stealthrg
+ Bots:["'aten'", "'commanderroot'", "'extramoar'", "'losjaraswines'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-08-28 00:00:19: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'aten'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rimastino'", "'rogueg1rl'", "'sirrelu'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-08-28 00:00:35: oathmeal
+ Bots:["'4fxz'", "'commanderroot'", "'elysian'", "'kattynah'", "'rimastino'", "'sonyplaystations'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-08-28 00:00:42: magykrose
+ Bots:["'0ax2'", "'commanderroot'", "'graphmau'"]
+2022-08-28 00:07:40: Stealthrg
+ Bots:["'yamickle'", "'0_supa'"]
+2022-08-28 00:07:47: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'aten'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rimastino'", "'sirrelu'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-08-28 00:08:17: Stealthrg
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'extramoar'", "'losjaraswines'", "'rimastino'", "'yamickle'", "'0_supa'"]
+2022-08-28 00:08:23: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'aten'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rimastino'", "'sirrelu'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-08-28 00:08:39: oathmeal
+ Bots:["'4fxz'", "'elysian'", "'kattynah'", "'rimastino'", "'sonyplaystations'", "'spiketrapclair'", "'0_supa'"]
+2022-08-28 00:10:07: Stealthrg
+ Bots:["'commanderroot'", "'losjaraswines'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'yamickle'", "'0_supa'"]
+2022-08-28 00:10:13: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'aten'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rimastino'", "'rogueg1rl'", "'sirrelu'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-08-28 00:10:30: oathmeal
+ Bots:["'commanderroot'", "'elysian'", "'geall'", "'senolass'", "'sonyplaystations'"]
+2022-08-28 00:15:12: Stealthrg
+ Bots:["'aten'", "'rimastino'", "'v_and_k'", "'0_supa'"]
+2022-08-28 00:15:19: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'aten'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rimastino'", "'rogueg1rl'", "'sirrelu'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-08-28 00:15:35: oathmeal
+ Bots:["'4fxz'", "'commanderroot'", "'v_and_k'", "'0_supa'"]
+2022-08-28 00:30:12: Stealthrg
+ Bots:["'anotherttvviewer'", "'rimastino'", "'spiketrapclair'"]
+2022-08-28 00:30:19: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'aten'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rimastino'", "'rogueg1rl'", "'sirrelu'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-08-28 00:30:35: oathmeal
+ Bots:["'4fxz'", "'elysian'"]
+2022-08-28 00:45:12: Stealthrg
+ Bots:["'aten'", "'commanderroot'", "'extramoar'"]
+2022-08-28 00:45:19: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'aten'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rimastino'", "'rogueg1rl'", "'sirrelu'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-08-28 00:45:35: oathmeal
+ Bots:["'commanderroot'", "'elysian'", "'rimastino'", "'senolass'", "'sonyplaystations'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-08-28 01:00:12: Stealthrg
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'extramoar'"]
+2022-08-28 01:00:19: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'aten'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rimastino'", "'rogueg1rl'", "'sirrelu'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-08-28 01:00:35: oathmeal
+ Bots:["'4fxz'", "'geall'", "'kattynah'", "'rimastino'", "'sonyplaystations'", "'v_and_k'", "'0_supa'"]
+2022-08-28 01:15:12: Stealthrg
+ Bots:["'aten'", "'commanderroot'", "'extramoar'", "'spiketrapclair'", "'v_and_k'", "'yamickle'", "'0_supa'"]
+2022-08-28 01:15:19: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'aten'", "'claire_sir_chistory'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rimastino'", "'rogueg1rl'", "'sirrelu'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-08-28 01:30:14: Stealthrg
+ Bots:["'anotherttvviewer'", "'aten'", "'losjaraswines'", "'rimastino'", "'spiketrapclair'", "'yamickle'", "'0_supa'"]
+2022-08-28 01:30:20: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'aten'", "'claire_sir_chistory'", "'commanderroot'", "'lanarayyyy'", "'natzelly'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-08-28 04:40:37: sodapoppin
+ Bots:["'shanuala'"]
+2022-08-28 13:38:45: shizu
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'elysian'", "'isnicable'", "'kittykat513'", "'larakraf'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'sonyplaystations'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-08-28 13:38:52: momo
+ Bots:[]
+2022-08-28 13:40:07: sodapoppin
+ Bots:[]
+2022-08-28 13:45:16: sodapoppin
+ Bots:["'moku_'"]
+2022-08-28 13:45:38: shizu
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'elysian'", "'kittykat513'", "'larakraf'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'sonyplaystations'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-08-28 13:45:45: momo
+ Bots:[]
+2022-08-28 14:00:06: sodapoppin
+ Bots:[]
+2022-08-28 14:00:27: shizu
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'elysian'", "'isnicable'", "'kittykat513'", "'larakraf'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'sonyplaystations'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-08-28 14:00:34: momo
+ Bots:[]
+2022-08-28 14:15:06: sodapoppin
+ Bots:[]
+2022-08-28 14:15:26: shizu
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'elysian'", "'isnicable'", "'kittykat513'", "'larakraf'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'sonyplaystations'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-08-28 14:15:33: momo
+ Bots:[]
+2022-08-28 14:45:06: sodapoppin
+ Bots:["'spiketrapclair'", "'v_and_k'"]
+2022-08-28 14:45:28: shizu
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'elysian'", "'isnicable'", "'lanarayyyy'", "'larakraf'", "'metaviews'", "'nightchillbc'", "'rimastino'", "'rogueg1rl'", "'sonyplaystations'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'0_supa'"]
+2022-08-28 15:00:06: sodapoppin
+ Bots:["'ensthor'"]
+2022-08-28 15:00:26: shizu
+ Bots:["'aten'", "'elysian'", "'isnicable'", "'kittykat513'", "'lanarayyyy'", "'larakraf'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rogueg1rl'", "'sonyplaystations'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-08-28 19:30:02: murdercrumpet
+ Bots:[]
+2022-08-28 19:30:06: sodapoppin
+ Bots:[]
+2022-08-28 19:30:09: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'eatsaoe'", "'elysian'", "'extramoar'", "'ffxivstyx'", "'icantcontrolit'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'uncle_spawn'", "'underworldnaiad'", "'0_supa'"]
+2022-08-28 19:30:42: magykrose
+ Bots:["'0ax2'", "'commanderroot'", "'lorypub'"]
+2022-08-28 19:45:04: murdercrumpet
+ Bots:[]
+2022-08-28 19:45:07: sodapoppin
+ Bots:[]
+2022-08-28 19:45:11: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'eatsaoe'", "'elysian'", "'extramoar'", "'ffxivstyx'", "'icantcontrolit'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'uncle_spawn'", "'underworldnaiad'", "'violets_tv'", "'0_supa'"]
+2022-08-28 19:45:44: magykrose
+ Bots:["'0ax2'", "'commanderroot'", "'empressiona'", "'graphmau'", "'lorypub'", "'xyfm'"]
+2022-08-28 20:00:03: murdercrumpet
+ Bots:[]
+2022-08-28 20:00:07: sodapoppin
+ Bots:[]
+2022-08-28 20:00:10: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'eatsaoe'", "'elysian'", "'extramoar'", "'feet'", "'ffxivstyx'", "'icantcontrolit'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'uncle_spawn'", "'underworldnaiad'", "'violets_tv'", "'0_supa'"]
+2022-08-28 20:00:44: magykrose
+ Bots:["'0ax2'", "'anotherttvviewer'", "'commanderroot'", "'empressiona'", "'graphmau'", "'lorypub'", "'xyfm'"]
+2022-08-28 20:15:04: murdercrumpet
+ Bots:[]
+2022-08-28 20:15:07: sodapoppin
+ Bots:[]
+2022-08-28 20:15:10: snowsos
+ Bots:["'aten'", "'commanderroot'", "'elysian'", "'extramoar'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'violets_tv'", "'0_supa'"]
+2022-08-28 20:15:44: magykrose
+ Bots:["'0ax2'", "'anotherttvviewer'", "'commanderroot'", "'empressiona'", "'graphmau'", "'xyfm'"]
+2022-08-28 20:30:03: murdercrumpet
+ Bots:[]
+2022-08-28 20:30:07: sodapoppin
+ Bots:[]
+2022-08-28 20:30:10: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'elysian'", "'extramoar'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'violets_tv'", "'0_supa'"]
+2022-08-28 20:45:03: murdercrumpet
+ Bots:[]
+2022-08-28 20:45:06: sodapoppin
+ Bots:["'speedysingh'"]
+2022-08-28 20:45:10: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'elysian'", "'feet'", "'isnicable'", "'spiketrapclair'", "'tinarif'", "'violets_tv'", "'0_supa'"]
+2022-08-28 21:00:03: murdercrumpet
+ Bots:["'sixflagsmagicmountain'"]
+2022-08-28 21:00:10: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'elysian'", "'extramoar'", "'feet'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-08-28 21:15:03: murdercrumpet
+ Bots:[]
+2022-08-28 21:15:10: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'elysian'", "'extramoar'", "'feet'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'violets_tv'", "'0_supa'"]
+2022-08-28 21:30:10: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'elysian'", "'extramoar'", "'feet'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-08-28 21:30:17: roflgator
+ Bots:["'commanderroot'"]
+2022-08-28 21:45:10: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'elysian'", "'feet'", "'isnicable'", "'spiketrapclair'", "'tinarif'", "'violets_tv'", "'0_supa'"]
+2022-08-28 21:45:16: roflgator
+ Bots:["'geall'"]
+2022-08-28 22:00:17: roflgator
+ Bots:[]
+2022-08-28 22:15:17: roflgator
+ Bots:[]
+2022-08-28 22:30:16: roflgator
+ Bots:[]
+2022-08-28 22:45:17: roflgator
+ Bots:[]
+2022-08-28 23:00:16: roflgator
+ Bots:[]
+2022-08-28 23:00:40: lanfear_vr
+ Bots:["'commanderroot'", "'sonyplaystations'", "'0_supa'"]
+2022-08-28 23:15:18: roflgator
+ Bots:[]
+2022-08-28 23:15:41: lanfear_vr
+ Bots:["'commanderroot'", "'sonyplaystations'", "'spiketrapclair'", "'tinarif'", "'tizcloud'", "'virgoproz'", "'0_supa'"]
+2022-08-28 23:30:17: roflgator
+ Bots:[]
+2022-08-28 23:30:40: lanfear_vr
+ Bots:["'aten'", "'commanderroot'", "'sonyplaystations'", "'spiketrapclair'", "'tinarif'", "'tizcloud'", "'virgoproz'", "'0_supa'"]
+2022-08-28 23:45:16: roflgator
+ Bots:[]
+2022-08-28 23:45:40: lanfear_vr
+ Bots:["'aten'", "'commanderroot'", "'sonyplaystations'", "'spiketrapclair'", "'tizcloud'", "'virgoproz'", "'0_supa'"]
+2022-08-29 00:00:16: roflgator
+ Bots:[]
+2022-08-29 00:00:40: lanfear_vr
+ Bots:["'aten'", "'spiketrapclair'", "'tinarif'"]
+2022-08-29 00:06:58: roflgator
+ Bots:[]
+2022-08-29 00:07:22: lanfear_vr
+ Bots:["'aten'", "'spiketrapclair'", "'tinarif'", "'yamickle'", "'0_supa'"]
+2022-08-29 00:10:08: roflgator
+ Bots:["'pectoralmuscle'"]
+2022-08-29 00:10:32: lanfear_vr
+ Bots:["'commanderroot'", "'spiketrapclair'", "'tinarif'", "'virgoproz'", "'yamickle'"]
+2022-08-29 00:10:39: curious_emily
+ Bots:["'pixelbypixel_bot'"]
+2022-08-29 00:15:16: roflgator
+ Bots:[]
+2022-08-29 00:15:24: roflgator
+ Bots:[]
+2022-08-29 00:15:39: lanfear_vr
+ Bots:["'commanderroot'", "'tinarif'"]
+2022-08-29 00:15:46: curious_emily
+ Bots:["'pixelbypixel_bot'"]
+2022-08-29 00:15:47: lanfear_vr
+ Bots:["'aten'", "'commanderroot'", "'sonyplaystations'", "'tizcloud'"]
+2022-08-29 00:15:54: curious_emily
+ Bots:["'pixelbypixel_bot'"]
+2022-08-29 00:24:42: roflgator
+ Bots:["'erika_fnbr'"]
+2022-08-29 00:25:05: lanfear_vr
+ Bots:["'aten'", "'commanderroot'", "'sonyplaystations'", "'tinarif'", "'yamickle'", "'0_supa'"]
+2022-08-29 00:25:12: curious_emily
+ Bots:["'0niva'", "'pixelbypixel_bot'"]
+2022-08-29 00:30:16: roflgator
+ Bots:[]
+2022-08-29 00:30:39: lanfear_vr
+ Bots:["'aten'", "'commanderroot'", "'sonyplaystations'", "'spiketrapclair'", "'0_supa'"]
+2022-08-29 00:30:46: curious_emily
+ Bots:["'pixelbypixel_bot'"]
+2022-08-29 00:45:17: roflgator
+ Bots:[]
+2022-08-29 00:45:41: lanfear_vr
+ Bots:["'commanderroot'", "'sonyplaystations'", "'spiketrapclair'", "'0_supa'"]
+2022-08-29 00:45:47: curious_emily
+ Bots:["'0niva'", "'pixelbypixel_bot'"]
+2022-08-29 01:00:16: roflgator
+ Bots:[]
+2022-08-29 01:00:40: lanfear_vr
+ Bots:["'elysian'", "'rogueg1rl'", "'sonyplaystations'", "'spiketrapclair'", "'tizcloud'", "'violets_tv'", "'yamickle'"]
+2022-08-29 01:00:47: curious_emily
+ Bots:["'0niva'", "'erika_fnbr'", "'pixelbypixel_bot'"]
+2022-08-29 01:15:16: roflgator
+ Bots:["'sylithen'"]
+2022-08-29 01:15:40: lanfear_vr
+ Bots:["'aten'", "'commanderroot'", "'elysian'", "'sonyplaystations'", "'spiketrapclair'", "'tinarif'", "'tizcloud'"]
+2022-08-29 01:15:47: curious_emily
+ Bots:["'0niva'", "'pixelbypixel_bot'"]
+2022-08-29 01:30:16: roflgator
+ Bots:[]
+2022-08-29 01:30:39: lanfear_vr
+ Bots:["'aten'", "'rogueg1rl'", "'sonyplaystations'", "'tinarif'", "'violets_tv'", "'yamickle'"]
+2022-08-29 01:30:46: curious_emily
+ Bots:["'0niva'", "'erika_fnbr'", "'pixelbypixel_bot'", "'rogueg1rl'"]
+2022-08-29 17:22:16: murdercrumpet
+ Bots:[]
+2022-08-29 17:30:03: murdercrumpet
+ Bots:[]
+2022-08-29 17:30:31: tevin_vr
+ Bots:["'0ax2'", "'beardedstrumerwaitingroom'", "'blkheroeseverywhere'", "'frw33ds_kitten'", "'larakraf'", "'soicluberville'", "'tizcloud'"]
+2022-08-29 17:46:03: murdercrumpet
+ Bots:[]
+2022-08-29 17:46:30: tevin_vr
+ Bots:["'beardedstrumerwaitingroom'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'0_supa'"]
+2022-08-29 17:46:33: momo
+ Bots:["'applepiechart'", "'commanderroot'", "'kittenrescue'", "'senolass'", "'wafflebudder'"]
+2022-08-29 18:00:10: murdercrumpet
+ Bots:[]
+2022-08-29 18:00:37: tevin_vr
+ Bots:["'beardedstrumerwaitingroom'", "'blkheroeseverywhere'", "'frw33ds_kitten'", "'larakraf'", "'soicluberville'", "'spiketrapclair'"]
+2022-08-29 18:00:41: momo
+ Bots:["'commanderroot'"]
+2022-08-29 19:30:03: murdercrumpet
+ Bots:[]
+2022-08-29 19:30:03: murdercrumpet
+ Bots:[]
+2022-08-29 19:30:32: tevin_vr
+ Bots:["'0ax2'", "'beardedstrumerwaitingroom'", "'elysian'", "'larakraf'", "'soicluberville'", "'spiketrapclair'", "'waptart'", "'xyfm'", "'yamickle'"]
+2022-08-29 19:30:32: tevin_vr
+ Bots:["'beardedstrumerwaitingroom'", "'frw33ds_kitten'", "'soicluberville'", "'spiketrapclair'", "'xyfm'", "'yamickle'"]
+2022-08-29 19:30:36: momo
+ Bots:[]
+2022-08-29 19:30:36: momo
+ Bots:[]
+2022-08-29 19:45:12: murdercrumpet
+ Bots:[]
+2022-08-29 19:45:41: tevin_vr
+ Bots:["'0ax2'", "'beardedstrumerwaitingroom'", "'elysian'", "'spiketrapclair'", "'tizcloud'", "'waptart'", "'xyfm'", "'yamickle'"]
+2022-08-29 19:45:45: momo
+ Bots:[]
+2022-08-29 20:00:11: murdercrumpet
+ Bots:[]
+2022-08-29 20:00:19: snowsos
+ Bots:["'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'extramoar'", "'frw33ds_kitten'", "'hades_osiris'", "'tinarif'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 20:00:41: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'frw33ds_kitten'", "'icaro12oliveira'", "'spiketrapclair'", "'xyfm'", "'yamickle'", "'0_supa'"]
+2022-08-29 20:00:45: momo
+ Bots:["'anthropologydept'", "'wafflebudder'"]
+2022-08-29 20:15:03: murdercrumpet
+ Bots:["'sixflagsmagicmountain'"]
+2022-08-29 20:15:12: snowsos
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'extramoar'", "'frw33ds_kitten'", "'hades_osiris'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 20:15:24: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 20:15:35: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'frw33ds_kitten'", "'icaro12oliveira'", "'larakraf'", "'tizcloud'", "'waptart'", "'yamickle'", "'0_supa'"]
+2022-08-29 20:15:38: momo
+ Bots:["'0_supa'"]
+2022-08-29 20:30:04: murdercrumpet
+ Bots:[]
+2022-08-29 20:30:12: snowsos
+ Bots:["'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'extramoar'", "'frw33ds_kitten'", "'hades_osiris'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 20:30:23: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 20:30:34: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'frw33ds_kitten'", "'icaro12oliveira'", "'larakraf'", "'soicluberville'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-29 20:30:37: momo
+ Bots:[]
+2022-08-29 20:45:03: murdercrumpet
+ Bots:[]
+2022-08-29 20:45:11: snowsos
+ Bots:["'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'extramoar'", "'frw33ds_kitten'", "'hades_osiris'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 20:45:23: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 20:45:34: tevin_vr
+ Bots:["'elysian'", "'icaro12oliveira'", "'larakraf'", "'soicluberville'", "'spiketrapclair'", "'waptart'", "'xyfm'", "'0_supa'"]
+2022-08-29 20:45:38: momo
+ Bots:["'wafflebudder'"]
+2022-08-29 21:00:03: murdercrumpet
+ Bots:[]
+2022-08-29 21:00:12: snowsos
+ Bots:["'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'extramoar'", "'frw33ds_kitten'", "'hades_osiris'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 21:00:22: Kareeda
+ Bots:["'0ax2'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'rimastino'", "'spiketrapclair'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 21:00:34: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'frw33ds_kitten'", "'icaro12oliveira'", "'spiketrapclair'", "'waptart'"]
+2022-08-29 21:00:37: momo
+ Bots:["'spiketrapclair'", "'wafflebudder'"]
+2022-08-29 21:15:11: snowsos
+ Bots:["'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'elysian'", "'extramoar'", "'frw33ds_kitten'", "'hades_osiris'", "'isnicable'", "'itsvodoo'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 21:15:20: roflgator
+ Bots:[]
+2022-08-29 21:15:23: Kareeda
+ Bots:["'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 21:15:34: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'frw33ds_kitten'", "'larakraf'", "'soicluberville'", "'spiketrapclair'", "'yamickle'", "'0_supa'"]
+2022-08-29 21:15:37: momo
+ Bots:[]
+2022-08-29 21:30:34: snowsos
+ Bots:["'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'elysian'", "'extramoar'", "'frw33ds_kitten'", "'hades_osiris'", "'isnicable'", "'itsvodoo'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 21:30:43: roflgator
+ Bots:[]
+2022-08-29 21:30:46: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 21:30:57: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'frw33ds_kitten'", "'icaro12oliveira'", "'larakraf'", "'soicluberville'", "'spiketrapclair'", "'tizcloud'", "'waptart'", "'xyfm'", "'yamickle'", "'0_supa'"]
+2022-08-29 21:31:01: momo
+ Bots:[]
+2022-08-29 21:31:12: magykrose
+ Bots:["'0ax2'", "'anotherttvviewer'", "'commanderroot'", "'graphmau'", "'lorypub'"]
+2022-08-29 21:45:11: snowsos
+ Bots:["'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'elysian'", "'frw33ds_kitten'", "'hades_osiris'", "'isnicable'", "'tinarif'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 21:45:15: Stealthrg
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-08-29 21:45:19: roflgator
+ Bots:[]
+2022-08-29 21:45:22: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 21:45:34: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'frw33ds_kitten'", "'larakraf'", "'soicluberville'", "'spiketrapclair'", "'tizcloud'", "'waptart'", "'xyfm'", "'yamickle'", "'0_supa'"]
+2022-08-29 21:45:37: momo
+ Bots:["'applepiechart'", "'nightchillbc'", "'senolass'"]
+2022-08-29 21:45:48: magykrose
+ Bots:["'0ax2'", "'anotherttvviewer'", "'commanderroot'", "'graphmau'", "'lorypub'"]
+2022-08-29 22:00:10: snowsos
+ Bots:["'brokemystreamdeck'", "'commanderroot'", "'elysian'", "'extramoar'", "'frw33ds_kitten'", "'hades_osiris'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 22:00:14: Stealthrg
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'extramoar'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-08-29 22:00:18: roflgator
+ Bots:[]
+2022-08-29 22:00:22: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'spiketrapclair'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 22:00:33: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'frw33ds_kitten'", "'icaro12oliveira'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'waptart'", "'xyfm'", "'yamickle'", "'0_supa'"]
+2022-08-29 22:00:48: magykrose
+ Bots:["'0ax2'", "'anotherttvviewer'", "'commanderroot'", "'graphmau'", "'lorypub'", "'rogueg1rl'"]
+2022-08-29 22:15:11: snowsos
+ Bots:["'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'elysian'", "'extramoar'", "'frw33ds_kitten'", "'hades_osiris'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 22:15:14: Stealthrg
+ Bots:["'anotherttvviewer'", "'soundofraindrops'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-08-29 22:15:18: roflgator
+ Bots:[]
+2022-08-29 22:15:22: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 22:15:33: tevin_vr
+ Bots:["'0ax2'", "'frw33ds_kitten'", "'icaro12oliveira'", "'larakraf'", "'soicluberville'", "'spiketrapclair'", "'tizcloud'", "'waptart'", "'xyfm'", "'0_supa'"]
+2022-08-29 22:15:47: magykrose
+ Bots:["'0ax2'", "'anotherttvviewer'", "'commanderroot'", "'graphmau'", "'lorypub'", "'rogueg1rl'"]
+2022-08-29 22:30:11: snowsos
+ Bots:["'aten'", "'brokemystreamdeck'", "'commanderroot'", "'elysian'", "'extramoar'", "'frw33ds_kitten'", "'hades_osiris'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 22:30:15: Stealthrg
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'soundofraindrops'", "'v_and_k'"]
+2022-08-29 22:30:18: roflgator
+ Bots:[]
+2022-08-29 22:30:22: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 22:30:33: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'frw33ds_kitten'", "'larakraf'", "'waptart'", "'xyfm'", "'yamickle'", "'0_supa'"]
+2022-08-29 22:45:22: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'brokemystreamdeck'", "'commanderroot'", "'elysian'", "'extramoar'", "'frw33ds_kitten'", "'hades_osiris'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 22:45:26: Stealthrg
+ Bots:["'anotherttvviewer'", "'aten'", "'delotx'", "'rimastino'", "'soundofraindrops'", "'0_supa'"]
+2022-08-29 22:45:29: roflgator
+ Bots:[]
+2022-08-29 22:45:33: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'aten'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'rimastino'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 22:45:44: tevin_vr
+ Bots:["'frw33ds_kitten'", "'larakraf'", "'soicluberville'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'yamickle'", "'0_supa'"]
+2022-08-29 22:45:51: oathmeal
+ Bots:["'4fxz'", "'commanderroot'", "'geall'", "'sonyplaystations'", "'0_supa'"]
+2022-08-29 23:00:19: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'brokemystreamdeck'", "'commanderroot'", "'elysian'", "'frw33ds_kitten'", "'hades_osiris'", "'isnicable'", "'tinarif'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 23:00:23: Stealthrg
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'delotx'", "'extramoar'", "'v_and_k'"]
+2022-08-29 23:00:27: roflgator
+ Bots:["'spiketrapclair'"]
+2022-08-29 23:00:31: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'aten'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 23:00:42: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'frw33ds_kitten'", "'larakraf'", "'soicluberville'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-29 23:00:49: oathmeal
+ Bots:["'4fxz'", "'commanderroot'", "'geall'", "'rimastino'", "'sonyplaystations'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-08-29 23:15:10: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'brokemystreamdeck'", "'commanderroot'", "'elysian'", "'extramoar'", "'frw33ds_kitten'", "'hades_osiris'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 23:15:14: Stealthrg
+ Bots:["'aten'", "'commanderroot'", "'delotx'", "'rimastino'", "'soundofraindrops'", "'spiketrapclair'"]
+2022-08-29 23:15:17: roflgator
+ Bots:["'geall'", "'0_supa'"]
+2022-08-29 23:15:21: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 23:15:33: tevin_vr
+ Bots:["'elysian'", "'frw33ds_kitten'", "'icaro12oliveira'", "'larakraf'", "'soicluberville'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-29 23:15:40: oathmeal
+ Bots:["'4fxz'", "'geall'", "'rimastino'", "'sonyplaystations'", "'spiketrapclair'", "'toastyprime'", "'v_and_k'"]
+2022-08-29 23:30:14: Stealthrg
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'extramoar'", "'rimastino'", "'soundofraindrops'", "'v_and_k'", "'0_supa'"]
+2022-08-29 23:30:18: roflgator
+ Bots:[]
+2022-08-29 23:30:22: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'aten'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 23:30:33: tevin_vr
+ Bots:["'0ax2'", "'frw33ds_kitten'", "'icaro12oliveira'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'xyfm'"]
+2022-08-29 23:30:40: oathmeal
+ Bots:["'edellyna'", "'geall'", "'rimastino'", "'sonyplaystations'", "'spiketrapclair'", "'0_supa'"]
+2022-08-29 23:45:15: Stealthrg
+ Bots:["'anotherttvviewer'", "'aten'", "'delotx'", "'rimastino'", "'soundofraindrops'", "'spiketrapclair'", "'yamickle'"]
+2022-08-29 23:45:19: roflgator
+ Bots:["'bossundee'"]
+2022-08-29 23:45:23: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'aten'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'spiketrapclair'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-29 23:45:33: tevin_vr
+ Bots:["'0ax2'", "'frw33ds_kitten'", "'icaro12oliveira'", "'larakraf'", "'spiketrapclair'", "'tizcloud'"]
+2022-08-29 23:45:41: oathmeal
+ Bots:["'4fxz'", "'sonyplaystations'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-08-30 00:00:15: Stealthrg
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'delotx'", "'losjaraswines'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'yamickle'", "'0_supa'"]
+2022-08-30 00:00:19: roflgator
+ Bots:["'1174'"]
+2022-08-30 00:00:22: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-30 00:00:34: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'frw33ds_kitten'", "'larakraf'", "'soicluberville'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-30 00:00:41: oathmeal
+ Bots:["'commanderroot'", "'edellyna'", "'geall'", "'rimastino'", "'sonyplaystations'", "'toastyprime'", "'v_and_k'"]
+2022-08-30 00:15:48: Stealthrg
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'delotx'", "'losjaraswines'", "'rimastino'", "'soundofraindrops'", "'0_supa'"]
+2022-08-30 00:16:05: roflgator
+ Bots:[]
+2022-08-30 00:16:35: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-30 00:17:31: tevin_vr
+ Bots:["'0ax2'", "'frw33ds_kitten'", "'icaro12oliveira'", "'soicluberville'", "'spiketrapclair'", "'tizcloud'", "'xyfm'"]
+2022-08-30 00:18:25: oathmeal
+ Bots:["'4fxz'", "'edellyna'", "'rimastino'", "'sonyplaystations'", "'v_and_k'"]
+2022-08-30 00:30:24: Stealthrg
+ Bots:["'commanderroot'", "'delotx'", "'rimastino'", "'spiketrapclair'", "'yamickle'", "'0_supa'"]
+2022-08-30 00:30:28: roflgator
+ Bots:[]
+2022-08-30 00:30:32: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'aliengathering'", "'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-30 00:30:35: aikasanvr
+ Bots:["'commanderroot'", "'eatsaoe'", "'ffxivstyx'", "'frw33ds_kitten'", "'0_supa'"]
+2022-08-30 00:30:43: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'icaro12oliveira'", "'spiketrapclair'", "'tizcloud'", "'0_supa'"]
+2022-08-30 00:30:51: oathmeal
+ Bots:["'4fxz'", "'commanderroot'", "'edellyna'", "'rimastino'", "'sonyplaystations'", "'toastyprime'"]
+2022-08-30 00:45:15: Stealthrg
+ Bots:["'commanderroot'", "'elysian'", "'extramoar'", "'losjaraswines'", "'rimastino'", "'spiketrapclair'", "'yamickle'"]
+2022-08-30 00:45:19: roflgator
+ Bots:[]
+2022-08-30 00:45:22: Kareeda
+ Bots:["'0ax2'", "'abbottcostello'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'elysian'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-30 00:45:26: aikasanvr
+ Bots:["'commanderroot'", "'eatsaoe'", "'ffxivstyx'", "'frw33ds_kitten'", "'spiketrapclair'", "'0_supa'"]
+2022-08-30 00:45:34: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'frw33ds_kitten'", "'icaro12oliveira'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-30 00:45:43: oathmeal
+ Bots:["'commanderroot'", "'edellyna'", "'geall'", "'rimastino'", "'sonyplaystations'", "'toastyprime'", "'v_and_k'", "'0_supa'"]
+2022-08-30 01:00:18: roflgator
+ Bots:["'elysian'"]
+2022-08-30 01:00:22: Kareeda
+ Bots:["'0ax2'", "'academyimpossible'", "'aliengathering'", "'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'elysian'", "'frw33ds_kitten'", "'hades_osiris'", "'natzelly'", "'rimastino'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-30 01:00:25: aikasanvr
+ Bots:["'commanderroot'", "'eatsaoe'", "'ffxivstyx'", "'frw33ds_kitten'", "'spiketrapclair'", "'0_supa'"]
+2022-08-30 01:00:33: tevin_vr
+ Bots:["'frw33ds_kitten'", "'larakraf'", "'soicluberville'", "'spiketrapclair'", "'yamickle'", "'0_supa'"]
+2022-08-30 01:00:40: oathmeal
+ Bots:["'4fxz'", "'commanderroot'", "'edellyna'", "'geall'", "'rimastino'", "'sonyplaystations'", "'spiketrapclair'", "'toastyprime'", "'v_and_k'"]
+2022-08-30 17:18:29: murdercrumpet
+ Bots:["'beardedstrumerwaitingroom'"]
+2022-08-30 17:18:33: sodapoppin
+ Bots:[]
+2022-08-30 17:18:37: snowsos
+ Bots:["'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'isnicable'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-08-30 17:18:54: shizu
+ Bots:["'anotherttvviewer'", "'aten'", "'beardedstrumerwaitingroom'", "'commanderroot'", "'elbretweets'", "'erika_fnbr'", "'frw33ds_kitten'", "'hades_osiris'", "'icantcontrolit'", "'isnicable'", "'larakraf'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'stygian_styx'", "'uncle_spawn'", "'v_and_k'", "'0_supa'"]
+2022-08-30 17:30:03: murdercrumpet
+ Bots:["'spiketrapclair'"]
+2022-08-30 17:30:07: sodapoppin
+ Bots:[]
+2022-08-30 17:30:10: snowsos
+ Bots:["'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-08-30 17:30:28: shizu
+ Bots:["'comettunes'", "'commanderroot'", "'dukan_rex'", "'elysian'", "'erika_fnbr'", "'frw33ds_kitten'", "'hades_osiris'", "'icantcontrolit'", "'metaviews'", "'nightchillbc'", "'rimastino'", "'soundofraindrops'", "'spiketrapclair'", "'stixffxiv'", "'stygian_styx'", "'uncle_spawn'", "'underworldnaiad'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-30 17:45:03: murdercrumpet
+ Bots:[]
+2022-08-30 17:45:07: sodapoppin
+ Bots:[]
+2022-08-30 17:45:11: snowsos
+ Bots:["'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-08-30 17:45:28: shizu
+ Bots:["'beardedstrumerwaitingroom'", "'dukan_rex'", "'eatsaoe'", "'elbretweets'", "'elysian'", "'frw33ds_kitten'", "'hades_osiris'", "'larakraf'", "'metaviews'", "'remasuri_bot'", "'rimastino'", "'soundofraindrops'", "'spiketrapclair'", "'stixffxiv'", "'stygian_styx'", "'underworldnaiad'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-30 18:00:03: murdercrumpet
+ Bots:["'beardedstrumerwaitingroom'"]
+2022-08-30 18:00:07: sodapoppin
+ Bots:[]
+2022-08-30 18:00:10: snowsos
+ Bots:["'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-08-30 18:00:31: tevin_vr
+ Bots:["'0ax2'", "'0_supa'"]
+2022-08-30 18:45:04: murdercrumpet
+ Bots:["'soundofraindrops'"]
+2022-08-30 18:45:07: sodapoppin
+ Bots:[]
+2022-08-30 18:45:11: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'brokemystreamdeck'", "'commanderroot'", "'feet'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-08-30 18:45:31: tevin_vr
+ Bots:["'0ax2'", "'larakraf'", "'xyfm'", "'0_supa'"]
+2022-08-30 19:00:03: murdercrumpet
+ Bots:[]
+2022-08-30 19:00:07: sodapoppin
+ Bots:[]
+2022-08-30 19:00:10: snowsos
+ Bots:["'aten'", "'brokemystreamdeck'", "'commanderroot'", "'feet'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-08-30 19:00:31: tevin_vr
+ Bots:["'0ax2'", "'larakraf'", "'spiketrapclair'", "'xyfm'", "'0_supa'"]
+2022-08-30 19:15:03: murdercrumpet
+ Bots:[]
+2022-08-30 19:15:07: sodapoppin
+ Bots:[]
+2022-08-30 19:15:10: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'brokemystreamdeck'", "'commanderroot'", "'feet'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-08-30 19:15:31: tevin_vr
+ Bots:["'0ax2'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-30 19:30:03: murdercrumpet
+ Bots:["'soundofraindrops'"]
+2022-08-30 19:30:06: sodapoppin
+ Bots:[]
+2022-08-30 19:30:10: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'brokemystreamdeck'", "'commanderroot'", "'feet'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-08-30 19:30:31: tevin_vr
+ Bots:["'0ax2'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-30 19:45:03: murdercrumpet
+ Bots:[]
+2022-08-30 19:45:07: sodapoppin
+ Bots:[]
+2022-08-30 19:45:11: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'brokemystreamdeck'", "'commanderroot'", "'elysian'", "'feet'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-08-30 19:45:32: tevin_vr
+ Bots:["'0ax2'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-30 20:00:03: murdercrumpet
+ Bots:[]
+2022-08-30 20:00:07: sodapoppin
+ Bots:[]
+2022-08-30 20:00:32: tevin_vr
+ Bots:["'0ax2'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-30 20:15:03: murdercrumpet
+ Bots:[]
+2022-08-30 20:15:07: sodapoppin
+ Bots:[]
+2022-08-30 20:15:35: tevin_vr
+ Bots:["'0ax2'", "'larakraf'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-30 20:30:03: murdercrumpet
+ Bots:[]
+2022-08-30 20:30:08: sodapoppin
+ Bots:[]
+2022-08-30 20:30:32: tevin_vr
+ Bots:["'0ax2'", "'larakraf'", "'spiketrapclair'", "'xyfm'", "'0_supa'"]
+2022-08-30 20:45:04: murdercrumpet
+ Bots:[]
+2022-08-30 20:45:07: sodapoppin
+ Bots:[]
+2022-08-30 20:45:35: tevin_vr
+ Bots:["'0ax2'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-30 21:00:04: murdercrumpet
+ Bots:[]
+2022-08-30 21:00:07: sodapoppin
+ Bots:[]
+2022-08-30 21:00:32: tevin_vr
+ Bots:["'0ax2'", "'larakraf'", "'spiketrapclair'", "'xyfm'", "'0_supa'"]
+2022-08-30 21:15:03: murdercrumpet
+ Bots:[]
+2022-08-30 21:15:07: sodapoppin
+ Bots:[]
+2022-08-30 21:15:31: tevin_vr
+ Bots:["'0ax2'", "'larakraf'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-30 21:30:07: sodapoppin
+ Bots:["'stygian_styx'"]
+2022-08-30 21:30:17: roflgator
+ Bots:[]
+2022-08-30 21:30:31: tevin_vr
+ Bots:["'0ax2'", "'larakraf'", "'spiketrapclair'", "'xyfm'", "'0_supa'"]
+2022-08-30 21:45:07: sodapoppin
+ Bots:["'icantcontrolit'"]
+2022-08-30 21:45:17: roflgator
+ Bots:["'1174'"]
+2022-08-30 21:45:32: tevin_vr
+ Bots:["'0ax2'", "'larakraf'", "'spiketrapclair'", "'xyfm'", "'0_supa'"]
+2022-08-30 21:45:45: magykrose
+ Bots:["'0ax2'", "'anotherttvviewer'", "'commanderroot'", "'lorypub'"]
+2022-08-30 22:00:16: sodapoppin
+ Bots:[]
+2022-08-30 22:00:27: roflgator
+ Bots:[]
+2022-08-30 22:00:41: tevin_vr
+ Bots:["'0ax2'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-30 22:00:54: magykrose
+ Bots:["'0ax2'", "'anotherttvviewer'", "'commanderroot'", "'lorypub'"]
+2022-08-30 22:15:07: sodapoppin
+ Bots:[]
+2022-08-30 22:15:18: roflgator
+ Bots:[]
+2022-08-30 22:15:31: tevin_vr
+ Bots:["'0ax2'", "'lanarayyyy'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-30 22:15:45: magykrose
+ Bots:["'0ax2'", "'anotherttvviewer'", "'commanderroot'", "'lorypub'"]
+2022-08-30 22:30:16: sodapoppin
+ Bots:[]
+2022-08-30 22:30:27: roflgator
+ Bots:["'1174'"]
+2022-08-30 22:30:40: tevin_vr
+ Bots:["'0ax2'", "'lanarayyyy'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-30 22:30:55: magykrose
+ Bots:["'0ax2'", "'anotherttvviewer'", "'commanderroot'", "'lorypub'"]
+2022-08-30 22:45:07: sodapoppin
+ Bots:["'1174'"]
+2022-08-30 22:45:17: roflgator
+ Bots:[]
+2022-08-30 22:45:31: tevin_vr
+ Bots:["'0ax2'", "'lanarayyyy'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-30 22:45:45: magykrose
+ Bots:["'0ax2'", "'anotherttvviewer'", "'commanderroot'"]
+2022-08-30 23:00:06: sodapoppin
+ Bots:[]
+2022-08-30 23:00:17: roflgator
+ Bots:[]
+2022-08-30 23:00:30: tevin_vr
+ Bots:["'0ax2'", "'lanarayyyy'", "'larakraf'", "'spiketrapclair'", "'xyfm'"]
+2022-08-30 23:00:43: magykrose
+ Bots:["'0ax2'", "'anotherttvviewer'", "'commanderroot'", "'lorypub'"]
+2022-08-30 23:15:07: sodapoppin
+ Bots:[]
+2022-08-30 23:15:17: roflgator
+ Bots:[]
+2022-08-30 23:15:31: tevin_vr
+ Bots:["'0ax2'", "'larakraf'", "'spiketrapclair'", "'xyfm'", "'0_supa'"]
+2022-08-30 23:15:45: magykrose
+ Bots:["'0ax2'", "'anotherttvviewer'", "'commanderroot'", "'lorypub'"]
+2022-08-30 23:30:07: sodapoppin
+ Bots:[]
+2022-08-30 23:30:16: roflgator
+ Bots:["'0_supa'"]
+2022-08-30 23:30:31: tevin_vr
+ Bots:["'0ax2'", "'lanarayyyy'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-30 23:30:44: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'anotherttvviewer'", "'commanderroot'", "'lorypub'"]
+2022-08-30 23:45:07: sodapoppin
+ Bots:[]
+2022-08-30 23:45:17: roflgator
+ Bots:["'0_supa'"]
+2022-08-30 23:45:23: aikasanvr
+ Bots:["'commanderroot'", "'eatsaoe'", "'sophikal'", "'0_supa'"]
+2022-08-30 23:45:30: tevin_vr
+ Bots:["'larakraf'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-31 00:00:07: sodapoppin
+ Bots:[]
+2022-08-31 00:00:17: roflgator
+ Bots:[]
+2022-08-31 00:00:24: aikasanvr
+ Bots:["'commanderroot'", "'eatsaoe'", "'sophikal'", "'spiketrapclair'", "'0_supa'"]
+2022-08-31 00:00:31: tevin_vr
+ Bots:["'0ax2'", "'lanarayyyy'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-31 00:15:07: sodapoppin
+ Bots:[]
+2022-08-31 00:15:17: roflgator
+ Bots:[]
+2022-08-31 00:15:24: aikasanvr
+ Bots:["'commanderroot'", "'eatsaoe'", "'sophikal'", "'spiketrapclair'"]
+2022-08-31 00:15:31: tevin_vr
+ Bots:["'0ax2'", "'lanarayyyy'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-08-31 00:52:01: sodapoppin
+ Bots:[]
+2022-08-31 00:52:13: roflgator
+ Bots:[]
+2022-08-31 00:52:19: aikasanvr
+ Bots:["'commanderroot'", "'eatsaoe'", "'elysian'", "'spiketrapclair'", "'0_supa'"]
+2022-08-31 00:52:26: tevin_vr
+ Bots:["'0ax2'", "'lanarayyyy'", "'larakraf'", "'spiketrapclair'", "'tizcloud'", "'xyfm'"]
+2022-08-31 00:52:43: curious_emily
+ Bots:["'0niva'", "'pixelbypixel_bot'"]
+2022-08-31 10:31:13: sodapoppin
+ Bots:[]
+2022-08-31 10:31:13: sodapoppin
+ Bots:[]
+2022-08-31 10:31:38: tevin_vr
+ Bots:["'0ax2'", "'tizcloud'", "'0_supa'"]
+2022-08-31 10:31:38: tevin_vr
+ Bots:["'kodiakbrujah'", "'lanarayyyy'", "'tizcloud'", "'0_supa'"]
+2022-08-31 10:31:38: tevin_vr
+ Bots:["'kodiakbrujah'", "'larakraf'", "'xyfm'"]
+2022-08-31 10:40:16: sodapoppin
+ Bots:["'lanarayyyy'"]
+2022-08-31 10:40:42: tevin_vr
+ Bots:["'0ax2'", "'kodiakbrujah'", "'0_supa'"]
+2022-08-31 10:55:07: sodapoppin
+ Bots:[]
+2022-08-31 10:55:33: tevin_vr
+ Bots:["'tizcloud'"]
+2022-08-31 11:10:07: sodapoppin
+ Bots:[]
+2022-08-31 11:10:35: tevin_vr
+ Bots:["'tizcloud'"]
+2022-08-31 11:25:07: sodapoppin
+ Bots:[]
+2022-08-31 11:25:33: tevin_vr
+ Bots:["'elysian'", "'kodiakbrujah'", "'larakraf'", "'tizcloud'", "'0_supa'"]
+2022-08-31 11:40:07: sodapoppin
+ Bots:[]
+2022-08-31 11:40:33: tevin_vr
+ Bots:["'lanarayyyy'", "'larakraf'", "'spiketrapclair'", "'0_supa'"]
+2022-08-31 11:55:07: sodapoppin
+ Bots:[]
+2022-08-31 11:55:33: tevin_vr
+ Bots:["'elysian'", "'lanarayyyy'", "'spiketrapclair'", "'yamickle'", "'0_supa'"]
+2022-08-31 12:10:07: sodapoppin
+ Bots:["'comettunes'"]
+2022-08-31 12:10:34: tevin_vr
+ Bots:["'larakraf'", "'spiketrapclair'"]
+2022-08-31 12:25:08: sodapoppin
+ Bots:["'anotherttvviewer'"]
+2022-08-31 12:25:37: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'larakraf'", "'0_supa'"]
+2022-08-31 12:40:07: sodapoppin
+ Bots:[]
+2022-08-31 12:40:33: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'spiketrapclair'"]
+2022-08-31 12:55:07: sodapoppin
+ Bots:[]
+2022-08-31 12:55:33: tevin_vr
+ Bots:["'lanarayyyy'", "'tizcloud'", "'0_supa'"]
+2022-08-31 13:10:07: sodapoppin
+ Bots:[]
+2022-08-31 13:10:29: shizu
+ Bots:["'anotherttvviewer'", "'blkheroeseverywhere'", "'brokemystreamdeck'", "'comettunes'", "'commanderroot'", "'eatsaoe'", "'elbretweets'", "'elysian'", "'erika_fnbr'", "'farminggurl'", "'ffxivstyx'", "'frw33ds_kitten'", "'hades_osiris'", "'icantcontrolit'", "'isnicable'", "'larakraf'", "'metaviews'", "'nerdydreams'", "'remasuri_bot'", "'stixffxiv'", "'stygian_styx'", "'uncle_spawn'", "'underworldnaiad'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-31 13:10:33: tevin_vr
+ Bots:["'erika_fnbr'", "'lanarayyyy'", "'spiketrapclair'", "'0_supa'"]
+2022-08-31 13:25:07: sodapoppin
+ Bots:[]
+2022-08-31 13:25:29: shizu
+ Bots:["'anotherttvviewer'", "'beardedstrumerwaitingroom'", "'blkheroeseverywhere'", "'brokemystreamdeck'", "'comettunes'", "'commanderroot'", "'eatsaoe'", "'elbretweets'", "'elysian'", "'farminggurl'", "'isnicable'", "'larakraf'", "'metaviews'", "'remasuri_bot'", "'stixffxiv'", "'stygian_styx'", "'uncle_spawn'", "'underworldnaiad'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-31 13:25:33: tevin_vr
+ Bots:["'0ax2'", "'lanarayyyy'", "'larakraf'", "'0_supa'"]
+2022-08-31 13:40:07: sodapoppin
+ Bots:[]
+2022-08-31 13:40:29: shizu
+ Bots:["'anotherttvviewer'", "'beardedstrumerwaitingroom'", "'blkheroeseverywhere'", "'brokemystreamdeck'", "'comettunes'", "'commanderroot'", "'eatsaoe'", "'elbretweets'", "'elysian'", "'erika_fnbr'", "'farminggurl'", "'isnicable'", "'larakraf'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'stixffxiv'", "'stygian_styx'", "'v_and_k'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-31 13:40:33: tevin_vr
+ Bots:["'0ax2'", "'erika_fnbr'", "'larakraf'", "'spiketrapclair'", "'0_supa'"]
+2022-08-31 13:55:29: shizu
+ Bots:["'anotherttvviewer'", "'beardedstrumerwaitingroom'", "'blkheroeseverywhere'", "'brokemystreamdeck'", "'comettunes'", "'commanderroot'", "'eatsaoe'", "'elbretweets'", "'elysian'", "'erika_fnbr'", "'farminggurl'", "'larakraf'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'stixffxiv'", "'stygian_styx'", "'uncle_spawn'", "'underworldnaiad'", "'warsofthetrekgatestar'", "'wpfid5555'", "'0_supa'"]
+2022-08-31 13:55:33: tevin_vr
+ Bots:["'0ax2'"]
+2022-08-31 14:10:29: shizu
+ Bots:["'anotherttvviewer'", "'beardedstrumerwaitingroom'", "'blkheroeseverywhere'", "'brokemystreamdeck'", "'commanderroot'", "'eatsaoe'", "'elbretweets'", "'elysian'", "'erika_fnbr'", "'farminggurl'", "'isnicable'", "'larakraf'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'stixffxiv'", "'stygian_styx'", "'uncle_spawn'", "'underworldnaiad'", "'v_and_k'", "'warsofthetrekgatestar'", "'wpfid5555'", "'0_supa'"]
+2022-08-31 14:10:32: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'tizcloud'", "'yamickle'"]
+2022-08-31 14:25:30: shizu
+ Bots:["'anotherttvviewer'", "'blkheroeseverywhere'", "'brokemystreamdeck'", "'comettunes'", "'commanderroot'", "'eatsaoe'", "'elbretweets'", "'elysian'", "'farminggurl'", "'isnicable'", "'larakraf'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'stixffxiv'", "'stygian_styx'", "'uncle_spawn'", "'underworldnaiad'", "'violets_tv'", "'warsofthetrekgatestar'", "'wpfid5555'", "'0_supa'"]
+2022-08-31 14:25:33: tevin_vr
+ Bots:["'0ax2'", "'spiketrapclair'"]
+2022-08-31 14:40:30: shizu
+ Bots:["'anotherttvviewer'", "'beardedstrumerwaitingroom'", "'blkheroeseverywhere'", "'comettunes'", "'eatsaoe'", "'elbretweets'", "'elysian'", "'farminggurl'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'stygian_styx'", "'uncle_spawn'", "'v_and_k'", "'violets_tv'", "'warsofthetrekgatestar'", "'wpfid5555'", "'0_supa'"]
+2022-08-31 14:40:33: tevin_vr
+ Bots:["'elysian'", "'erika_fnbr'", "'lanarayyyy'", "'larakraf'", "'tizcloud'"]
+2022-08-31 14:55:29: shizu
+ Bots:["'beardedstrumerwaitingroom'", "'blkheroeseverywhere'", "'brokemystreamdeck'", "'comettunes'", "'commanderroot'", "'eatsaoe'", "'elbretweets'", "'farminggurl'", "'isnicable'", "'larakraf'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'spiketrapclair'", "'stixffxiv'", "'stygian_styx'", "'uncle_spawn'", "'underworldnaiad'", "'violets_tv'", "'0_supa'"]
+2022-08-31 14:55:33: tevin_vr
+ Bots:["'lanarayyyy'", "'spiketrapclair'", "'tizcloud'"]
+2022-08-31 15:10:29: shizu
+ Bots:["'anotherttvviewer'", "'brokemystreamdeck'", "'commanderroot'", "'eatsaoe'", "'elbretweets'", "'elysian'", "'erika_fnbr'", "'farminggurl'", "'isnicable'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'stixffxiv'", "'stygian_styx'", "'uncle_spawn'", "'underworldnaiad'", "'warsofthetrekgatestar'", "'wpfid5555'"]
+2022-08-31 15:10:32: tevin_vr
+ Bots:["'0_supa'"]
+2022-08-31 15:25:18: roflgator
+ Bots:[]
+2022-08-31 15:25:30: shizu
+ Bots:["'beardedstrumerwaitingroom'", "'blkheroeseverywhere'", "'brokemystreamdeck'", "'comettunes'", "'elbretweets'", "'erika_fnbr'", "'larakraf'", "'nightchillbc'", "'rimastino'", "'stygian_styx'", "'uncle_spawn'", "'v_and_k'", "'violets_tv'", "'warsofthetrekgatestar'", "'wpfid5555'", "'0_supa'"]
+2022-08-31 15:25:34: tevin_vr
+ Bots:["'elysian'", "'lanarayyyy'", "'spiketrapclair'"]
+2022-08-31 15:40:19: roflgator
+ Bots:["'pectoralmuscle'"]
+2022-08-31 15:40:30: shizu
+ Bots:["'anotherttvviewer'", "'beardedstrumerwaitingroom'", "'blkheroeseverywhere'", "'comettunes'", "'commanderroot'", "'eatsaoe'", "'elysian'", "'farminggurl'", "'larakraf'", "'metaviews'", "'nightchillbc'", "'rimastino'", "'stygian_styx'", "'uncle_spawn'", "'v_and_k'", "'violets_tv'", "'wpfid5555'"]
+2022-08-31 15:40:33: tevin_vr
+ Bots:["'erika_fnbr'", "'yamickle'", "'0_supa'"]
+2022-08-31 15:55:18: roflgator
+ Bots:[]
+2022-08-31 15:55:29: shizu
+ Bots:["'anotherttvviewer'", "'beardedstrumerwaitingroom'", "'brokemystreamdeck'", "'commanderroot'", "'eatsaoe'", "'elbretweets'", "'erika_fnbr'", "'farminggurl'", "'isnicable'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'stixffxiv'", "'stygian_styx'", "'warsofthetrekgatestar'", "'wpfid5555'", "'0_supa'"]
+2022-08-31 15:55:33: tevin_vr
+ Bots:["'erika_fnbr'", "'0_supa'"]
+2022-08-31 16:10:03: murdercrumpet
+ Bots:["'lanarayyyy'", "'0_supa'"]
+2022-08-31 16:10:18: roflgator
+ Bots:[]
+2022-08-31 16:10:29: shizu
+ Bots:["'beardedstrumerwaitingroom'", "'blkheroeseverywhere'", "'brokemystreamdeck'", "'commanderroot'", "'erika_fnbr'", "'isnicable'", "'larakraf'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'stixffxiv'", "'violets_tv'", "'warsofthetrekgatestar'", "'wpfid5555'", "'0_supa'"]
+2022-08-31 16:10:33: tevin_vr
+ Bots:["'erika_fnbr'", "'lanarayyyy'"]
+2022-08-31 16:25:03: murdercrumpet
+ Bots:[]
+2022-08-31 16:25:18: roflgator
+ Bots:[]
+2022-08-31 16:25:29: shizu
+ Bots:["'anotherttvviewer'", "'brokemystreamdeck'", "'comettunes'", "'commanderroot'", "'eatsaoe'", "'elbretweets'", "'elysian'", "'erika_fnbr'", "'farminggurl'", "'isnicable'", "'metaviews'", "'remasuri_bot'", "'spiketrapclair'", "'stixffxiv'", "'stygian_styx'", "'uncle_spawn'", "'v_and_k'", "'wpfid5555'", "'0_supa'"]
+2022-08-31 16:25:33: tevin_vr
+ Bots:["'0ax2'", "'elysian'", "'spiketrapclair'", "'0_supa'"]
+2022-08-31 16:40:04: murdercrumpet
+ Bots:[]
+2022-08-31 16:40:19: roflgator
+ Bots:[]
+2022-08-31 16:40:30: shizu
+ Bots:["'anotherttvviewer'", "'aten'", "'beardedstrumerwaitingroom'", "'brokemystreamdeck'", "'commanderroot'", "'elbretweets'", "'elysian'", "'erika_fnbr'", "'larakraf'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'stygian_styx'", "'uncle_spawn'", "'v_and_k'", "'violets_tv'", "'warsofthetrekgatestar'"]
+2022-08-31 16:40:34: tevin_vr
+ Bots:["'erika_fnbr'", "'lanarayyyy'"]
+2022-08-31 16:55:03: murdercrumpet
+ Bots:[]
+2022-08-31 16:55:18: roflgator
+ Bots:[]
+2022-08-31 16:55:31: shizu
+ Bots:["'aten'", "'beardedstrumerwaitingroom'", "'blkheroeseverywhere'", "'comettunes'", "'eatsaoe'", "'elbretweets'", "'farminggurl'", "'isnicable'", "'larakraf'", "'metaviews'", "'remasuri_bot'", "'spiketrapclair'", "'stygian_styx'", "'v_and_k'", "'violets_tv'", "'warsofthetrekgatestar'", "'0_supa'"]
+2022-08-31 16:55:34: tevin_vr
+ Bots:["'erika_fnbr'", "'larakraf'", "'tizcloud'", "'0_supa'"]
+2022-08-31 17:10:03: murdercrumpet
+ Bots:["'kattynah'"]
+2022-08-31 17:10:18: roflgator
+ Bots:[]
+2022-08-31 17:10:32: tevin_vr
+ Bots:["'elysian'", "'tizcloud'", "'0_supa'"]
+2022-08-31 17:25:03: murdercrumpet
+ Bots:["'beardedstrumerwaitingroom'", "'lanarayyyy'"]
+2022-08-31 17:25:18: roflgator
+ Bots:["'spiketrapclair'"]
+2022-08-31 17:25:33: tevin_vr
+ Bots:["'larakraf'"]
+2022-08-31 17:40:03: murdercrumpet
+ Bots:[]
+2022-08-31 17:40:19: roflgator
+ Bots:[]
+2022-08-31 17:40:34: tevin_vr
+ Bots:["'0_supa'"]
+2022-08-31 17:55:05: murdercrumpet
+ Bots:[]
+2022-08-31 17:55:19: roflgator
+ Bots:[]
+2022-08-31 17:55:34: tevin_vr
+ Bots:["'larakraf'", "'0_supa'"]
+2022-08-31 18:10:04: murdercrumpet
+ Bots:[]
+2022-08-31 18:10:20: roflgator
+ Bots:[]
+2022-08-31 18:10:36: tevin_vr
+ Bots:["'0_supa'"]
+2022-08-31 18:25:06: murdercrumpet
+ Bots:["'commanderroot'"]
+2022-08-31 18:25:22: roflgator
+ Bots:["'losjaraswines'"]
+2022-08-31 18:25:38: tevin_vr
+ Bots:["'tizcloud'", "'waptart'"]
+2022-08-31 18:40:04: murdercrumpet
+ Bots:[]
+2022-08-31 18:40:18: roflgator
+ Bots:[]
+2022-08-31 18:40:33: tevin_vr
+ Bots:[]
+2022-09-01 15:53:27: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'erika_fnbr'", "'farminggurl'", "'mararomano'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'stygian_styx'", "'v_and_k'", "'0_supa'"]
+2022-09-01 16:05:52: murdercrumpet
+ Bots:["'eatsaoe'"]
+2022-09-01 16:06:17: shizu
+ Bots:["'commanderroot'", "'erika_fnbr'", "'farminggurl'", "'isnicable'", "'mararomano'", "'metaviews'", "'natzelly'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'0_supa'"]
+2022-09-01 19:03:07: murdercrumpet
+ Bots:["'dhawnny'"]
+2022-09-01 19:03:43: momo
+ Bots:["'0_supa'"]
+2022-09-01 19:06:17: murdercrumpet
+ Bots:["'0_supa'"]
+2022-09-01 19:06:54: momo
+ Bots:["'anthropologydept'"]
+2022-09-01 19:22:17: murdercrumpet
+ Bots:["'lanarayyyy'"]
+2022-09-01 19:24:15: momo
+ Bots:[]
+2022-09-01 19:38:17: murdercrumpet
+ Bots:[]
+2022-09-01 19:39:43: momo
+ Bots:[]
+2022-09-01 20:05:55: murdercrumpet
+ Bots:["'spiketrapclair'"]
+2022-09-01 20:06:29: momo
+ Bots:["'elysian'"]
+2022-09-01 20:20:45: murdercrumpet
+ Bots:["'commanderroot'"]
+2022-09-01 20:21:18: momo
+ Bots:["'commanderroot'"]
+2022-09-01 20:35:46: murdercrumpet
+ Bots:[]
+2022-09-01 20:36:18: momo
+ Bots:["'xhylane'"]
+2022-09-01 20:50:46: murdercrumpet
+ Bots:["'bigbobs'"]
+2022-09-01 20:51:20: momo
+ Bots:["'senolass'"]
+2022-09-01 21:05:46: murdercrumpet
+ Bots:[]
+2022-09-01 21:06:05: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'commanderroot'", "'lanarayyyy'"]
+2022-09-01 21:06:19: momo
+ Bots:[]
+2022-09-01 21:21:00: roflgator
+ Bots:["'commanderroot'", "'pectoralmuscle'"]
+2022-09-01 21:21:04: Kareeda
+ Bots:["'academyimpossible'", "'commanderroot'", "'jhodymoon'"]
+2022-09-01 21:21:17: momo
+ Bots:["'lanarayyyy'"]
+2022-09-01 21:36:00: roflgator
+ Bots:["'pectoralmuscle'"]
+2022-09-01 21:36:03: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'commanderroot'", "'jhodymoon'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-01 21:36:18: momo
+ Bots:["'0_supa'"]
+2022-09-01 21:50:49: sodapoppin
+ Bots:["'forbearanceday'"]
+2022-09-01 21:51:00: roflgator
+ Bots:[]
+2022-09-01 21:51:04: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'commanderroot'", "'jhodymoon'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-01 21:51:18: momo
+ Bots:[]
+2022-09-01 22:05:50: sodapoppin
+ Bots:[]
+2022-09-01 22:06:01: roflgator
+ Bots:[]
+2022-09-01 22:06:04: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'commanderroot'", "'jhodymoon'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-01 22:06:19: momo
+ Bots:["'ffxivstyx'", "'xhylane'"]
+2022-09-01 22:20:49: sodapoppin
+ Bots:[]
+2022-09-01 22:21:00: roflgator
+ Bots:[]
+2022-09-01 22:21:04: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'commanderroot'", "'jhodymoon'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'waptart'"]
+2022-09-01 22:21:19: momo
+ Bots:["'commanderroot'", "'senolass'"]
+2022-09-01 22:35:50: sodapoppin
+ Bots:[]
+2022-09-01 22:36:01: roflgator
+ Bots:[]
+2022-09-01 22:36:05: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'commanderroot'", "'elysian'", "'jhodymoon'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'waptart'"]
+2022-09-01 22:36:19: momo
+ Bots:["'0_supa'"]
+2022-09-01 22:50:49: sodapoppin
+ Bots:[]
+2022-09-01 22:51:00: roflgator
+ Bots:["'0_supa'"]
+2022-09-01 22:51:03: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'commanderroot'", "'elysian'", "'jhodymoon'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-01 22:51:18: momo
+ Bots:["'lanarayyyy'"]
+2022-09-01 23:06:01: sodapoppin
+ Bots:[]
+2022-09-01 23:06:12: roflgator
+ Bots:[]
+2022-09-01 23:06:15: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'comettunes'", "'commanderroot'", "'elysian'", "'jhodymoon'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-01 23:06:29: momo
+ Bots:["'puptime'"]
+2022-09-01 23:20:49: sodapoppin
+ Bots:[]
+2022-09-01 23:21:00: roflgator
+ Bots:[]
+2022-09-01 23:21:04: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'aten'", "'comettunes'", "'commanderroot'", "'elysian'", "'feet'", "'jhodymoon'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-01 23:21:18: momo
+ Bots:[]
+2022-09-01 23:35:49: sodapoppin
+ Bots:[]
+2022-09-01 23:36:01: roflgator
+ Bots:[]
+2022-09-01 23:36:04: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'aten'", "'comettunes'", "'elysian'", "'feet'", "'jhodymoon'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-01 23:36:19: momo
+ Bots:["'senolass'"]
+2022-09-01 23:50:50: sodapoppin
+ Bots:["'erika_fnbr'"]
+2022-09-01 23:51:01: roflgator
+ Bots:[]
+2022-09-01 23:51:04: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'aten'", "'comettunes'", "'commanderroot'", "'elysian'", "'feet'", "'jhodymoon'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-01 23:51:19: momo
+ Bots:["'lanarayyyy'"]
+2022-09-02 00:05:49: sodapoppin
+ Bots:[]
+2022-09-02 00:06:00: roflgator
+ Bots:[]
+2022-09-02 00:06:04: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'aten'", "'comettunes'", "'commanderroot'", "'elysian'", "'feet'", "'jhodymoon'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-02 00:06:19: momo
+ Bots:["'xhylane'"]
+2022-09-02 00:06:33: curious_emily
+ Bots:[]
+2022-09-02 00:20:49: sodapoppin
+ Bots:[]
+2022-09-02 00:21:00: roflgator
+ Bots:["'0_supa'"]
+2022-09-02 00:21:04: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'aten'", "'comettunes'", "'commanderroot'", "'elysian'", "'feet'", "'jhodymoon'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-02 00:21:18: momo
+ Bots:["'elysian'", "'lanarayyyy'", "'toastyprime'"]
+2022-09-02 00:21:25: lanfear_vr
+ Bots:["'commanderroot'", "'erika_fnbr'", "'ffxivstyx'", "'lanarayyyy'", "'rogueg1rl'", "'underworldnaiad'", "'violets_tv'", "'wafflebudder'", "'0_supa'"]
+2022-09-02 00:21:32: curious_emily
+ Bots:["'edellyna'", "'pixelbypixel_bot'"]
+2022-09-02 10:35:06: sodapoppin
+ Bots:[]
+2022-09-02 10:35:41: lanfear_vr
+ Bots:["'aten'", "'elysian'", "'frw33ds_kitten'", "'nerdydreams'", "'rogueg1rl'"]
+2022-09-02 10:35:49: sodapoppin
+ Bots:["'moku_'"]
+2022-09-02 10:36:25: lanfear_vr
+ Bots:["'aten'", "'commanderroot'", "'hades_osiris'", "'shanuala'", "'stixffxiv'", "'underworldnaiad'", "'violets_tv'", "'wafflebudder'", "'0_supa'"]
+2022-09-02 10:40:08: sodapoppin
+ Bots:[]
+2022-09-02 10:40:42: lanfear_vr
+ Bots:["'commanderroot'", "'hades_osiris'", "'lanarayyyy'", "'soundofraindrops'", "'sunamano'", "'underworldnaiad'"]
+2022-09-02 10:51:06: sodapoppin
+ Bots:[]
+2022-09-02 10:51:40: lanfear_vr
+ Bots:["'ffxivstyx'", "'frw33ds_kitten'", "'shanuala'", "'soundofraindrops'", "'stixffxiv'", "'tizcloud'", "'wafflebudder'"]
+2022-09-02 10:55:08: sodapoppin
+ Bots:[]
+2022-09-02 16:27:28: murdercrumpet
+ Bots:["'0_supa'"]
+2022-09-02 16:27:28: murdercrumpet
+ Bots:[]
+2022-09-02 16:27:59: momo
+ Bots:[]
+2022-09-02 16:27:59: momo
+ Bots:["'lanarayyyy'"]
+2022-09-02 16:35:45: murdercrumpet
+ Bots:[]
+2022-09-02 16:36:16: momo
+ Bots:["'senolass'"]
+2022-09-02 16:40:05: murdercrumpet
+ Bots:[]
+2022-09-02 16:40:35: momo
+ Bots:["'elysian'"]
+2022-09-02 16:55:05: murdercrumpet
+ Bots:[]
+2022-09-02 16:55:36: momo
+ Bots:["'commanderroot'", "'lanarayyyy'", "'soundofraindrops'", "'sylithen'"]
+2022-09-02 17:10:05: murdercrumpet
+ Bots:["'spiketrapclair'"]
+2022-09-02 17:10:37: momo
+ Bots:[]
+2022-09-02 17:25:05: murdercrumpet
+ Bots:[]
+2022-09-02 17:25:34: momo
+ Bots:[]
+2022-09-02 17:40:05: murdercrumpet
+ Bots:[]
+2022-09-02 17:40:35: momo
+ Bots:["'soundofraindrops'"]
+2022-09-02 17:55:05: murdercrumpet
+ Bots:[]
+2022-09-02 17:55:35: momo
+ Bots:[]
+2022-09-02 18:10:05: murdercrumpet
+ Bots:[]
+2022-09-02 18:10:36: momo
+ Bots:[]
+2022-09-02 18:25:05: murdercrumpet
+ Bots:["'lanarayyyy'"]
+2022-09-02 18:25:35: momo
+ Bots:[]
+2022-09-02 18:40:05: murdercrumpet
+ Bots:[]
+2022-09-02 18:40:36: momo
+ Bots:[]
+2022-09-02 18:55:05: murdercrumpet
+ Bots:["'lanarayyyy'", "'soundofraindrops'"]
+2022-09-02 18:55:35: momo
+ Bots:[]
+2022-09-02 19:10:05: murdercrumpet
+ Bots:[]
+2022-09-02 19:10:34: momo
+ Bots:[]
+2022-09-02 19:25:06: murdercrumpet
+ Bots:[]
+2022-09-02 19:40:05: murdercrumpet
+ Bots:[]
+2022-09-02 19:55:17: murdercrumpet
+ Bots:[]
+2022-09-02 19:55:24: snowsos
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'eatsaoe'", "'stygian_styx'", "'0_supa'"]
+2022-09-02 20:10:05: murdercrumpet
+ Bots:[]
+2022-09-02 20:10:12: snowsos
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'eatsaoe'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'stygian_styx'", "'0_supa'"]
+2022-09-02 20:25:05: murdercrumpet
+ Bots:[]
+2022-09-02 20:25:12: snowsos
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'eatsaoe'", "'spiketrapclair'", "'stygian_styx'", "'tinarif'", "'0_supa'"]
+2022-09-02 20:40:05: murdercrumpet
+ Bots:["'bigbobs'", "'roxesy'"]
+2022-09-02 20:40:12: snowsos
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'eatsaoe'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'stygian_styx'", "'tinarif'", "'0_supa'"]
+2022-09-02 20:55:05: murdercrumpet
+ Bots:["'lanarayyyy'"]
+2022-09-02 20:55:12: snowsos
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'eatsaoe'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'stygian_styx'", "'tinarif'", "'0_supa'"]
+2022-09-02 21:10:05: murdercrumpet
+ Bots:[]
+2022-09-02 21:10:12: snowsos
+ Bots:["'commanderroot'", "'eatsaoe'", "'spiketrapclair'", "'stygian_styx'", "'tinarif'", "'0_supa'"]
+2022-09-02 21:25:12: snowsos
+ Bots:["'aten'", "'commanderroot'", "'eatsaoe'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'stygian_styx'", "'tinarif'", "'0_supa'"]
+2022-09-02 21:40:12: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'eatsaoe'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'stygian_styx'", "'tinarif'", "'0_supa'"]
+2022-09-02 21:40:19: roflgator
+ Bots:[]
+2022-09-02 21:55:12: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'eatsaoe'", "'elysian'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'stygian_styx'", "'tinarif'", "'0_supa'"]
+2022-09-02 21:55:21: roflgator
+ Bots:[]
+2022-09-02 22:10:15: snowsos
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'eatsaoe'", "'elysian'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'stygian_styx'", "'tinarif'", "'0_supa'"]
+2022-09-02 22:10:22: roflgator
+ Bots:["'zayd_gb'"]
+2022-09-02 22:25:12: snowsos
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'eatsaoe'", "'elysian'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'stygian_styx'", "'tinarif'", "'0_supa'"]
+2022-09-02 22:25:21: roflgator
+ Bots:["'anthropologydept'", "'bigbobs'"]
+2022-09-02 22:40:12: snowsos
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'eatsaoe'", "'elysian'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'stygian_styx'", "'tinarif'", "'0_supa'"]
+2022-09-02 22:40:19: roflgator
+ Bots:[]
+2022-09-02 22:55:14: snowsos
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'eatsaoe'", "'elysian'", "'feet'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'stygian_styx'", "'tinarif'", "'0_supa'"]
+2022-09-02 22:55:22: roflgator
+ Bots:["'pectoralmuscle'"]
+2022-09-02 23:10:12: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'eatsaoe'", "'elysian'", "'feet'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-09-02 23:10:18: roflgator
+ Bots:["'faps247'"]
+2022-09-02 23:40:12: snowsos
+ Bots:["'anotherttvviewer'", "'aten'", "'commanderroot'", "'eatsaoe'", "'elysian'", "'feet'", "'isnicable'", "'rimastino'", "'soundofraindrops'", "'spiketrapclair'", "'stygian_styx'", "'tinarif'", "'0_supa'"]
+2022-09-02 23:40:19: roflgator
+ Bots:[]
+2022-09-03 13:31:27: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'eveneo'", "'farminggurl'", "'isnicable'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-09-03 13:45:04: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'cyndyka'", "'eveneo'", "'farminggurl'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-09-03 14:00:04: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'cyndyka'", "'farminggurl'", "'isnicable'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-09-03 14:15:05: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'cyndyka'", "'isnicable'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-09-03 14:30:04: shizu
+ Bots:["'commanderroot'", "'cyndyka'", "'farminggurl'", "'isnicable'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-09-03 15:05:33: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'cyndyka'", "'farminggurl'", "'isnicable'", "'metaviews'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'0_supa'"]
+2022-09-03 15:15:04: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'cyndyka'", "'farminggurl'", "'metaviews'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-09-03 15:30:05: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'cyndyka'", "'farminggurl'", "'isnicable'", "'metaviews'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'violets_tv'", "'0_supa'"]
+2022-09-03 15:45:05: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'cyndyka'", "'farminggurl'", "'metaviews'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-09-03 16:00:04: shizu
+ Bots:["'commanderroot'", "'cyndyka'", "'farminggurl'", "'isnicable'", "'metaviews'", "'remasuri_bot'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-09-03 16:15:04: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'cyndyka'", "'farminggurl'", "'metaviews'", "'remasuri_bot'", "'spiketrapclair'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-09-03 16:30:04: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'cyndyka'", "'isnicable'", "'metaviews'", "'remasuri_bot'", "'rimastino'", "'v_and_k'", "'violets_tv'", "'xyfm'"]
+2022-09-03 16:45:05: shizu
+ Bots:["'commanderroot'", "'cyndyka'", "'farminggurl'", "'isnicable'", "'remasuri_bot'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-09-03 17:00:04: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'cyndyka'", "'isnicable'", "'metaviews'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-09-03 17:15:06: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'cyndyka'", "'isnicable'", "'metaviews'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-09-03 17:30:05: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'farminggurl'", "'isnicable'", "'metaviews'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'yamickle'", "'0_supa'"]
+2022-09-03 17:30:09: tevin_vr
+ Bots:["'0_supa'"]
+2022-09-03 17:45:10: tevin_vr
+ Bots:["'spiketrapclair'", "'tizcloud'", "'0_supa'"]
+2022-09-03 18:00:08: tevin_vr
+ Bots:["'spiketrapclair'", "'tizcloud'", "'0_supa'"]
+2022-09-03 18:15:08: tevin_vr
+ Bots:["'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-09-03 18:30:09: tevin_vr
+ Bots:["'edellyna'", "'tizcloud'", "'waptart'", "'0_supa'"]
+2022-09-03 18:45:09: tevin_vr
+ Bots:["'edellyna'", "'elysian'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-09-03 19:00:08: tevin_vr
+ Bots:["'elysian'", "'spiketrapclair'", "'tizcloud'", "'waptart'", "'0_supa'"]
+2022-09-03 19:15:08: tevin_vr
+ Bots:["'edellyna'", "'elysian'", "'tizcloud'", "'waptart'", "'xyfm'"]
+2022-09-03 19:30:08: tevin_vr
+ Bots:["'elysian'", "'spiketrapclair'", "'tizcloud'", "'waptart'", "'xyfm'", "'0_supa'"]
+2022-09-03 19:45:07: tevin_vr
+ Bots:["'elysian'", "'tizcloud'", "'xyfm'", "'0_supa'"]
+2022-09-03 19:59:58: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'commanderroot'", "'lanarayyyy'"]
+2022-09-03 20:00:07: tevin_vr
+ Bots:["'edellyna'", "'spiketrapclair'", "'waptart'", "'xyfm'", "'0_supa'"]
+2022-09-03 20:14:58: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'commanderroot'", "'lanarayyyy'"]
+2022-09-03 20:15:08: tevin_vr
+ Bots:["'edellyna'", "'elysian'", "'lanarayyyy'", "'spiketrapclair'", "'waptart'", "'xyfm'", "'yamickle'"]
+2022-09-03 20:29:48: snowsos
+ Bots:["'commanderroot'", "'isnicable'", "'rogueg1rl'", "'tinarif'", "'0_supa'"]
+2022-09-03 20:29:58: Kareeda
+ Bots:["'academyimpossible'", "'commanderroot'", "'lanarayyyy'", "'rimastino'", "'v_and_k'"]
+2022-09-03 20:30:08: tevin_vr
+ Bots:["'edellyna'", "'elysian'", "'spiketrapclair'", "'tizcloud'", "'xyfm'"]
+2022-09-03 20:44:48: snowsos
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-09-03 20:44:59: Kareeda
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-03 20:45:10: tevin_vr
+ Bots:["'tizcloud'", "'waptart'", "'0_supa'"]
+2022-09-03 20:59:48: snowsos
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-09-03 20:59:59: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'commanderroot'", "'delotx'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-03 21:00:09: tevin_vr
+ Bots:["'edellyna'", "'spiketrapclair'", "'waptart'", "'xyfm'"]
+2022-09-03 21:14:48: snowsos
+ Bots:["'commanderroot'", "'rimastino'", "'tinarif'", "'0_supa'"]
+2022-09-03 21:14:51: Stealthrg
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'0_supa'"]
+2022-09-03 21:14:58: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'commanderroot'", "'delotx'", "'v_and_k'"]
+2022-09-03 21:15:07: tevin_vr
+ Bots:["'elysian'", "'spiketrapclair'", "'tizcloud'", "'0_supa'"]
+2022-09-03 21:29:48: snowsos
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'isnicable'", "'rimastino'", "'rogueg1rl'", "'tinarif'", "'0_supa'"]
+2022-09-03 21:29:51: Stealthrg
+ Bots:["'rimastino'", "'0_supa'"]
+2022-09-03 21:29:58: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'commanderroot'", "'delotx'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-03 21:30:08: tevin_vr
+ Bots:["'elysian'", "'spiketrapclair'", "'tizcloud'", "'xyfm'", "'yamickle'", "'0_supa'"]
+2022-09-04 13:13:27: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'cyndyka'", "'farminggurl'", "'metaviews'", "'remasuri_bot'", "'0_supa'"]
+2022-09-04 13:28:25: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'cyndyka'", "'farminggurl'", "'isnicable'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'0_supa'"]
+2022-09-04 13:43:26: shizu
+ Bots:["'commanderroot'", "'cyndyka'", "'farminggurl'", "'isnicable'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'0_supa'"]
+2022-09-04 13:58:24: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'cyndyka'", "'farminggurl'", "'isnicable'", "'lanarayyyy'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'0_supa'"]
+2022-09-04 14:13:24: shizu
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'farminggurl'", "'lanarayyyy'", "'metaviews'", "'nightchillbc'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'0_supa'"]
+2022-09-04 16:58:01: murdercrumpet
+ Bots:[]
+2022-09-04 16:58:25: shizu
+ Bots:["'cyndyka'", "'farminggurl'", "'lanarayyyy'", "'metaviews'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-09-04 17:13:01: murdercrumpet
+ Bots:[]
+2022-09-04 17:13:25: shizu
+ Bots:["'cyndyka'", "'lanarayyyy'", "'remasuri_bot'", "'rimastino'", "'violets_tv'", "'xyfm'"]
+2022-09-04 17:28:01: murdercrumpet
+ Bots:[]
+2022-09-04 17:28:25: shizu
+ Bots:["'commanderroot'", "'cyndyka'", "'lanarayyyy'", "'metaviews'", "'remasuri_bot'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'xyfm'", "'0_supa'"]
+2022-09-04 17:43:01: murdercrumpet
+ Bots:[]
+2022-09-04 17:43:24: shizu
+ Bots:["'commanderroot'", "'cyndyka'", "'metaviews'", "'rimastino'", "'v_and_k'", "'0_supa'"]
+2022-09-04 17:58:01: murdercrumpet
+ Bots:["'0_supa'"]
+2022-09-04 18:13:02: murdercrumpet
+ Bots:["'0_supa'"]
+2022-09-04 18:28:01: murdercrumpet
+ Bots:[]
+2022-09-04 18:43:01: murdercrumpet
+ Bots:[]
+2022-09-04 18:43:43: magykrose
+ Bots:["'0ax2'", "'commanderroot'", "'delotx'"]
+2022-09-04 18:58:01: murdercrumpet
+ Bots:[]
+2022-09-04 18:58:41: magykrose
+ Bots:["'0ax2'", "'commanderroot'", "'delotx'"]
+2022-09-04 19:13:01: murdercrumpet
+ Bots:["'roxesy'"]
+2022-09-04 19:13:41: magykrose
+ Bots:["'0ax2'", "'commanderroot'", "'delotx'"]
+2022-09-04 19:28:01: murdercrumpet
+ Bots:[]
+2022-09-04 19:28:08: snowsos
+ Bots:["'commanderroot'", "'isnicable'", "'tinarif'", "'0_supa'"]
+2022-09-04 19:28:41: magykrose
+ Bots:["'0ax2'", "'commanderroot'", "'delotx'"]
+2022-09-04 19:43:02: murdercrumpet
+ Bots:[]
+2022-09-04 19:43:08: snowsos
+ Bots:["'commanderroot'", "'isnicable'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-09-04 19:43:41: magykrose
+ Bots:["'0ax2'", "'commanderroot'", "'delotx'"]
+2022-09-04 19:58:01: murdercrumpet
+ Bots:[]
+2022-09-04 19:58:09: snowsos
+ Bots:["'aten'", "'commanderroot'", "'isnicable'", "'itsvodoo'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-09-04 19:58:42: magykrose
+ Bots:["'0ax2'", "'commanderroot'", "'delotx'"]
+2022-09-04 20:13:01: murdercrumpet
+ Bots:[]
+2022-09-04 20:13:08: snowsos
+ Bots:["'aten'", "'commanderroot'", "'elysian'", "'isnicable'", "'itsvodoo'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-09-04 20:13:25: shizu
+ Bots:["'commanderroot'", "'cyndyka'", "'farminggurl'", "'isnicable'", "'lanarayyyy'", "'metaviews'", "'remasuri_bot'", "'violets_tv'", "'0_supa'"]
+2022-09-04 20:13:41: magykrose
+ Bots:["'0ax2'", "'commanderroot'", "'delotx'"]
+2022-09-04 20:28:01: murdercrumpet
+ Bots:["'commanderroot'"]
+2022-09-04 20:28:08: snowsos
+ Bots:["'aten'", "'elysian'", "'isnicable'", "'itsvodoo'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'0_supa'"]
+2022-09-04 20:28:25: shizu
+ Bots:["'commanderroot'", "'cyndyka'", "'farminggurl'", "'isnicable'", "'lanarayyyy'", "'metaviews'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'", "'0_supa'"]
+2022-09-04 20:28:41: magykrose
+ Bots:["'0ax2'", "'delotx'"]
+2022-09-04 20:43:02: murdercrumpet
+ Bots:[]
+2022-09-04 20:43:08: snowsos
+ Bots:["'aten'", "'commanderroot'", "'elysian'", "'isnicable'", "'itsvodoo'", "'rimastino'", "'spiketrapclair'", "'tinarif'", "'yamickle'", "'0_supa'"]
+2022-09-04 20:43:24: shizu
+ Bots:["'commanderroot'", "'cyndyka'", "'farminggurl'", "'isnicable'", "'metaviews'", "'remasuri_bot'", "'rimastino'", "'0_supa'"]
+2022-09-04 20:43:41: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'0_supa'"]
+2022-09-04 20:58:01: murdercrumpet
+ Bots:[]
+2022-09-04 20:58:08: snowsos
+ Bots:["'aten'", "'commanderroot'", "'elysian'", "'isnicable'", "'itsvodoo'", "'lanarayyyy'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'tinarif'", "'violets_tv'", "'0_supa'"]
+2022-09-04 20:58:25: shizu
+ Bots:["'commanderroot'", "'cyndyka'", "'farminggurl'", "'isnicable'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-09-04 20:58:42: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'0_supa'"]
+2022-09-04 21:13:08: snowsos
+ Bots:["'aten'", "'commanderroot'", "'elysian'", "'isnicable'", "'itsvodoo'", "'lanarayyyy'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'tinarif'", "'violets_tv'", "'0_supa'"]
+2022-09-04 21:13:15: roflgator
+ Bots:[]
+2022-09-04 21:13:25: shizu
+ Bots:["'commanderroot'", "'cyndyka'", "'farminggurl'", "'isnicable'", "'metaviews'", "'remasuri_bot'", "'spiketrapclair'", "'v_and_k'", "'0_supa'"]
+2022-09-04 21:13:41: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'0_supa'"]
+2022-09-04 21:28:08: snowsos
+ Bots:["'aten'", "'commanderroot'", "'elysian'", "'isnicable'", "'itsvodoo'", "'lanarayyyy'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'tinarif'", "'violets_tv'", "'0_supa'"]
+2022-09-04 21:28:15: roflgator
+ Bots:[]
+2022-09-04 21:28:41: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'0_supa'"]
+2022-09-04 21:43:10: snowsos
+ Bots:["'aten'", "'elysian'", "'isnicable'", "'itsvodoo'", "'lanarayyyy'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'tinarif'", "'violets_tv'", "'yamickle'", "'0_supa'"]
+2022-09-04 21:43:16: roflgator
+ Bots:[]
+2022-09-04 21:43:43: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'delotx'", "'elysian'", "'0_supa'"]
+2022-09-04 21:58:09: snowsos
+ Bots:["'aten'", "'commanderroot'", "'isnicable'", "'itsvodoo'", "'lanarayyyy'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'tinarif'", "'violets_tv'", "'yamickle'", "'0_supa'"]
+2022-09-04 21:58:16: roflgator
+ Bots:[]
+2022-09-04 21:58:43: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'elysian'", "'0_supa'"]
+2022-09-04 22:13:08: snowsos
+ Bots:["'aten'", "'elysian'", "'lanarayyyy'", "'rimastino'", "'rogueg1rl'", "'violets_tv'"]
+2022-09-04 22:13:15: roflgator
+ Bots:[]
+2022-09-04 22:13:43: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'elysian'", "'0_supa'"]
+2022-09-04 22:28:18: snowsos
+ Bots:["'isnicable'", "'spiketrapclair'", "'0_supa'"]
+2022-09-04 22:28:25: roflgator
+ Bots:["'soundofraindrops'"]
+2022-09-04 22:28:52: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'elysian'", "'0_supa'"]
+2022-09-04 22:43:15: roflgator
+ Bots:[]
+2022-09-04 22:43:40: lanfear_vr
+ Bots:["'commanderroot'", "'0_supa'"]
+2022-09-04 22:43:43: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'elysian'", "'0_supa'"]
+2022-09-05 11:52:03: lanfear_vr
+ Bots:["'lanarayyyy'", "'violets_tv'"]
+2022-09-05 14:03:31: murdercrumpet
+ Bots:["'commanderroot'"]
+2022-09-05 14:18:31: murdercrumpet
+ Bots:[]
+2022-09-05 14:33:31: murdercrumpet
+ Bots:[]
+2022-09-05 14:48:31: murdercrumpet
+ Bots:["'roxesy'"]
+2022-09-05 15:03:31: murdercrumpet
+ Bots:["'lanarayyyy'"]
+2022-09-05 15:18:32: murdercrumpet
+ Bots:[]
+2022-09-05 15:33:31: murdercrumpet
+ Bots:[]
+2022-09-05 15:34:11: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'"]
+2022-09-05 15:48:31: murdercrumpet
+ Bots:[]
+2022-09-05 15:49:10: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'"]
+2022-09-05 16:03:31: murdercrumpet
+ Bots:["'commanderroot'", "'spiketrapclair'"]
+2022-09-05 16:04:11: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'"]
+2022-09-05 16:18:31: murdercrumpet
+ Bots:[]
+2022-09-05 16:19:11: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'"]
+2022-09-05 16:33:31: murdercrumpet
+ Bots:[]
+2022-09-05 16:34:12: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'"]
+2022-09-05 16:48:31: murdercrumpet
+ Bots:["'bigbobs'"]
+2022-09-05 16:49:10: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'"]
+2022-09-05 17:03:31: murdercrumpet
+ Bots:[]
+2022-09-05 17:04:11: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'elysian'"]
+2022-09-05 17:18:31: murdercrumpet
+ Bots:[]
+2022-09-05 17:19:10: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'elysian'"]
+2022-09-05 17:33:31: murdercrumpet
+ Bots:[]
+2022-09-05 17:34:11: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'elysian'"]
+2022-09-05 17:48:31: murdercrumpet
+ Bots:[]
+2022-09-05 17:49:11: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'elysian'"]
+2022-09-05 18:03:31: murdercrumpet
+ Bots:[]
+2022-09-05 18:04:11: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'elysian'", "'feet'"]
+2022-09-05 18:18:31: murdercrumpet
+ Bots:["'soundofraindrops'"]
+2022-09-05 18:18:57: tevin_vr
+ Bots:["'edellyna'"]
+2022-09-05 18:19:11: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'elysian'", "'feet'"]
+2022-09-05 18:33:31: murdercrumpet
+ Bots:["'roxesy'"]
+2022-09-05 18:33:58: tevin_vr
+ Bots:["'edellyna'", "'waptart'"]
+2022-09-05 18:34:12: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'delotx'", "'elysian'", "'feet'"]
+2022-09-05 18:48:31: murdercrumpet
+ Bots:[]
+2022-09-05 18:48:57: tevin_vr
+ Bots:["'edellyna'", "'waptart'", "'xyfm'"]
+2022-09-05 18:49:10: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'elysian'", "'erika_fnbr'", "'feet'"]
+2022-09-05 19:03:31: murdercrumpet
+ Bots:[]
+2022-09-05 19:03:47: Kareeda
+ Bots:["'academyimpossible'", "'commanderroot'", "'delotx'", "'losjaraswines'"]
+2022-09-05 19:03:57: tevin_vr
+ Bots:["'edellyna'", "'waptart'"]
+2022-09-05 19:04:10: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'elysian'", "'erika_fnbr'", "'feet'"]
+2022-09-05 19:18:31: murdercrumpet
+ Bots:["'lanarayyyy'"]
+2022-09-05 19:18:48: Kareeda
+ Bots:["'academyimpossible'", "'commanderroot'", "'delotx'", "'losjaraswines'"]
+2022-09-05 19:18:59: tevin_vr
+ Bots:["'edellyna'", "'lanarayyyy'", "'tizcloud'", "'waptart'", "'xyfm'"]
+2022-09-05 19:19:12: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'elysian'", "'erika_fnbr'", "'feet'"]
+2022-09-05 19:33:31: murdercrumpet
+ Bots:["'lanarayyyy'"]
+2022-09-05 19:33:48: Kareeda
+ Bots:["'academyimpossible'", "'aten'", "'commanderroot'", "'delotx'", "'losjaraswines'"]
+2022-09-05 19:33:58: tevin_vr
+ Bots:["'edellyna'", "'lanarayyyy'", "'xyfm'"]
+2022-09-05 19:34:11: magykrose
+ Bots:["'0ax2'", "'aliengathering'", "'commanderroot'", "'delotx'", "'elysian'", "'erika_fnbr'", "'feet'"]
+2022-09-05 19:48:31: murdercrumpet
+ Bots:[]
+2022-09-05 19:48:47: Kareeda
+ Bots:["'academyimpossible'", "'anotherttvviewer'", "'delotx'", "'lanarayyyy'", "'violets_tv'"]
+2022-09-05 19:48:58: tevin_vr
+ Bots:["'edellyna'", "'lanarayyyy'", "'tizcloud'", "'waptart'"]
+2022-09-06 16:46:53: murdercrumpet
+ Bots:[]
+2022-09-06 16:47:17: shizu
+ Bots:["'commanderroot'", "'farminggurl'", "'isnicable'", "'remasuri_bot'", "'v_and_k'", "'xyfm'"]
+2022-09-06 16:47:24: momo
+ Bots:[]
+2022-09-06 19:31:53: murdercrumpet
+ Bots:[]
+2022-09-06 19:32:20: tevin_vr
+ Bots:["'lorypub'", "'tizcloud'", "'waptart'", "'wpfid5555'", "'xyfm'"]
+2022-09-06 19:32:23: momo
+ Bots:["'nightchillbc'", "'spiketrapclair'"]
+2022-09-06 19:46:53: murdercrumpet
+ Bots:[]
+2022-09-06 19:47:19: tevin_vr
+ Bots:["'lorypub'", "'tizcloud'", "'waptart'", "'wpfid5555'", "'xyfm'"]
+2022-09-06 19:47:22: momo
+ Bots:["'spiketrapclair'"]
+2022-09-06 20:01:53: murdercrumpet
+ Bots:[]
+2022-09-06 20:02:19: tevin_vr
+ Bots:["'lanarayyyy'", "'lorypub'", "'tizcloud'", "'waptart'", "'wpfid5555'", "'xyfm'"]
+2022-09-06 20:02:22: momo
+ Bots:["'senolass'"]
+2022-09-06 20:16:53: murdercrumpet
+ Bots:[]
+2022-09-06 20:17:20: tevin_vr
+ Bots:["'lanarayyyy'", "'wpfid5555'", "'xyfm'"]
+2022-09-06 20:17:23: momo
+ Bots:["'spiketrapclair'"]
+2022-09-06 20:31:53: murdercrumpet
+ Bots:[]
+2022-09-06 20:32:19: tevin_vr
+ Bots:["'eveneo'", "'lanarayyyy'", "'lorypub'", "'tizcloud'", "'waptart'", "'wpfid5555'", "'xyfm'"]
+2022-09-06 20:32:22: momo
+ Bots:[]
+2022-09-06 20:46:53: murdercrumpet
+ Bots:[]
+2022-09-06 20:47:20: tevin_vr
+ Bots:["'eveneo'", "'lanarayyyy'", "'lorypub'", "'wpfid5555'", "'xyfm'"]
+2022-09-06 20:47:23: momo
+ Bots:["'spiketrapclair'"]
+2022-09-06 21:01:53: murdercrumpet
+ Bots:[]
+2022-09-06 21:02:21: tevin_vr
+ Bots:["'eveneo'", "'lanarayyyy'", "'lorypub'", "'tizcloud'", "'waptart'", "'wpfid5555'"]
+2022-09-06 21:02:24: momo
+ Bots:["'puptime'"]
+2022-09-06 21:17:06: roflgator
+ Bots:[]
+2022-09-06 21:17:19: tevin_vr
+ Bots:["'elysian'", "'eveneo'", "'lanarayyyy'", "'lorypub'", "'waptart'", "'xyfm'"]
+2022-09-06 21:17:23: momo
+ Bots:[]
+2022-09-06 21:32:07: roflgator
+ Bots:[]
+2022-09-06 21:32:20: tevin_vr
+ Bots:["'elysian'", "'lanarayyyy'", "'lorypub'", "'tizcloud'", "'waptart'", "'wpfid5555'", "'xyfm'"]
+2022-09-06 21:32:23: momo
+ Bots:[]
+2022-09-06 21:47:17: roflgator
+ Bots:[]
+2022-09-06 21:47:30: tevin_vr
+ Bots:["'lanarayyyy'", "'lorypub'", "'tizcloud'", "'waptart'", "'wpfid5555'"]
+2022-09-06 21:47:33: momo
+ Bots:[]
+2022-09-06 22:02:14: roflgator
+ Bots:[]
+2022-09-06 22:02:27: tevin_vr
+ Bots:["'lorypub'", "'tizcloud'", "'waptart'", "'wpfid5555'", "'xyfm'"]
+2022-09-06 22:02:30: momo
+ Bots:["'commanderroot'", "'elysian'"]
+2022-09-06 22:17:06: roflgator
+ Bots:["'1174'", "'pectoralmuscle'"]
+2022-09-06 22:17:20: tevin_vr
+ Bots:["'elysian'", "'lanarayyyy'", "'lorypub'", "'tizcloud'", "'waptart'", "'xyfm'"]
+2022-09-06 22:17:23: momo
+ Bots:["'commanderroot'"]
+2022-09-06 22:32:06: roflgator
+ Bots:[]
+2022-09-06 22:32:20: tevin_vr
+ Bots:["'lorypub'", "'tizcloud'", "'xyfm'"]
+2022-09-06 22:32:23: momo
+ Bots:[]
+2022-09-06 22:47:06: roflgator
+ Bots:[]
+2022-09-06 22:47:19: tevin_vr
+ Bots:["'elysian'", "'lanarayyyy'", "'lorypub'", "'tizcloud'", "'wpfid5555'", "'xyfm'", "'yamickle'"]
+2022-09-06 23:02:07: roflgator
+ Bots:[]
+2022-09-06 23:02:20: tevin_vr
+ Bots:["'lanarayyyy'", "'tizcloud'", "'wpfid5555'"]
+2022-09-06 23:17:06: roflgator
+ Bots:[]
+2022-09-06 23:17:19: tevin_vr
+ Bots:["'elysian'", "'lanarayyyy'", "'lorypub'", "'tizcloud'", "'xyfm'"]
+2022-09-06 23:32:06: roflgator
+ Bots:[]
+2022-09-06 23:32:21: tevin_vr
+ Bots:["'elysian'", "'lanarayyyy'", "'lorypub'", "'tizcloud'", "'xyfm'"]
+2022-09-06 23:47:07: roflgator
+ Bots:[]
+2022-09-06 23:47:20: tevin_vr
+ Bots:["'elysian'", "'lanarayyyy'", "'tizcloud'", "'wpfid5555'", "'xyfm'"]
+2022-09-07 00:02:07: roflgator
+ Bots:[]
+2022-09-07 00:02:20: tevin_vr
+ Bots:["'elysian'", "'tizcloud'", "'xyfm'"]
+2022-09-07 00:17:06: roflgator
+ Bots:[]
+2022-09-07 00:17:12: aikasanvr
+ Bots:["'commanderroot'", "'erika_fnbr'"]
+2022-09-07 00:17:19: tevin_vr
+ Bots:["'elysian'", "'lanarayyyy'", "'lorypub'", "'wpfid5555'", "'xyfm'"]
+2022-09-07 00:32:06: roflgator
+ Bots:[]
+2022-09-07 00:32:13: aikasanvr
+ Bots:["'commanderroot'", "'erika_fnbr'", "'kattynah'"]
+2022-09-07 00:32:20: tevin_vr
+ Bots:["'elysian'", "'lanarayyyy'", "'lorypub'", "'tizcloud'", "'wpfid5555'", "'xyfm'"]
+2022-09-07 00:47:07: roflgator
+ Bots:[]
+2022-09-07 00:47:14: aikasanvr
+ Bots:["'commanderroot'", "'erika_fnbr'", "'kattynah'", "'spiketrapclair'"]
+2022-09-07 00:47:21: tevin_vr
+ Bots:["'elysian'", "'lanarayyyy'", "'lorypub'", "'tizcloud'", "'xyfm'"]
+2022-09-07 01:02:06: roflgator
+ Bots:[]
+2022-09-07 01:02:13: aikasanvr
+ Bots:["'commanderroot'", "'erika_fnbr'", "'spiketrapclair'"]
+2022-09-07 01:02:20: tevin_vr
+ Bots:["'elysian'", "'lorypub'", "'tizcloud'", "'xyfm'", "'yamickle'"]
+2022-09-07 01:17:06: roflgator
+ Bots:[]
+2022-09-07 01:17:13: aikasanvr
+ Bots:["'commanderroot'", "'erika_fnbr'", "'kattynah'", "'spiketrapclair'"]
+2022-09-07 01:17:19: tevin_vr
+ Bots:["'elysian'", "'lanarayyyy'", "'lorypub'", "'tizcloud'", "'wpfid5555'", "'xyfm'", "'yamickle'"]
+2022-09-07 01:32:06: roflgator
+ Bots:["'pectoralmuscle'"]
+2022-09-07 01:32:13: aikasanvr
+ Bots:["'spiketrapclair'"]
+2022-09-07 01:32:19: tevin_vr
+ Bots:["'elysian'"]
+2022-09-07 14:10:15: shizu
+ Bots:["'commanderroot'", "'feet'", "'isnicable'", "'metaviews'", "'orthoduk'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-07 14:10:16: shizu
+ Bots:["'commanderroot'", "'feet'", "'isnicable'", "'metaviews'", "'orthoduk'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-07 14:17:28: shizu
+ Bots:["'commanderroot'", "'feet'", "'isnicable'", "'metaviews'", "'orthoduk'", "'remasuri_bot'", "'v_and_k'"]
+2022-09-07 14:24:37: shizu
+ Bots:["'commanderroot'", "'feet'", "'isnicable'", "'metaviews'", "'orthoduk'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-07 14:32:18: shizu
+ Bots:["'commanderroot'", "'elysian'", "'feet'", "'isnicable'", "'metaviews'", "'orthoduk'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-07 15:09:09: murdercrumpet
+ Bots:[]
+2022-09-07 15:09:32: shizu
+ Bots:["'aten'", "'commanderroot'", "'elysian'", "'feet'", "'metaviews'", "'nightchillbc'", "'orthoduk'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-07 15:24:09: murdercrumpet
+ Bots:["'commanderroot'"]
+2022-09-07 15:24:32: shizu
+ Bots:["'aten'", "'commanderroot'", "'elysian'", "'feet'", "'isnicable'", "'nightchillbc'", "'orthoduk'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-07 17:02:59: murdercrumpet
+ Bots:[]
+2022-09-07 17:03:26: shizu
+ Bots:["'aten'", "'commanderroot'", "'elysian'", "'feet'", "'isnicable'", "'remasuri_bot'", "'spiketrapclair'", "'xyfm'", "'yamickle'"]
+2022-09-07 17:03:29: tevin_vr
+ Bots:["'ninatela'"]
+2022-09-07 17:09:09: murdercrumpet
+ Bots:[]
+2022-09-07 17:09:32: shizu
+ Bots:["'aten'", "'elysian'", "'feet'", "'isnicable'", "'metaviews'", "'orthoduk'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-07 17:09:35: tevin_vr
+ Bots:["'ninatela'"]
+2022-09-07 17:24:08: murdercrumpet
+ Bots:[]
+2022-09-07 17:24:32: shizu
+ Bots:["'aten'", "'elysian'", "'feet'", "'isnicable'", "'metaviews'", "'remasuri_bot'", "'v_and_k'", "'xyfm'"]
+2022-09-07 17:24:36: tevin_vr
+ Bots:["'ninatela'", "'tizcloud'"]
+2022-09-07 17:39:09: murdercrumpet
+ Bots:[]
+2022-09-07 17:39:33: shizu
+ Bots:["'aten'", "'feet'", "'metaviews'", "'orthoduk'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'xyfm'"]
+2022-09-07 17:39:36: tevin_vr
+ Bots:["'tizcloud'"]
+2022-09-07 17:39:40: momo
+ Bots:["'roxesy'"]
+2022-09-07 17:54:11: murdercrumpet
+ Bots:[]
+2022-09-07 17:54:34: shizu
+ Bots:["'aten'", "'commanderroot'", "'elysian'", "'feet'", "'metaviews'", "'orthoduk'", "'rimastino'", "'spiketrapclair'"]
+2022-09-07 17:54:38: tevin_vr
+ Bots:["'ninatela'", "'xyfm'"]
+2022-09-07 17:54:42: momo
+ Bots:["'nightchillbc'"]
+2022-09-07 18:09:09: murdercrumpet
+ Bots:[]
+2022-09-07 18:09:32: shizu
+ Bots:["'aten'", "'commanderroot'", "'isnicable'", "'metaviews'", "'orthoduk'", "'remasuri_bot'", "'rimastino'", "'spiketrapclair'", "'xyfm'"]
+2022-09-07 18:09:36: tevin_vr
+ Bots:["'ninatela'", "'tizcloud'"]
+2022-09-07 18:09:39: momo
+ Bots:[]
+2022-09-07 18:24:09: murdercrumpet
+ Bots:["'spiketrapclair'"]
+2022-09-07 18:24:36: tevin_vr
+ Bots:["'ninatela'", "'tizcloud'"]
+2022-09-07 18:24:39: momo
+ Bots:[]
+2022-09-07 18:39:09: murdercrumpet
+ Bots:[]
+2022-09-07 18:39:35: tevin_vr
+ Bots:["'tizcloud'", "'xyfm'"]
+2022-09-07 18:39:39: momo
+ Bots:[]
+2022-09-07 18:54:09: murdercrumpet
+ Bots:[]
+2022-09-07 18:54:36: tevin_vr
+ Bots:["'ninatela'", "'tizcloud'", "'xyfm'"]
+2022-09-07 18:54:39: momo
+ Bots:["'senolass'", "'toastyprime'"]
+2022-09-07 18:54:46: lanfear_vr
+ Bots:["'commanderroot'", "'cyndyka'"]
+2022-09-07 19:09:09: murdercrumpet
+ Bots:[]
+2022-09-07 19:09:37: tevin_vr
+ Bots:["'ninatela'", "'tizcloud'", "'xyfm'"]
+2022-09-07 19:09:48: lanfear_vr
+ Bots:["'commanderroot'", "'cyndyka'", "'spiketrapclair'", "'tizcloud'", "'virgoproz'"]
+2022-09-07 19:24:09: murdercrumpet
+ Bots:[]
+2022-09-07 19:24:37: tevin_vr
+ Bots:["'ninatela'", "'xyfm'"]
+2022-09-07 19:24:46: lanfear_vr
+ Bots:["'commanderroot'", "'cyndyka'", "'virgoproz'"]
+2022-09-07 19:39:09: murdercrumpet
+ Bots:[]
+2022-09-07 19:39:37: tevin_vr
+ Bots:["'ninatela'", "'xyfm'"]
+2022-09-07 19:39:47: lanfear_vr
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'cyndyka'", "'virgoproz'"]
+2022-09-07 19:54:09: murdercrumpet
+ Bots:[]
+2022-09-07 19:54:37: tevin_vr
+ Bots:["'ninatela'", "'tizcloud'", "'xyfm'"]
+2022-09-07 19:54:49: lanfear_vr
+ Bots:["'commanderroot'", "'cyndyka'", "'tizcloud'", "'virgoproz'"]
+2022-09-07 20:09:09: murdercrumpet
+ Bots:["'spiketrapclair'"]
+2022-09-07 20:09:36: tevin_vr
+ Bots:["'ninatela'", "'tizcloud'", "'xyfm'"]
+2022-09-07 20:09:47: lanfear_vr
+ Bots:["'commanderroot'", "'cyndyka'", "'stewlew89'", "'virgoproz'"]
+2022-09-07 20:24:09: murdercrumpet
+ Bots:[]
+2022-09-07 20:24:40: tevin_vr
+ Bots:["'ninatela'", "'tizcloud'", "'xyfm'"]
+2022-09-07 20:24:51: lanfear_vr
+ Bots:["'commanderroot'", "'cyndyka'", "'stewlew89'", "'tizcloud'"]
+2022-09-07 20:39:09: murdercrumpet
+ Bots:[]
+2022-09-07 20:39:29: Kareeda
+ Bots:["'academyimpossible'", "'commanderroot'", "'dynaterra'"]
+2022-09-07 20:39:40: tevin_vr
+ Bots:["'ninatela'", "'tizcloud'", "'xyfm'"]
+2022-09-07 20:39:51: lanfear_vr
+ Bots:["'aten'", "'commanderroot'", "'cyndyka'", "'soundofraindrops'", "'spiketrapclair'", "'stewlew89'", "'virgoproz'"]
+2022-09-07 20:54:08: murdercrumpet
+ Bots:["'soundofraindrops'"]
+2022-09-07 20:54:26: Kareeda
+ Bots:["'academyimpossible'", "'commanderroot'", "'dynaterra'"]
+2022-09-07 20:54:36: tevin_vr
+ Bots:["'tizcloud'", "'xyfm'"]
+2022-09-07 20:54:47: lanfear_vr
+ Bots:["'commanderroot'", "'cyndyka'", "'soundofraindrops'", "'spiketrapclair'", "'virgoproz'"]
+2022-09-07 21:09:23: roflgator
+ Bots:[]
+2022-09-07 21:09:26: Kareeda
+ Bots:["'academyimpossible'", "'commanderroot'", "'dynaterra'", "'minion619'"]
+2022-09-07 21:09:37: tevin_vr
+ Bots:["'ninatela'", "'xyfm'"]
+2022-09-07 21:09:47: lanfear_vr
+ Bots:["'tizcloud'", "'virgoproz'"]
+2022-09-07 21:24:22: roflgator
+ Bots:["'1174'"]
+2022-09-07 21:24:25: Kareeda
+ Bots:["'academyimpossible'", "'commanderroot'", "'dynaterra'", "'minion619'"]
+2022-09-07 21:24:35: tevin_vr
+ Bots:["'ninatela'", "'tizcloud'", "'xyfm'"]
+2022-09-07 21:24:46: lanfear_vr
+ Bots:["'aten'", "'soundofraindrops'", "'spiketrapclair'", "'stewlew89'", "'tizcloud'", "'virgoproz'"]
+2022-09-07 21:39:22: roflgator
+ Bots:["'pectoralmuscle'"]
+2022-09-07 21:39:26: Kareeda
+ Bots:["'academyimpossible'", "'commanderroot'", "'dynaterra'", "'minion619'"]
+2022-09-07 21:39:37: tevin_vr
+ Bots:["'ninatela'", "'tizcloud'", "'xyfm'"]
+2022-09-07 21:39:47: lanfear_vr
+ Bots:["'commanderroot'", "'cyndyka'", "'stewlew89'", "'virgoproz'"]
+2022-09-07 21:54:22: roflgator
+ Bots:["'faps247'"]
+2022-09-07 21:54:25: Kareeda
+ Bots:["'academyimpossible'", "'commanderroot'", "'dynaterra'", "'minion619'"]
+2022-09-07 21:54:37: tevin_vr
+ Bots:["'xyfm'"]
+2022-09-07 21:54:47: lanfear_vr
+ Bots:["'aten'", "'commanderroot'", "'cyndyka'", "'tizcloud'", "'virgoproz'"]
+2022-09-07 22:09:24: roflgator
+ Bots:[]
+2022-09-07 22:09:27: Kareeda
+ Bots:["'academyimpossible'", "'commanderroot'", "'dynaterra'", "'minion619'"]
+2022-09-07 22:09:38: tevin_vr
+ Bots:["'tizcloud'", "'xyfm'"]
+2022-09-07 22:09:51: lanfear_vr
+ Bots:["'aten'", "'soundofraindrops'", "'stewlew89'", "'virgoproz'", "'yamickle'"]
+2022-09-07 22:24:23: roflgator
+ Bots:[]
+2022-09-07 22:24:26: Kareeda
+ Bots:["'academyimpossible'", "'commanderroot'", "'dynaterra'", "'minion619'"]
+2022-09-07 22:24:38: tevin_vr
+ Bots:["'ninatela'"]
+2022-09-07 22:24:48: lanfear_vr
+ Bots:["'cyndyka'", "'soundofraindrops'", "'spiketrapclair'", "'yamickle'"]
+2022-09-07 22:39:23: roflgator
+ Bots:[]
+2022-09-07 22:39:26: Kareeda
+ Bots:["'academyimpossible'", "'commanderroot'", "'dynaterra'", "'minion619'", "'waptart'"]
+2022-09-07 22:39:36: tevin_vr
+ Bots:["'ninatela'", "'tizcloud'", "'xyfm'"]
+2022-09-07 22:39:46: lanfear_vr
+ Bots:["'cyndyka'", "'tizcloud'", "'virgoproz'"]
+2022-09-07 22:54:22: roflgator
+ Bots:["'geall'"]
+2022-09-07 22:54:25: Kareeda
+ Bots:["'academyimpossible'", "'commanderroot'", "'dynaterra'", "'minion619'"]
+2022-09-07 22:54:37: tevin_vr
+ Bots:["'ninatela'", "'xyfm'"]
+2022-09-07 22:54:47: lanfear_vr
+ Bots:["'commanderroot'", "'cyndyka'", "'spiketrapclair'", "'stewlew89'", "'tizcloud'", "'virgoproz'"]
+2022-09-07 23:09:21: roflgator
+ Bots:[]
+2022-09-07 23:09:25: Kareeda
+ Bots:["'academyimpossible'", "'commanderroot'", "'dynaterra'", "'minion619'"]
+2022-09-07 23:09:35: tevin_vr
+ Bots:["'ninatela'"]
+2022-09-07 23:09:46: lanfear_vr
+ Bots:["'soundofraindrops'", "'tizcloud'", "'yamickle'"]
+2022-09-07 23:39:25: roflgator
+ Bots:[]
+2022-09-07 23:39:28: Kareeda
+ Bots:["'academyimpossible'", "'aten'", "'commanderroot'", "'dynaterra'", "'minion619'"]
+2022-09-07 23:39:39: tevin_vr
+ Bots:["'ninatela'", "'tizcloud'", "'xyfm'", "'yamickle'"]
+2022-09-07 23:39:50: lanfear_vr
+ Bots:["'commanderroot'", "'cyndyka'", "'stewlew89'", "'yamickle'"]
+2022-09-08 00:28:24: roflgator
+ Bots:[]
+2022-09-08 00:28:27: Kareeda
+ Bots:["'academyimpossible'", "'aten'", "'commanderroot'", "'dynaterra'", "'elysian'"]
+2022-09-08 00:28:38: tevin_vr
+ Bots:["'tizcloud'", "'xyfm'"]
+2022-09-08 00:28:49: lanfear_vr
+ Bots:["'cyndyka'", "'spiketrapclair'", "'yamickle'"]
+2022-09-08 00:28:56: curious_emily
+ Bots:[]
+2022-09-08 20:02:07: murdercrumpet
+ Bots:[]
+2022-09-08 20:03:01: tevin_vr
+ Bots:["'tizcloud'", "'waptart'"]
+2022-09-08 20:14:00: murdercrumpet
+ Bots:[]
+2022-09-08 20:14:42: tevin_vr
+ Bots:["'tizcloud'", "'waptart'", "'yamickle'"]
+2022-09-08 20:14:46: momo
+ Bots:[]
+2022-09-08 20:29:04: murdercrumpet
+ Bots:["'soundofraindrops'"]
+2022-09-08 20:44:00: murdercrumpet
+ Bots:["'erika_fnbr'"]
+2022-09-08 20:44:51: tevin_vr
+ Bots:["'tizcloud'", "'waptart'"]
+2022-09-08 20:44:55: momo
+ Bots:["'spiketrapclair'"]
+2022-09-08 20:59:00: murdercrumpet
+ Bots:[]
+2022-09-08 21:14:18: roflgator
+ Bots:[]
+2022-09-08 21:14:22: Kareeda
+ Bots:[]
+2022-09-08 21:14:37: tevin_vr
+ Bots:["'tizcloud'", "'waptart'"]
+2022-09-08 21:14:41: momo
+ Bots:[]
+2022-09-08 21:29:17: roflgator
+ Bots:[]
+2022-09-08 21:29:21: Kareeda
+ Bots:["'anotherttvviewer'"]
+2022-09-08 21:29:31: tevin_vr
+ Bots:["'tizcloud'"]
+2022-09-08 21:29:35: momo
+ Bots:[]
+2022-09-08 21:29:49: magykrose
+ Bots:['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+2022-09-08 21:44:14: roflgator
+ Bots:[]
+2022-09-08 21:44:19: Kareeda
+ Bots:["'anotherttvviewer'", "'commanderroot'"]
+2022-09-08 21:44:29: tevin_vr
+ Bots:["'tizcloud'", "'waptart'"]
+2022-09-08 21:44:32: momo
+ Bots:["'anthropologydept'", "'soundofraindrops'"]
+2022-09-08 21:44:44: magykrose
+ Bots:[]
+2022-09-08 21:59:13: roflgator
+ Bots:[]
+2022-09-08 21:59:18: Kareeda
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-08 21:59:28: tevin_vr
+ Bots:["'tizcloud'", "'waptart'"]
+2022-09-08 21:59:32: momo
+ Bots:["'soundofraindrops'"]
+2022-09-08 21:59:43: magykrose
+ Bots:["'xyfm'"]
+2022-09-08 22:14:13: roflgator
+ Bots:["'commanderroot'", "'spiketrapclair'"]
+2022-09-08 22:14:16: Kareeda
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'qnfgogtktls'", "'rimastino'"]
+2022-09-08 22:14:26: tevin_vr
+ Bots:["'tizcloud'", "'waptart'"]
+2022-09-08 22:14:30: momo
+ Bots:["'puptime'"]
+2022-09-08 22:14:40: magykrose
+ Bots:["'xyfm'"]
+2022-09-08 22:29:13: roflgator
+ Bots:[]
+2022-09-08 22:29:17: Kareeda
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'qnfgogtktls'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-08 22:29:26: tevin_vr
+ Bots:["'tizcloud'"]
+2022-09-08 22:29:29: momo
+ Bots:["'anthropologydept'"]
+2022-09-08 22:29:32: oathmeal
+ Bots:["'geall'", "'soundofraindrops'", "'waptart'"]
+2022-09-08 22:29:36: lanfear_vr
+ Bots:[]
+2022-09-08 22:29:39: magykrose
+ Bots:["'xyfm'"]
+2022-09-08 22:44:39: roflgator
+ Bots:[]
+2022-09-08 22:44:43: Kareeda
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'qnfgogtktls'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'waptart'"]
+2022-09-08 22:44:53: tevin_vr
+ Bots:["'tizcloud'", "'waptart'", "'yamickle'"]
+2022-09-08 22:45:00: oathmeal
+ Bots:["'4fxz'", "'aten'", "'elysian'", "'geall'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-08 22:45:03: lanfear_vr
+ Bots:["'spiketrapclair'", "'tizcloud'", "'virgoproz'"]
+2022-09-08 22:45:06: magykrose
+ Bots:["'xyfm'"]
+2022-09-08 22:59:13: roflgator
+ Bots:[]
+2022-09-08 22:59:16: Kareeda
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'qnfgogtktls'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-08 22:59:26: tevin_vr
+ Bots:["'tizcloud'"]
+2022-09-08 22:59:33: oathmeal
+ Bots:["'anotherttvviewer'", "'aten'", "'ball857'", "'rimastino'", "'v_and_k'"]
+2022-09-08 22:59:36: lanfear_vr
+ Bots:["'commanderroot'", "'spiketrapclair'", "'tizcloud'", "'virgoproz'"]
+2022-09-08 22:59:39: magykrose
+ Bots:["'xyfm'"]
+2022-09-08 23:14:29: roflgator
+ Bots:[]
+2022-09-08 23:14:33: Kareeda
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-08 23:14:43: tevin_vr
+ Bots:["'tizcloud'"]
+2022-09-08 23:14:49: oathmeal
+ Bots:["'4fxz'", "'v_and_k'"]
+2022-09-08 23:14:52: lanfear_vr
+ Bots:["'commanderroot'"]
+2022-09-08 23:14:56: magykrose
+ Bots:["'xyfm'"]
+2022-09-08 23:29:13: roflgator
+ Bots:["'geall'"]
+2022-09-08 23:29:17: Kareeda
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'qnfgogtktls'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-08 23:29:28: tevin_vr
+ Bots:["'tizcloud'"]
+2022-09-08 23:29:35: oathmeal
+ Bots:["'soundofraindrops'", "'v_and_k'"]
+2022-09-08 23:29:38: lanfear_vr
+ Bots:["'commanderroot'", "'spiketrapclair'", "'yamickle'"]
+2022-09-08 23:29:41: magykrose
+ Bots:["'xyfm'"]
+2022-09-08 23:44:13: roflgator
+ Bots:["'1174'"]
+2022-09-08 23:44:17: Kareeda
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'qnfgogtktls'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-08 23:44:28: tevin_vr
+ Bots:["'tizcloud'", "'yamickle'"]
+2022-09-08 23:44:34: oathmeal
+ Bots:["'aten'", "'ball857'", "'elysian'", "'rimastino'", "'yamickle'"]
+2022-09-08 23:44:38: lanfear_vr
+ Bots:["'tizcloud'", "'virgoproz'", "'yamickle'"]
+2022-09-08 23:44:41: magykrose
+ Bots:[]
+2022-09-08 23:59:28: roflgator
+ Bots:[]
+2022-09-08 23:59:31: Kareeda
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'qnfgogtktls'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-08 23:59:41: tevin_vr
+ Bots:["'tizcloud'", "'yamickle'"]
+2022-09-08 23:59:48: oathmeal
+ Bots:["'ball857'", "'commanderroot'", "'elysian'", "'geall'", "'rimastino'", "'v_and_k'"]
+2022-09-08 23:59:52: lanfear_vr
+ Bots:["'yamickle'"]
+2022-09-09 00:14:25: roflgator
+ Bots:[]
+2022-09-09 00:14:29: Kareeda
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'qnfgogtktls'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-09 00:14:38: tevin_vr
+ Bots:["'tizcloud'"]
+2022-09-09 00:14:45: oathmeal
+ Bots:["'4fxz'", "'aten'", "'commanderroot'", "'elysian'", "'rimastino'", "'soundofraindrops'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-09 00:14:48: lanfear_vr
+ Bots:["'commanderroot'", "'spiketrapclair'"]
+2022-09-09 00:29:14: roflgator
+ Bots:[]
+2022-09-09 00:29:17: Kareeda
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'qnfgogtktls'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-09 00:29:27: tevin_vr
+ Bots:["'tizcloud'"]
+2022-09-09 00:29:33: oathmeal
+ Bots:["'commanderroot'", "'rimastino'", "'v_and_k'"]
+2022-09-09 00:29:36: lanfear_vr
+ Bots:["'commanderroot'"]
+2022-09-09 00:44:15: roflgator
+ Bots:[]
+2022-09-09 00:44:18: Kareeda
+ Bots:["'anotherttvviewer'", "'commanderroot'", "'qnfgogtktls'", "'rimastino'", "'soundofraindrops'"]
+2022-09-09 00:44:29: tevin_vr
+ Bots:["'tizcloud'"]
+2022-09-09 00:44:36: oathmeal
+ Bots:["'aten'", "'commanderroot'"]
+2022-09-09 00:44:39: lanfear_vr
+ Bots:["'spiketrapclair'", "'virgoproz'"]
+2022-09-09 00:59:26: roflgator
+ Bots:[]
+2022-09-09 00:59:29: Kareeda
+ Bots:["'commanderroot'", "'qnfgogtktls'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-09 00:59:39: tevin_vr
+ Bots:["'tizcloud'"]
+2022-09-09 00:59:45: oathmeal
+ Bots:["'aten'", "'ball857'", "'rimastino'", "'yamickle'"]
+2022-09-09 00:59:49: lanfear_vr
+ Bots:["'ljlcard'", "'tizcloud'", "'virgoproz'", "'yamickle'"]
+2022-09-09 14:19:28: murdercrumpet
+ Bots:[]
+2022-09-09 14:19:58: shizu
+ Bots:["'isnicable'", "'lanarayyyy'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 14:19:58: shizu
+ Bots:["'isnicable'", "'lanarayyyy'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 14:19:58: shizu
+ Bots:["'isnicable'", "'lanarayyyy'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 14:19:58: shizu
+ Bots:["'isnicable'", "'lanarayyyy'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 14:27:37: murdercrumpet
+ Bots:[]
+2022-09-09 14:28:00: shizu
+ Bots:["'isnicable'", "'lanarayyyy'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 14:29:00: murdercrumpet
+ Bots:[]
+2022-09-09 14:29:25: shizu
+ Bots:["'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 14:42:31: murdercrumpet
+ Bots:[]
+2022-09-09 14:42:57: shizu
+ Bots:["'commanderroot'", "'isnicable'", "'lanarayyyy'", "'nightchillbc'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'violets_tv'"]
+2022-09-09 14:44:00: murdercrumpet
+ Bots:[]
+2022-09-09 14:44:24: shizu
+ Bots:["'commanderroot'", "'isnicable'", "'lanarayyyy'", "'nightchillbc'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 14:57:31: murdercrumpet
+ Bots:["'lanarayyyy'", "'soundofraindrops'"]
+2022-09-09 14:57:54: shizu
+ Bots:["'aten'", "'commanderroot'", "'isnicable'", "'lanarayyyy'", "'nightchillbc'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 14:59:00: murdercrumpet
+ Bots:["'spiketrapclair'"]
+2022-09-09 14:59:24: shizu
+ Bots:["'aten'", "'commanderroot'", "'isnicable'", "'lanarayyyy'", "'nightchillbc'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'violets_tv'"]
+2022-09-09 15:12:31: murdercrumpet
+ Bots:[]
+2022-09-09 15:12:54: shizu
+ Bots:["'commanderroot'", "'isnicable'", "'lanarayyyy'", "'nightchillbc'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 15:14:00: murdercrumpet
+ Bots:[]
+2022-09-09 15:14:23: shizu
+ Bots:["'commanderroot'", "'nightchillbc'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 15:27:31: murdercrumpet
+ Bots:[]
+2022-09-09 15:27:54: shizu
+ Bots:["'commanderroot'", "'isnicable'", "'lanarayyyy'", "'nightchillbc'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 15:29:00: murdercrumpet
+ Bots:["'soundofraindrops'"]
+2022-09-09 15:29:23: shizu
+ Bots:["'commanderroot'", "'isnicable'", "'lanarayyyy'", "'nightchillbc'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 15:42:31: murdercrumpet
+ Bots:[]
+2022-09-09 15:42:54: shizu
+ Bots:["'isnicable'", "'lanarayyyy'", "'nightchillbc'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 15:44:00: murdercrumpet
+ Bots:[]
+2022-09-09 15:44:23: shizu
+ Bots:["'commanderroot'", "'isnicable'", "'lanarayyyy'", "'nightchillbc'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'violets_tv'"]
+2022-09-09 15:57:31: murdercrumpet
+ Bots:["'commanderroot'", "'soundofraindrops'"]
+2022-09-09 15:57:53: shizu
+ Bots:["'commanderroot'", "'isnicable'", "'lanarayyyy'", "'nightchillbc'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'violets_tv'"]
+2022-09-09 15:59:01: murdercrumpet
+ Bots:[]
+2022-09-09 15:59:31: shizu
+ Bots:["'commanderroot'", "'isnicable'", "'lanarayyyy'", "'nightchillbc'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 16:13:15: murdercrumpet
+ Bots:[]
+2022-09-09 16:13:40: shizu
+ Bots:["'isnicable'", "'lanarayyyy'", "'rimastino'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 16:14:18: murdercrumpet
+ Bots:[]
+2022-09-09 16:14:42: shizu
+ Bots:["'commanderroot'", "'lanarayyyy'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'violets_tv'"]
+2022-09-09 16:32:08: murdercrumpet
+ Bots:[]
+2022-09-09 16:32:38: shizu
+ Bots:["'aten'", "'commanderroot'", "'isnicable'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'", "'violets_tv'"]
+2022-09-09 20:35:06: murdercrumpet
+ Bots:[]
+2022-09-09 20:35:16: snowsos
+ Bots:["'commanderroot'", "'isnicable'", "'qnfgogtktls'", "'rimastino'", "'spiketrapclair'"]
+2022-09-09 20:36:25: murdercrumpet
+ Bots:[]
+2022-09-09 20:36:35: snowsos
+ Bots:["'commanderroot'", "'isnicable'", "'qnfgogtktls'", "'rimastino'", "'spiketrapclair'"]
+2022-09-09 20:37:27: magykrose
+ Bots:["'0ax2'", "'empressiona'"]
+2022-09-09 21:30:32: murdercrumpet
+ Bots:[]
+2022-09-09 21:30:41: snowsos
+ Bots:["'commanderroot'", "'isnicable'", "'rimastino'", "'spiketrapclair'"]
+2022-09-09 21:31:22: magykrose
+ Bots:["'0ax2'", "'empressiona'"]
+2022-09-09 21:31:30: sn0wbreeze
+ Bots:["'aten'", "'commanderroot'"]
+2022-09-15 23:49:30: roflgator
+ Bots:[]
+2022-09-15 23:49:33: Kareeda
+ Bots:["'anotherttvviewer'", "'rimastino'", "'rogueg1rl'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-15 23:49:43: tevin_vr
+ Bots:["'tizcloud'"]
+2022-09-15 23:49:47: momo
+ Bots:["'lanarayyyy'"]
+2022-09-15 23:49:53: lanfear_vr
+ Bots:["'rogueg1rl'", "'spiketrapclair'", "'virgoproz'"]
+2022-09-17 00:24:30: murdercrumpet
+ Bots:["'beardedstrumerwaitingroom'"]
+2022-09-17 22:34:27: snowsos
+ Bots:["'commanderroot'", "'0ax2'", "'aten'", "'beardedstrumerwaitingroom'", "'elbretweets'", "'elysian'", "'itsvodoo'", "'rimastino'", "'spiketrapclair'", "'warsofthetrekgatestar'"]
+2022-09-17 22:34:31: Stealthrg
+ Bots:["'commanderroot'", "'anotherttvviewer'", "'yamickle'"]
+2022-09-17 22:34:38: Kareeda
+ Bots:["'commanderroot'", "'anotherttvviewer'", "'rimastino'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-17 22:34:41: aikasanvr
+ Bots:[]
+2022-09-17 22:34:45: shizu
+ Bots:["'commanderroot'", "'allroadsleadtothefarm'", "'anotherttvviewer'", "'elbretweets'", "'lanarayyyy'", "'minion619'", "'rimastino'", "'soundofraindrops'", "'spiketrapclair'", "'v_and_k'"]
+2022-09-17 22:34:48: tevin_vr
+ Bots:["'allroadsleadtothefarm'", "'beardedstrumerwaitingroom'", "'elbretweets'", "'waptart'"]
+2022-09-17 22:35:12: sn0wbreeze
+ Bots:["'commanderroot'", "'beardedstrumerwaitingroom'", "'feet'", "'icaro12oliveira'", "'itsvodoo'", "'rogueg1rl'", "'soundofraindrops'", "'spiketrapclair'", "'virgoproz'", "'xyfm'"]
+2022-09-18 06:28:48: shizu
+ Bots:["'aten'", "'beardedstrumerwaitingroom'", "'elbretweets'", "'rimastino'", "'spiketrapclair'"]
+2022-09-18 11:24:05: sodapoppin
+ Bots:[]
+2022-09-18 11:24:25: shizu
+ Bots:["'commanderroot'", "'aten'", "'elysian'", "'violets_tv'"]
+2022-09-18 11:31:44: sodapoppin
+ Bots:[]
+2022-09-18 11:32:04: shizu
+ Bots:["'agent347'", "'spiketrapclair'", "'warsofthetrekgatestar'"]
+2022-09-18 12:40:20: sodapoppin
+ Bots:["'rimastino'"]
+2022-09-18 12:40:40: shizu
+ Bots:["'aten'", "'spiketrapclair'"]

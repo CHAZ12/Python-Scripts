@@ -1,0 +1,2738 @@
+2022-08-21 00:45:54
+ Name: tevin_vr, Game: MultiVersus, Viewers: 80, Followers: 6630, UsersInChat: 120
+2022-08-21 00:49:11
+ Name: tevin_vr, Game: MultiVersus, Viewers: 80, Followers: 6630, UsersInChat: 128
+2022-08-21 00:51:58
+ Name: tevin_vr, Game: MultiVersus, Viewers: 62, Followers: 6630, UsersInChat: 126
+2022-08-21 00:57:51
+ Name: tevin_vr, Game: MultiVersus, Viewers: 57, Followers: 6630, UsersInChat: 134
+2022-08-21 01:04:24
+ Name: tevin_vr, Game: MultiVersus, Viewers: 64, Followers: 6630, UsersInChat: 128
+2022-08-21 01:07:01
+ Name: tevin_vr, Game: MultiVersus, Viewers: 64, Followers: 6630, UsersInChat: 135
+2022-08-21 01:22:48
+ Name: tevin_vr, Game: MultiVersus, Viewers: 87, Followers: 6630, UsersInChat: 141
+2022-08-21 01:26:40
+ Name: tevin_vr, Game: MultiVersus, Viewers: 87, Followers: 6630, UsersInChat: 132
+2022-08-21 01:35:30
+ Name: tevin_vr, Game: MultiVersus, Viewers: 80, Followers: 6630, UsersInChat: 137
+2022-08-21 01:37:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 93, Followers: 6630, UsersInChat: 126
+2022-08-21 01:42:10
+ Name: tevin_vr, Game: Vtuber Simulator, Viewers: 66, Followers: 6630, UsersInChat: 131
+2022-08-21 01:49:41
+ Name: tevin_vr, Game: Vtuber Simulator, Viewers: 65, Followers: 6630, UsersInChat: 131
+2022-08-21 01:54:44
+ Name: tevin_vr, Game: Vtuber Simulator, Viewers: 66, Followers: 6630, UsersInChat: 128
+2022-08-21 02:02:00
+ Name: tevin_vr, Game: Vtuber Simulator, Viewers: 82, Followers: 6630, UsersInChat: 125
+2022-08-21 02:09:25
+ Name: tevin_vr, Game: Vtuber Simulator, Viewers: 76, Followers: 6630, UsersInChat: 121
+2022-08-21 02:11:31
+ Name: tevin_vr, Game: Vtuber Simulator, Viewers: 75, Followers: 6630, UsersInChat: 120
+2022-08-21 02:21:01
+ Name: tevin_vr, Game: Vtuber Simulator, Viewers: 80, Followers: 6630, UsersInChat: 121
+2022-08-21 02:22:23
+ Name: tevin_vr, Game: Vtuber Simulator, Viewers: 80, Followers: 6630, UsersInChat: 119
+2022-08-21 02:26:51
+ Name: tevin_vr, Game: Vtuber Simulator, Viewers: 79, Followers: 6630, UsersInChat: 115
+2022-08-21 02:32:57
+ Name: tevin_vr, Game: Fish!, Viewers: 52, Followers: 6631, UsersInChat: 110
+2022-08-22 20:31:12
+ Name: tevin_vr, Game: osu!, Viewers: 19, Followers: 6633, UsersInChat: 92
+2022-08-22 22:44:50
+ Name: tevin_vr, Game: Touhou Project, Viewers: 29, Followers: 6634, UsersInChat: 105
+2022-08-22 23:02:06
+ Name: tevin_vr, Game: Touhou Project, Viewers: 24, Followers: 6634, UsersInChat: 96
+2022-08-22 23:04:10
+ Name: tevin_vr, Game: Touhou Project, Viewers: 24, Followers: 6634, UsersInChat: 97
+2022-08-22 23:08:06
+ Name: tevin_vr, Game: Touhou Project, Viewers: 26, Followers: 6633, UsersInChat: 92
+2022-08-23 22:14:55
+ Name: tevin_vr, Game: Just Chatting, Viewers: 20, Followers: 6636, UsersInChat: 92
+2022-08-24 22:53:36
+ Name: tevin_vr, Game: VRChat, Viewers: 27, Followers: 6634, UsersInChat: 93
+2022-08-24 23:09:01
+ Name: tevin_vr, Game: VRChat, Viewers: 33, Followers: 6634, UsersInChat: 99
+2022-08-24 23:19:56
+ Name: tevin_vr, Game: VRChat, Viewers: 37, Followers: 6634, UsersInChat: 90
+2022-08-24 23:32:17
+ Name: tevin_vr, Game: VRChat, Viewers: 33, Followers: 6634, UsersInChat: 98
+2022-08-25 00:07:17
+ Name: tevin_vr, Game: MultiVersus, Viewers: 41, Followers: 6635, UsersInChat: 93
+2022-08-25 00:26:17
+ Name: tevin_vr, Game: Just Chatting, Viewers: 31, Followers: 6635, UsersInChat: 103
+2022-08-25 00:57:58
+ Name: tevin_vr, Game: MultiVersus, Viewers: 31, Followers: 6635, UsersInChat: 102
+2022-08-25 00:58:50
+ Name: tevin_vr, Game: MultiVersus, Viewers: 31, Followers: 6635, UsersInChat: 102
+2022-08-25 00:59:27
+ Name: tevin_vr, Game: MultiVersus, Viewers: 31, Followers: 6635, UsersInChat: 101
+2022-08-25 01:07:41
+ Name: tevin_vr, Game: MultiVersus, Viewers: 31, Followers: 6635, UsersInChat: 99
+2022-08-25 01:11:01
+ Name: tevin_vr, Game: MultiVersus, Viewers: 31, Followers: 6635, UsersInChat: 97
+2022-08-25 01:12:49
+ Name: tevin_vr, Game: MultiVersus, Viewers: 29, Followers: 6635, UsersInChat: 96
+2022-08-25 20:30:02
+ Name: tevin_vr, Game: VRChat, Viewers: 14, Followers: 6636, UsersInChat: 64
+2022-08-25 20:45:03
+ Name: tevin_vr, Game: VRChat, Viewers: 17, Followers: 6636, UsersInChat: 92
+2022-08-25 21:00:12
+ Name: tevin_vr, Game: VRChat, Viewers: 22, Followers: 6636, UsersInChat: 101
+2022-08-25 21:15:12
+ Name: tevin_vr, Game: VRChat, Viewers: 26, Followers: 6635, UsersInChat: 110
+2022-08-25 21:30:14
+ Name: tevin_vr, Game: VRChat, Viewers: 25, Followers: 6634, UsersInChat: 103
+2022-08-25 21:45:04
+ Name: tevin_vr, Game: VRChat, Viewers: 28, Followers: 6634, UsersInChat: 100
+2022-08-25 22:00:14
+ Name: tevin_vr, Game: MultiVersus, Viewers: 22, Followers: 6635, UsersInChat: 103
+2022-08-25 22:15:13
+ Name: tevin_vr, Game: MultiVersus, Viewers: 25, Followers: 6635, UsersInChat: 106
+2022-08-25 22:30:18
+ Name: tevin_vr, Game: MultiVersus, Viewers: 25, Followers: 6635, UsersInChat: 95
+2022-08-25 22:45:15
+ Name: tevin_vr, Game: MultiVersus, Viewers: 28, Followers: 6635, UsersInChat: 102
+2022-08-25 23:00:04
+ Name: tevin_vr, Game: MultiVersus, Viewers: 26, Followers: 6635, UsersInChat: 104
+2022-08-25 23:15:04
+ Name: tevin_vr, Game: MultiVersus, Viewers: 28, Followers: 6635, UsersInChat: 106
+2022-08-25 23:30:04
+ Name: tevin_vr, Game: MultiVersus, Viewers: 26, Followers: 6635, UsersInChat: 99
+2022-08-25 23:45:04
+ Name: tevin_vr, Game: MultiVersus, Viewers: 30, Followers: 6635, UsersInChat: 92
+2022-08-26 00:00:03
+ Name: tevin_vr, Game: MultiVersus, Viewers: 17, Followers: 6635, UsersInChat: 89
+2022-08-26 00:15:04
+ Name: tevin_vr, Game: MultiVersus, Viewers: 25, Followers: 6635, UsersInChat: 92
+2022-08-26 00:30:04
+ Name: tevin_vr, Game: MultiVersus, Viewers: 21, Followers: 6635, UsersInChat: 90
+2022-08-27 00:59:38
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 13, Followers: 29, UsersInChat: 27
+2022-08-27 01:00:16
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 13, Followers: 29, UsersInChat: 29
+2022-08-27 01:01:52
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 12, Followers: 29, UsersInChat: 29
+2022-08-27 01:03:36
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 12, Followers: 29, UsersInChat: 29
+2022-08-27 01:15:12
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 13, Followers: 29, UsersInChat: 30
+2022-08-27 01:15:38
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 13, Followers: 29, UsersInChat: 30
+2022-08-27 01:27:59
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 13, Followers: 29, UsersInChat: 30
+2022-08-27 01:28:50
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 9, Followers: 29, UsersInChat: 28
+2022-08-27 01:30:03
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 9, Followers: 29, UsersInChat: 28
+2022-08-27 01:43:43
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 11, Followers: 29, UsersInChat: 27
+2022-08-27 01:44:01
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 11, Followers: 29, UsersInChat: 27
+2022-08-27 01:44:38
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 11, Followers: 29, UsersInChat: 27
+2022-08-27 01:44:53
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 11, Followers: 29, UsersInChat: 27
+2022-08-27 01:45:12
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 11, Followers: 29, UsersInChat: 30
+2022-08-27 01:45:43
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 11, Followers: 29, UsersInChat: 30
+2022-08-27 01:46:05
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 11, Followers: 29, UsersInChat: 30
+2022-08-27 01:46:47
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 11, Followers: 29, UsersInChat: 30
+2022-08-27 01:48:54
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 10, Followers: 29, UsersInChat: 29
+2022-08-27 01:49:24
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 10, Followers: 29, UsersInChat: 29
+2022-08-27 01:50:20
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 10, Followers: 29, UsersInChat: 30
+2022-08-27 01:51:48
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 10, Followers: 29, UsersInChat: 30
+2022-08-27 01:52:05
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 10, Followers: 29, UsersInChat: 30
+2022-08-27 01:52:22
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 10, Followers: 29, UsersInChat: 30
+2022-08-27 01:58:24
+ Name: curious_emily, Game: VRChat, Viewers: 12, Followers: 29, UsersInChat: 28
+2022-08-27 02:00:03
+ Name: curious_emily, Game: VRChat, Viewers: 12, Followers: 29, UsersInChat: 28
+2022-08-27 02:02:53
+ Name: curious_emily, Game: VRChat, Viewers: 6, Followers: 29, UsersInChat: 29
+2022-08-27 02:03:44
+ Name: curious_emily, Game: VRChat, Viewers: 6, Followers: 29, UsersInChat: 27
+2022-08-27 02:06:54
+ Name: curious_emily, Game: VRChat, Viewers: 9, Followers: 29, UsersInChat: 28
+2022-08-27 02:07:51
+ Name: curious_emily, Game: VRChat, Viewers: 9, Followers: 29, UsersInChat: 28
+2022-08-27 02:09:20
+ Name: curious_emily, Game: VRChat, Viewers: 9, Followers: 29, UsersInChat: 28
+2022-08-27 02:09:47
+ Name: curious_emily, Game: VRChat, Viewers: 10, Followers: 29, UsersInChat: 28
+2022-08-27 02:10:15
+ Name: curious_emily, Game: VRChat, Viewers: 10, Followers: 29, UsersInChat: 28
+2022-08-27 02:15:07
+ Name: curious_emily, Game: VRChat, Viewers: 9, Followers: 29, UsersInChat: 29
+2022-08-27 02:21:16
+ Name: curious_emily, Game: VRChat, Viewers: 9, Followers: 29, UsersInChat: 28
+2022-08-27 02:32:00
+ Name: curious_emily, Game: VRChat, Viewers: 11, Followers: 29, UsersInChat: 25
+2022-08-27 02:32:34
+ Name: curious_emily, Game: VRChat, Viewers: 6, Followers: 29, UsersInChat: 25
+2022-08-27 02:33:13
+ Name: curious_emily, Game: VRChat, Viewers: 6, Followers: 29, UsersInChat: 25
+2022-08-27 02:33:45
+ Name: curious_emily, Game: VRChat, Viewers: 6, Followers: 29, UsersInChat: 25
+2022-08-27 02:33:58
+ Name: curious_emily, Game: VRChat, Viewers: 6, Followers: 29, UsersInChat: 28
+2022-08-27 02:35:05
+ Name: curious_emily, Game: VRChat, Viewers: 6, Followers: 29, UsersInChat: 28
+2022-08-27 02:37:23
+ Name: curious_emily, Game: VRChat, Viewers: 8, Followers: 29, UsersInChat: 27
+2022-08-27 02:41:51
+ Name: curious_emily, Game: VRChat, Viewers: 8, Followers: 29, UsersInChat: 25
+2022-08-27 02:42:12
+ Name: curious_emily, Game: VRChat, Viewers: 8, Followers: 29, UsersInChat: 25
+2022-08-27 02:42:30
+ Name: curious_emily, Game: VRChat, Viewers: 8, Followers: 29, UsersInChat: 25
+2022-08-27 02:42:50
+ Name: curious_emily, Game: VRChat, Viewers: 8, Followers: 29, UsersInChat: 25
+2022-08-27 02:45:03
+ Name: curious_emily, Game: VRChat, Viewers: 8, Followers: 29, UsersInChat: 27
+2022-08-27 02:48:39
+ Name: curious_emily, Game: VRChat, Viewers: 8, Followers: 29, UsersInChat: 27
+2022-08-27 02:49:19
+ Name: curious_emily, Game: VRChat, Viewers: 8, Followers: 29, UsersInChat: 27
+2022-08-27 02:50:02
+ Name: curious_emily, Game: VRChat, Viewers: 8, Followers: 29, UsersInChat: 28
+2022-08-27 02:50:53
+ Name: curious_emily, Game: VRChat, Viewers: 8, Followers: 29, UsersInChat: 28
+2022-08-27 02:51:09
+ Name: curious_emily, Game: VRChat, Viewers: 8, Followers: 29, UsersInChat: 28
+2022-08-27 02:55:30
+ Name: curious_emily, Game: VRChat, Viewers: 9, Followers: 29, UsersInChat: 28
+2022-08-27 02:56:03
+ Name: curious_emily, Game: VRChat, Viewers: 9, Followers: 29, UsersInChat: 28
+2022-08-27 02:57:13
+ Name: curious_emily, Game: VRChat, Viewers: 10, Followers: 29, UsersInChat: 28
+2022-08-27 02:57:45
+ Name: curious_emily, Game: VRChat, Viewers: 10, Followers: 29, UsersInChat: 29
+2022-08-27 02:58:51
+ Name: curious_emily, Game: VRChat, Viewers: 10, Followers: 29, UsersInChat: 29
+2022-08-27 03:01:04
+ Name: curious_emily, Game: VRChat, Viewers: 9, Followers: 29, UsersInChat: 28
+2022-08-27 03:06:44
+ Name: feather_two, Game: League of Legends, Viewers: 8, Followers: 214, UsersInChat: 26
+2022-08-27 03:09:16
+ Name: feather_two, Game: League of Legends, Viewers: 8, Followers: 214, UsersInChat: 26
+2022-08-27 03:14:57
+ Name: feather_two, Game: League of Legends, Viewers: 7, Followers: 214, UsersInChat: 25
+2022-08-27 03:15:03
+ Name: feather_two, Game: League of Legends, Viewers: 7, Followers: 214, UsersInChat: 25
+2022-08-27 03:15:25
+ Name: feather_two, Game: League of Legends, Viewers: 7, Followers: 214, UsersInChat: 25
+2022-08-27 03:16:15
+ Name: feather_two, Game: League of Legends, Viewers: 7, Followers: 214, UsersInChat: 25
+2022-08-27 03:16:57
+ Name: feather_two, Game: League of Legends, Viewers: 8, Followers: 214, UsersInChat: 26
+2022-08-27 03:17:42
+ Name: feather_two, Game: League of Legends, Viewers: 8, Followers: 214, UsersInChat: 26
+2022-08-27 03:18:57
+ Name: feather_two, Game: League of Legends, Viewers: 8, Followers: 214, UsersInChat: 26
+2022-08-27 03:19:12
+ Name: feather_two, Game: League of Legends, Viewers: 8, Followers: 214, UsersInChat: 26
+2022-08-27 03:20:17
+ Name: feather_two, Game: League of Legends, Viewers: 9, Followers: 214, UsersInChat: 26
+2022-08-27 03:20:32
+ Name: feather_two, Game: League of Legends, Viewers: 9, Followers: 214, UsersInChat: 26
+2022-08-27 03:20:50
+ Name: feather_two, Game: League of Legends, Viewers: 9, Followers: 214, UsersInChat: 26
+2022-08-27 03:21:25
+ Name: feather_two, Game: League of Legends, Viewers: 9, Followers: 214, UsersInChat: 26
+2022-08-27 03:21:44
+ Name: feather_two, Game: League of Legends, Viewers: 9, Followers: 214, UsersInChat: 26
+2022-08-27 03:22:15
+ Name: feather_two, Game: League of Legends, Viewers: 9, Followers: 214, UsersInChat: 27
+2022-08-27 03:22:57
+ Name: feather_two, Game: League of Legends, Viewers: 9, Followers: 214, UsersInChat: 27
+2022-08-27 03:26:02
+ Name: feather_two, Game: League of Legends, Viewers: 7, Followers: 214, UsersInChat: 26
+2022-08-27 03:27:12
+ Name: aikasanvr, Game: VRChat, Viewers: 204, Followers: 8753, UsersInChat: 238
+2022-08-27 03:28:13
+ Name: aikasanvr, Game: VRChat, Viewers: 208, Followers: 8753, UsersInChat: 238
+2022-08-27 03:32:28
+ Name: aikasanvr, Game: VRChat, Viewers: 216, Followers: 8755, UsersInChat: 240
+2022-08-27 03:35:55
+ Name: aikasanvr, Game: VRChat, Viewers: 216, Followers: 8755, UsersInChat: 243
+2022-08-27 03:36:17
+ Name: aikasanvr, Game: VRChat, Viewers: 216, Followers: 8755, UsersInChat: 243
+2022-08-27 03:37:18
+ Name: aikasanvr, Game: VRChat, Viewers: 216, Followers: 8755, UsersInChat: 243
+2022-08-27 03:37:33
+ Name: aikasanvr, Game: VRChat, Viewers: 211, Followers: 8755, UsersInChat: 243
+2022-08-27 03:37:53
+ Name: aikasanvr, Game: VRChat, Viewers: 211, Followers: 8755, UsersInChat: 245
+2022-08-27 03:38:32
+ Name: aikasanvr, Game: VRChat, Viewers: 211, Followers: 8755, UsersInChat: 245
+2022-08-27 03:40:22
+ Name: aikasanvr, Game: VRChat, Viewers: 211, Followers: 8755, UsersInChat: 245
+2022-08-27 03:40:46
+ Name: aikasanvr, Game: VRChat, Viewers: 208, Followers: 8755, UsersInChat: 245
+2022-08-27 03:42:19
+ Name: aikasanvr, Game: VRChat, Viewers: 208, Followers: 8755, UsersInChat: 239
+2022-08-27 03:42:37
+ Name: aikasanvr, Game: VRChat, Viewers: 208, Followers: 8755, UsersInChat: 239
+2022-08-27 03:45:05
+ Name: aikasanvr, Game: VRChat, Viewers: 192, Followers: 8755, UsersInChat: 245
+2022-08-27 03:45:40
+ Name: aikasanvr, Game: VRChat, Viewers: 192, Followers: 8755, UsersInChat: 245
+2022-08-27 03:46:13
+ Name: aikasanvr, Game: VRChat, Viewers: 192, Followers: 8755, UsersInChat: 241
+2022-08-27 03:46:31
+ Name: aikasanvr, Game: VRChat, Viewers: 192, Followers: 8755, UsersInChat: 241
+2022-08-27 14:47:44
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27623, UsersInChat: 59
+2022-08-27 14:55:51
+ Name: bigboy, Game: Overwatch, Viewers: 34, Followers: 27623, UsersInChat: 60
+2022-08-27 14:57:49
+ Name: bigboy, Game: Overwatch, Viewers: 30, Followers: 27623, UsersInChat: 60
+2022-08-27 15:00:07
+ Name: bigboy, Game: Overwatch, Viewers: 30, Followers: 27623, UsersInChat: 65
+2022-08-27 15:01:13
+ Name: bigboy, Game: Overwatch, Viewers: 30, Followers: 27623, UsersInChat: 65
+2022-08-27 15:01:30
+ Name: bigboy, Game: Overwatch, Viewers: 30, Followers: 27623, UsersInChat: 65
+2022-08-27 15:01:49
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27623, UsersInChat: 65
+2022-08-27 15:02:29
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27623, UsersInChat: 65
+2022-08-27 15:04:18
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27622, UsersInChat: 65
+2022-08-27 15:04:57
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27622, UsersInChat: 63
+2022-08-27 15:05:11
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27622, UsersInChat: 63
+2022-08-27 15:05:43
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27622, UsersInChat: 63
+2022-08-27 15:05:53
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27622, UsersInChat: 63
+2022-08-27 15:06:41
+ Name: bigboy, Game: Overwatch, Viewers: 26, Followers: 27622, UsersInChat: 63
+2022-08-27 15:07:10
+ Name: bigboy, Game: Overwatch, Viewers: 26, Followers: 27622, UsersInChat: 63
+2022-08-27 15:08:50
+ Name: bigboy, Game: Overwatch, Viewers: 26, Followers: 27622, UsersInChat: 63
+2022-08-27 15:09:04
+ Name: bigboy, Game: Overwatch, Viewers: 26, Followers: 27622, UsersInChat: 60
+2022-08-27 15:09:28
+ Name: bigboy, Game: Overwatch, Viewers: 26, Followers: 27622, UsersInChat: 60
+2022-08-27 15:10:33
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27622, UsersInChat: 60
+2022-08-27 15:11:09
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27621, UsersInChat: 60
+2022-08-27 15:11:32
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27621, UsersInChat: 60
+2022-08-27 15:12:29
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27621, UsersInChat: 54
+2022-08-27 15:12:46
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27621, UsersInChat: 54
+2022-08-27 15:13:03
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27621, UsersInChat: 54
+2022-08-27 15:14:12
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27621, UsersInChat: 54
+2022-08-27 15:14:43
+ Name: bigboy, Game: Overwatch, Viewers: 31, Followers: 27621, UsersInChat: 60
+2022-08-27 15:14:52
+ Name: bigboy, Game: Overwatch, Viewers: 26, Followers: 27621, UsersInChat: 60
+2022-08-27 15:15:06
+ Name: bigboy, Game: Overwatch, Viewers: 26, Followers: 27621, UsersInChat: 60
+2022-08-27 15:15:17
+ Name: bigboy, Game: Overwatch, Viewers: 26, Followers: 27621, UsersInChat: 60
+2022-08-27 15:28:06
+ Name: bigboy, Game: Overwatch, Viewers: 26, Followers: 27622, UsersInChat: 61
+2022-08-27 15:28:38
+ Name: bigboy, Game: Overwatch, Viewers: 26, Followers: 27622, UsersInChat: 61
+2022-08-27 15:29:59
+ Name: bigboy, Game: Overwatch, Viewers: 28, Followers: 27622, UsersInChat: 61
+2022-08-27 15:31:34
+ Name: bigboy, Game: Overwatch, Viewers: 28, Followers: 27622, UsersInChat: 62
+2022-08-27 15:36:18
+ Name: bigboy, Game: Overwatch, Viewers: 23, Followers: 27622, UsersInChat: 64
+2022-08-27 15:37:49
+ Name: bigboy, Game: Overwatch, Viewers: 23, Followers: 27622, UsersInChat: 64
+2022-08-27 15:38:05
+ Name: bigboy, Game: Overwatch, Viewers: 23, Followers: 27622, UsersInChat: 64
+2022-08-27 16:02:27
+ Name: bigboy, Game: Overwatch, Viewers: 33, Followers: 27621, UsersInChat: 64
+2022-08-27 16:03:11
+ Name: bigboy, Game: Overwatch, Viewers: 33, Followers: 27621, UsersInChat: 68
+2022-08-27 16:04:32
+ Name: bigboy, Game: Overwatch, Viewers: 33, Followers: 27621, UsersInChat: 68
+2022-08-27 16:06:40
+ Name: bigboy, Game: Overwatch, Viewers: 30, Followers: 27621, UsersInChat: 68
+2022-08-27 16:07:36
+ Name: bigboy, Game: Overwatch, Viewers: 30, Followers: 27621, UsersInChat: 68
+2022-08-27 16:19:51
+ Name: bigboy, Game: Overwatch, Viewers: 23, Followers: 27621, UsersInChat: 64
+2022-08-27 16:25:49
+ Name: sodapoppin, Game: Cursed to Golf, Viewers: 19886, Followers: 8799483, UsersInChat: 20134
+2022-08-27 16:26:33
+ Name: margot, Game: Luck be a Landlord, Viewers: 263, Followers: 5654, UsersInChat: 365
+2022-08-27 16:52:49
+ Name: cirno_tv, Game: Subnautica, Viewers: 481, Followers: 192772, UsersInChat: 694
+2022-08-27 18:27:27
+ Name: cirno_tv, Game: Tekken 7, Viewers: 505, Followers: 192777, UsersInChat: 646
+2022-08-27 18:30:39
+ Name: cirno_tv, Game: Tekken 7, Viewers: 505, Followers: 192777, UsersInChat: 629
+2022-08-27 18:34:24
+ Name: cirno_tv, Game: Tekken 7, Viewers: 416, Followers: 192777, UsersInChat: 631
+2022-08-27 18:37:06
+ Name: cirno_tv, Game: Tekken 7, Viewers: 416, Followers: 192777, UsersInChat: 613
+2022-08-27 18:39:01
+ Name: cirno_tv, Game: Tekken 7, Viewers: 467, Followers: 192777, UsersInChat: 628
+2022-08-27 18:39:18
+ Name: cirno_tv, Game: Tekken 7, Viewers: 467, Followers: 192777, UsersInChat: 628
+2022-08-27 18:41:22
+ Name: cirno_tv, Game: Tekken 7, Viewers: 507, Followers: 192777, UsersInChat: 611
+2022-08-27 18:42:17
+ Name: cirno_tv, Game: Tekken 7, Viewers: 507, Followers: 192777, UsersInChat: 611
+2022-08-27 18:42:40
+ Name: kareeda, Game: VRChat, Viewers: 31, Followers: 11247, UsersInChat: 56
+2022-08-27 18:54:09
+ Name: sodapoppin, Game: The Bridge Curse: Road To Salvation, Viewers: 17498, Followers: 8799564, UsersInChat: 17176
+2022-08-27 18:55:05
+ Name: tevin_vr, Game: MultiVersus, Viewers: 37, Followers: 6639, UsersInChat: 99
+2022-08-27 19:22:27
+ Name: tevin_vr, Game: MultiVersus, Viewers: 31, Followers: 6639, UsersInChat: 113
+2022-08-27 20:34:25
+ Name: tevin_vr, Game: MultiVersus, Viewers: 47, Followers: 6640, UsersInChat: 124
+2022-08-27 20:35:27
+ Name: tevin_vr, Game: MultiVersus, Viewers: 47, Followers: 6640, UsersInChat: 124
+2022-08-27 20:45:02
+ Name: tevin_vr, Game: MultiVersus, Viewers: 49, Followers: 6640, UsersInChat: 132
+2022-08-27 20:50:43
+ Name: tinamickel, Game: Art, Viewers: 5, Followers: 1545, UsersInChat: 15
+2022-08-27 20:57:00
+ Name: snowsos, Game: VRChat, Viewers: 68, Followers: 64200, UsersInChat: 88
+2022-08-27 21:00:09
+ Name: tevin_vr, Game: MultiVersus, Viewers: 44, Followers: 6641, UsersInChat: 130
+2022-08-27 21:16:23
+ Name: tevin_vr, Game: MultiVersus, Viewers: 57, Followers: 6641, UsersInChat: 132
+2022-08-27 21:30:16
+ Name: tevin_vr, Game: Just Chatting, Viewers: 66, Followers: 6641, UsersInChat: 125
+2022-08-27 21:45:21
+ Name: tevin_vr, Game: Just Chatting, Viewers: 51, Followers: 6641, UsersInChat: 136
+2022-08-27 22:01:01
+ Name: tevin_vr, Game: Just Chatting, Viewers: 62, Followers: 6641, UsersInChat: 131
+2022-08-27 22:16:26
+ Name: sodapoppin, Game: League of Legends, Viewers: 14489, Followers: 8799656, UsersInChat: 14623
+2022-08-27 22:16:29
+ Name: snowsos, Game: VRChat, Viewers: 71, Followers: 64203, UsersInChat: 88
+2022-08-27 22:16:33
+ Name: Stealthrg, Game: VRChat, Viewers: 133, Followers: 77129, UsersInChat: 168
+2022-08-27 22:16:39
+ Name: Kareeda, Game: VRChat, Viewers: 20, Followers: 11250, UsersInChat: 55
+2022-08-27 22:16:43
+ Name: aikasanvr, Game: VRChat, Viewers: 150, Followers: 8771, UsersInChat: 230
+2022-08-27 22:16:49
+ Name: tevin_vr, Game: VRChat, Viewers: 56, Followers: 6641, UsersInChat: 139
+2022-08-27 22:16:56
+ Name: oathmeal, Game: Just Chatting, Viewers: 60, Followers: 54249, UsersInChat: 142
+2022-08-27 22:30:17
+ Name: sodapoppin, Game: League of Legends, Viewers: 13307, Followers: 8799671, UsersInChat: 14198
+2022-08-27 22:30:24
+ Name: Stealthrg, Game: VRChat, Viewers: 174, Followers: 77128, UsersInChat: 171
+2022-08-27 22:30:30
+ Name: Kareeda, Game: VRChat, Viewers: 18, Followers: 11250, UsersInChat: 54
+2022-08-27 22:30:34
+ Name: aikasanvr, Game: VRChat, Viewers: 200, Followers: 8773, UsersInChat: 252
+2022-08-27 22:30:41
+ Name: tevin_vr, Game: VRChat, Viewers: 59, Followers: 6642, UsersInChat: 140
+2022-08-27 22:30:48
+ Name: oathmeal, Game: Just Chatting, Viewers: 71, Followers: 54250, UsersInChat: 151
+2022-08-27 22:45:06
+ Name: sodapoppin, Game: League of Legends, Viewers: 14027, Followers: 8799680, UsersInChat: 14305
+2022-08-27 22:45:13
+ Name: Stealthrg, Game: VRChat, Viewers: 188, Followers: 77126, UsersInChat: 181
+2022-08-27 22:45:19
+ Name: Kareeda, Game: VRChat, Viewers: 18, Followers: 11250, UsersInChat: 51
+2022-08-27 22:45:23
+ Name: aikasanvr, Game: VRChat, Viewers: 222, Followers: 8773, UsersInChat: 275
+2022-08-27 22:45:30
+ Name: tevin_vr, Game: VRChat, Viewers: 66, Followers: 6642, UsersInChat: 142
+2022-08-27 22:45:37
+ Name: oathmeal, Game: Just Chatting, Viewers: 84, Followers: 54249, UsersInChat: 169
+2022-08-27 23:15:07
+ Name: sodapoppin, Game: League of Legends, Viewers: 12843, Followers: 8799697, UsersInChat: 12885
+2022-08-27 23:15:14
+ Name: Stealthrg, Game: VRChat, Viewers: 176, Followers: 77127, UsersInChat: 178
+2022-08-27 23:15:21
+ Name: Kareeda, Game: VRChat, Viewers: 14, Followers: 11251, UsersInChat: 52
+2022-08-27 23:15:24
+ Name: aikasanvr, Game: VRChat, Viewers: 228, Followers: 8774, UsersInChat: 302
+2022-08-27 23:15:31
+ Name: tevin_vr, Game: VRChat, Viewers: 69, Followers: 6641, UsersInChat: 138
+2022-08-27 23:15:37
+ Name: oathmeal, Game: Bloons TD 6, Viewers: 90, Followers: 54248, UsersInChat: 187
+2022-08-27 23:30:06
+ Name: sodapoppin, Game: League of Legends, Viewers: 12833, Followers: 8799708, UsersInChat: 12753
+2022-08-27 23:30:12
+ Name: Stealthrg, Game: VRChat, Viewers: 170, Followers: 77125, UsersInChat: 172
+2022-08-27 23:30:19
+ Name: Kareeda, Game: VRChat, Viewers: 15, Followers: 11251, UsersInChat: 54
+2022-08-27 23:30:22
+ Name: aikasanvr, Game: VRChat, Viewers: 259, Followers: 8775, UsersInChat: 306
+2022-08-27 23:30:36
+ Name: oathmeal, Game: Bloons TD 6, Viewers: 99, Followers: 54248, UsersInChat: 187
+2022-08-27 23:30:43
+ Name: magykrose, Game: Stray, Viewers: 2, Followers: 3400, UsersInChat: 8
+2022-08-27 23:34:35
+ Name: sodapoppin, Game: League of Legends, Viewers: 12261, Followers: 8799710, UsersInChat: 12935
+2022-08-27 23:34:42
+ Name: Stealthrg, Game: VRChat, Viewers: 164, Followers: 77125, UsersInChat: 176
+2022-08-27 23:34:49
+ Name: Kareeda, Game: VRChat, Viewers: 12, Followers: 11251, UsersInChat: 54
+2022-08-27 23:34:52
+ Name: aikasanvr, Game: VRChat, Viewers: 285, Followers: 8777, UsersInChat: 327
+2022-08-27 23:35:05
+ Name: oathmeal, Game: Bloons TD 6, Viewers: 101, Followers: 54248, UsersInChat: 203
+2022-08-27 23:35:12
+ Name: magykrose, Game: Stray, Viewers: 2, Followers: 3400, UsersInChat: 10
+2022-08-27 23:43:18
+ Name: sodapoppin, Game: League of Legends, Viewers: 12769, Followers: 8799712, UsersInChat: 12865
+2022-08-27 23:43:24
+ Name: Stealthrg, Game: VRChat, Viewers: 171, Followers: 77125, UsersInChat: 180
+2022-08-27 23:43:31
+ Name: Kareeda, Game: VRChat, Viewers: 18, Followers: 11251, UsersInChat: 53
+2022-08-27 23:43:34
+ Name: aikasanvr, Game: VRChat, Viewers: 295, Followers: 8777, UsersInChat: 319
+2022-08-27 23:43:47
+ Name: oathmeal, Game: Bloons TD 6, Viewers: 97, Followers: 54248, UsersInChat: 189
+2022-08-27 23:43:54
+ Name: magykrose, Game: Stray, Viewers: 1, Followers: 3400, UsersInChat: 10
+2022-08-27 23:45:06
+ Name: sodapoppin, Game: League of Legends, Viewers: 12769, Followers: 8799712, UsersInChat: 12865
+2022-08-27 23:45:13
+ Name: Stealthrg, Game: VRChat, Viewers: 171, Followers: 77125, UsersInChat: 181
+2022-08-27 23:45:19
+ Name: Kareeda, Game: VRChat, Viewers: 17, Followers: 11251, UsersInChat: 57
+2022-08-27 23:45:23
+ Name: aikasanvr, Game: VRChat, Viewers: 295, Followers: 8778, UsersInChat: 333
+2022-08-27 23:45:36
+ Name: oathmeal, Game: Bloons TD 6, Viewers: 105, Followers: 54248, UsersInChat: 196
+2022-08-27 23:45:42
+ Name: magykrose, Game: Stray, Viewers: 1, Followers: 3400, UsersInChat: 11
+2022-08-28 00:00:12
+ Name: Stealthrg, Game: VRChat, Viewers: 175, Followers: 77124, UsersInChat: 184
+2022-08-28 00:00:19
+ Name: Kareeda, Game: VRChat, Viewers: 15, Followers: 11251, UsersInChat: 57
+2022-08-28 00:00:35
+ Name: oathmeal, Game: Bloons TD 6, Viewers: 103, Followers: 54248, UsersInChat: 207
+2022-08-28 00:00:42
+ Name: magykrose, Game: Stray, Viewers: 3, Followers: 3399, UsersInChat: 14
+2022-08-28 00:07:40
+ Name: Stealthrg, Game: VRChat, Viewers: 182, Followers: 77123, UsersInChat: 183
+2022-08-28 00:07:47
+ Name: Kareeda, Game: VRChat, Viewers: 15, Followers: 11251, UsersInChat: 55
+2022-08-28 00:08:17
+ Name: Stealthrg, Game: VRChat, Viewers: 182, Followers: 77123, UsersInChat: 183
+2022-08-28 00:08:23
+ Name: Kareeda, Game: VRChat, Viewers: 15, Followers: 11251, UsersInChat: 55
+2022-08-28 00:08:39
+ Name: oathmeal, Game: Bloons TD 6, Viewers: 95, Followers: 54248, UsersInChat: 218
+2022-08-28 00:10:07
+ Name: Stealthrg, Game: VRChat, Viewers: 168, Followers: 77123, UsersInChat: 181
+2022-08-28 00:10:13
+ Name: Kareeda, Game: VRChat, Viewers: 15, Followers: 11251, UsersInChat: 57
+2022-08-28 00:10:30
+ Name: oathmeal, Game: Bloons TD 6, Viewers: 95, Followers: 54248, UsersInChat: 218
+2022-08-28 00:15:12
+ Name: Stealthrg, Game: VRChat, Viewers: 178, Followers: 77123, UsersInChat: 183
+2022-08-28 00:15:19
+ Name: Kareeda, Game: VRChat, Viewers: 14, Followers: 11251, UsersInChat: 57
+2022-08-28 00:15:35
+ Name: oathmeal, Game: Bloons TD 6, Viewers: 121, Followers: 54248, UsersInChat: 220
+2022-08-28 00:30:12
+ Name: Stealthrg, Game: VRChat, Viewers: 188, Followers: 77124, UsersInChat: 192
+2022-08-28 00:30:19
+ Name: Kareeda, Game: VRChat, Viewers: 17, Followers: 11251, UsersInChat: 59
+2022-08-28 00:30:35
+ Name: oathmeal, Game: Bloons TD 6, Viewers: 104, Followers: 54247, UsersInChat: 204
+2022-08-28 00:45:12
+ Name: Stealthrg, Game: VRChat, Viewers: 190, Followers: 77123, UsersInChat: 192
+2022-08-28 00:45:19
+ Name: Kareeda, Game: VRChat, Viewers: 15, Followers: 11251, UsersInChat: 57
+2022-08-28 00:45:35
+ Name: oathmeal, Game: Bloons TD 6, Viewers: 112, Followers: 54247, UsersInChat: 212
+2022-08-28 01:00:12
+ Name: Stealthrg, Game: VRChat, Viewers: 179, Followers: 77123, UsersInChat: 191
+2022-08-28 01:00:19
+ Name: Kareeda, Game: VRChat, Viewers: 13, Followers: 11252, UsersInChat: 58
+2022-08-28 01:00:35
+ Name: oathmeal, Game: Bloons TD 6, Viewers: 112, Followers: 54248, UsersInChat: 207
+2022-08-28 01:15:12
+ Name: Stealthrg, Game: VRChat, Viewers: 167, Followers: 77124, UsersInChat: 174
+2022-08-28 01:15:19
+ Name: Kareeda, Game: VRChat, Viewers: 11, Followers: 11252, UsersInChat: 57
+2022-08-28 01:30:14
+ Name: Stealthrg, Game: VRChat, Viewers: 127, Followers: 77123, UsersInChat: 150
+2022-08-28 01:30:20
+ Name: Kareeda, Game: VRChat, Viewers: 15, Followers: 11252, UsersInChat: 53
+2022-08-28 04:40:37
+ Name: sodapoppin, Game: Zapling Bygone, Viewers: 10520, Followers: 8799701, UsersInChat: 12179
+2022-08-28 13:38:45
+ Name: shizu, Game: Elden Ring, Viewers: 46, Followers: 24773, UsersInChat: 112
+2022-08-28 13:38:52
+ Name: momo, Game: Dungeons & Dragons, Viewers: 579, Followers: 251223, UsersInChat: 784
+2022-08-28 13:40:07
+ Name: sodapoppin, Game: Zapling Bygone, Viewers: 10835, Followers: 8799704, UsersInChat: 12179
+2022-08-28 13:45:16
+ Name: sodapoppin, Game: Zapling Bygone, Viewers: 10941, Followers: 8799707, UsersInChat: 12580
+2022-08-28 13:45:38
+ Name: shizu, Game: Elden Ring, Viewers: 67, Followers: 24773, UsersInChat: 105
+2022-08-28 13:45:45
+ Name: momo, Game: Dungeons & Dragons, Viewers: 591, Followers: 251224, UsersInChat: 743
+2022-08-28 14:00:06
+ Name: sodapoppin, Game: The Bridge Curse: Road To Salvation, Viewers: 6427, Followers: 8799707, UsersInChat: 12980
+2022-08-28 14:00:27
+ Name: shizu, Game: Elden Ring, Viewers: 67, Followers: 24772, UsersInChat: 116
+2022-08-28 14:00:34
+ Name: momo, Game: Dungeons & Dragons, Viewers: 523, Followers: 251224, UsersInChat: 770
+2022-08-28 14:15:06
+ Name: sodapoppin, Game: The Bridge Curse: Road To Salvation, Viewers: 11127, Followers: 8799706, UsersInChat: 14392
+2022-08-28 14:15:26
+ Name: shizu, Game: Elden Ring, Viewers: 71, Followers: 24773, UsersInChat: 116
+2022-08-28 14:15:33
+ Name: momo, Game: Dungeons & Dragons, Viewers: 534, Followers: 251222, UsersInChat: 759
+2022-08-28 14:45:06
+ Name: sodapoppin, Game: The Bridge Curse: Road To Salvation, Viewers: 14138, Followers: 8799713, UsersInChat: 15967
+2022-08-28 14:45:28
+ Name: shizu, Game: Elden Ring, Viewers: 82, Followers: 24775, UsersInChat: 133
+2022-08-28 15:00:06
+ Name: sodapoppin, Game: The Bridge Curse: Road To Salvation, Viewers: 15540, Followers: 8799715, UsersInChat: 16101
+2022-08-28 15:00:26
+ Name: shizu, Game: Elden Ring, Viewers: 88, Followers: 24775, UsersInChat: 129
+2022-08-28 19:30:02
+ Name: murdercrumpet, Game: VRChat, Viewers: 2096, Followers: 89686, UsersInChat: 2258
+2022-08-28 19:30:06
+ Name: sodapoppin, Game: Rollerdrome, Viewers: 22391, Followers: 8799830, UsersInChat: 19010
+2022-08-28 19:30:09
+ Name: snowsos, Game: Apex Legends, Viewers: 59, Followers: 64205, UsersInChat: 82
+2022-08-28 19:30:42
+ Name: magykrose, Game: Stray, Viewers: 6, Followers: 3398, UsersInChat: 15
+2022-08-28 19:45:04
+ Name: murdercrumpet, Game: VRChat, Viewers: 2105, Followers: 89686, UsersInChat: 2307
+2022-08-28 19:45:07
+ Name: sodapoppin, Game: Rollerdrome, Viewers: 21011, Followers: 8799840, UsersInChat: 19660
+2022-08-28 19:45:11
+ Name: snowsos, Game: Apex Legends, Viewers: 62, Followers: 64204, UsersInChat: 85
+2022-08-28 19:45:44
+ Name: magykrose, Game: Stray, Viewers: 4, Followers: 3398, UsersInChat: 19
+2022-08-28 20:00:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 2165, Followers: 89687, UsersInChat: 2312
+2022-08-28 20:00:07
+ Name: sodapoppin, Game: Rollerdrome, Viewers: 21163, Followers: 8799848, UsersInChat: 19014
+2022-08-28 20:00:10
+ Name: snowsos, Game: Apex Legends, Viewers: 69, Followers: 64204, UsersInChat: 84
+2022-08-28 20:00:44
+ Name: magykrose, Game: Stray, Viewers: 3, Followers: 3398, UsersInChat: 19
+2022-08-28 20:15:04
+ Name: murdercrumpet, Game: VRChat, Viewers: 2137, Followers: 89686, UsersInChat: 2301
+2022-08-28 20:15:07
+ Name: sodapoppin, Game: Rollerdrome, Viewers: 20197, Followers: 8799860, UsersInChat: 17527
+2022-08-28 20:15:10
+ Name: snowsos, Game: Apex Legends, Viewers: 61, Followers: 64204, UsersInChat: 80
+2022-08-28 20:15:44
+ Name: magykrose, Game: Stray, Viewers: 6, Followers: 3398, UsersInChat: 21
+2022-08-28 20:30:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 2158, Followers: 89690, UsersInChat: 2382
+2022-08-28 20:30:07
+ Name: sodapoppin, Game: Rollerdrome, Viewers: 19250, Followers: 8799872, UsersInChat: 17305
+2022-08-28 20:30:10
+ Name: snowsos, Game: Apex Legends, Viewers: 68, Followers: 64205, UsersInChat: 83
+2022-08-28 20:45:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 2235, Followers: 89690, UsersInChat: 2398
+2022-08-28 20:45:06
+ Name: sodapoppin, Game: Just Chatting, Viewers: 17845, Followers: 8799878, UsersInChat: 16826
+2022-08-28 20:45:10
+ Name: snowsos, Game: Fortnite, Viewers: 63, Followers: 64205, UsersInChat: 82
+2022-08-28 21:00:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 2350, Followers: 89694, UsersInChat: 2416
+2022-08-28 21:00:10
+ Name: snowsos, Game: Fortnite, Viewers: 72, Followers: 64205, UsersInChat: 87
+2022-08-28 21:15:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 2487, Followers: 89694, UsersInChat: 2464
+2022-08-28 21:15:10
+ Name: snowsos, Game: Fortnite, Viewers: 61, Followers: 64206, UsersInChat: 83
+2022-08-28 21:30:10
+ Name: snowsos, Game: Fortnite, Viewers: 61, Followers: 64205, UsersInChat: 82
+2022-08-28 21:30:17
+ Name: roflgator, Game: VRChat, Viewers: 2780, Followers: 295345, UsersInChat: 3151
+2022-08-28 21:45:10
+ Name: snowsos, Game: Fortnite, Viewers: 67, Followers: 64205, UsersInChat: 84
+2022-08-28 21:45:16
+ Name: roflgator, Game: VRChat, Viewers: 3387, Followers: 295344, UsersInChat: 3551
+2022-08-28 22:00:17
+ Name: roflgator, Game: VRChat, Viewers: 3491, Followers: 295347, UsersInChat: 3770
+2022-08-28 22:15:17
+ Name: roflgator, Game: VRChat, Viewers: 3625, Followers: 295344, UsersInChat: 3902
+2022-08-28 22:30:16
+ Name: roflgator, Game: VRChat, Viewers: 3763, Followers: 295342, UsersInChat: 3983
+2022-08-28 22:45:17
+ Name: roflgator, Game: VRChat, Viewers: 4113, Followers: 295344, UsersInChat: 3962
+2022-08-28 23:00:16
+ Name: roflgator, Game: VRChat, Viewers: 3922, Followers: 295348, UsersInChat: 4042
+2022-08-28 23:00:40
+ Name: lanfear_vr, Game: VRChat, Viewers: 29, Followers: 19579, UsersInChat: 93
+2022-08-28 23:15:18
+ Name: roflgator, Game: VRChat, Viewers: 3719, Followers: 295351, UsersInChat: 3822
+2022-08-28 23:15:41
+ Name: lanfear_vr, Game: VRChat, Viewers: 52, Followers: 19579, UsersInChat: 129
+2022-08-28 23:30:17
+ Name: roflgator, Game: VRChat, Viewers: 3591, Followers: 295351, UsersInChat: 3741
+2022-08-28 23:30:40
+ Name: lanfear_vr, Game: VRChat, Viewers: 63, Followers: 19580, UsersInChat: 144
+2022-08-28 23:45:16
+ Name: roflgator, Game: VRChat, Viewers: 3839, Followers: 295354, UsersInChat: 3679
+2022-08-28 23:45:40
+ Name: lanfear_vr, Game: VRChat, Viewers: 89, Followers: 19581, UsersInChat: 156
+2022-08-29 00:00:16
+ Name: roflgator, Game: VRChat, Viewers: 3500, Followers: 295356, UsersInChat: 3742
+2022-08-29 00:00:40
+ Name: lanfear_vr, Game: VRChat, Viewers: 105, Followers: 19582, UsersInChat: 166
+2022-08-29 00:06:58
+ Name: roflgator, Game: VRChat, Viewers: 3353, Followers: 295355, UsersInChat: 3572
+2022-08-29 00:07:22
+ Name: lanfear_vr, Game: VRChat, Viewers: 123, Followers: 19581, UsersInChat: 169
+2022-08-29 00:10:08
+ Name: roflgator, Game: VRChat, Viewers: 3353, Followers: 295356, UsersInChat: 3483
+2022-08-29 00:10:32
+ Name: lanfear_vr, Game: VRChat, Viewers: 112, Followers: 19581, UsersInChat: 169
+2022-08-29 00:10:39
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 4, Followers: 32, UsersInChat: 14
+2022-08-29 00:15:16
+ Name: roflgator, Game: VRChat, Viewers: 3353, Followers: 295355, UsersInChat: 3519
+2022-08-29 00:15:24
+ Name: roflgator, Game: VRChat, Viewers: 3353, Followers: 295355, UsersInChat: 3519
+2022-08-29 00:15:39
+ Name: lanfear_vr, Game: VRChat, Viewers: 111, Followers: 19581, UsersInChat: 186
+2022-08-29 00:15:46
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 5, Followers: 32, UsersInChat: 15
+2022-08-29 00:15:47
+ Name: lanfear_vr, Game: VRChat, Viewers: 111, Followers: 19581, UsersInChat: 186
+2022-08-29 00:15:54
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 5, Followers: 32, UsersInChat: 15
+2022-08-29 00:24:42
+ Name: roflgator, Game: VRChat, Viewers: 3337, Followers: 295355, UsersInChat: 3427
+2022-08-29 00:25:05
+ Name: lanfear_vr, Game: VRChat, Viewers: 107, Followers: 19581, UsersInChat: 186
+2022-08-29 00:25:12
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 7, Followers: 33, UsersInChat: 18
+2022-08-29 00:30:16
+ Name: roflgator, Game: PlateUp!, Viewers: 3271, Followers: 295357, UsersInChat: 3432
+2022-08-29 00:30:39
+ Name: lanfear_vr, Game: VRChat, Viewers: 119, Followers: 19581, UsersInChat: 191
+2022-08-29 00:30:46
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 9, Followers: 33, UsersInChat: 18
+2022-08-29 00:45:17
+ Name: roflgator, Game: PlateUp!, Viewers: 3054, Followers: 295356, UsersInChat: 3179
+2022-08-29 00:45:41
+ Name: lanfear_vr, Game: VRChat, Viewers: 117, Followers: 19584, UsersInChat: 194
+2022-08-29 00:45:47
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 11, Followers: 33, UsersInChat: 20
+2022-08-29 01:00:16
+ Name: roflgator, Game: PlateUp!, Viewers: 3017, Followers: 295354, UsersInChat: 3190
+2022-08-29 01:00:40
+ Name: lanfear_vr, Game: VRChat, Viewers: 135, Followers: 19585, UsersInChat: 215
+2022-08-29 01:00:47
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 13, Followers: 33, UsersInChat: 22
+2022-08-29 01:15:16
+ Name: roflgator, Game: PlateUp!, Viewers: 2867, Followers: 295353, UsersInChat: 3035
+2022-08-29 01:15:40
+ Name: lanfear_vr, Game: VRChat, Viewers: 155, Followers: 19585, UsersInChat: 202
+2022-08-29 01:15:47
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 15, Followers: 33, UsersInChat: 20
+2022-08-29 01:30:16
+ Name: roflgator, Game: PlateUp!, Viewers: 2817, Followers: 295355, UsersInChat: 2995
+2022-08-29 01:30:39
+ Name: lanfear_vr, Game: VRChat, Viewers: 153, Followers: 19588, UsersInChat: 220
+2022-08-29 01:30:46
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 17, Followers: 33, UsersInChat: 24
+2022-08-29 17:22:16
+ Name: murdercrumpet, Game: Black Mesa, Viewers: 1372, Followers: 89705, UsersInChat: 1476
+2022-08-29 17:30:03
+ Name: murdercrumpet, Game: Black Mesa, Viewers: 1237, Followers: 89705, UsersInChat: 1465
+2022-08-29 17:30:31
+ Name: tevin_vr, Game: Roblox, Viewers: 60, Followers: 6647, UsersInChat: 166
+2022-08-29 17:46:03
+ Name: murdercrumpet, Game: Black Mesa, Viewers: 977, Followers: 89706, UsersInChat: 1524
+2022-08-29 17:46:30
+ Name: tevin_vr, Game: Roblox, Viewers: 57, Followers: 6648, UsersInChat: 171
+2022-08-29 17:46:33
+ Name: momo, Game: Just Chatting, Viewers: 40, Followers: 251317, UsersInChat: 147
+2022-08-29 18:00:10
+ Name: murdercrumpet, Game: Black Mesa, Viewers: 1027, Followers: 89708, UsersInChat: 1493
+2022-08-29 18:00:37
+ Name: tevin_vr, Game: Roblox, Viewers: 61, Followers: 6649, UsersInChat: 166
+2022-08-29 18:00:41
+ Name: momo, Game: Just Chatting, Viewers: 632, Followers: 251316, UsersInChat: 709
+2022-08-29 19:30:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 1184, Followers: 89713, UsersInChat: 1521
+2022-08-29 19:30:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 1184, Followers: 89713, UsersInChat: 1521
+2022-08-29 19:30:32
+ Name: tevin_vr, Game: Roblox, Viewers: 70, Followers: 6657, UsersInChat: 171
+2022-08-29 19:30:32
+ Name: tevin_vr, Game: Roblox, Viewers: 70, Followers: 6657, UsersInChat: 171
+2022-08-29 19:30:36
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 946, Followers: 251336, UsersInChat: 1106
+2022-08-29 19:30:36
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 946, Followers: 251336, UsersInChat: 1106
+2022-08-29 19:45:12
+ Name: murdercrumpet, Game: VRChat, Viewers: 1394, Followers: 89712, UsersInChat: 1771
+2022-08-29 19:45:41
+ Name: tevin_vr, Game: Roblox, Viewers: 67, Followers: 6658, UsersInChat: 171
+2022-08-29 19:45:45
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 965, Followers: 251340, UsersInChat: 1131
+2022-08-29 20:00:11
+ Name: murdercrumpet, Game: VRChat, Viewers: 1483, Followers: 89712, UsersInChat: 1786
+2022-08-29 20:00:19
+ Name: snowsos, Game: Just Chatting, Viewers: 1, Followers: 64201, UsersInChat: 32
+2022-08-29 20:00:41
+ Name: tevin_vr, Game: Roblox, Viewers: 58, Followers: 6658, UsersInChat: 154
+2022-08-29 20:00:45
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1050, Followers: 251345, UsersInChat: 1164
+2022-08-29 20:15:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 1640, Followers: 89715, UsersInChat: 1929
+2022-08-29 20:15:12
+ Name: snowsos, Game: Just Chatting, Viewers: 42, Followers: 64201, UsersInChat: 69
+2022-08-29 20:15:24
+ Name: Kareeda, Game: VRChat, Viewers: 14, Followers: 11251, UsersInChat: 31
+2022-08-29 20:15:35
+ Name: tevin_vr, Game: Roblox, Viewers: 59, Followers: 6659, UsersInChat: 155
+2022-08-29 20:15:38
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1200, Followers: 251350, UsersInChat: 1237
+2022-08-29 20:30:04
+ Name: murdercrumpet, Game: VRChat, Viewers: 1561, Followers: 89716, UsersInChat: 1975
+2022-08-29 20:30:12
+ Name: snowsos, Game: Just Chatting, Viewers: 54, Followers: 64201, UsersInChat: 71
+2022-08-29 20:30:23
+ Name: Kareeda, Game: VRChat, Viewers: 25, Followers: 11251, UsersInChat: 42
+2022-08-29 20:30:34
+ Name: tevin_vr, Game: Roblox, Viewers: 48, Followers: 6659, UsersInChat: 147
+2022-08-29 20:30:37
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1110, Followers: 251348, UsersInChat: 1226
+2022-08-29 20:45:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 1838, Followers: 89723, UsersInChat: 2079
+2022-08-29 20:45:11
+ Name: snowsos, Game: Just Chatting, Viewers: 64, Followers: 64202, UsersInChat: 83
+2022-08-29 20:45:23
+ Name: Kareeda, Game: VRChat, Viewers: 23, Followers: 11251, UsersInChat: 51
+2022-08-29 20:45:34
+ Name: tevin_vr, Game: Roblox, Viewers: 53, Followers: 6659, UsersInChat: 148
+2022-08-29 20:45:38
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1047, Followers: 251354, UsersInChat: 1207
+2022-08-29 21:00:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 1880, Followers: 89722, UsersInChat: 2044
+2022-08-29 21:00:12
+ Name: snowsos, Game: Just Chatting, Viewers: 68, Followers: 64202, UsersInChat: 83
+2022-08-29 21:00:22
+ Name: Kareeda, Game: VRChat, Viewers: 39, Followers: 11250, UsersInChat: 57
+2022-08-29 21:00:34
+ Name: tevin_vr, Game: Roblox, Viewers: 54, Followers: 6660, UsersInChat: 142
+2022-08-29 21:00:37
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1082, Followers: 251353, UsersInChat: 1168
+2022-08-29 21:15:11
+ Name: snowsos, Game: Just Chatting, Viewers: 60, Followers: 64201, UsersInChat: 90
+2022-08-29 21:15:20
+ Name: roflgator, Game: VRChat, Viewers: 2178, Followers: 295355, UsersInChat: 2632
+2022-08-29 21:15:23
+ Name: Kareeda, Game: VRChat, Viewers: 21, Followers: 11251, UsersInChat: 48
+2022-08-29 21:15:34
+ Name: tevin_vr, Game: Roblox, Viewers: 52, Followers: 6660, UsersInChat: 144
+2022-08-29 21:15:37
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 996, Followers: 251358, UsersInChat: 1173
+2022-08-29 21:30:34
+ Name: snowsos, Game: Just Chatting, Viewers: 74, Followers: 64201, UsersInChat: 95
+2022-08-29 21:30:43
+ Name: roflgator, Game: VRChat, Viewers: 2523, Followers: 295355, UsersInChat: 3000
+2022-08-29 21:30:46
+ Name: Kareeda, Game: VRChat, Viewers: 19, Followers: 11251, UsersInChat: 53
+2022-08-29 21:30:57
+ Name: tevin_vr, Game: Roblox, Viewers: 47, Followers: 6660, UsersInChat: 134
+2022-08-29 21:31:01
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1166, Followers: 251359, UsersInChat: 1247
+2022-08-29 21:31:12
+ Name: magykrose, Game: Ghostwire: Tokyo, Viewers: 1, Followers: 3398, UsersInChat: 14
+2022-08-29 21:45:11
+ Name: snowsos, Game: Just Chatting, Viewers: 67, Followers: 64201, UsersInChat: 90
+2022-08-29 21:45:15
+ Name: Stealthrg, Game: VRChat, Viewers: 132, Followers: 77120, UsersInChat: 138
+2022-08-29 21:45:19
+ Name: roflgator, Game: VRChat, Viewers: 2999, Followers: 295358, UsersInChat: 3371
+2022-08-29 21:45:22
+ Name: Kareeda, Game: VRChat, Viewers: 16, Followers: 11251, UsersInChat: 51
+2022-08-29 21:45:34
+ Name: tevin_vr, Game: Roblox, Viewers: 50, Followers: 6660, UsersInChat: 141
+2022-08-29 21:45:37
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1123, Followers: 251361, UsersInChat: 1255
+2022-08-29 21:45:48
+ Name: magykrose, Game: Ghostwire: Tokyo, Viewers: 4, Followers: 3398, UsersInChat: 18
+2022-08-29 22:00:10
+ Name: snowsos, Game: Just Chatting, Viewers: 63, Followers: 64201, UsersInChat: 85
+2022-08-29 22:00:14
+ Name: Stealthrg, Game: VRChat, Viewers: 153, Followers: 77120, UsersInChat: 162
+2022-08-29 22:00:18
+ Name: roflgator, Game: VRChat, Viewers: 3183, Followers: 295355, UsersInChat: 3481
+2022-08-29 22:00:22
+ Name: Kareeda, Game: VRChat, Viewers: 17, Followers: 11251, UsersInChat: 48
+2022-08-29 22:00:33
+ Name: tevin_vr, Game: Roblox, Viewers: 48, Followers: 6661, UsersInChat: 133
+2022-08-29 22:00:48
+ Name: magykrose, Game: Ghostwire: Tokyo, Viewers: 5, Followers: 3398, UsersInChat: 19
+2022-08-29 22:15:11
+ Name: snowsos, Game: Just Chatting, Viewers: 59, Followers: 64201, UsersInChat: 90
+2022-08-29 22:15:14
+ Name: Stealthrg, Game: VRChat, Viewers: 165, Followers: 77120, UsersInChat: 170
+2022-08-29 22:15:18
+ Name: roflgator, Game: VRChat, Viewers: 3153, Followers: 295355, UsersInChat: 3555
+2022-08-29 22:15:22
+ Name: Kareeda, Game: VRChat, Viewers: 17, Followers: 11251, UsersInChat: 52
+2022-08-29 22:15:33
+ Name: tevin_vr, Game: Roblox, Viewers: 46, Followers: 6662, UsersInChat: 135
+2022-08-29 22:15:47
+ Name: magykrose, Game: Ghostwire: Tokyo, Viewers: 3, Followers: 3398, UsersInChat: 17
+2022-08-29 22:30:11
+ Name: snowsos, Game: Just Chatting, Viewers: 72, Followers: 64205, UsersInChat: 90
+2022-08-29 22:30:15
+ Name: Stealthrg, Game: VRChat, Viewers: 84, Followers: 77119, UsersInChat: 159
+2022-08-29 22:30:18
+ Name: roflgator, Game: VRChat, Viewers: 3218, Followers: 295352, UsersInChat: 3428
+2022-08-29 22:30:22
+ Name: Kareeda, Game: VRChat, Viewers: 15, Followers: 11251, UsersInChat: 51
+2022-08-29 22:30:33
+ Name: tevin_vr, Game: Roblox, Viewers: 45, Followers: 6662, UsersInChat: 125
+2022-08-29 22:45:22
+ Name: snowsos, Game: Just Chatting, Viewers: 71, Followers: 64206, UsersInChat: 92
+2022-08-29 22:45:26
+ Name: Stealthrg, Game: VRChat, Viewers: 157, Followers: 77119, UsersInChat: 171
+2022-08-29 22:45:29
+ Name: roflgator, Game: VRChat, Viewers: 3128, Followers: 295348, UsersInChat: 3544
+2022-08-29 22:45:33
+ Name: Kareeda, Game: VRChat, Viewers: 15, Followers: 11251, UsersInChat: 54
+2022-08-29 22:45:44
+ Name: tevin_vr, Game: Roblox, Viewers: 43, Followers: 6665, UsersInChat: 125
+2022-08-29 22:45:51
+ Name: oathmeal, Game: Hunt: Showdown, Viewers: 20, Followers: 54244, UsersInChat: 118
+2022-08-29 23:00:19
+ Name: snowsos, Game: Just Chatting, Viewers: 70, Followers: 64207, UsersInChat: 86
+2022-08-29 23:00:23
+ Name: Stealthrg, Game: VRChat, Viewers: 169, Followers: 77119, UsersInChat: 178
+2022-08-29 23:00:27
+ Name: roflgator, Game: VRChat, Viewers: 3113, Followers: 295348, UsersInChat: 3441
+2022-08-29 23:00:31
+ Name: Kareeda, Game: VRChat, Viewers: 15, Followers: 11251, UsersInChat: 55
+2022-08-29 23:00:42
+ Name: tevin_vr, Game: Roblox, Viewers: 45, Followers: 6665, UsersInChat: 129
+2022-08-29 23:00:49
+ Name: oathmeal, Game: Hunt: Showdown, Viewers: 24, Followers: 54244, UsersInChat: 141
+2022-08-29 23:15:10
+ Name: snowsos, Game: Just Chatting, Viewers: 74, Followers: 64207, UsersInChat: 92
+2022-08-29 23:15:14
+ Name: Stealthrg, Game: VRChat, Viewers: 181, Followers: 77119, UsersInChat: 188
+2022-08-29 23:15:17
+ Name: roflgator, Game: VRChat, Viewers: 3130, Followers: 295351, UsersInChat: 3427
+2022-08-29 23:15:21
+ Name: Kareeda, Game: VRChat, Viewers: 18, Followers: 11251, UsersInChat: 56
+2022-08-29 23:15:33
+ Name: tevin_vr, Game: Roblox, Viewers: 42, Followers: 6665, UsersInChat: 129
+2022-08-29 23:15:40
+ Name: oathmeal, Game: Hunt: Showdown, Viewers: 27, Followers: 54244, UsersInChat: 149
+2022-08-29 23:30:14
+ Name: Stealthrg, Game: VRChat, Viewers: 178, Followers: 77117, UsersInChat: 182
+2022-08-29 23:30:18
+ Name: roflgator, Game: VRChat, Viewers: 3092, Followers: 295347, UsersInChat: 3223
+2022-08-29 23:30:22
+ Name: Kareeda, Game: VRChat, Viewers: 21, Followers: 11251, UsersInChat: 59
+2022-08-29 23:30:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 44, Followers: 6665, UsersInChat: 123
+2022-08-29 23:30:40
+ Name: oathmeal, Game: Hunt: Showdown, Viewers: 34, Followers: 54244, UsersInChat: 159
+2022-08-29 23:45:15
+ Name: Stealthrg, Game: VRChat, Viewers: 181, Followers: 77117, UsersInChat: 179
+2022-08-29 23:45:19
+ Name: roflgator, Game: VRChat, Viewers: 3116, Followers: 295346, UsersInChat: 3337
+2022-08-29 23:45:23
+ Name: Kareeda, Game: VRChat, Viewers: 19, Followers: 11251, UsersInChat: 55
+2022-08-29 23:45:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 48, Followers: 6667, UsersInChat: 122
+2022-08-29 23:45:41
+ Name: oathmeal, Game: Hunt: Showdown, Viewers: 35, Followers: 54244, UsersInChat: 157
+2022-08-30 00:00:15
+ Name: Stealthrg, Game: VRChat, Viewers: 137, Followers: 77117, UsersInChat: 176
+2022-08-30 00:00:19
+ Name: roflgator, Game: VRChat, Viewers: 3132, Followers: 295349, UsersInChat: 3386
+2022-08-30 00:00:22
+ Name: Kareeda, Game: VRChat, Viewers: 21, Followers: 11251, UsersInChat: 58
+2022-08-30 00:00:34
+ Name: tevin_vr, Game: MultiVersus, Viewers: 40, Followers: 6668, UsersInChat: 125
+2022-08-30 00:00:41
+ Name: oathmeal, Game: Hunt: Showdown, Viewers: 34, Followers: 54243, UsersInChat: 159
+2022-08-30 00:15:48
+ Name: Stealthrg, Game: VRChat, Viewers: 168, Followers: 77117, UsersInChat: 170
+2022-08-30 00:16:05
+ Name: roflgator, Game: VRChat, Viewers: 3062, Followers: 295345, UsersInChat: 3373
+2022-08-30 00:16:35
+ Name: Kareeda, Game: VRChat, Viewers: 19, Followers: 11251, UsersInChat: 54
+2022-08-30 00:17:31
+ Name: tevin_vr, Game: MultiVersus, Viewers: 47, Followers: 6668, UsersInChat: 129
+2022-08-30 00:18:25
+ Name: oathmeal, Game: Hunt: Showdown, Viewers: 52, Followers: 54242, UsersInChat: 166
+2022-08-30 00:30:24
+ Name: Stealthrg, Game: VRChat, Viewers: 155, Followers: 77117, UsersInChat: 165
+2022-08-30 00:30:28
+ Name: roflgator, Game: VRChat, Viewers: 3079, Followers: 295344, UsersInChat: 3315
+2022-08-30 00:30:32
+ Name: Kareeda, Game: VRChat, Viewers: 16, Followers: 11251, UsersInChat: 53
+2022-08-30 00:30:35
+ Name: aikasanvr, Game: Dead by Daylight, Viewers: 12, Followers: 8785, UsersInChat: 87
+2022-08-30 00:30:43
+ Name: tevin_vr, Game: MultiVersus, Viewers: 41, Followers: 6668, UsersInChat: 125
+2022-08-30 00:30:51
+ Name: oathmeal, Game: Hunt: Showdown, Viewers: 47, Followers: 54242, UsersInChat: 171
+2022-08-30 00:45:15
+ Name: Stealthrg, Game: VRChat, Viewers: 122, Followers: 77117, UsersInChat: 160
+2022-08-30 00:45:19
+ Name: roflgator, Game: VRChat, Viewers: 2984, Followers: 295348, UsersInChat: 3241
+2022-08-30 00:45:22
+ Name: Kareeda, Game: VRChat, Viewers: 16, Followers: 11250, UsersInChat: 51
+2022-08-30 00:45:26
+ Name: aikasanvr, Game: Dead by Daylight, Viewers: 45, Followers: 8785, UsersInChat: 107
+2022-08-30 00:45:34
+ Name: tevin_vr, Game: MultiVersus, Viewers: 53, Followers: 6668, UsersInChat: 124
+2022-08-30 00:45:43
+ Name: oathmeal, Game: Hunt: Showdown, Viewers: 48, Followers: 54242, UsersInChat: 147
+2022-08-30 01:00:18
+ Name: roflgator, Game: VRChat, Viewers: 2972, Followers: 295352, UsersInChat: 3085
+2022-08-30 01:00:22
+ Name: Kareeda, Game: VRChat, Viewers: 15, Followers: 11250, UsersInChat: 47
+2022-08-30 01:00:25
+ Name: aikasanvr, Game: Dead by Daylight, Viewers: 45, Followers: 8786, UsersInChat: 125
+2022-08-30 01:00:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 46, Followers: 6668, UsersInChat: 135
+2022-08-30 01:00:40
+ Name: oathmeal, Game: Hunt: Showdown, Viewers: 47, Followers: 54243, UsersInChat: 163
+2022-08-30 17:18:29
+ Name: murdercrumpet, Game: VRChat, Viewers: 1341, Followers: 89731, UsersInChat: 1601
+2022-08-30 17:18:33
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 29223, Followers: 8800235, UsersInChat: 26146
+2022-08-30 17:18:37
+ Name: snowsos, Game: Destroy All Humans! 2: Reprobed, Viewers: 32, Followers: 64201, UsersInChat: 47
+2022-08-30 17:18:54
+ Name: shizu, Game: Genshin Impact, Viewers: 84, Followers: 24854, UsersInChat: 168
+2022-08-30 17:30:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 1534, Followers: 89734, UsersInChat: 1689
+2022-08-30 17:30:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 29453, Followers: 8800262, UsersInChat: 27097
+2022-08-30 17:30:10
+ Name: snowsos, Game: Destroy All Humans! 2: Reprobed, Viewers: 33, Followers: 64201, UsersInChat: 53
+2022-08-30 17:30:28
+ Name: shizu, Game: Genshin Impact, Viewers: 76, Followers: 24856, UsersInChat: 162
+2022-08-30 17:45:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 1635, Followers: 89736, UsersInChat: 1805
+2022-08-30 17:45:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 29759, Followers: 8800277, UsersInChat: 27005
+2022-08-30 17:45:11
+ Name: snowsos, Game: Destroy All Humans! 2: Reprobed, Viewers: 41, Followers: 64202, UsersInChat: 63
+2022-08-30 17:45:28
+ Name: shizu, Game: Genshin Impact, Viewers: 290, Followers: 24875, UsersInChat: 166
+2022-08-30 18:00:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 1756, Followers: 89735, UsersInChat: 1900
+2022-08-30 18:00:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 28000, Followers: 8800302, UsersInChat: 25216
+2022-08-30 18:00:10
+ Name: snowsos, Game: Destroy All Humans! 2: Reprobed, Viewers: 30, Followers: 64200, UsersInChat: 62
+2022-08-30 18:00:31
+ Name: tevin_vr, Game: Roblox, Viewers: 16, Followers: 6672, UsersInChat: 74
+2022-08-30 18:45:04
+ Name: murdercrumpet, Game: VRChat, Viewers: 1792, Followers: 89739, UsersInChat: 1894
+2022-08-30 18:45:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 25993, Followers: 8800355, UsersInChat: 22515
+2022-08-30 18:45:11
+ Name: snowsos, Game: Destroy All Humans! 2: Reprobed, Viewers: 33, Followers: 64200, UsersInChat: 68
+2022-08-30 18:45:31
+ Name: tevin_vr, Game: Roblox, Viewers: 17, Followers: 6672, UsersInChat: 91
+2022-08-30 19:00:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 1894, Followers: 89739, UsersInChat: 1879
+2022-08-30 19:00:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 24830, Followers: 8800372, UsersInChat: 21686
+2022-08-30 19:00:10
+ Name: snowsos, Game: Apex Legends, Viewers: 30, Followers: 64201, UsersInChat: 63
+2022-08-30 19:00:31
+ Name: tevin_vr, Game: Roblox, Viewers: 23, Followers: 6674, UsersInChat: 90
+2022-08-30 19:15:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 1889, Followers: 89741, UsersInChat: 1986
+2022-08-30 19:15:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 24936, Followers: 8800382, UsersInChat: 21143
+2022-08-30 19:15:10
+ Name: snowsos, Game: Apex Legends, Viewers: 32, Followers: 64201, UsersInChat: 66
+2022-08-30 19:15:31
+ Name: tevin_vr, Game: Roblox, Viewers: 24, Followers: 6674, UsersInChat: 92
+2022-08-30 19:30:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 1942, Followers: 89745, UsersInChat: 2051
+2022-08-30 19:30:06
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 23596, Followers: 8800394, UsersInChat: 21171
+2022-08-30 19:30:10
+ Name: snowsos, Game: Apex Legends, Viewers: 25, Followers: 64201, UsersInChat: 69
+2022-08-30 19:30:31
+ Name: tevin_vr, Game: Roblox, Viewers: 29, Followers: 6676, UsersInChat: 103
+2022-08-30 19:45:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 2094, Followers: 89746, UsersInChat: 2104
+2022-08-30 19:45:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 22395, Followers: 8800409, UsersInChat: 20273
+2022-08-30 19:45:11
+ Name: snowsos, Game: Apex Legends, Viewers: 28, Followers: 64201, UsersInChat: 72
+2022-08-30 19:45:32
+ Name: tevin_vr, Game: Roblox, Viewers: 27, Followers: 6676, UsersInChat: 101
+2022-08-30 20:00:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 2101, Followers: 89749, UsersInChat: 2094
+2022-08-30 20:00:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 25785, Followers: 8800421, UsersInChat: 20749
+2022-08-30 20:00:32
+ Name: tevin_vr, Game: Roblox, Viewers: 28, Followers: 6676, UsersInChat: 98
+2022-08-30 20:15:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 2155, Followers: 89753, UsersInChat: 2189
+2022-08-30 20:15:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 26477, Followers: 8800446, UsersInChat: 22361
+2022-08-30 20:15:35
+ Name: tevin_vr, Game: Roblox, Viewers: 27, Followers: 6675, UsersInChat: 93
+2022-08-30 20:30:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 2312, Followers: 89755, UsersInChat: 2246
+2022-08-30 20:30:08
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 26400, Followers: 8800471, UsersInChat: 21388
+2022-08-30 20:30:32
+ Name: tevin_vr, Game: Roblox, Viewers: 24, Followers: 6676, UsersInChat: 89
+2022-08-30 20:45:04
+ Name: murdercrumpet, Game: VRChat, Viewers: 2392, Followers: 89760, UsersInChat: 2338
+2022-08-30 20:45:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 26128, Followers: 8800487, UsersInChat: 21511
+2022-08-30 20:45:35
+ Name: tevin_vr, Game: Roblox, Viewers: 28, Followers: 6676, UsersInChat: 106
+2022-08-30 21:00:04
+ Name: murdercrumpet, Game: VRChat, Viewers: 2152, Followers: 89759, UsersInChat: 2184
+2022-08-30 21:00:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 25558, Followers: 8800498, UsersInChat: 21025
+2022-08-30 21:00:32
+ Name: tevin_vr, Game: Roblox, Viewers: 30, Followers: 6677, UsersInChat: 98
+2022-08-30 21:15:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 2156, Followers: 89759, UsersInChat: 2151
+2022-08-30 21:15:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 25106, Followers: 8800506, UsersInChat: 20778
+2022-08-30 21:15:31
+ Name: tevin_vr, Game: Roblox, Viewers: 27, Followers: 6677, UsersInChat: 97
+2022-08-30 21:30:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 24745, Followers: 8800521, UsersInChat: 20406
+2022-08-30 21:30:17
+ Name: roflgator, Game: VRChat, Viewers: 1964, Followers: 295331, UsersInChat: 2853
+2022-08-30 21:30:31
+ Name: tevin_vr, Game: VRChat, Viewers: 29, Followers: 6676, UsersInChat: 90
+2022-08-30 21:45:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 24521, Followers: 8800532, UsersInChat: 20273
+2022-08-30 21:45:17
+ Name: roflgator, Game: VRChat, Viewers: 3410, Followers: 295332, UsersInChat: 3554
+2022-08-30 21:45:32
+ Name: tevin_vr, Game: VRChat, Viewers: 29, Followers: 6677, UsersInChat: 91
+2022-08-30 21:45:45
+ Name: magykrose, Game: Ghostwire: Tokyo, Viewers: 0, Followers: 3398, UsersInChat: 14
+2022-08-30 22:00:16
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 23966, Followers: 8800553, UsersInChat: 19940
+2022-08-30 22:00:27
+ Name: roflgator, Game: VRChat, Viewers: 3622, Followers: 295333, UsersInChat: 3731
+2022-08-30 22:00:41
+ Name: tevin_vr, Game: VRChat, Viewers: 32, Followers: 6679, UsersInChat: 109
+2022-08-30 22:00:54
+ Name: magykrose, Game: Ghostwire: Tokyo, Viewers: 1, Followers: 3398, UsersInChat: 16
+2022-08-30 22:15:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 23472, Followers: 8800573, UsersInChat: 19894
+2022-08-30 22:15:18
+ Name: roflgator, Game: VRChat, Viewers: 4139, Followers: 295334, UsersInChat: 4274
+2022-08-30 22:15:31
+ Name: tevin_vr, Game: VRChat, Viewers: 38, Followers: 6679, UsersInChat: 116
+2022-08-30 22:15:45
+ Name: magykrose, Game: Ghostwire: Tokyo, Viewers: 2, Followers: 3398, UsersInChat: 17
+2022-08-30 22:30:16
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 22517, Followers: 8800577, UsersInChat: 19117
+2022-08-30 22:30:27
+ Name: roflgator, Game: VRChat, Viewers: 4185, Followers: 295333, UsersInChat: 4209
+2022-08-30 22:30:40
+ Name: tevin_vr, Game: MultiVersus, Viewers: 29, Followers: 6679, UsersInChat: 107
+2022-08-30 22:30:55
+ Name: magykrose, Game: Ghostwire: Tokyo, Viewers: 3, Followers: 3398, UsersInChat: 18
+2022-08-30 22:45:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 23266, Followers: 8800601, UsersInChat: 18348
+2022-08-30 22:45:17
+ Name: roflgator, Game: VRChat, Viewers: 4098, Followers: 295336, UsersInChat: 4141
+2022-08-30 22:45:31
+ Name: tevin_vr, Game: MultiVersus, Viewers: 33, Followers: 6679, UsersInChat: 111
+2022-08-30 22:45:45
+ Name: magykrose, Game: Fortnite, Viewers: 5, Followers: 3398, UsersInChat: 17
+2022-08-30 23:00:06
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 22595, Followers: 8800609, UsersInChat: 18274
+2022-08-30 23:00:17
+ Name: roflgator, Game: VRChat, Viewers: 4120, Followers: 295335, UsersInChat: 4059
+2022-08-30 23:00:30
+ Name: tevin_vr, Game: MultiVersus, Viewers: 36, Followers: 6679, UsersInChat: 105
+2022-08-30 23:00:43
+ Name: magykrose, Game: Fortnite, Viewers: 5, Followers: 3397, UsersInChat: 18
+2022-08-30 23:15:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 21827, Followers: 8800613, UsersInChat: 17765
+2022-08-30 23:15:17
+ Name: roflgator, Game: VRChat, Viewers: 4086, Followers: 295334, UsersInChat: 3978
+2022-08-30 23:15:31
+ Name: tevin_vr, Game: MultiVersus, Viewers: 37, Followers: 6679, UsersInChat: 101
+2022-08-30 23:15:45
+ Name: magykrose, Game: Fortnite, Viewers: 4, Followers: 3397, UsersInChat: 17
+2022-08-30 23:30:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 22058, Followers: 8800621, UsersInChat: 18433
+2022-08-30 23:30:16
+ Name: roflgator, Game: VRChat, Viewers: 4225, Followers: 295336, UsersInChat: 4146
+2022-08-30 23:30:31
+ Name: tevin_vr, Game: MultiVersus, Viewers: 30, Followers: 6678, UsersInChat: 113
+2022-08-30 23:30:44
+ Name: magykrose, Game: Fortnite, Viewers: 3, Followers: 3397, UsersInChat: 17
+2022-08-30 23:45:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 21633, Followers: 8800635, UsersInChat: 17854
+2022-08-30 23:45:17
+ Name: roflgator, Game: VRChat, Viewers: 4025, Followers: 295335, UsersInChat: 3948
+2022-08-30 23:45:23
+ Name: aikasanvr, Game: Dead by Daylight, Viewers: 17, Followers: 8787, UsersInChat: 102
+2022-08-30 23:45:30
+ Name: tevin_vr, Game: MultiVersus, Viewers: 36, Followers: 6678, UsersInChat: 105
+2022-08-31 00:00:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 20758, Followers: 8800647, UsersInChat: 17805
+2022-08-31 00:00:17
+ Name: roflgator, Game: VRChat, Viewers: 4001, Followers: 295340, UsersInChat: 4051
+2022-08-31 00:00:24
+ Name: aikasanvr, Game: Dead by Daylight, Viewers: 25, Followers: 8787, UsersInChat: 123
+2022-08-31 00:00:31
+ Name: tevin_vr, Game: MultiVersus, Viewers: 35, Followers: 6678, UsersInChat: 112
+2022-08-31 00:15:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 21304, Followers: 8800663, UsersInChat: 17922
+2022-08-31 00:15:17
+ Name: roflgator, Game: VRChat, Viewers: 3896, Followers: 295344, UsersInChat: 3894
+2022-08-31 00:15:24
+ Name: aikasanvr, Game: Dead by Daylight, Viewers: 40, Followers: 8787, UsersInChat: 129
+2022-08-31 00:15:31
+ Name: tevin_vr, Game: MultiVersus, Viewers: 40, Followers: 6678, UsersInChat: 108
+2022-08-31 00:52:01
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 22427, Followers: 8800697, UsersInChat: 17645
+2022-08-31 00:52:13
+ Name: roflgator, Game: Ghost Watchers, Viewers: 3843, Followers: 295338, UsersInChat: 3596
+2022-08-31 00:52:19
+ Name: aikasanvr, Game: Dead by Daylight, Viewers: 53, Followers: 8788, UsersInChat: 144
+2022-08-31 00:52:26
+ Name: tevin_vr, Game: MultiVersus, Viewers: 45, Followers: 6678, UsersInChat: 116
+2022-08-31 00:52:43
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 6, Followers: 33, UsersInChat: 17
+2022-08-31 10:31:13
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 28220, Followers: 8801347, UsersInChat: 24141
+2022-08-31 10:31:13
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 28220, Followers: 8801347, UsersInChat: 24141
+2022-08-31 10:31:38
+ Name: tevin_vr, Game: MultiVersus, Viewers: 243, Followers: 6687, UsersInChat: 255
+2022-08-31 10:31:38
+ Name: tevin_vr, Game: MultiVersus, Viewers: 243, Followers: 6687, UsersInChat: 255
+2022-08-31 10:40:16
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 27210, Followers: 8801360, UsersInChat: 24497
+2022-08-31 10:40:42
+ Name: tevin_vr, Game: MultiVersus, Viewers: 250, Followers: 6688, UsersInChat: 269
+2022-08-31 10:55:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 27635, Followers: 8801362, UsersInChat: 23983
+2022-08-31 10:55:33
+ Name: tevin_vr, Game: Just Chatting, Viewers: 221, Followers: 6688, UsersInChat: 243
+2022-08-31 11:10:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 28135, Followers: 8801362, UsersInChat: 24060
+2022-08-31 11:10:35
+ Name: tevin_vr, Game: Just Chatting, Viewers: 168, Followers: 6689, UsersInChat: 225
+2022-08-31 11:25:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 28381, Followers: 8801370, UsersInChat: 23139
+2022-08-31 11:25:33
+ Name: tevin_vr, Game: Just Chatting, Viewers: 130, Followers: 6695, UsersInChat: 193
+2022-08-31 11:40:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 28420, Followers: 8801394, UsersInChat: 24353
+2022-08-31 11:40:33
+ Name: tevin_vr, Game: VRChat, Viewers: 144, Followers: 6696, UsersInChat: 192
+2022-08-31 11:55:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 25875, Followers: 8801420, UsersInChat: 24922
+2022-08-31 11:55:33
+ Name: tevin_vr, Game: VRChat, Viewers: 141, Followers: 6696, UsersInChat: 190
+2022-08-31 12:10:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 28916, Followers: 8801435, UsersInChat: 25552
+2022-08-31 12:10:34
+ Name: tevin_vr, Game: VRChat, Viewers: 121, Followers: 6698, UsersInChat: 188
+2022-08-31 12:25:08
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 29608, Followers: 8801445, UsersInChat: 25099
+2022-08-31 12:25:37
+ Name: tevin_vr, Game: VRChat, Viewers: 113, Followers: 6703, UsersInChat: 186
+2022-08-31 12:40:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 29779, Followers: 8801465, UsersInChat: 26033
+2022-08-31 12:40:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 123, Followers: 6703, UsersInChat: 194
+2022-08-31 12:55:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 31437, Followers: 8801480, UsersInChat: 26112
+2022-08-31 12:55:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 164, Followers: 6704, UsersInChat: 234
+2022-08-31 13:10:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 29369, Followers: 8801486, UsersInChat: 25692
+2022-08-31 13:10:29
+ Name: shizu, Game: Tinykin, Viewers: 5, Followers: 24908, UsersInChat: 70
+2022-08-31 13:10:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 201, Followers: 6708, UsersInChat: 259
+2022-08-31 13:25:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 24453, Followers: 8801512, UsersInChat: 25879
+2022-08-31 13:25:29
+ Name: shizu, Game: Tinykin, Viewers: 32, Followers: 24911, UsersInChat: 79
+2022-08-31 13:25:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 187, Followers: 6708, UsersInChat: 253
+2022-08-31 13:40:07
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 30719, Followers: 8801536, UsersInChat: 26090
+2022-08-31 13:40:29
+ Name: shizu, Game: Tinykin, Viewers: 36, Followers: 24912, UsersInChat: 105
+2022-08-31 13:40:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 216, Followers: 6711, UsersInChat: 265
+2022-08-31 13:55:29
+ Name: shizu, Game: Tinykin, Viewers: 37, Followers: 24912, UsersInChat: 115
+2022-08-31 13:55:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 254, Followers: 6712, UsersInChat: 279
+2022-08-31 14:10:29
+ Name: shizu, Game: Tinykin, Viewers: 41, Followers: 24912, UsersInChat: 116
+2022-08-31 14:10:32
+ Name: tevin_vr, Game: osu!, Viewers: 215, Followers: 6713, UsersInChat: 262
+2022-08-31 14:25:30
+ Name: shizu, Game: Tinykin, Viewers: 48, Followers: 24910, UsersInChat: 126
+2022-08-31 14:25:33
+ Name: tevin_vr, Game: osu!, Viewers: 166, Followers: 6714, UsersInChat: 232
+2022-08-31 14:40:30
+ Name: shizu, Game: Tinykin, Viewers: 56, Followers: 24913, UsersInChat: 139
+2022-08-31 14:40:33
+ Name: tevin_vr, Game: osu!, Viewers: 148, Followers: 6715, UsersInChat: 234
+2022-08-31 14:55:29
+ Name: shizu, Game: Tinykin, Viewers: 82, Followers: 24916, UsersInChat: 152
+2022-08-31 14:55:33
+ Name: tevin_vr, Game: Roblox, Viewers: 199, Followers: 6715, UsersInChat: 238
+2022-08-31 15:10:29
+ Name: shizu, Game: Tinykin, Viewers: 65, Followers: 24918, UsersInChat: 147
+2022-08-31 15:10:32
+ Name: tevin_vr, Game: Roblox, Viewers: 172, Followers: 6716, UsersInChat: 220
+2022-08-31 15:25:18
+ Name: roflgator, Game: MultiVersus, Viewers: 329, Followers: 295321, UsersInChat: 872
+2022-08-31 15:25:30
+ Name: shizu, Game: Tinykin, Viewers: 82, Followers: 24921, UsersInChat: 145
+2022-08-31 15:25:34
+ Name: tevin_vr, Game: Roblox, Viewers: 138, Followers: 6716, UsersInChat: 223
+2022-08-31 15:40:19
+ Name: roflgator, Game: MultiVersus, Viewers: 1524, Followers: 295316, UsersInChat: 1802
+2022-08-31 15:40:30
+ Name: shizu, Game: Tinykin, Viewers: 88, Followers: 24922, UsersInChat: 152
+2022-08-31 15:40:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 134, Followers: 6716, UsersInChat: 217
+2022-08-31 15:55:18
+ Name: roflgator, Game: MultiVersus, Viewers: 1902, Followers: 295313, UsersInChat: 2107
+2022-08-31 15:55:29
+ Name: shizu, Game: Tinykin, Viewers: 80, Followers: 24923, UsersInChat: 149
+2022-08-31 15:55:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 146, Followers: 6717, UsersInChat: 235
+2022-08-31 16:10:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 251, Followers: 89758, UsersInChat: 589
+2022-08-31 16:10:18
+ Name: roflgator, Game: MultiVersus, Viewers: 3515, Followers: 295312, UsersInChat: 2484
+2022-08-31 16:10:29
+ Name: shizu, Game: Tinykin, Viewers: 69, Followers: 24922, UsersInChat: 159
+2022-08-31 16:10:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 124, Followers: 6719, UsersInChat: 273
+2022-08-31 16:25:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 662, Followers: 89758, UsersInChat: 956
+2022-08-31 16:25:18
+ Name: roflgator, Game: MultiVersus, Viewers: 3815, Followers: 295310, UsersInChat: 2694
+2022-08-31 16:25:29
+ Name: shizu, Game: Tinykin, Viewers: 84, Followers: 24922, UsersInChat: 150
+2022-08-31 16:25:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 134, Followers: 6724, UsersInChat: 277
+2022-08-31 16:40:04
+ Name: murdercrumpet, Game: VRChat, Viewers: 790, Followers: 89759, UsersInChat: 1041
+2022-08-31 16:40:19
+ Name: roflgator, Game: MultiVersus, Viewers: 3818, Followers: 295307, UsersInChat: 2852
+2022-08-31 16:40:30
+ Name: shizu, Game: Tinykin, Viewers: 85, Followers: 24924, UsersInChat: 149
+2022-08-31 16:40:34
+ Name: tevin_vr, Game: MultiVersus, Viewers: 184, Followers: 6729, UsersInChat: 290
+2022-08-31 16:55:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 998, Followers: 89759, UsersInChat: 1110
+2022-08-31 16:55:18
+ Name: roflgator, Game: MultiVersus, Viewers: 3977, Followers: 295306, UsersInChat: 2977
+2022-08-31 16:55:31
+ Name: shizu, Game: Tinykin, Viewers: 79, Followers: 24926, UsersInChat: 145
+2022-08-31 16:55:34
+ Name: tevin_vr, Game: MultiVersus, Viewers: 148, Followers: 6735, UsersInChat: 315
+2022-08-31 17:10:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 1149, Followers: 89758, UsersInChat: 1118
+2022-08-31 17:10:18
+ Name: roflgator, Game: MultiVersus, Viewers: 4063, Followers: 295305, UsersInChat: 3087
+2022-08-31 17:10:32
+ Name: tevin_vr, Game: MultiVersus, Viewers: 169, Followers: 6740, UsersInChat: 294
+2022-08-31 17:25:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 1181, Followers: 89761, UsersInChat: 1325
+2022-08-31 17:25:18
+ Name: roflgator, Game: MultiVersus, Viewers: 3864, Followers: 295308, UsersInChat: 3200
+2022-08-31 17:25:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 275, Followers: 6751, UsersInChat: 589
+2022-08-31 17:40:03
+ Name: murdercrumpet, Game: VRChat, Viewers: 1149, Followers: 89763, UsersInChat: 1304
+2022-08-31 17:40:19
+ Name: roflgator, Game: MultiVersus, Viewers: 4008, Followers: 295308, UsersInChat: 3326
+2022-08-31 17:40:34
+ Name: tevin_vr, Game: MultiVersus, Viewers: 228, Followers: 6756, UsersInChat: 495
+2022-08-31 17:55:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1226, Followers: 89764, UsersInChat: 1442
+2022-08-31 17:55:19
+ Name: roflgator, Game: MultiVersus, Viewers: 4190, Followers: 295316, UsersInChat: 3459
+2022-08-31 17:55:34
+ Name: tevin_vr, Game: MultiVersus, Viewers: 267, Followers: 6763, UsersInChat: 538
+2022-08-31 18:10:04
+ Name: murdercrumpet, Game: VRChat, Viewers: 1177, Followers: 89764, UsersInChat: 1417
+2022-08-31 18:10:20
+ Name: roflgator, Game: MultiVersus, Viewers: 3909, Followers: 295319, UsersInChat: 3503
+2022-08-31 18:10:36
+ Name: tevin_vr, Game: MultiVersus, Viewers: 212, Followers: 6768, UsersInChat: 533
+2022-08-31 18:25:06
+ Name: murdercrumpet, Game: VRChat, Viewers: 1166, Followers: 89764, UsersInChat: 1356
+2022-08-31 18:25:22
+ Name: roflgator, Game: MultiVersus, Viewers: 4394, Followers: 295321, UsersInChat: 3747
+2022-08-31 18:25:38
+ Name: tevin_vr, Game: MultiVersus, Viewers: 223, Followers: 6778, UsersInChat: 552
+2022-08-31 18:40:04
+ Name: murdercrumpet, Game: VRChat, Viewers: 1184, Followers: 89763, UsersInChat: 1337
+2022-08-31 18:40:18
+ Name: roflgator, Game: MultiVersus, Viewers: 4471, Followers: 295320, UsersInChat: 3761
+2022-08-31 18:40:33
+ Name: tevin_vr, Game: MultiVersus, Viewers: 299, Followers: 6788, UsersInChat: 553
+2022-09-01 15:53:27
+ Name: shizu, Game: Elden Ring, Viewers: 82, Followers: 24949, UsersInChat: 144
+2022-09-01 16:05:52
+ Name: murdercrumpet, Game: VRChat, Viewers: 354, Followers: 89801, UsersInChat: 461
+2022-09-01 16:06:17
+ Name: shizu, Game: Elden Ring, Viewers: 100, Followers: 24949, UsersInChat: 146
+2022-09-01 19:03:07
+ Name: murdercrumpet, Game: VRChat, Viewers: 1963, Followers: 89810, UsersInChat: 1981
+2022-09-01 19:03:43
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 906, Followers: 251527, UsersInChat: 981
+2022-09-01 19:06:17
+ Name: murdercrumpet, Game: VRChat, Viewers: 1963, Followers: 89810, UsersInChat: 2047
+2022-09-01 19:06:54
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 906, Followers: 251526, UsersInChat: 984
+2022-09-01 19:22:17
+ Name: murdercrumpet, Game: VRChat, Viewers: 2053, Followers: 89811, UsersInChat: 2055
+2022-09-01 19:24:15
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 884, Followers: 251524, UsersInChat: 981
+2022-09-01 19:38:17
+ Name: murdercrumpet, Game: VRChat, Viewers: 2071, Followers: 89812, UsersInChat: 2127
+2022-09-01 19:39:43
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 911, Followers: 251533, UsersInChat: 1018
+2022-09-01 20:05:55
+ Name: murdercrumpet, Game: VRChat, Viewers: 2087, Followers: 89814, UsersInChat: 2113
+2022-09-01 20:06:29
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1010, Followers: 251537, UsersInChat: 1077
+2022-09-01 20:20:45
+ Name: murdercrumpet, Game: VRChat, Viewers: 2160, Followers: 89817, UsersInChat: 2143
+2022-09-01 20:21:18
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1055, Followers: 251541, UsersInChat: 1111
+2022-09-01 20:35:46
+ Name: murdercrumpet, Game: VRChat, Viewers: 2271, Followers: 89818, UsersInChat: 2215
+2022-09-01 20:36:18
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1075, Followers: 251541, UsersInChat: 1095
+2022-09-01 20:50:46
+ Name: murdercrumpet, Game: VRChat, Viewers: 2342, Followers: 89823, UsersInChat: 2339
+2022-09-01 20:51:20
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1130, Followers: 251540, UsersInChat: 1161
+2022-09-01 21:05:46
+ Name: murdercrumpet, Game: VRChat, Viewers: 2548, Followers: 89825, UsersInChat: 2244
+2022-09-01 21:06:05
+ Name: Kareeda, Game: VRChat, Viewers: 9, Followers: 11248, UsersInChat: 24
+2022-09-01 21:06:19
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1120, Followers: 251545, UsersInChat: 1127
+2022-09-01 21:21:00
+ Name: roflgator, Game: VRChat, Viewers: 2830, Followers: 295329, UsersInChat: 3090
+2022-09-01 21:21:04
+ Name: Kareeda, Game: VRChat, Viewers: 23, Followers: 11248, UsersInChat: 36
+2022-09-01 21:21:17
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1087, Followers: 251549, UsersInChat: 1122
+2022-09-01 21:36:00
+ Name: roflgator, Game: VRChat, Viewers: 3467, Followers: 295328, UsersInChat: 3630
+2022-09-01 21:36:03
+ Name: Kareeda, Game: VRChat, Viewers: 22, Followers: 11248, UsersInChat: 42
+2022-09-01 21:36:18
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1168, Followers: 251553, UsersInChat: 1157
+2022-09-01 21:50:49
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 3462, Followers: 8802713, UsersInChat: 5731
+2022-09-01 21:51:00
+ Name: roflgator, Game: VRChat, Viewers: 3779, Followers: 295329, UsersInChat: 3875
+2022-09-01 21:51:04
+ Name: Kareeda, Game: VRChat, Viewers: 21, Followers: 11248, UsersInChat: 40
+2022-09-01 21:51:18
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1175, Followers: 251558, UsersInChat: 1185
+2022-09-01 22:05:50
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 8557, Followers: 8802720, UsersInChat: 8898
+2022-09-01 22:06:01
+ Name: roflgator, Game: VRChat, Viewers: 3880, Followers: 295329, UsersInChat: 3970
+2022-09-01 22:06:04
+ Name: Kareeda, Game: VRChat, Viewers: 21, Followers: 11248, UsersInChat: 43
+2022-09-01 22:06:19
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1190, Followers: 251560, UsersInChat: 1214
+2022-09-01 22:20:49
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 9816, Followers: 8802745, UsersInChat: 10284
+2022-09-01 22:21:00
+ Name: roflgator, Game: VRChat, Viewers: 4006, Followers: 295331, UsersInChat: 3967
+2022-09-01 22:21:04
+ Name: Kareeda, Game: VRChat, Viewers: 20, Followers: 11247, UsersInChat: 40
+2022-09-01 22:21:19
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1191, Followers: 251560, UsersInChat: 1218
+2022-09-01 22:35:50
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 10194, Followers: 8802752, UsersInChat: 11216
+2022-09-01 22:36:01
+ Name: roflgator, Game: VRChat, Viewers: 4207, Followers: 295332, UsersInChat: 4124
+2022-09-01 22:36:05
+ Name: Kareeda, Game: VRChat, Viewers: 25, Followers: 11248, UsersInChat: 44
+2022-09-01 22:36:19
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1263, Followers: 251565, UsersInChat: 1344
+2022-09-01 22:50:49
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 11673, Followers: 8802764, UsersInChat: 11589
+2022-09-01 22:51:00
+ Name: roflgator, Game: VRChat, Viewers: 4141, Followers: 295333, UsersInChat: 4113
+2022-09-01 22:51:03
+ Name: Kareeda, Game: VRChat, Viewers: 20, Followers: 11248, UsersInChat: 42
+2022-09-01 22:51:18
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1270, Followers: 251573, UsersInChat: 1313
+2022-09-01 23:06:01
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 13095, Followers: 8802776, UsersInChat: 12000
+2022-09-01 23:06:12
+ Name: roflgator, Game: VRChat, Viewers: 4166, Followers: 295332, UsersInChat: 4124
+2022-09-01 23:06:15
+ Name: Kareeda, Game: VRChat, Viewers: 27, Followers: 11248, UsersInChat: 47
+2022-09-01 23:06:29
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1252, Followers: 251582, UsersInChat: 1292
+2022-09-01 23:20:49
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 12398, Followers: 8802791, UsersInChat: 12468
+2022-09-01 23:21:00
+ Name: roflgator, Game: VRChat, Viewers: 4019, Followers: 295330, UsersInChat: 4100
+2022-09-01 23:21:04
+ Name: Kareeda, Game: VRChat, Viewers: 19, Followers: 11248, UsersInChat: 51
+2022-09-01 23:21:18
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1254, Followers: 251584, UsersInChat: 1299
+2022-09-01 23:35:49
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 12528, Followers: 8802811, UsersInChat: 12237
+2022-09-01 23:36:01
+ Name: roflgator, Game: VRChat, Viewers: 4067, Followers: 295331, UsersInChat: 4012
+2022-09-01 23:36:04
+ Name: Kareeda, Game: VRChat, Viewers: 23, Followers: 11248, UsersInChat: 48
+2022-09-01 23:36:19
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1211, Followers: 251587, UsersInChat: 1242
+2022-09-01 23:50:50
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 12876, Followers: 8802820, UsersInChat: 12416
+2022-09-01 23:51:01
+ Name: roflgator, Game: VRChat, Viewers: 4067, Followers: 295330, UsersInChat: 4025
+2022-09-01 23:51:04
+ Name: Kareeda, Game: VRChat, Viewers: 20, Followers: 11248, UsersInChat: 42
+2022-09-01 23:51:19
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1201, Followers: 251590, UsersInChat: 1247
+2022-09-02 00:05:49
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 12300, Followers: 8802832, UsersInChat: 12527
+2022-09-02 00:06:00
+ Name: roflgator, Game: VRChat, Viewers: 4060, Followers: 295330, UsersInChat: 4073
+2022-09-02 00:06:04
+ Name: Kareeda, Game: VRChat, Viewers: 16, Followers: 11248, UsersInChat: 44
+2022-09-02 00:06:19
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1204, Followers: 251605, UsersInChat: 1269
+2022-09-02 00:06:33
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 5, Followers: 33, UsersInChat: 10
+2022-09-02 00:20:49
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 12039, Followers: 8802848, UsersInChat: 12218
+2022-09-02 00:21:00
+ Name: roflgator, Game: VRChat, Viewers: 3856, Followers: 295337, UsersInChat: 3932
+2022-09-02 00:21:04
+ Name: Kareeda, Game: VRChat, Viewers: 20, Followers: 11248, UsersInChat: 45
+2022-09-02 00:21:18
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1090, Followers: 251611, UsersInChat: 1148
+2022-09-02 00:21:25
+ Name: lanfear_vr, Game: VRChat, Viewers: 5, Followers: 19677, UsersInChat: 90
+2022-09-02 00:21:32
+ Name: curious_emily, Game: Marbles On Stream, Viewers: 6, Followers: 33, UsersInChat: 17
+2022-09-02 10:35:06
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 17878, Followers: 8803463, UsersInChat: 17791
+2022-09-02 10:35:41
+ Name: lanfear_vr, Game: VRChat, Viewers: 195, Followers: 19713, UsersInChat: 292
+2022-09-02 10:35:49
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 17878, Followers: 8803463, UsersInChat: 17791
+2022-09-02 10:36:25
+ Name: lanfear_vr, Game: VRChat, Viewers: 195, Followers: 19713, UsersInChat: 292
+2022-09-02 10:40:08
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 18119, Followers: 8803465, UsersInChat: 18141
+2022-09-02 10:40:42
+ Name: lanfear_vr, Game: VRChat, Viewers: 189, Followers: 19715, UsersInChat: 301
+2022-09-02 10:51:06
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 18103, Followers: 8803472, UsersInChat: 18108
+2022-09-02 10:51:40
+ Name: lanfear_vr, Game: VRChat, Viewers: 188, Followers: 19715, UsersInChat: 284
+2022-09-02 10:55:08
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 18103, Followers: 8803479, UsersInChat: 18377
+2022-09-02 16:27:28
+ Name: murdercrumpet, Game: VRChat, Viewers: 1424, Followers: 89840, UsersInChat: 1542
+2022-09-02 16:27:28
+ Name: murdercrumpet, Game: VRChat, Viewers: 1424, Followers: 89840, UsersInChat: 1542
+2022-09-02 16:27:59
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1210, Followers: 251705, UsersInChat: 1234
+2022-09-02 16:27:59
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1210, Followers: 251705, UsersInChat: 1234
+2022-09-02 16:35:45
+ Name: murdercrumpet, Game: VRChat, Viewers: 1464, Followers: 89844, UsersInChat: 1619
+2022-09-02 16:36:16
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1197, Followers: 251705, UsersInChat: 1245
+2022-09-02 16:40:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1602, Followers: 89844, UsersInChat: 1656
+2022-09-02 16:40:35
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1197, Followers: 251707, UsersInChat: 1225
+2022-09-02 16:55:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1498, Followers: 89845, UsersInChat: 1709
+2022-09-02 16:55:36
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1250, Followers: 251712, UsersInChat: 1283
+2022-09-02 17:10:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1671, Followers: 89847, UsersInChat: 1823
+2022-09-02 17:10:37
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1282, Followers: 251717, UsersInChat: 1331
+2022-09-02 17:25:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1660, Followers: 89850, UsersInChat: 1824
+2022-09-02 17:25:34
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1247, Followers: 251718, UsersInChat: 1271
+2022-09-02 17:40:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1709, Followers: 89852, UsersInChat: 1734
+2022-09-02 17:40:35
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1229, Followers: 251721, UsersInChat: 1298
+2022-09-02 17:55:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1733, Followers: 89851, UsersInChat: 1889
+2022-09-02 17:55:35
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1275, Followers: 251726, UsersInChat: 1313
+2022-09-02 18:10:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1711, Followers: 89850, UsersInChat: 1912
+2022-09-02 18:10:36
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1327, Followers: 251724, UsersInChat: 1387
+2022-09-02 18:25:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1743, Followers: 89852, UsersInChat: 1899
+2022-09-02 18:25:35
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1329, Followers: 251725, UsersInChat: 1394
+2022-09-02 18:40:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1783, Followers: 89853, UsersInChat: 1835
+2022-09-02 18:40:36
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1245, Followers: 251729, UsersInChat: 1295
+2022-09-02 18:55:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1786, Followers: 89854, UsersInChat: 1930
+2022-09-02 18:55:35
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1146, Followers: 251734, UsersInChat: 1260
+2022-09-02 19:10:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1843, Followers: 89858, UsersInChat: 2019
+2022-09-02 19:10:34
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1020, Followers: 251742, UsersInChat: 1182
+2022-09-02 19:25:06
+ Name: murdercrumpet, Game: VRChat, Viewers: 1878, Followers: 89862, UsersInChat: 2086
+2022-09-02 19:40:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1894, Followers: 89860, UsersInChat: 2037
+2022-09-02 19:55:17
+ Name: murdercrumpet, Game: VRChat, Viewers: 1920, Followers: 89862, UsersInChat: 2136
+2022-09-02 19:55:24
+ Name: snowsos, Game: VRChat, Viewers: 0, Followers: 64201, UsersInChat: 28
+2022-09-02 20:10:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1975, Followers: 89865, UsersInChat: 2127
+2022-09-02 20:10:12
+ Name: snowsos, Game: VRChat, Viewers: 41, Followers: 64201, UsersInChat: 56
+2022-09-02 20:25:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1997, Followers: 89865, UsersInChat: 2164
+2022-09-02 20:25:12
+ Name: snowsos, Game: VRChat, Viewers: 54, Followers: 64201, UsersInChat: 76
+2022-09-02 20:40:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 2007, Followers: 89869, UsersInChat: 2191
+2022-09-02 20:40:12
+ Name: snowsos, Game: VRChat, Viewers: 59, Followers: 64204, UsersInChat: 86
+2022-09-02 20:55:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 2076, Followers: 89873, UsersInChat: 2260
+2022-09-02 20:55:12
+ Name: snowsos, Game: VRChat, Viewers: 56, Followers: 64205, UsersInChat: 79
+2022-09-02 21:10:05
+ Name: murdercrumpet, Game: VRChat, Viewers: 1999, Followers: 89874, UsersInChat: 2145
+2022-09-02 21:10:12
+ Name: snowsos, Game: VRChat, Viewers: 55, Followers: 64206, UsersInChat: 79
+2022-09-02 21:25:12
+ Name: snowsos, Game: VRChat, Viewers: 59, Followers: 64206, UsersInChat: 88
+2022-09-02 21:40:12
+ Name: snowsos, Game: VRChat, Viewers: 55, Followers: 64207, UsersInChat: 85
+2022-09-02 21:40:19
+ Name: roflgator, Game: Just Chatting, Viewers: 1344, Followers: 295314, UsersInChat: 1802
+2022-09-02 21:55:12
+ Name: snowsos, Game: VRChat, Viewers: 59, Followers: 64208, UsersInChat: 87
+2022-09-02 21:55:21
+ Name: roflgator, Game: Just Chatting, Viewers: 2087, Followers: 295318, UsersInChat: 2425
+2022-09-02 22:10:15
+ Name: snowsos, Game: VRChat, Viewers: 61, Followers: 64209, UsersInChat: 86
+2022-09-02 22:10:22
+ Name: roflgator, Game: Just Chatting, Viewers: 2533, Followers: 295322, UsersInChat: 2758
+2022-09-02 22:25:12
+ Name: snowsos, Game: VRChat, Viewers: 66, Followers: 64210, UsersInChat: 86
+2022-09-02 22:25:21
+ Name: roflgator, Game: Just Chatting, Viewers: 2716, Followers: 295321, UsersInChat: 2850
+2022-09-02 22:40:12
+ Name: snowsos, Game: VRChat, Viewers: 59, Followers: 64211, UsersInChat: 85
+2022-09-02 22:40:19
+ Name: roflgator, Game: Just Chatting, Viewers: 2924, Followers: 295320, UsersInChat: 3074
+2022-09-02 22:55:14
+ Name: snowsos, Game: VRChat, Viewers: 68, Followers: 64211, UsersInChat: 91
+2022-09-02 22:55:22
+ Name: roflgator, Game: Just Chatting, Viewers: 3010, Followers: 295321, UsersInChat: 3053
+2022-09-02 23:10:12
+ Name: snowsos, Game: VRChat, Viewers: 73, Followers: 64211, UsersInChat: 97
+2022-09-02 23:10:18
+ Name: roflgator, Game: Just Chatting, Viewers: 2918, Followers: 295319, UsersInChat: 3005
+2022-09-02 23:40:12
+ Name: snowsos, Game: VRChat, Viewers: 72, Followers: 64215, UsersInChat: 94
+2022-09-02 23:40:19
+ Name: roflgator, Game: Just Chatting, Viewers: 2885, Followers: 295320, UsersInChat: 3094
+2022-09-03 13:31:27
+ Name: shizu, Game: The Evil Within, Viewers: 53, Followers: 24981, UsersInChat: 102
+2022-09-03 13:45:04
+ Name: shizu, Game: The Evil Within, Viewers: 61, Followers: 24983, UsersInChat: 102
+2022-09-03 14:00:04
+ Name: shizu, Game: The Evil Within, Viewers: 56, Followers: 24985, UsersInChat: 104
+2022-09-03 14:15:05
+ Name: shizu, Game: The Evil Within, Viewers: 69, Followers: 24986, UsersInChat: 109
+2022-09-03 14:30:04
+ Name: shizu, Game: The Evil Within, Viewers: 65, Followers: 24986, UsersInChat: 113
+2022-09-03 15:05:33
+ Name: shizu, Game: The Evil Within, Viewers: 65, Followers: 24989, UsersInChat: 113
+2022-09-03 15:15:04
+ Name: shizu, Game: The Evil Within, Viewers: 57, Followers: 24989, UsersInChat: 125
+2022-09-03 15:30:05
+ Name: shizu, Game: The Evil Within, Viewers: 57, Followers: 24989, UsersInChat: 123
+2022-09-03 15:45:05
+ Name: shizu, Game: The Evil Within, Viewers: 63, Followers: 24989, UsersInChat: 114
+2022-09-03 16:00:04
+ Name: shizu, Game: The Evil Within, Viewers: 74, Followers: 24990, UsersInChat: 112
+2022-09-03 16:15:04
+ Name: shizu, Game: The Evil Within, Viewers: 86, Followers: 24991, UsersInChat: 138
+2022-09-03 16:30:04
+ Name: shizu, Game: The Evil Within, Viewers: 91, Followers: 24990, UsersInChat: 145
+2022-09-03 16:45:05
+ Name: shizu, Game: The Evil Within, Viewers: 88, Followers: 24991, UsersInChat: 138
+2022-09-03 17:00:04
+ Name: shizu, Game: The Evil Within, Viewers: 99, Followers: 24995, UsersInChat: 140
+2022-09-03 17:15:06
+ Name: shizu, Game: The Evil Within, Viewers: 96, Followers: 24996, UsersInChat: 137
+2022-09-03 17:30:05
+ Name: shizu, Game: The Evil Within, Viewers: 94, Followers: 24997, UsersInChat: 139
+2022-09-03 17:30:09
+ Name: tevin_vr, Game: Roblox, Viewers: 5, Followers: 7110, UsersInChat: 64
+2022-09-03 17:45:10
+ Name: tevin_vr, Game: Roblox, Viewers: 35, Followers: 7110, UsersInChat: 95
+2022-09-03 18:00:08
+ Name: tevin_vr, Game: Roblox, Viewers: 41, Followers: 7115, UsersInChat: 134
+2022-09-03 18:15:08
+ Name: tevin_vr, Game: Roblox, Viewers: 49, Followers: 7117, UsersInChat: 100
+2022-09-03 18:30:09
+ Name: tevin_vr, Game: Roblox, Viewers: 52, Followers: 7117, UsersInChat: 130
+2022-09-03 18:45:09
+ Name: tevin_vr, Game: Roblox, Viewers: 61, Followers: 7122, UsersInChat: 146
+2022-09-03 19:00:08
+ Name: tevin_vr, Game: Roblox, Viewers: 59, Followers: 7123, UsersInChat: 136
+2022-09-03 19:15:08
+ Name: tevin_vr, Game: Roblox, Viewers: 70, Followers: 7125, UsersInChat: 165
+2022-09-03 19:30:08
+ Name: tevin_vr, Game: Roblox, Viewers: 74, Followers: 7127, UsersInChat: 165
+2022-09-03 19:45:07
+ Name: tevin_vr, Game: Roblox, Viewers: 76, Followers: 7127, UsersInChat: 162
+2022-09-03 19:59:58
+ Name: Kareeda, Game: No Man's Sky, Viewers: 1, Followers: 11250, UsersInChat: 18
+2022-09-03 20:00:07
+ Name: tevin_vr, Game: Roblox, Viewers: 73, Followers: 7128, UsersInChat: 174
+2022-09-03 20:14:58
+ Name: Kareeda, Game: No Man's Sky, Viewers: 27, Followers: 11250, UsersInChat: 35
+2022-09-03 20:15:08
+ Name: tevin_vr, Game: Roblox, Viewers: 72, Followers: 7132, UsersInChat: 159
+2022-09-03 20:29:48
+ Name: snowsos, Game: VRChat, Viewers: 32, Followers: 64212, UsersInChat: 47
+2022-09-03 20:29:58
+ Name: Kareeda, Game: No Man's Sky, Viewers: 31, Followers: 11250, UsersInChat: 38
+2022-09-03 20:30:08
+ Name: tevin_vr, Game: Roblox, Viewers: 79, Followers: 7135, UsersInChat: 177
+2022-09-03 20:44:48
+ Name: snowsos, Game: VRChat, Viewers: 58, Followers: 64210, UsersInChat: 64
+2022-09-03 20:44:59
+ Name: Kareeda, Game: No Man's Sky, Viewers: 34, Followers: 11250, UsersInChat: 44
+2022-09-03 20:45:10
+ Name: tevin_vr, Game: Gensokyo Night Festival, Viewers: 92, Followers: 7136, UsersInChat: 174
+2022-09-03 20:59:48
+ Name: snowsos, Game: VRChat, Viewers: 47, Followers: 64210, UsersInChat: 73
+2022-09-03 20:59:59
+ Name: Kareeda, Game: No Man's Sky, Viewers: 32, Followers: 11250, UsersInChat: 47
+2022-09-03 21:00:09
+ Name: tevin_vr, Game: Gensokyo Night Festival, Viewers: 81, Followers: 7136, UsersInChat: 183
+2022-09-03 21:14:48
+ Name: snowsos, Game: VRChat, Viewers: 63, Followers: 64210, UsersInChat: 73
+2022-09-03 21:14:51
+ Name: Stealthrg, Game: VRChat, Viewers: 14, Followers: 77108, UsersInChat: 37
+2022-09-03 21:14:58
+ Name: Kareeda, Game: No Man's Sky, Viewers: 21, Followers: 11250, UsersInChat: 43
+2022-09-03 21:15:07
+ Name: tevin_vr, Game: Gensokyo Night Festival, Viewers: 83, Followers: 7136, UsersInChat: 167
+2022-09-03 21:29:48
+ Name: snowsos, Game: VRChat, Viewers: 64, Followers: 64211, UsersInChat: 89
+2022-09-03 21:29:51
+ Name: Stealthrg, Game: VRChat, Viewers: 125, Followers: 77107, UsersInChat: 117
+2022-09-03 21:29:58
+ Name: Kareeda, Game: VRChat, Viewers: 25, Followers: 11250, UsersInChat: 42
+2022-09-03 21:30:08
+ Name: tevin_vr, Game: Gensokyo Night Festival, Viewers: 84, Followers: 7137, UsersInChat: 176
+2022-09-04 13:13:27
+ Name: shizu, Game: Gunfire Reborn, Viewers: 34, Followers: 25007, UsersInChat: 43
+2022-09-04 13:28:25
+ Name: shizu, Game: Gunfire Reborn, Viewers: 28, Followers: 25006, UsersInChat: 86
+2022-09-04 13:43:26
+ Name: shizu, Game: Gunfire Reborn, Viewers: 58, Followers: 25007, UsersInChat: 97
+2022-09-04 13:58:24
+ Name: shizu, Game: Gunfire Reborn, Viewers: 70, Followers: 25008, UsersInChat: 111
+2022-09-04 14:13:24
+ Name: shizu, Game: Gunfire Reborn, Viewers: 62, Followers: 25008, UsersInChat: 114
+2022-09-04 16:58:01
+ Name: murdercrumpet, Game: VRChat, Viewers: 1931, Followers: 89897, UsersInChat: 2176
+2022-09-04 16:58:25
+ Name: shizu, Game: Gunfire Reborn, Viewers: 85, Followers: 25020, UsersInChat: 144
+2022-09-04 17:13:01
+ Name: murdercrumpet, Game: VRChat, Viewers: 1909, Followers: 89898, UsersInChat: 2138
+2022-09-04 17:13:25
+ Name: shizu, Game: Gunfire Reborn, Viewers: 96, Followers: 25021, UsersInChat: 147
+2022-09-04 17:28:01
+ Name: murdercrumpet, Game: VRChat, Viewers: 2162, Followers: 89901, UsersInChat: 2205
+2022-09-04 17:28:25
+ Name: shizu, Game: Gunfire Reborn, Viewers: 106, Followers: 25023, UsersInChat: 156
+2022-09-04 17:43:01
+ Name: murdercrumpet, Game: VRChat, Viewers: 2261, Followers: 89903, UsersInChat: 2312
+2022-09-04 17:43:24
+ Name: shizu, Game: Gunfire Reborn, Viewers: 95, Followers: 25026, UsersInChat: 150
+2022-09-04 17:58:01
+ Name: murdercrumpet, Game: VRChat, Viewers: 2217, Followers: 89902, UsersInChat: 2394
+2022-09-04 18:13:02
+ Name: murdercrumpet, Game: VRChat, Viewers: 2174, Followers: 89900, UsersInChat: 2358
+2022-09-04 18:28:01
+ Name: murdercrumpet, Game: VRChat, Viewers: 2231, Followers: 89899, UsersInChat: 2349
+2022-09-04 18:43:01
+ Name: murdercrumpet, Game: VRChat, Viewers: 2241, Followers: 89901, UsersInChat: 2429
+2022-09-04 18:43:43
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 1, Followers: 3396, UsersInChat: 13
+2022-09-04 18:58:01
+ Name: murdercrumpet, Game: VRChat, Viewers: 2248, Followers: 89901, UsersInChat: 2417
+2022-09-04 18:58:41
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 1, Followers: 3396, UsersInChat: 16
+2022-09-04 19:13:01
+ Name: murdercrumpet, Game: VRChat, Viewers: 2312, Followers: 89901, UsersInChat: 2454
+2022-09-04 19:13:41
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 1, Followers: 3396, UsersInChat: 14
+2022-09-04 19:28:01
+ Name: murdercrumpet, Game: VRChat, Viewers: 2285, Followers: 89902, UsersInChat: 2429
+2022-09-04 19:28:08
+ Name: snowsos, Game: Just Chatting, Viewers: 25, Followers: 64210, UsersInChat: 41
+2022-09-04 19:28:41
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 1, Followers: 3396, UsersInChat: 16
+2022-09-04 19:43:02
+ Name: murdercrumpet, Game: VRChat, Viewers: 2341, Followers: 89903, UsersInChat: 2461
+2022-09-04 19:43:08
+ Name: snowsos, Game: Just Chatting, Viewers: 54, Followers: 64210, UsersInChat: 66
+2022-09-04 19:43:41
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 2, Followers: 3396, UsersInChat: 16
+2022-09-04 19:58:01
+ Name: murdercrumpet, Game: VRChat, Viewers: 2312, Followers: 89904, UsersInChat: 2450
+2022-09-04 19:58:09
+ Name: snowsos, Game: Just Chatting, Viewers: 68, Followers: 64209, UsersInChat: 79
+2022-09-04 19:58:42
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 1, Followers: 3396, UsersInChat: 16
+2022-09-04 20:13:01
+ Name: murdercrumpet, Game: VRChat, Viewers: 2348, Followers: 89905, UsersInChat: 2458
+2022-09-04 20:13:08
+ Name: snowsos, Game: Just Chatting, Viewers: 66, Followers: 64207, UsersInChat: 81
+2022-09-04 20:13:25
+ Name: shizu, Game: Just Chatting, Viewers: 23, Followers: 25031, UsersInChat: 73
+2022-09-04 20:13:41
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 1, Followers: 3396, UsersInChat: 16
+2022-09-04 20:28:01
+ Name: murdercrumpet, Game: VRChat, Viewers: 2270, Followers: 89905, UsersInChat: 2438
+2022-09-04 20:28:08
+ Name: snowsos, Game: Just Chatting, Viewers: 66, Followers: 64207, UsersInChat: 77
+2022-09-04 20:28:25
+ Name: shizu, Game: Watch Parties, Viewers: 15, Followers: 25030, UsersInChat: 72
+2022-09-04 20:28:41
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 1, Followers: 3396, UsersInChat: 15
+2022-09-04 20:43:02
+ Name: murdercrumpet, Game: VRChat, Viewers: 2268, Followers: 89905, UsersInChat: 2435
+2022-09-04 20:43:08
+ Name: snowsos, Game: Just Chatting, Viewers: 64, Followers: 64207, UsersInChat: 83
+2022-09-04 20:43:24
+ Name: shizu, Game: Watch Parties, Viewers: 15, Followers: 25030, UsersInChat: 57
+2022-09-04 20:43:41
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 1, Followers: 3396, UsersInChat: 18
+2022-09-04 20:58:01
+ Name: murdercrumpet, Game: VRChat, Viewers: 2270, Followers: 89906, UsersInChat: 2370
+2022-09-04 20:58:08
+ Name: snowsos, Game: Just Chatting, Viewers: 71, Followers: 64207, UsersInChat: 93
+2022-09-04 20:58:25
+ Name: shizu, Game: Watch Parties, Viewers: 19, Followers: 25030, UsersInChat: 70
+2022-09-04 20:58:42
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 1, Followers: 3396, UsersInChat: 16
+2022-09-04 21:13:08
+ Name: snowsos, Game: Just Chatting, Viewers: 69, Followers: 64206, UsersInChat: 95
+2022-09-04 21:13:15
+ Name: roflgator, Game: VRChat, Viewers: 695, Followers: 295320, UsersInChat: 2956
+2022-09-04 21:13:25
+ Name: shizu, Game: Watch Parties, Viewers: 22, Followers: 25032, UsersInChat: 64
+2022-09-04 21:13:41
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 1, Followers: 3397, UsersInChat: 18
+2022-09-04 21:28:08
+ Name: snowsos, Game: Just Chatting, Viewers: 83, Followers: 64206, UsersInChat: 96
+2022-09-04 21:28:15
+ Name: roflgator, Game: VRChat, Viewers: 4749, Followers: 295322, UsersInChat: 3369
+2022-09-04 21:28:41
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 1, Followers: 3397, UsersInChat: 19
+2022-09-04 21:43:10
+ Name: snowsos, Game: Just Chatting, Viewers: 86, Followers: 64206, UsersInChat: 103
+2022-09-04 21:43:16
+ Name: roflgator, Game: VRChat, Viewers: 3582, Followers: 295326, UsersInChat: 3837
+2022-09-04 21:43:43
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 1, Followers: 3397, UsersInChat: 19
+2022-09-04 21:58:09
+ Name: snowsos, Game: Just Chatting, Viewers: 84, Followers: 64205, UsersInChat: 102
+2022-09-04 21:58:16
+ Name: roflgator, Game: VRChat, Viewers: 3713, Followers: 295324, UsersInChat: 4041
+2022-09-04 21:58:43
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 2, Followers: 3397, UsersInChat: 20
+2022-09-04 22:13:08
+ Name: snowsos, Game: Just Chatting, Viewers: 95, Followers: 64208, UsersInChat: 302
+2022-09-04 22:13:15
+ Name: roflgator, Game: VRChat, Viewers: 3761, Followers: 295321, UsersInChat: 4081
+2022-09-04 22:13:43
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 2, Followers: 3397, UsersInChat: 21
+2022-09-04 22:28:18
+ Name: snowsos, Game: Just Chatting, Viewers: 179, Followers: 64211, UsersInChat: 281
+2022-09-04 22:28:25
+ Name: roflgator, Game: VRChat, Viewers: 3754, Followers: 295322, UsersInChat: 3969
+2022-09-04 22:28:52
+ Name: magykrose, Game: Fortnite, Viewers: 3, Followers: 3397, UsersInChat: 23
+2022-09-04 22:43:15
+ Name: roflgator, Game: VRChat, Viewers: 3737, Followers: 295321, UsersInChat: 4061
+2022-09-04 22:43:40
+ Name: lanfear_vr, Game: VRChat, Viewers: 0, Followers: 19725, UsersInChat: 69
+2022-09-04 22:43:43
+ Name: magykrose, Game: Fortnite, Viewers: 2, Followers: 3397, UsersInChat: 23
+2022-09-05 11:52:03
+ Name: lanfear_vr, Game: VRChat, Viewers: 155, Followers: 19759, UsersInChat: 267
+2022-09-05 14:03:31
+ Name: murdercrumpet, Game: VRChat, Viewers: 87, Followers: 89904, UsersInChat: 359
+2022-09-05 14:18:31
+ Name: murdercrumpet, Game: VRChat, Viewers: 809, Followers: 89906, UsersInChat: 1083
+2022-09-05 14:33:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 892, Followers: 89906, UsersInChat: 1298
+2022-09-05 14:48:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1118, Followers: 89905, UsersInChat: 1352
+2022-09-05 15:03:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1225, Followers: 89904, UsersInChat: 1523
+2022-09-05 15:18:32
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1410, Followers: 89905, UsersInChat: 1726
+2022-09-05 15:33:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1487, Followers: 89904, UsersInChat: 1760
+2022-09-05 15:34:11
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 1, Followers: 3397, UsersInChat: 13
+2022-09-05 15:48:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1459, Followers: 89904, UsersInChat: 1648
+2022-09-05 15:49:10
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 1, Followers: 3397, UsersInChat: 17
+2022-09-05 16:03:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1517, Followers: 89904, UsersInChat: 1722
+2022-09-05 16:04:11
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 3, Followers: 3397, UsersInChat: 18
+2022-09-05 16:18:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1533, Followers: 89905, UsersInChat: 1793
+2022-09-05 16:19:11
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 2, Followers: 3397, UsersInChat: 19
+2022-09-05 16:33:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1599, Followers: 89905, UsersInChat: 1853
+2022-09-05 16:34:12
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 3, Followers: 3397, UsersInChat: 21
+2022-09-05 16:48:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1571, Followers: 89903, UsersInChat: 1706
+2022-09-05 16:49:10
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 3, Followers: 3396, UsersInChat: 20
+2022-09-05 17:03:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1589, Followers: 89905, UsersInChat: 1755
+2022-09-05 17:04:11
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 4, Followers: 3396, UsersInChat: 18
+2022-09-05 17:18:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1127, Followers: 89904, UsersInChat: 1705
+2022-09-05 17:19:10
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 3, Followers: 3396, UsersInChat: 20
+2022-09-05 17:33:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1332, Followers: 89905, UsersInChat: 1653
+2022-09-05 17:34:11
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 2, Followers: 3396, UsersInChat: 22
+2022-09-05 17:48:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1427, Followers: 89907, UsersInChat: 1721
+2022-09-05 17:49:11
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 2, Followers: 3396, UsersInChat: 20
+2022-09-05 18:03:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1461, Followers: 89909, UsersInChat: 1777
+2022-09-05 18:04:11
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 2, Followers: 3396, UsersInChat: 21
+2022-09-05 18:18:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1505, Followers: 89910, UsersInChat: 1786
+2022-09-05 18:18:57
+ Name: tevin_vr, Game: Roblox, Viewers: 13, Followers: 7185, UsersInChat: 72
+2022-09-05 18:19:11
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 2, Followers: 3396, UsersInChat: 21
+2022-09-05 18:33:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1482, Followers: 89909, UsersInChat: 1817
+2022-09-05 18:33:58
+ Name: tevin_vr, Game: Roblox, Viewers: 35, Followers: 7186, UsersInChat: 110
+2022-09-05 18:34:12
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 2, Followers: 3396, UsersInChat: 18
+2022-09-05 18:48:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1505, Followers: 89907, UsersInChat: 1731
+2022-09-05 18:48:57
+ Name: tevin_vr, Game: Roblox, Viewers: 34, Followers: 7189, UsersInChat: 103
+2022-09-05 18:49:10
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 4, Followers: 3396, UsersInChat: 23
+2022-09-05 19:03:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1488, Followers: 89907, UsersInChat: 1669
+2022-09-05 19:03:47
+ Name: Kareeda, Game: VRChat, Viewers: 0, Followers: 11252, UsersInChat: 14
+2022-09-05 19:03:57
+ Name: tevin_vr, Game: Roblox, Viewers: 33, Followers: 7190, UsersInChat: 107
+2022-09-05 19:04:10
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 4, Followers: 3396, UsersInChat: 24
+2022-09-05 19:18:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1674, Followers: 89908, UsersInChat: 1824
+2022-09-05 19:18:48
+ Name: Kareeda, Game: VRChat, Viewers: 26, Followers: 11252, UsersInChat: 28
+2022-09-05 19:18:59
+ Name: tevin_vr, Game: Roblox, Viewers: 32, Followers: 7189, UsersInChat: 135
+2022-09-05 19:19:12
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 7, Followers: 3396, UsersInChat: 25
+2022-09-05 19:33:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1530, Followers: 89907, UsersInChat: 1828
+2022-09-05 19:33:48
+ Name: Kareeda, Game: VRChat, Viewers: 19, Followers: 11252, UsersInChat: 35
+2022-09-05 19:33:58
+ Name: tevin_vr, Game: Roblox, Viewers: 44, Followers: 7191, UsersInChat: 132
+2022-09-05 19:34:11
+ Name: magykrose, Game: Fortnite, Viewers: 6, Followers: 3397, UsersInChat: 28
+2022-09-05 19:48:31
+ Name: murdercrumpet, Game: The Bridge Curse: Road To Salvation, Viewers: 1540, Followers: 89906, UsersInChat: 1805
+2022-09-05 19:48:47
+ Name: Kareeda, Game: VRChat, Viewers: 23, Followers: 11252, UsersInChat: 35
+2022-09-05 19:48:58
+ Name: tevin_vr, Game: Roblox, Viewers: 37, Followers: 7190, UsersInChat: 129
+2022-09-06 16:46:53
+ Name: murdercrumpet, Game: VRChat, Viewers: 1240, Followers: 89927, UsersInChat: 1397
+2022-09-06 16:47:17
+ Name: shizu, Game: Tinykin, Viewers: 67, Followers: 25080, UsersInChat: 122
+2022-09-06 16:47:24
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 42, Followers: 252097, UsersInChat: 128
+2022-09-06 19:31:53
+ Name: murdercrumpet, Game: VRChat, Viewers: 2130, Followers: 89940, UsersInChat: 2332
+2022-09-06 19:32:20
+ Name: tevin_vr, Game: Roblox, Viewers: 40, Followers: 7227, UsersInChat: 130
+2022-09-06 19:32:23
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1278, Followers: 252120, UsersInChat: 1263
+2022-09-06 19:46:53
+ Name: murdercrumpet, Game: VRChat, Viewers: 2158, Followers: 89943, UsersInChat: 2241
+2022-09-06 19:47:19
+ Name: tevin_vr, Game: Roblox, Viewers: 36, Followers: 7229, UsersInChat: 110
+2022-09-06 19:47:22
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1316, Followers: 252129, UsersInChat: 1313
+2022-09-06 20:01:53
+ Name: murdercrumpet, Game: VRChat, Viewers: 2225, Followers: 89945, UsersInChat: 2390
+2022-09-06 20:02:19
+ Name: tevin_vr, Game: Roblox, Viewers: 37, Followers: 7230, UsersInChat: 126
+2022-09-06 20:02:22
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1412, Followers: 252135, UsersInChat: 1454
+2022-09-06 20:16:53
+ Name: murdercrumpet, Game: VRChat, Viewers: 2265, Followers: 89945, UsersInChat: 2343
+2022-09-06 20:17:20
+ Name: tevin_vr, Game: Roblox, Viewers: 41, Followers: 7231, UsersInChat: 133
+2022-09-06 20:17:23
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1313, Followers: 252142, UsersInChat: 1333
+2022-09-06 20:31:53
+ Name: murdercrumpet, Game: VRChat, Viewers: 2290, Followers: 89948, UsersInChat: 2362
+2022-09-06 20:32:19
+ Name: tevin_vr, Game: Roblox, Viewers: 45, Followers: 7233, UsersInChat: 131
+2022-09-06 20:32:22
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1616, Followers: 252147, UsersInChat: 1276
+2022-09-06 20:46:53
+ Name: murdercrumpet, Game: VRChat, Viewers: 2353, Followers: 89948, UsersInChat: 2437
+2022-09-06 20:47:20
+ Name: tevin_vr, Game: Roblox, Viewers: 42, Followers: 7233, UsersInChat: 134
+2022-09-06 20:47:23
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 922, Followers: 252149, UsersInChat: 1209
+2022-09-06 21:01:53
+ Name: murdercrumpet, Game: VRChat, Viewers: 2400, Followers: 89951, UsersInChat: 2471
+2022-09-06 21:02:21
+ Name: tevin_vr, Game: Roblox, Viewers: 41, Followers: 7233, UsersInChat: 134
+2022-09-06 21:02:24
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1018, Followers: 252150, UsersInChat: 1228
+2022-09-06 21:17:06
+ Name: roflgator, Game: VRChat, Viewers: 3011, Followers: 295317, UsersInChat: 3426
+2022-09-06 21:17:19
+ Name: tevin_vr, Game: PlateUp!, Viewers: 44, Followers: 7233, UsersInChat: 134
+2022-09-06 21:17:23
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 2012, Followers: 252173, UsersInChat: 2077
+2022-09-06 21:32:07
+ Name: roflgator, Game: VRChat, Viewers: 3440, Followers: 295320, UsersInChat: 3738
+2022-09-06 21:32:20
+ Name: tevin_vr, Game: PlateUp!, Viewers: 43, Followers: 7233, UsersInChat: 143
+2022-09-06 21:32:23
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1508, Followers: 252183, UsersInChat: 1878
+2022-09-06 21:47:17
+ Name: roflgator, Game: VRChat, Viewers: 3694, Followers: 295322, UsersInChat: 4082
+2022-09-06 21:47:30
+ Name: tevin_vr, Game: PlateUp!, Viewers: 42, Followers: 7233, UsersInChat: 142
+2022-09-06 21:47:33
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1430, Followers: 252195, UsersInChat: 1790
+2022-09-06 22:02:14
+ Name: roflgator, Game: VRChat, Viewers: 4008, Followers: 295325, UsersInChat: 4295
+2022-09-06 22:02:27
+ Name: tevin_vr, Game: PlateUp!, Viewers: 38, Followers: 7234, UsersInChat: 136
+2022-09-06 22:02:30
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1389, Followers: 252197, UsersInChat: 1713
+2022-09-06 22:17:06
+ Name: roflgator, Game: VRChat, Viewers: 3984, Followers: 295327, UsersInChat: 4331
+2022-09-06 22:17:20
+ Name: tevin_vr, Game: PlateUp!, Viewers: 40, Followers: 7234, UsersInChat: 140
+2022-09-06 22:17:23
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1312, Followers: 252204, UsersInChat: 1628
+2022-09-06 22:32:06
+ Name: roflgator, Game: VRChat, Viewers: 4065, Followers: 295329, UsersInChat: 4262
+2022-09-06 22:32:20
+ Name: tevin_vr, Game: PlateUp!, Viewers: 39, Followers: 7234, UsersInChat: 136
+2022-09-06 22:32:23
+ Name: momo, Game: Final Fantasy XIV Online, Viewers: 1187, Followers: 252202, UsersInChat: 1474
+2022-09-06 22:47:06
+ Name: roflgator, Game: VRChat, Viewers: 4074, Followers: 295332, UsersInChat: 4326
+2022-09-06 22:47:19
+ Name: tevin_vr, Game: PlateUp!, Viewers: 40, Followers: 7234, UsersInChat: 130
+2022-09-06 23:02:07
+ Name: roflgator, Game: VRChat, Viewers: 3953, Followers: 295334, UsersInChat: 4245
+2022-09-06 23:02:20
+ Name: tevin_vr, Game: PlateUp!, Viewers: 44, Followers: 7234, UsersInChat: 136
+2022-09-06 23:17:06
+ Name: roflgator, Game: VRChat, Viewers: 3978, Followers: 295334, UsersInChat: 4161
+2022-09-06 23:17:19
+ Name: tevin_vr, Game: PlateUp!, Viewers: 49, Followers: 7234, UsersInChat: 136
+2022-09-06 23:32:06
+ Name: roflgator, Game: VRChat, Viewers: 3920, Followers: 295338, UsersInChat: 4143
+2022-09-06 23:32:21
+ Name: tevin_vr, Game: PlateUp!, Viewers: 44, Followers: 7234, UsersInChat: 132
+2022-09-06 23:47:07
+ Name: roflgator, Game: VRChat, Viewers: 3786, Followers: 295337, UsersInChat: 4036
+2022-09-06 23:47:20
+ Name: tevin_vr, Game: PlateUp!, Viewers: 48, Followers: 7234, UsersInChat: 132
+2022-09-07 00:02:07
+ Name: roflgator, Game: VRChat, Viewers: 3640, Followers: 295336, UsersInChat: 3862
+2022-09-07 00:02:20
+ Name: tevin_vr, Game: PlateUp!, Viewers: 46, Followers: 7234, UsersInChat: 130
+2022-09-07 00:17:06
+ Name: roflgator, Game: VRChat, Viewers: 3524, Followers: 295336, UsersInChat: 3674
+2022-09-07 00:17:12
+ Name: aikasanvr, Game: The Sinking City, Viewers: 15, Followers: 8816, UsersInChat: 84
+2022-09-07 00:17:19
+ Name: tevin_vr, Game: PlateUp!, Viewers: 40, Followers: 7234, UsersInChat: 119
+2022-09-07 00:32:06
+ Name: roflgator, Game: VRChat, Viewers: 3891, Followers: 295333, UsersInChat: 3779
+2022-09-07 00:32:13
+ Name: aikasanvr, Game: The Sinking City, Viewers: 24, Followers: 8816, UsersInChat: 115
+2022-09-07 00:32:20
+ Name: tevin_vr, Game: PlateUp!, Viewers: 45, Followers: 7234, UsersInChat: 127
+2022-09-07 00:47:07
+ Name: roflgator, Game: VRChat, Viewers: 3392, Followers: 295333, UsersInChat: 3494
+2022-09-07 00:47:14
+ Name: aikasanvr, Game: The Sinking City, Viewers: 41, Followers: 8816, UsersInChat: 125
+2022-09-07 00:47:21
+ Name: tevin_vr, Game: PlateUp!, Viewers: 46, Followers: 7234, UsersInChat: 127
+2022-09-07 01:02:06
+ Name: roflgator, Game: VRChat, Viewers: 3296, Followers: 295331, UsersInChat: 3465
+2022-09-07 01:02:13
+ Name: aikasanvr, Game: The Sinking City, Viewers: 88, Followers: 8818, UsersInChat: 180
+2022-09-07 01:02:20
+ Name: tevin_vr, Game: PlateUp!, Viewers: 47, Followers: 7235, UsersInChat: 132
+2022-09-07 01:17:06
+ Name: roflgator, Game: VRChat, Viewers: 3214, Followers: 295329, UsersInChat: 3396
+2022-09-07 01:17:13
+ Name: aikasanvr, Game: The Sinking City, Viewers: 81, Followers: 8818, UsersInChat: 176
+2022-09-07 01:17:19
+ Name: tevin_vr, Game: PlateUp!, Viewers: 45, Followers: 7234, UsersInChat: 126
+2022-09-07 01:32:06
+ Name: roflgator, Game: VRChat, Viewers: 3055, Followers: 295326, UsersInChat: 3212
+2022-09-07 01:32:13
+ Name: aikasanvr, Game: The Sinking City, Viewers: 87, Followers: 8818, UsersInChat: 170
+2022-09-07 01:32:19
+ Name: tevin_vr, Game: PlateUp!, Viewers: 118, Followers: 7237, UsersInChat: 257
+2022-09-07 14:10:15
+ Name: shizu, Game: Elden Ring, Viewers: 52, Followers: 25123, UsersInChat: 94
+2022-09-07 14:10:16
+ Name: shizu, Game: Elden Ring, Viewers: 52, Followers: 25123, UsersInChat: 94
+2022-09-07 14:17:28
+ Name: shizu, Game: Elden Ring, Viewers: 54, Followers: 25123, UsersInChat: 92
+2022-09-07 14:24:37
+ Name: shizu, Game: Elden Ring, Viewers: 59, Followers: 25124, UsersInChat: 103
+2022-09-07 14:32:18
+ Name: shizu, Game: Elden Ring, Viewers: 63, Followers: 25124, UsersInChat: 105
+2022-09-07 15:09:09
+ Name: murdercrumpet, Game: VRChat, Viewers: 446, Followers: 89951, UsersInChat: 683
+2022-09-07 15:09:32
+ Name: shizu, Game: Elden Ring, Viewers: 76, Followers: 25127, UsersInChat: 119
+2022-09-07 15:24:09
+ Name: murdercrumpet, Game: VRChat, Viewers: 743, Followers: 89950, UsersInChat: 965
+2022-09-07 15:24:32
+ Name: shizu, Game: Elden Ring, Viewers: 83, Followers: 25131, UsersInChat: 123
+2022-09-07 17:02:59
+ Name: murdercrumpet, Game: VRChat, Viewers: 1766, Followers: 89953, UsersInChat: 1987
+2022-09-07 17:03:26
+ Name: shizu, Game: Elden Ring, Viewers: 84, Followers: 25140, UsersInChat: 143
+2022-09-07 17:03:29
+ Name: tevin_vr, Game: Roblox, Viewers: 26, Followers: 7243, UsersInChat: 108
+2022-09-07 17:09:09
+ Name: murdercrumpet, Game: VRChat, Viewers: 1766, Followers: 89952, UsersInChat: 1998
+2022-09-07 17:09:32
+ Name: shizu, Game: Elden Ring, Viewers: 93, Followers: 25140, UsersInChat: 140
+2022-09-07 17:09:35
+ Name: tevin_vr, Game: Roblox, Viewers: 26, Followers: 7243, UsersInChat: 106
+2022-09-07 17:24:08
+ Name: murdercrumpet, Game: VRChat, Viewers: 1760, Followers: 89954, UsersInChat: 2026
+2022-09-07 17:24:32
+ Name: shizu, Game: Elden Ring, Viewers: 94, Followers: 25142, UsersInChat: 140
+2022-09-07 17:24:36
+ Name: tevin_vr, Game: Roblox, Viewers: 29, Followers: 7243, UsersInChat: 107
+2022-09-07 17:39:09
+ Name: murdercrumpet, Game: VRChat, Viewers: 1123, Followers: 89956, UsersInChat: 1934
+2022-09-07 17:39:33
+ Name: shizu, Game: Elden Ring, Viewers: 71, Followers: 25142, UsersInChat: 139
+2022-09-07 17:39:36
+ Name: tevin_vr, Game: Roblox, Viewers: 33, Followers: 7243, UsersInChat: 106
+2022-09-07 17:39:40
+ Name: momo, Game: Just Chatting, Viewers: 210, Followers: 252257, UsersInChat: 479
+2022-09-07 17:54:11
+ Name: murdercrumpet, Game: VRChat, Viewers: 1417, Followers: 89957, UsersInChat: 1935
+2022-09-07 17:54:34
+ Name: shizu, Game: Elden Ring, Viewers: 74, Followers: 25146, UsersInChat: 140
+2022-09-07 17:54:38
+ Name: tevin_vr, Game: Roblox, Viewers: 33, Followers: 7243, UsersInChat: 107
+2022-09-07 17:54:42
+ Name: momo, Game: Just Chatting, Viewers: 642, Followers: 252256, UsersInChat: 711
+2022-09-07 18:09:09
+ Name: murdercrumpet, Game: VRChat, Viewers: 1495, Followers: 89960, UsersInChat: 1940
+2022-09-07 18:09:32
+ Name: shizu, Game: Elden Ring, Viewers: 80, Followers: 25148, UsersInChat: 143
+2022-09-07 18:09:36
+ Name: tevin_vr, Game: Roblox, Viewers: 40, Followers: 7245, UsersInChat: 110
+2022-09-07 18:09:39
+ Name: momo, Game: Just Chatting, Viewers: 787, Followers: 252260, UsersInChat: 893
+2022-09-07 18:24:09
+ Name: murdercrumpet, Game: VRChat, Viewers: 1698, Followers: 89961, UsersInChat: 2051
+2022-09-07 18:24:36
+ Name: tevin_vr, Game: Roblox, Viewers: 35, Followers: 7246, UsersInChat: 108
+2022-09-07 18:24:39
+ Name: momo, Game: Apex Legends, Viewers: 862, Followers: 252266, UsersInChat: 951
+2022-09-07 18:39:09
+ Name: murdercrumpet, Game: VRChat, Viewers: 1733, Followers: 89963, UsersInChat: 2054
+2022-09-07 18:39:35
+ Name: tevin_vr, Game: VRChat, Viewers: 38, Followers: 7247, UsersInChat: 123
+2022-09-07 18:39:39
+ Name: momo, Game: Apex Legends, Viewers: 881, Followers: 252273, UsersInChat: 949
+2022-09-07 18:54:09
+ Name: murdercrumpet, Game: VRChat, Viewers: 1865, Followers: 89964, UsersInChat: 2164
+2022-09-07 18:54:36
+ Name: tevin_vr, Game: VRChat, Viewers: 45, Followers: 7249, UsersInChat: 130
+2022-09-07 18:54:39
+ Name: momo, Game: Apex Legends, Viewers: 915, Followers: 252275, UsersInChat: 993
+2022-09-07 18:54:46
+ Name: lanfear_vr, Game: VRChat, Viewers: 57, Followers: 19780, UsersInChat: 122
+2022-09-07 19:09:09
+ Name: murdercrumpet, Game: VRChat, Viewers: 1892, Followers: 89962, UsersInChat: 2141
+2022-09-07 19:09:37
+ Name: tevin_vr, Game: VRChat, Viewers: 46, Followers: 7249, UsersInChat: 128
+2022-09-07 19:09:48
+ Name: lanfear_vr, Game: VRChat, Viewers: 60, Followers: 19784, UsersInChat: 138
+2022-09-07 19:24:09
+ Name: murdercrumpet, Game: VRChat, Viewers: 1922, Followers: 89960, UsersInChat: 2150
+2022-09-07 19:24:37
+ Name: tevin_vr, Game: VRChat, Viewers: 44, Followers: 7249, UsersInChat: 125
+2022-09-07 19:24:46
+ Name: lanfear_vr, Game: VRChat, Viewers: 71, Followers: 19784, UsersInChat: 140
+2022-09-07 19:39:09
+ Name: murdercrumpet, Game: VRChat, Viewers: 1953, Followers: 89960, UsersInChat: 2184
+2022-09-07 19:39:37
+ Name: tevin_vr, Game: VRChat, Viewers: 50, Followers: 7251, UsersInChat: 136
+2022-09-07 19:39:47
+ Name: lanfear_vr, Game: VRChat, Viewers: 84, Followers: 19785, UsersInChat: 157
+2022-09-07 19:54:09
+ Name: murdercrumpet, Game: VRChat, Viewers: 1975, Followers: 89959, UsersInChat: 2150
+2022-09-07 19:54:37
+ Name: tevin_vr, Game: MultiVersus, Viewers: 50, Followers: 7252, UsersInChat: 136
+2022-09-07 19:54:49
+ Name: lanfear_vr, Game: VRChat, Viewers: 96, Followers: 19785, UsersInChat: 158
+2022-09-07 20:09:09
+ Name: murdercrumpet, Game: VRChat, Viewers: 2002, Followers: 89960, UsersInChat: 2194
+2022-09-07 20:09:36
+ Name: tevin_vr, Game: MultiVersus, Viewers: 47, Followers: 7253, UsersInChat: 139
+2022-09-07 20:09:47
+ Name: lanfear_vr, Game: VRChat, Viewers: 100, Followers: 19785, UsersInChat: 180
+2022-09-07 20:24:09
+ Name: murdercrumpet, Game: VRChat, Viewers: 2087, Followers: 89960, UsersInChat: 2243
+2022-09-07 20:24:40
+ Name: tevin_vr, Game: MultiVersus, Viewers: 52, Followers: 7254, UsersInChat: 145
+2022-09-07 20:24:51
+ Name: lanfear_vr, Game: VRChat, Viewers: 99, Followers: 19785, UsersInChat: 186
+2022-09-07 20:39:09
+ Name: murdercrumpet, Game: VRChat, Viewers: 2124, Followers: 89962, UsersInChat: 2258
+2022-09-07 20:39:29
+ Name: Kareeda, Game: VRChat, Viewers: 9, Followers: 11253, UsersInChat: 23
+2022-09-07 20:39:40
+ Name: tevin_vr, Game: MultiVersus, Viewers: 50, Followers: 7252, UsersInChat: 145
+2022-09-07 20:39:51
+ Name: lanfear_vr, Game: VRChat, Viewers: 95, Followers: 19785, UsersInChat: 189
+2022-09-07 20:54:08
+ Name: murdercrumpet, Game: VRChat, Viewers: 2139, Followers: 89962, UsersInChat: 2298
+2022-09-07 20:54:26
+ Name: Kareeda, Game: VRChat, Viewers: 8, Followers: 11253, UsersInChat: 24
+2022-09-07 20:54:36
+ Name: tevin_vr, Game: MultiVersus, Viewers: 52, Followers: 7252, UsersInChat: 144
+2022-09-07 20:54:47
+ Name: lanfear_vr, Game: VRChat, Viewers: 99, Followers: 19786, UsersInChat: 201
+2022-09-07 21:09:23
+ Name: roflgator, Game: Just Chatting, Viewers: 187, Followers: 295313, UsersInChat: 2580
+2022-09-07 21:09:26
+ Name: Kareeda, Game: VRChat, Viewers: 14, Followers: 11253, UsersInChat: 26
+2022-09-07 21:09:37
+ Name: tevin_vr, Game: MultiVersus, Viewers: 48, Followers: 7252, UsersInChat: 138
+2022-09-07 21:09:47
+ Name: lanfear_vr, Game: VRChat, Viewers: 121, Followers: 19786, UsersInChat: 197
+2022-09-07 21:24:22
+ Name: roflgator, Game: Just Chatting, Viewers: 2974, Followers: 295316, UsersInChat: 3264
+2022-09-07 21:24:25
+ Name: Kareeda, Game: VRChat, Viewers: 11, Followers: 11253, UsersInChat: 26
+2022-09-07 21:24:35
+ Name: tevin_vr, Game: MultiVersus, Viewers: 48, Followers: 7252, UsersInChat: 133
+2022-09-07 21:24:46
+ Name: lanfear_vr, Game: VRChat, Viewers: 113, Followers: 19786, UsersInChat: 198
+2022-09-07 21:39:22
+ Name: roflgator, Game: Just Chatting, Viewers: 3256, Followers: 295312, UsersInChat: 3543
+2022-09-07 21:39:26
+ Name: Kareeda, Game: VRChat, Viewers: 13, Followers: 11253, UsersInChat: 31
+2022-09-07 21:39:37
+ Name: tevin_vr, Game: MultiVersus, Viewers: 48, Followers: 7252, UsersInChat: 130
+2022-09-07 21:39:47
+ Name: lanfear_vr, Game: VRChat, Viewers: 108, Followers: 19787, UsersInChat: 209
+2022-09-07 21:54:22
+ Name: roflgator, Game: Just Chatting, Viewers: 3482, Followers: 295312, UsersInChat: 3638
+2022-09-07 21:54:25
+ Name: Kareeda, Game: VRChat, Viewers: 15, Followers: 11253, UsersInChat: 30
+2022-09-07 21:54:37
+ Name: tevin_vr, Game: MultiVersus, Viewers: 43, Followers: 7252, UsersInChat: 125
+2022-09-07 21:54:47
+ Name: lanfear_vr, Game: VRChat, Viewers: 100, Followers: 19788, UsersInChat: 198
+2022-09-07 22:09:24
+ Name: roflgator, Game: Just Chatting, Viewers: 3482, Followers: 295314, UsersInChat: 3736
+2022-09-07 22:09:27
+ Name: Kareeda, Game: VRChat, Viewers: 11, Followers: 11253, UsersInChat: 29
+2022-09-07 22:09:38
+ Name: tevin_vr, Game: MultiVersus, Viewers: 46, Followers: 7252, UsersInChat: 131
+2022-09-07 22:09:51
+ Name: lanfear_vr, Game: VRChat, Viewers: 101, Followers: 19788, UsersInChat: 212
+2022-09-07 22:24:23
+ Name: roflgator, Game: Just Chatting, Viewers: 3614, Followers: 295313, UsersInChat: 3735
+2022-09-07 22:24:26
+ Name: Kareeda, Game: VRChat, Viewers: 11, Followers: 11253, UsersInChat: 28
+2022-09-07 22:24:38
+ Name: tevin_vr, Game: MultiVersus, Viewers: 38, Followers: 7253, UsersInChat: 124
+2022-09-07 22:24:48
+ Name: lanfear_vr, Game: VRChat, Viewers: 110, Followers: 19788, UsersInChat: 199
+2022-09-07 22:39:23
+ Name: roflgator, Game: Just Chatting, Viewers: 3591, Followers: 295310, UsersInChat: 3712
+2022-09-07 22:39:26
+ Name: Kareeda, Game: VRChat, Viewers: 17, Followers: 11253, UsersInChat: 27
+2022-09-07 22:39:36
+ Name: tevin_vr, Game: MultiVersus, Viewers: 48, Followers: 7251, UsersInChat: 125
+2022-09-07 22:39:46
+ Name: lanfear_vr, Game: VRChat, Viewers: 97, Followers: 19789, UsersInChat: 183
+2022-09-07 22:54:22
+ Name: roflgator, Game: Just Chatting, Viewers: 3602, Followers: 295306, UsersInChat: 3656
+2022-09-07 22:54:25
+ Name: Kareeda, Game: VRChat, Viewers: 11, Followers: 11253, UsersInChat: 26
+2022-09-07 22:54:37
+ Name: tevin_vr, Game: MultiVersus, Viewers: 46, Followers: 7251, UsersInChat: 124
+2022-09-07 22:54:47
+ Name: lanfear_vr, Game: VRChat, Viewers: 95, Followers: 19790, UsersInChat: 188
+2022-09-07 23:09:21
+ Name: roflgator, Game: Just Chatting, Viewers: 3601, Followers: 295306, UsersInChat: 3738
+2022-09-07 23:09:25
+ Name: Kareeda, Game: VRChat, Viewers: 11, Followers: 11253, UsersInChat: 27
+2022-09-07 23:09:35
+ Name: tevin_vr, Game: MultiVersus, Viewers: 50, Followers: 7251, UsersInChat: 133
+2022-09-07 23:09:46
+ Name: lanfear_vr, Game: VRChat, Viewers: 88, Followers: 19790, UsersInChat: 181
+2022-09-07 23:39:25
+ Name: roflgator, Game: Just Chatting, Viewers: 3607, Followers: 295311, UsersInChat: 3616
+2022-09-07 23:39:28
+ Name: Kareeda, Game: VRChat, Viewers: 10, Followers: 11253, UsersInChat: 25
+2022-09-07 23:39:39
+ Name: tevin_vr, Game: MultiVersus, Viewers: 48, Followers: 7251, UsersInChat: 116
+2022-09-07 23:39:50
+ Name: lanfear_vr, Game: VRChat, Viewers: 97, Followers: 19791, UsersInChat: 198
+2022-09-08 00:28:24
+ Name: roflgator, Game: Just Chatting, Viewers: 3603, Followers: 295310, UsersInChat: 3651
+2022-09-08 00:28:27
+ Name: Kareeda, Game: VRChat, Viewers: 9, Followers: 11252, UsersInChat: 31
+2022-09-08 00:28:38
+ Name: tevin_vr, Game: PlateUp!, Viewers: 51, Followers: 7251, UsersInChat: 132
+2022-09-08 00:28:49
+ Name: lanfear_vr, Game: VRChat, Viewers: 153, Followers: 19796, UsersInChat: 235
+2022-09-08 00:28:56
+ Name: curious_emily, Game: Outlast, Viewers: 1, Followers: 46, UsersInChat: 13
+2022-09-08 20:02:07
+ Name: murdercrumpet, Game: VRChat, Viewers: 2364, Followers: 89984, UsersInChat: 2466
+2022-09-08 20:03:01
+ Name: tevin_vr, Game: Roblox, Viewers: 41, Followers: 7261, UsersInChat: 109
+2022-09-08 20:14:00
+ Name: murdercrumpet, Game: VRChat, Viewers: 2377, Followers: 89983, UsersInChat: 2480
+2022-09-08 20:14:42
+ Name: tevin_vr, Game: MultiVersus, Viewers: 42, Followers: 7261, UsersInChat: 129
+2022-09-08 20:14:46
+ Name: momo, Game: Tom Clancy's Rainbow Six Siege, Viewers: 1240, Followers: 252368, UsersInChat: 1249
+2022-09-08 20:29:04
+ Name: murdercrumpet, Game: VRChat, Viewers: 2437, Followers: 89985, UsersInChat: 2527
+2022-09-08 20:44:00
+ Name: murdercrumpet, Game: VRChat, Viewers: 2399, Followers: 89988, UsersInChat: 2535
+2022-09-08 20:44:51
+ Name: tevin_vr, Game: MultiVersus, Viewers: 45, Followers: 7261, UsersInChat: 125
+2022-09-08 20:44:55
+ Name: momo, Game: Tom Clancy's Rainbow Six Siege, Viewers: 1247, Followers: 252387, UsersInChat: 1304
+2022-09-08 20:59:00
+ Name: murdercrumpet, Game: VRChat, Viewers: 2462, Followers: 89994, UsersInChat: 2489
+2022-09-08 21:14:18
+ Name: roflgator, Game: VRChat, Viewers: 2227, Followers: 295311, UsersInChat: 2948
+2022-09-08 21:14:22
+ Name: Kareeda, Game: VRChat, Viewers: 9, Followers: 11251, UsersInChat: 19
+2022-09-08 21:14:37
+ Name: tevin_vr, Game: MultiVersus, Viewers: 41, Followers: 7260, UsersInChat: 131
+2022-09-08 21:14:41
+ Name: momo, Game: Tom Clancy's Rainbow Six Siege, Viewers: 1268, Followers: 252398, UsersInChat: 1300
+2022-09-08 21:29:17
+ Name: roflgator, Game: VRChat, Viewers: 2860, Followers: 295307, UsersInChat: 3370
+2022-09-08 21:29:21
+ Name: Kareeda, Game: VRChat, Viewers: 19, Followers: 11252, UsersInChat: 28
+2022-09-08 21:29:31
+ Name: tevin_vr, Game: MultiVersus, Viewers: 45, Followers: 7260, UsersInChat: 123
+2022-09-08 21:29:35
+ Name: momo, Game: Tom Clancy's Rainbow Six Siege, Viewers: 1344, Followers: 252406, UsersInChat: 1249
+2022-09-08 21:29:49
+ Name: magykrose, Game: Fortnite, Viewers: 1, Followers: 3397, UsersInChat: 3
+2022-09-08 21:44:14
+ Name: roflgator, Game: VRChat, Viewers: 3200, Followers: 295312, UsersInChat: 3649
+2022-09-08 21:44:19
+ Name: Kareeda, Game: VRChat, Viewers: 17, Followers: 11252, UsersInChat: 30
+2022-09-08 21:44:29
+ Name: tevin_vr, Game: MultiVersus, Viewers: 42, Followers: 7260, UsersInChat: 116
+2022-09-08 21:44:32
+ Name: momo, Game: Tom Clancy's Rainbow Six Siege, Viewers: 1233, Followers: 252408, UsersInChat: 1256
+2022-09-08 21:44:44
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 2, Followers: 3397, UsersInChat: 8
+2022-09-08 21:59:13
+ Name: roflgator, Game: VRChat, Viewers: 3378, Followers: 295309, UsersInChat: 3780
+2022-09-08 21:59:18
+ Name: Kareeda, Game: VRChat, Viewers: 15, Followers: 11252, UsersInChat: 33
+2022-09-08 21:59:28
+ Name: tevin_vr, Game: MultiVersus, Viewers: 44, Followers: 7260, UsersInChat: 127
+2022-09-08 21:59:32
+ Name: momo, Game: Tom Clancy's Rainbow Six Siege, Viewers: 1269, Followers: 252412, UsersInChat: 1268
+2022-09-08 21:59:43
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 4, Followers: 3397, UsersInChat: 10
+2022-09-08 22:14:13
+ Name: roflgator, Game: VRChat, Viewers: 3475, Followers: 295308, UsersInChat: 3749
+2022-09-08 22:14:16
+ Name: Kareeda, Game: VRChat, Viewers: 14, Followers: 11252, UsersInChat: 28
+2022-09-08 22:14:26
+ Name: tevin_vr, Game: MultiVersus, Viewers: 45, Followers: 7260, UsersInChat: 127
+2022-09-08 22:14:30
+ Name: momo, Game: Tom Clancy's Rainbow Six Siege, Viewers: 1335, Followers: 252411, UsersInChat: 1335
+2022-09-08 22:14:40
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 2, Followers: 3397, UsersInChat: 11
+2022-09-08 22:29:13
+ Name: roflgator, Game: VRChat, Viewers: 3582, Followers: 295314, UsersInChat: 3902
+2022-09-08 22:29:17
+ Name: Kareeda, Game: VRChat, Viewers: 18, Followers: 11252, UsersInChat: 36
+2022-09-08 22:29:26
+ Name: tevin_vr, Game: MultiVersus, Viewers: 46, Followers: 7260, UsersInChat: 119
+2022-09-08 22:29:29
+ Name: momo, Game: Tom Clancy's Rainbow Six Siege, Viewers: 1444, Followers: 252419, UsersInChat: 1317
+2022-09-08 22:29:32
+ Name: oathmeal, Game: Just Chatting, Viewers: 51, Followers: 54241, UsersInChat: 161
+2022-09-08 22:29:36
+ Name: lanfear_vr, Game: VRChat, Viewers: 6, Followers: 19827, UsersInChat: 67
+2022-09-08 22:29:39
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 4, Followers: 3397, UsersInChat: 12
+2022-09-08 22:44:39
+ Name: roflgator, Game: VRChat, Viewers: 3611, Followers: 295317, UsersInChat: 3914
+2022-09-08 22:44:43
+ Name: Kareeda, Game: VRChat, Viewers: 16, Followers: 11252, UsersInChat: 31
+2022-09-08 22:44:53
+ Name: tevin_vr, Game: MultiVersus, Viewers: 49, Followers: 7260, UsersInChat: 129
+2022-09-08 22:45:00
+ Name: oathmeal, Game: Just Chatting, Viewers: 98, Followers: 54241, UsersInChat: 202
+2022-09-08 22:45:03
+ Name: lanfear_vr, Game: VRChat, Viewers: 49, Followers: 19828, UsersInChat: 127
+2022-09-08 22:45:06
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 4, Followers: 3397, UsersInChat: 13
+2022-09-08 22:59:13
+ Name: roflgator, Game: VRChat, Viewers: 3735, Followers: 295318, UsersInChat: 3847
+2022-09-08 22:59:16
+ Name: Kareeda, Game: VRChat, Viewers: 20, Followers: 11251, UsersInChat: 35
+2022-09-08 22:59:26
+ Name: tevin_vr, Game: MultiVersus, Viewers: 51, Followers: 7260, UsersInChat: 123
+2022-09-08 22:59:33
+ Name: oathmeal, Game: Just Chatting, Viewers: 124, Followers: 54242, UsersInChat: 229
+2022-09-08 22:59:36
+ Name: lanfear_vr, Game: VRChat, Viewers: 74, Followers: 19828, UsersInChat: 159
+2022-09-08 22:59:39
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 3, Followers: 3397, UsersInChat: 13
+2022-09-08 23:14:29
+ Name: roflgator, Game: VRChat, Viewers: 3516, Followers: 295318, UsersInChat: 3810
+2022-09-08 23:14:33
+ Name: Kareeda, Game: VRChat, Viewers: 16, Followers: 11251, UsersInChat: 28
+2022-09-08 23:14:43
+ Name: tevin_vr, Game: MultiVersus, Viewers: 54, Followers: 7260, UsersInChat: 121
+2022-09-08 23:14:49
+ Name: oathmeal, Game: Just Chatting, Viewers: 136, Followers: 54242, UsersInChat: 232
+2022-09-08 23:14:52
+ Name: lanfear_vr, Game: VRChat, Viewers: 91, Followers: 19829, UsersInChat: 173
+2022-09-08 23:14:56
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 3, Followers: 3397, UsersInChat: 14
+2022-09-08 23:29:13
+ Name: roflgator, Game: VRChat, Viewers: 3511, Followers: 295319, UsersInChat: 3751
+2022-09-08 23:29:17
+ Name: Kareeda, Game: VRChat, Viewers: 16, Followers: 11251, UsersInChat: 27
+2022-09-08 23:29:28
+ Name: tevin_vr, Game: MultiVersus, Viewers: 51, Followers: 7261, UsersInChat: 120
+2022-09-08 23:29:35
+ Name: oathmeal, Game: Just Chatting, Viewers: 223, Followers: 54242, UsersInChat: 215
+2022-09-08 23:29:38
+ Name: lanfear_vr, Game: VRChat, Viewers: 117, Followers: 19831, UsersInChat: 202
+2022-09-08 23:29:41
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 2, Followers: 3397, UsersInChat: 14
+2022-09-08 23:44:13
+ Name: roflgator, Game: VRChat, Viewers: 3530, Followers: 295318, UsersInChat: 3728
+2022-09-08 23:44:17
+ Name: Kareeda, Game: VRChat, Viewers: 20, Followers: 11251, UsersInChat: 32
+2022-09-08 23:44:28
+ Name: tevin_vr, Game: MultiVersus, Viewers: 43, Followers: 7262, UsersInChat: 124
+2022-09-08 23:44:34
+ Name: oathmeal, Game: Just Chatting, Viewers: 121, Followers: 54242, UsersInChat: 224
+2022-09-08 23:44:38
+ Name: lanfear_vr, Game: VRChat, Viewers: 120, Followers: 19831, UsersInChat: 199
+2022-09-08 23:44:41
+ Name: magykrose, Game: The Last of Us Part I, Viewers: 4, Followers: 3397, UsersInChat: 11
+2022-09-08 23:59:28
+ Name: roflgator, Game: VRChat, Viewers: 3524, Followers: 295317, UsersInChat: 3706
+2022-09-08 23:59:31
+ Name: Kareeda, Game: VRChat, Viewers: 20, Followers: 11252, UsersInChat: 32
+2022-09-08 23:59:41
+ Name: tevin_vr, Game: MultiVersus, Viewers: 39, Followers: 7262, UsersInChat: 117
+2022-09-08 23:59:48
+ Name: oathmeal, Game: Just Chatting, Viewers: 113, Followers: 54241, UsersInChat: 232
+2022-09-08 23:59:52
+ Name: lanfear_vr, Game: VRChat, Viewers: 129, Followers: 19832, UsersInChat: 200
+2022-09-09 00:14:25
+ Name: roflgator, Game: VRChat, Viewers: 3397, Followers: 295317, UsersInChat: 3601
+2022-09-09 00:14:29
+ Name: Kareeda, Game: VRChat, Viewers: 19, Followers: 11252, UsersInChat: 32
+2022-09-09 00:14:38
+ Name: tevin_vr, Game: MultiVersus, Viewers: 33, Followers: 7263, UsersInChat: 114
+2022-09-09 00:14:45
+ Name: oathmeal, Game: Just Chatting, Viewers: 125, Followers: 54241, UsersInChat: 226
+2022-09-09 00:14:48
+ Name: lanfear_vr, Game: VRChat, Viewers: 134, Followers: 19832, UsersInChat: 206
+2022-09-09 00:29:14
+ Name: roflgator, Game: VRChat, Viewers: 3306, Followers: 295315, UsersInChat: 3479
+2022-09-09 00:29:17
+ Name: Kareeda, Game: VRChat, Viewers: 24, Followers: 11253, UsersInChat: 38
+2022-09-09 00:29:27
+ Name: tevin_vr, Game: MultiVersus, Viewers: 54, Followers: 7263, UsersInChat: 122
+2022-09-09 00:29:33
+ Name: oathmeal, Game: Just Chatting, Viewers: 124, Followers: 54241, UsersInChat: 230
+2022-09-09 00:29:36
+ Name: lanfear_vr, Game: Jackbox Party Packs, Viewers: 148, Followers: 19833, UsersInChat: 216
+2022-09-09 00:44:15
+ Name: roflgator, Game: VRChat, Viewers: 3209, Followers: 295319, UsersInChat: 3285
+2022-09-09 00:44:18
+ Name: Kareeda, Game: VRChat, Viewers: 43, Followers: 11253, UsersInChat: 85
+2022-09-09 00:44:29
+ Name: tevin_vr, Game: MultiVersus, Viewers: 52, Followers: 7263, UsersInChat: 117
+2022-09-09 00:44:36
+ Name: oathmeal, Game: Just Chatting, Viewers: 136, Followers: 54239, UsersInChat: 225
+2022-09-09 00:44:39
+ Name: lanfear_vr, Game: Jackbox Party Packs, Viewers: 136, Followers: 19833, UsersInChat: 202
+2022-09-09 00:59:26
+ Name: roflgator, Game: MultiVersus, Viewers: 3149, Followers: 295320, UsersInChat: 3117
+2022-09-09 00:59:29
+ Name: Kareeda, Game: VRChat, Viewers: 39, Followers: 11253, UsersInChat: 76
+2022-09-09 00:59:39
+ Name: tevin_vr, Game: MultiVersus, Viewers: 69, Followers: 7263, UsersInChat: 136
+2022-09-09 00:59:45
+ Name: oathmeal, Game: Just Chatting, Viewers: 149, Followers: 54239, UsersInChat: 236
+2022-09-09 00:59:49
+ Name: lanfear_vr, Game: Jackbox Party Packs, Viewers: 135, Followers: 19833, UsersInChat: 194
+2022-09-09 14:19:28
+ Name: murdercrumpet, Game: VRChat, Viewers: 1202, Followers: 89996, UsersInChat: 1374
+2022-09-09 14:19:28
+ Name: murdercrumpet, Game: VRChat, Viewers: 1202, Followers: 89996, UsersInChat: 1374
+2022-09-09 14:19:58
+ Name: shizu, Game: Splatoon 3, Viewers: 64, Followers: 25190, UsersInChat: 111
+2022-09-09 14:19:58
+ Name: shizu, Game: Splatoon 3, Viewers: 64, Followers: 25190, UsersInChat: 111
+2022-09-09 14:19:58
+ Name: shizu, Game: Splatoon 3, Viewers: 64, Followers: 25190, UsersInChat: 111
+2022-09-09 14:27:37
+ Name: murdercrumpet, Game: VRChat, Viewers: 1316, Followers: 89995, UsersInChat: 1492
+2022-09-09 14:28:00
+ Name: shizu, Game: Splatoon 3, Viewers: 74, Followers: 25191, UsersInChat: 108
+2022-09-09 14:29:00
+ Name: murdercrumpet, Game: VRChat, Viewers: 1316, Followers: 89995, UsersInChat: 1438
+2022-09-09 14:29:25
+ Name: shizu, Game: Splatoon 3, Viewers: 68, Followers: 25191, UsersInChat: 107
+2022-09-09 14:42:31
+ Name: murdercrumpet, Game: VRChat, Viewers: 767, Followers: 89994, UsersInChat: 1432
+2022-09-09 14:42:57
+ Name: shizu, Game: Splatoon 3, Viewers: 78, Followers: 25193, UsersInChat: 117
+2022-09-09 14:44:00
+ Name: murdercrumpet, Game: VRChat, Viewers: 767, Followers: 89994, UsersInChat: 1471
+2022-09-09 14:44:24
+ Name: shizu, Game: Splatoon 3, Viewers: 78, Followers: 25193, UsersInChat: 119
+2022-09-09 14:57:31
+ Name: murdercrumpet, Game: VRChat, Viewers: 1118, Followers: 89995, UsersInChat: 1545
+2022-09-09 14:57:54
+ Name: shizu, Game: Splatoon 3, Viewers: 74, Followers: 25194, UsersInChat: 114
+2022-09-09 14:59:00
+ Name: murdercrumpet, Game: VRChat, Viewers: 1139, Followers: 89995, UsersInChat: 1535
+2022-09-09 14:59:24
+ Name: shizu, Game: Splatoon 3, Viewers: 74, Followers: 25194, UsersInChat: 112
+2022-09-09 15:12:31
+ Name: murdercrumpet, Game: VRChat, Viewers: 1224, Followers: 89998, UsersInChat: 1564
+2022-09-09 15:12:54
+ Name: shizu, Game: Splatoon 3, Viewers: 68, Followers: 25195, UsersInChat: 113
+2022-09-09 15:14:00
+ Name: murdercrumpet, Game: VRChat, Viewers: 1224, Followers: 89998, UsersInChat: 1583
+2022-09-09 15:14:23
+ Name: shizu, Game: Splatoon 3, Viewers: 68, Followers: 25195, UsersInChat: 111
+2022-09-09 15:27:31
+ Name: murdercrumpet, Game: The Radio Station, Viewers: 1256, Followers: 90000, UsersInChat: 1611
+2022-09-09 15:27:54
+ Name: shizu, Game: Splatoon 3, Viewers: 63, Followers: 25195, UsersInChat: 112
+2022-09-09 15:29:00
+ Name: murdercrumpet, Game: The Radio Station, Viewers: 1256, Followers: 90000, UsersInChat: 1597
+2022-09-09 15:29:23
+ Name: shizu, Game: Splatoon 3, Viewers: 62, Followers: 25195, UsersInChat: 109
+2022-09-09 15:42:31
+ Name: murdercrumpet, Game: The Ghost Train, Viewers: 1272, Followers: 90000, UsersInChat: 1596
+2022-09-09 15:42:54
+ Name: shizu, Game: Splatoon 3, Viewers: 65, Followers: 25196, UsersInChat: 121
+2022-09-09 15:44:00
+ Name: murdercrumpet, Game: The Ghost Train, Viewers: 1289, Followers: 90000, UsersInChat: 1590
+2022-09-09 15:44:23
+ Name: shizu, Game: Splatoon 3, Viewers: 65, Followers: 25196, UsersInChat: 122
+2022-09-09 15:57:31
+ Name: murdercrumpet, Game: The Ghost Train, Viewers: 1434, Followers: 90001, UsersInChat: 1698
+2022-09-09 15:57:53
+ Name: shizu, Game: Splatoon 3, Viewers: 75, Followers: 25196, UsersInChat: 125
+2022-09-09 15:59:01
+ Name: murdercrumpet, Game: The Ghost Train, Viewers: 1434, Followers: 90001, UsersInChat: 1714
+2022-09-09 15:59:31
+ Name: shizu, Game: Splatoon 3, Viewers: 71, Followers: 25197, UsersInChat: 126
+2022-09-09 16:13:15
+ Name: murdercrumpet, Game: The Ghost Train, Viewers: 1503, Followers: 90001, UsersInChat: 1783
+2022-09-09 16:13:40
+ Name: shizu, Game: Splatoon 3, Viewers: 74, Followers: 25198, UsersInChat: 134
+2022-09-09 16:14:18
+ Name: murdercrumpet, Game: The Ghost Train, Viewers: 1503, Followers: 90001, UsersInChat: 1770
+2022-09-09 16:14:42
+ Name: shizu, Game: Splatoon 3, Viewers: 74, Followers: 25199, UsersInChat: 133
+2022-09-09 16:32:08
+ Name: murdercrumpet, Game: The Ghost Train, Viewers: 1508, Followers: 89999, UsersInChat: 1787
+2022-09-09 16:32:38
+ Name: shizu, Game: Splatoon 3, Viewers: 76, Followers: 25200, UsersInChat: 136
+2022-09-09 20:35:06
+ Name: murdercrumpet, Game: Left 4 Dead 2, Viewers: 1825, Followers: 90003, UsersInChat: 2132
+2022-09-09 20:35:16
+ Name: snowsos, Game: VRChat, Viewers: 69, Followers: 64227, UsersInChat: 92
+2022-09-09 20:36:25
+ Name: murdercrumpet, Game: Left 4 Dead 2, Viewers: 1825, Followers: 90003, UsersInChat: 2120
+2022-09-09 20:36:35
+ Name: snowsos, Game: VRChat, Viewers: 69, Followers: 64227, UsersInChat: 87
+2022-09-09 20:37:27
+ Name: magykrose, Game: Splatoon 3, Viewers: 2, Followers: 3397, UsersInChat: 10
+2022-09-09 21:30:32
+ Name: murdercrumpet, Game: Left 4 Dead 2, Viewers: 1934, Followers: 90006, UsersInChat: 2136
+2022-09-09 21:30:41
+ Name: snowsos, Game: VRChat, Viewers: 101, Followers: 64229, UsersInChat: 101
+2022-09-09 21:31:22
+ Name: magykrose, Game: Splatoon 3, Viewers: 6, Followers: 3396, UsersInChat: 16
+2022-09-09 21:31:30
+ Name: sn0wbreeze, Game: Final Fantasy XIV Online, Viewers: 46, Followers: 10899, UsersInChat: 138
+2022-09-15 23:49:30
+ Name: roflgator, Game: Metal: Hellsinger, Viewers: 2620, Followers: 295636, UsersInChat: 2529
+2022-09-15 23:49:33
+ Name: Kareeda, Game: VRChat, Viewers: 19, Followers: 11256, UsersInChat: 36
+2022-09-15 23:49:43
+ Name: tevin_vr, Game: PlateUp!, Viewers: 44, Followers: 7345, UsersInChat: 121
+2022-09-15 23:49:47
+ Name: momo, Game: Rust, Viewers: 1355, Followers: 253174, UsersInChat: 1338
+2022-09-15 23:49:53
+ Name: lanfear_vr, Game: VRChat, Viewers: 88, Followers: 19939, UsersInChat: 160
+2022-09-17 00:24:30
+ Name: murdercrumpet, Game: VRChat, Viewers: 2350, Followers: 90221, UsersInChat: 2372
+2022-09-17 22:34:27
+ Name: snowsos, Game: Just Chatting, Viewers: 86, Followers: 64254, UsersInChat: 105
+2022-09-17 22:34:31
+ Name: Stealthrg, Game: VRChat, Viewers: 184, Followers: 77078, UsersInChat: 188
+2022-09-17 22:34:38
+ Name: Kareeda, Game: VRChat, Viewers: 14, Followers: 11258, UsersInChat: 47
+2022-09-17 22:34:41
+ Name: aikasanvr, Game: VRChat, Viewers: 187, Followers: 8872, UsersInChat: 227
+2022-09-17 22:34:45
+ Name: shizu, Game: Omega Strikers, Viewers: 109, Followers: 25521, UsersInChat: 193
+2022-09-17 22:34:48
+ Name: tevin_vr, Game: PlateUp!, Viewers: 44, Followers: 7359, UsersInChat: 134
+2022-09-17 22:35:12
+ Name: sn0wbreeze, Game: Final Fantasy XIV Online, Viewers: 67, Followers: 10909, UsersInChat: 204
+2022-09-18 06:28:48
+ Name: shizu, Game: Just Chatting, Viewers: 193, Followers: 25581, UsersInChat: 259
+2022-09-18 11:24:05
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 22551, Followers: 8809410, UsersInChat: 21186
+2022-09-18 11:24:25
+ Name: shizu, Game: I'm Only Sleeping, Viewers: 154, Followers: 25615, UsersInChat: 254
+2022-09-18 11:31:44
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 23227, Followers: 8809424, UsersInChat: 22970
+2022-09-18 11:32:04
+ Name: shizu, Game: I'm Only Sleeping, Viewers: 162, Followers: 25616, UsersInChat: 253
+2022-09-18 12:40:20
+ Name: sodapoppin, Game: World of Warcraft, Viewers: 29700, Followers: 8809571, UsersInChat: 28418
+2022-09-18 12:40:40
+ Name: shizu, Game: I'm Only Sleeping, Viewers: 166, Followers: 25623, UsersInChat: 258

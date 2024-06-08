@@ -1,0 +1,1076 @@
+[9/16/2022 10:30:55 PM]:tmi.twitch.tv 001 kllerbot :Welcome, GLHF!
+:tmi.twitch.tv 002 kllerbot :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 kllerbot :This server is rather new
+:tmi.twitch.tv 004 kllerbot :-
+:tmi.twitch.tv 375 kllerbot :-
+:tmi.twitch.tv 372 kllerbot :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 kllerbot :>
+[9/16/2022 10:30:55 PM]:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[9/16/2022 10:30:55 PM]:tmi.twitch.tv CAP * ACK :twitch.tv/tags
+[9/16/2022 10:30:55 PM]:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[9/16/2022 10:30:55 PM]:kllerbot!kllerbot@kllerbot.tmi.twitch.tv JOIN #kllerrain
+[9/16/2022 10:30:55 PM]:kllerbot.tmi.twitch.tv 353 kllerbot = #kllerrain :kllerbot
+:kllerbot.tmi.twitch.tv 366 kllerbot #kllerrain :End of /NAMES list
+[9/16/2022 10:30:55 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+@emote-only=0;followers-only=-1;r9k=0;room-id=28341681;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #kllerrain
+[9/16/2022 10:30:55 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:30:57 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:30:59 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=87996f5e-552b-4f48-95b0-394d3d483a43;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:31:01 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:31:03 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=0f5c2dae-e72e-4c18-88c2-58d4621b6cf9;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:31:38 PM]:streamelements!streamelements@streamelements.tmi.twitch.tv JOIN #kllerrain
+[9/16/2022 10:31:53 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:32:54 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:33:43 PM]:kllerrain!kllerrain@kllerrain.tmi.twitch.tv JOIN #kllerrain
+[9/16/2022 10:33:54 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:34:54 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:34:58 PM]PING :tmi.twitch.tv
+[9/16/2022 10:35:54 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:36:54 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:37:55 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:38:55 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:39:51 PM]PING :tmi.twitch.tv
+[9/16/2022 10:39:55 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:40:55 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:41:55 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:42:55 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=62870827-be1a-4bd9-b741-bcb7501e8399;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386175962;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!ping
+[9/16/2022 10:42:55 PM]@badge-info=;badges=moderator/1,partner/1;color=#5B99FF;display-name=StreamElements;emotes=;first-msg=0;flags=;id=c1d58d5b-838d-4d83-8973-a77b83d65b7d;mod=1;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386176170;turbo=0;user-id=100135110;user-type=mod :streamelements!streamelements@streamelements.tmi.twitch.tv PRIVMSG #kllerrain :StreamElements has been running for  2 days 5 hours!
+[9/16/2022 10:42:56 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:43:02 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=cc8ce909-5ab9-4c8e-82d6-a176e9410c5c;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386182542;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!ping
+[9/16/2022 10:43:02 PM]@badge-info=;badges=moderator/1,partner/1;color=#5B99FF;display-name=StreamElements;emotes=;first-msg=0;flags=;id=a003997c-6391-4581-b8f9-76420cb3abf4;mod=1;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386182750;turbo=0;user-id=100135110;user-type=mod :streamelements!streamelements@streamelements.tmi.twitch.tv PRIVMSG #kllerrain :StreamElements has been running for  2 days 5 hours!
+[9/16/2022 10:43:52 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:43:54 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=aa6915d7-64a2-4c01-9f57-a64819d9d427;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:43:56 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:43:56 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:43:58 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=01f3d71d-8f0a-4b57-a252-9a2d7c9bd928;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:43:59 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=31cfa09c-fa53-4638-b7f8-ec1d1cb195c9;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386240049;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!ping
+[9/16/2022 10:43:59 PM]@badge-info=;badges=moderator/1,partner/1;color=#5B99FF;display-name=StreamElements;emotes=;first-msg=0;flags=;id=ef57ca5d-0d63-4b63-bf62-53d9d43025c1;mod=1;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386240228;turbo=0;user-id=100135110;user-type=mod :streamelements!streamelements@streamelements.tmi.twitch.tv PRIVMSG #kllerrain :StreamElements has been running for  2 days 5 hours!
+[9/16/2022 10:44:02 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=3fa5cace-27fc-434d-b5ac-c8b78ca0b16b;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386242919;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/16/2022 10:44:04 PM]PING :tmi.twitch.tv
+[9/16/2022 10:44:56 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:45:12 PM]:kllerrain!kllerrain@kllerrain.tmi.twitch.tv PART #kllerrain
+[9/16/2022 10:45:56 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:46:56 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:47:30 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:47:30 PM]:kllerrain!kllerrain@kllerrain.tmi.twitch.tv JOIN #kllerrain
+[9/16/2022 10:47:32 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=7f07faf2-9d8e-48c1-b217-d480b3f3d96d;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:47:34 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:47:36 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=f510e6e8-9afd-4b5e-b269-845d792a9f4c;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:47:36 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=467d2703-68f8-4e1e-9d50-f98c8f887556;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386457145;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :hi
+[9/16/2022 10:47:38 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=8dc78f93-ab88-4885-a7ab-d5567fe8ee42;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:47:57 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:48:50 PM]PING :tmi.twitch.tv
+[9/16/2022 10:48:57 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:49:57 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:50:11 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=5bdf4f23-d828-46a1-98c9-3fc523d05c4a;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386611841;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :bob
+[9/16/2022 10:50:11 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=9785a984-c2da-4ed5-8175-b60cd9c85b52;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:50:55 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=bad13651-d550-4b97-b14b-b6d855d06ee0;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386656289;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :1
+[9/16/2022 10:50:56 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=6c458762-0d6a-496e-bdff-c647d845abec;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:50:56 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=d0ac509f-07dc-4a07-bc2e-6c93f7249efe;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386656791;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :2
+[9/16/2022 10:50:56 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=26caa880-55bb-41e8-b71c-e20ee3b18454;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386657313;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :3
+[9/16/2022 10:50:57 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=7669793d-be20-4164-8ef5-70770455d038;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386657837;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :4
+[9/16/2022 10:50:57 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:50:57 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=35c56f26-cd8e-47eb-aa67-1f1d27d622ed;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386658344;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :5
+[9/16/2022 10:50:58 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=58ed305e-6ada-4a42-9a86-24da8173ed1f;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:50:58 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=687f89bc-e92b-4466-8cc7-07a2fca81851;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386658859;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :6
+[9/16/2022 10:50:58 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=2e4f7fba-5bd5-4ce5-9bda-f8608c2ef2a9;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386659359;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :7
+[9/16/2022 10:50:59 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=2f4a7bc5-8b98-4be3-b9c7-38bb2a68aaf9;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386659884;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :8
+[9/16/2022 10:51:00 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=5a2aabf4-a17d-493c-ab85-200fb304afd3;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:51:02 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=621964aa-2fec-4920-8f26-f460b7a4e092;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:51:04 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=bda0bffe-5323-4b5a-a18d-d5d481374271;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:51:06 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=926c6c64-f4d1-485a-9cfc-33bc70a763b3;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:51:08 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=f0a70c31-7ecd-4d44-8e4d-89f64addc9ae;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:51:10 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=d6a907d8-dffe-4e54-983e-6d7d29783e05;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:51:57 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:52:20 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=d8497f8f-eb2b-48e2-a1eb-da4b94d170aa;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386741436;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :1
+[9/16/2022 10:52:21 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=320ece72-cee9-439d-9879-2bc272e3e3f0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:52:21 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=1c810063-73cb-406f-9199-1ed2537b370f;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386741945;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :1
+[9/16/2022 10:52:21 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=bb4cae5f-158b-42ed-b600-6ec96cebc987;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386742460;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :1
+[9/16/2022 10:52:22 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=c472e9bd-7133-4dbd-923a-153ad8696f65;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386742966;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :1
+[9/16/2022 10:52:22 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=351f8a12-3f6a-4873-a235-2e79ec591704;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386743480;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :1
+[9/16/2022 10:52:23 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=a2755ec5-de94-470b-8ac2-14312a220c87;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:52:23 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=5c9151e2-6c75-41b5-a980-a53c7d4311ae;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386743995;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :1
+[9/16/2022 10:52:25 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=d80b2c5f-7ff2-4fe1-b35a-a8b1dbaebe26;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:52:27 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=a56dd811-2554-4234-852a-c2223a053c62;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:52:29 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=800fe0b8-a6ee-4a99-ad74-c4a5f8d7edd1;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:52:31 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=2808c7d0-d915-4ac3-9f4c-74c196113033;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:52:50 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=ffe1c05a-dce0-450c-9e3b-61f89672bc6e;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663386770934;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob
+[9/16/2022 10:52:50 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=8fbd260a-e962-4c79-9d87-30bddc07a082;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:52:57 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:53:38 PM]PING :tmi.twitch.tv
+[9/16/2022 10:53:57 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:54:58 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:55:58 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:56:55 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:56:57 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=81bd84c7-815e-4d14-a0ff-e04537ec9e48;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:56:59 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:56:59 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:57:01 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=e4b8f509-67d7-4e9f-be98-d5a9b55089d5;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:57:03 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:57:05 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=052f967b-adf4-41ad-bcc9-634364b3a29b;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:57:07 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:57:09 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=f2be53ec-20f2-4f89-a185-ac573ec37adf;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:57:46 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:57:48 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=5aba5908-6012-4836-a544-96b811aec658;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:57:50 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:57:52 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=5be91a11-7b82-4ff7-a6f7-c9d62fae16f9;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:57:54 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:57:56 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=bbcbae1e-b133-4e05-8bc2-d0598c8d16e3;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:57:58 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:57:59 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:58:00 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=51b43014-1eff-4c50-868f-990359d511a5;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:58:30 PM]PING :tmi.twitch.tv
+[9/16/2022 10:58:37 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:58:39 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=4208e13a-845c-4e35-a744-3819f3be5f93;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:58:41 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:58:43 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=c9d18f5e-c0f6-4bea-a814-935df5bb117e;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:58:45 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:58:47 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=647ad79a-fb4e-49fb-8441-20e8321e8a4f;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:58:49 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:58:51 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=f72bd052-71f6-4e33-b1e3-4e2133d23361;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:58:59 PM]PONG :tmi.twitch.tv
+[9/16/2022 10:59:01 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=3f8d34e1-089b-4814-8381-ce18cda0606f;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:59:03 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:59:05 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=8be70f7a-7a51-4f60-ba04-812cddc75296;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:59:07 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:59:09 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=75150dee-7d1f-4fed-9f40-8ea8f6f930f7;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:59:11 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:59:14 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=dd5497b4-00dc-4c3d-b045-20aec92f29ca;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:59:48 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:59:50 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=78e962c5-85bc-48a1-8304-8d72c8cb0de9;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:59:52 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:59:54 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=1b4d66d4-a759-4b0e-a7aa-cca1d13ac6ea;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:59:56 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 10:59:58 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=ff19124a-081e-47a0-8204-2381d7027ea9;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 10:59:59 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:00:00 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:00:02 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=5f55838c-2dbd-4d25-a3ee-6f3f7f8d8839;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:00:59 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:01:59 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:02:14 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=c40fe711-5315-4ba7-a6ff-e341ee3ee24f;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:02:16 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:02:18 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=49f886a3-84ef-4eae-955d-e43556070204;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:02:20 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:02:22 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=a6e2cd14-ae0d-4a3e-8225-b0829bb8e882;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:02:24 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:02:26 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=30d2cc27-c11f-44a0-aff9-5c43c0f7a3ad;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:02:56 PM]PING :tmi.twitch.tv
+[9/16/2022 11:02:59 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:03:17 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:03:19 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=ad4784ac-c6f2-44ef-bdd5-787c4e1f9bc1;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:03:21 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:03:23 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=9f623ae0-28c9-4d9f-a6e6-315bd1470440;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:03:40 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=799e8b5f-14cc-40af-8699-941b08ad5cf0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:03:42 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:03:44 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=0509de0d-4903-4b78-a962-bbf6f60ad7c5;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:03:46 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:03:48 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=f01641de-5a7e-495c-8f10-03dcf316e6bb;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:03:50 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:03:52 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=8bc582b4-db72-4400-950f-2b27f745cea0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:04:00 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:05:00 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:06:00 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:07:00 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:07:33 PM]PING :tmi.twitch.tv
+[9/16/2022 11:08:00 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:09:00 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:10:00 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:10:59 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=e05dbd29-d9ac-4a5a-8626-6c41e1e863fc;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663387860103;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :hi
+[9/16/2022 11:10:59 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=cf674ffa-c4d6-4ff6-a6d0-29aa4633a651;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:11:01 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:12:01 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:12:15 PM]PING :tmi.twitch.tv
+[9/16/2022 11:12:42 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=2ddc050f-f050-4737-a668-34364525af2f;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663387962713;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :hi
+[9/16/2022 11:12:42 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=ca087f4e-f1e0-45e4-997e-3c939551f0b0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:12:53 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:12:55 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=7b865bc3-730e-4b67-8f9c-7e4f9578744f;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:12:57 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:12:59 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=95aa2e41-09d2-41aa-a3fb-d507c7595eda;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:13:01 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:13:01 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:13:04 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=2dc98dab-c1c7-4f8c-b637-b9560055975f;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:13:26 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=388339e8-11ef-4033-8fdc-69f042c08eb5;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663388006962;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :hi
+[9/16/2022 11:13:35 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=197d068c-a73d-44e7-972d-b52e68761c68;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663388016030;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :buy followers
+[9/16/2022 11:13:46 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:13:48 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=9d3a6797-5df4-4d51-940f-0c98bec0d944;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:13:50 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:13:52 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=f4dee18f-2ccc-4d79-b974-57099089d84b;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:13:54 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:13:56 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=60655836-2fd8-4892-9e29-b6c940b88ed5;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:14:01 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:14:33 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:14:35 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=cc2649c0-5e3e-4347-bee0-9aba5a37bf8a;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:14:37 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:14:39 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=c40f873b-9807-49b0-bf5e-a39cda6f8291;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:14:41 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:14:43 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=ba1b9d18-bab1-492a-b540-cb170d8b3a1e;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:14:45 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:14:47 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=5de2ebe3-c540-4da4-900b-70a3a9f1fdbf;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:14:49 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:14:51 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=43abf6cc-bbc7-4b75-8e06-802027299f81;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:14:53 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:14:55 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=9508b7bb-9f84-42ed-a630-c765fc380f25;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:15:01 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:15:02 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:15:04 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=919b1d72-80ff-4bbd-95b5-9fefb77760bc;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:15:06 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:15:08 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=6ebda96e-de83-476a-80f2-8858f5b1efca;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:15:10 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:15:12 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=1140414b-65de-4234-aa50-f8f90b4914f9;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:15:53 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:15:55 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=aaeeec41-4a0a-432e-a60b-80ea818f6c54;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:15:57 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:15:59 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=c534a109-7a7f-48af-b657-5590f994ba66;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:15:59 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=a1993e82-c445-45aa-874d-8b8d07b16660;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663388160164;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :buy followers
+[9/16/2022 11:16:01 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:16:02 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:16:03 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=ed49ce3f-f7a9-423f-a447-f7f093d56452;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:16:05 PM]@msg-id=bad_timeout_broadcaster :tmi.twitch.tv NOTICE #kllerrain :You cannot timeout the broadcaster.
+[9/16/2022 11:16:07 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=a5c8756f-0001-40bb-acfc-8e4feb96a25a;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:17:02 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:17:05 PM]PING :tmi.twitch.tv
+[9/16/2022 11:17:18 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=30fa9dc9-95ea-43c1-91a8-1c31faf4600e;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663388238759;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :hi
+[9/16/2022 11:17:20 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=758e26e4-b029-4229-8ca6-7fbae395dcfa;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663388241102;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :hi
+[9/16/2022 11:17:22 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=44e56275-d5e2-44b1-8b41-c2de2c39ca84;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663388242853;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :buy followers
+[9/16/2022 11:17:22 PM]@msg-id=bad_timeout_broadcaster :tmi.twitch.tv NOTICE #kllerrain :You cannot timeout the broadcaster.
+[9/16/2022 11:17:24 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=40c69599-65d2-4c12-8c19-f02356899aba;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:18:02 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:19:02 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:20:02 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:21:02 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:21:05 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:21:07 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=8d0f4852-105f-4623-a0ea-54122b1398cd;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:21:09 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:21:11 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=2754e8d9-4539-47f5-942b-f70c51ee53bf;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:21:13 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:21:15 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=cb2c0608-fd6d-461b-a361-a1b91004aee1;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663388476010;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/16/2022 11:21:15 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=a34a0b6e-2097-4a74-acce-ddc1eb5bf8f3;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:21:20 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=0ddf8963-2cca-4c37-a1e3-64ab18555b4d;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663388481165;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/16/2022 11:21:25 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=02b6fccb-4c47-459c-93ec-d60bff7e6acd;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663388486462;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :buy followers
+[9/16/2022 11:21:26 PM]@msg-id=bad_timeout_broadcaster :tmi.twitch.tv NOTICE #kllerrain :You cannot timeout the broadcaster.
+[9/16/2022 11:21:26 PM]PING :tmi.twitch.tv
+[9/16/2022 11:21:28 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=270e41ea-c51c-4c59-9a83-b633287600b1;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:22:02 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:22:07 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:22:09 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=bc4289de-2b86-449c-af04-66ff922aa799;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:22:11 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:22:13 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=db411457-7342-4075-8cfb-01b519547956;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:22:15 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:22:17 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=cef86817-9769-4ceb-bbb1-79ac9a119e4f;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:22:19 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:22:21 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=97962f53-8199-4781-b4bf-195aa7226a0f;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663388541947;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :hi
+[9/16/2022 11:22:21 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=4964b65d-06a2-4711-b280-ed3ae63dea3c;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:22:23 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:22:25 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=195bca4d-3438-414f-84ff-b69f1a9ebae8;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:22:27 PM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/16/2022 11:22:29 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=1e50815b-c3ae-4071-8b94-303f3a723038;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:22:36 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=e8ab85d1-8344-44c9-8106-6c15738dffc3;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663388557355;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :hi
+[9/16/2022 11:22:45 PM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=c5442269-c804-4ba8-a1e9-b45e6acce33f;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663388565758;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :buy followers
+[9/16/2022 11:22:45 PM]@msg-id=bad_timeout_broadcaster :tmi.twitch.tv NOTICE #kllerrain :You cannot timeout the broadcaster.
+[9/16/2022 11:22:47 PM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=bf33b651-816c-4469-a61e-27187a83a771;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/16/2022 11:23:02 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:24:03 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:25:03 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:26:01 PM]PING :tmi.twitch.tv
+[9/16/2022 11:26:03 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:27:03 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:28:03 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:29:03 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:30:03 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:30:31 PM]PING :tmi.twitch.tv
+[9/16/2022 11:31:04 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:32:04 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:33:04 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:34:04 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:34:32 PM]PING :tmi.twitch.tv
+[9/16/2022 11:35:04 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:36:04 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:37:04 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:38:05 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:38:40 PM]PING :tmi.twitch.tv
+[9/16/2022 11:39:05 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:40:05 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:41:05 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:42:05 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:43:04 PM]PING :tmi.twitch.tv
+[9/16/2022 11:43:05 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:44:05 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:45:06 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:46:06 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:47:06 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:47:44 PM]PING :tmi.twitch.tv
+[9/16/2022 11:48:06 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:49:06 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:50:06 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:51:06 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:51:54 PM]PING :tmi.twitch.tv
+[9/16/2022 11:52:06 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:53:07 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:54:07 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:55:07 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:56:03 PM]PING :tmi.twitch.tv
+[9/16/2022 11:56:07 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:57:07 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:58:07 PM]PONG :tmi.twitch.tv
+[9/16/2022 11:59:07 PM]PONG :tmi.twitch.tv
+[9/17/2022 12:00:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:00:23 AM]PING :tmi.twitch.tv
+[9/17/2022 12:01:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:02:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:03:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:04:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:04:38 AM]PING :tmi.twitch.tv
+[9/17/2022 12:05:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:06:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:07:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:08:09 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:09:09 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:09:10 AM]PING :tmi.twitch.tv
+[9/17/2022 12:10:09 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:11:09 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:12:09 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:13:09 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:13:22 AM]PING :tmi.twitch.tv
+[9/17/2022 12:14:09 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:15:10 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:16:10 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:17:10 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:17:41 AM]PING :tmi.twitch.tv
+[9/17/2022 12:18:10 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:19:10 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:20:10 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:21:10 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:22:06 AM]PING :tmi.twitch.tv
+[9/17/2022 12:22:11 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:23:11 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:24:11 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:25:11 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:26:11 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:26:21 AM]PING :tmi.twitch.tv
+[9/17/2022 12:27:11 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:28:11 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:29:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:30:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:30:58 AM]PING :tmi.twitch.tv
+[9/17/2022 12:31:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:32:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:33:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:34:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:35:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:35:34 AM]PING :tmi.twitch.tv
+[9/17/2022 12:36:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:37:13 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:38:13 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:39:13 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:40:13 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:40:23 AM]PING :tmi.twitch.tv
+[9/17/2022 12:41:13 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:42:13 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:43:13 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:44:14 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:45:01 AM]PING :tmi.twitch.tv
+[9/17/2022 12:45:14 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:46:14 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:47:14 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:48:14 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:49:14 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:49:59 AM]PING :tmi.twitch.tv
+[9/17/2022 12:50:01 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:50:03 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=a28d2e56-3445-4d11-aa7d-f8c5c62376af;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:50:05 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:50:07 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=e3eb8239-3790-463d-bbd4-f35b6f9c6126;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:50:09 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:50:11 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=98086ab9-0d40-489c-bb24-fa68950fbc44;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:50:13 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:50:14 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:50:15 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=cf258a48-6fe5-453e-9595-725fed9d06bd;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:50:17 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:50:19 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=6b89f532-0b39-470b-8057-972aa13ed75a;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:50:21 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:50:23 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=c97c1fdd-8694-435d-aefc-40ea1a758a87;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:51:15 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:52:15 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:52:21 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=66df6eaf-1f73-45f6-a937-435c9a4d3428;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663393941674;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :buy followers
+[9/17/2022 12:52:21 AM]@msg-id=bad_timeout_broadcaster :tmi.twitch.tv NOTICE #kllerrain :You cannot timeout the broadcaster.
+[9/17/2022 12:52:23 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=1edc83a7-c71e-4949-96df-586affacc778;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:52:25 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=22210a42-267e-4e61-a303-e51183458b62;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663393946409;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 12:53:15 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:54:09 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:54:11 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=bf1fddbf-a992-4929-a2be-17af084bd36a;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:54:13 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:54:15 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=e66c3e6f-428c-41d7-ada0-1fea006a8f72;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+PONG :tmi.twitch.tv
+[9/17/2022 12:54:17 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:54:19 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=a7905af9-6ac7-40e8-95ad-982ff7b39884;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:54:28 AM]PING :tmi.twitch.tv
+[9/17/2022 12:54:51 AM]:tmi.twitch.tv 001 kllerbot :Welcome, GLHF!
+:tmi.twitch.tv 002 kllerbot :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 kllerbot :This server is rather new
+:tmi.twitch.tv 004 kllerbot :-
+:tmi.twitch.tv 375 kllerbot :-
+:tmi.twitch.tv 372 kllerbot :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 kllerbot :>
+[9/17/2022 12:54:51 AM]:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[9/17/2022 12:54:51 AM]:tmi.twitch.tv CAP * ACK :twitch.tv/tags
+[9/17/2022 12:54:51 AM]:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[9/17/2022 12:54:51 AM]:kllerbot!kllerbot@kllerbot.tmi.twitch.tv JOIN #kllerrain
+[9/17/2022 12:54:51 AM]:kllerbot.tmi.twitch.tv 353 kllerbot = #kllerrain :kllerbot
+:kllerbot.tmi.twitch.tv 366 kllerbot #kllerrain :End of /NAMES list
+[9/17/2022 12:54:51 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+@emote-only=0;followers-only=-1;r9k=0;room-id=28341681;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #kllerrain
+[9/17/2022 12:55:06 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=710b4eb2-2da7-41af-8cd5-322dabf9d108;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663394107409;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :buy followers
+[9/17/2022 12:55:07 AM]@msg-id=bad_timeout_broadcaster :tmi.twitch.tv NOTICE #kllerrain :You cannot timeout the broadcaster.
+[9/17/2022 12:55:09 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=8a7861eb-a3d7-4474-a60a-0a59661b31e7;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:55:14 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=b2569ed9-84be-4851-a7c9-9986f0fb87a5;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663394115087;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 12:55:42 AM]:kllerrain!kllerrain@kllerrain.tmi.twitch.tv JOIN #kllerrain
+:streamelements!streamelements@streamelements.tmi.twitch.tv JOIN #kllerrain
+[9/17/2022 12:55:45 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:56:26 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:56:29 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=1d810529-9fd0-4dd1-8e5a-17a02ee6cab2;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:56:30 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:56:33 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=8e44cf66-67b9-4ac9-9b60-87a481377264;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:56:34 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:56:37 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=ca2958b5-fa1c-4ef8-be1e-c5a2bab3207d;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:56:39 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:56:41 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=7d7965c6-c85e-4c3f-8aca-5edb4a05a317;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:56:43 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:56:45 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=8fbffbda-3490-4bf1-b91c-2fdf33f66e80;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:56:45 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:56:47 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:56:49 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=2350583c-0847-4736-b93b-eca2054459cd;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:57:03 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=874572ae-02c3-4763-a82c-6ac3e1bdd804;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663394224158;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :buy followers
+[9/17/2022 12:57:03 AM]@msg-id=bad_timeout_broadcaster :tmi.twitch.tv NOTICE #kllerrain :You cannot timeout the broadcaster.
+[9/17/2022 12:57:06 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=df93d23a-5dd7-4e76-87db-725f3eada57b;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:57:12 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=d2f4ee1a-67d0-4c8a-a886-124d30cfb391;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663394232800;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 12:57:45 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:58:23 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:58:25 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=05c1bf90-796c-4439-9744-f452acd612b5;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:58:26 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=0b480a74-a40c-46d7-8220-9ed54519a90f;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663394306706;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :hi
+[9/17/2022 12:58:27 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:58:29 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=83efdb5c-bf44-429b-b4ff-02b1b708e006;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:58:31 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:58:33 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=4709c610-2f84-41b2-ad4a-3e6ad19d598d;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:58:40 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=77f10191-422a-4ce5-ad8d-e90c9894d04d;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663394320659;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 12:58:45 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:59:08 AM]PING :tmi.twitch.tv
+[9/17/2022 12:59:29 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:59:31 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=38e90d64-857f-4b38-ab00-95b442adb6c4;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:59:33 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:59:35 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=0f239e7b-0122-4d87-a3bc-52903f859ef9;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:59:37 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 12:59:39 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=583162a8-5876-4c20-8edd-52dfc9e4f099;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 12:59:45 AM]PONG :tmi.twitch.tv
+[9/17/2022 12:59:52 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=6e5795de-8fcd-4459-ba8e-b8013780007d;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663394392658;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 12:59:52 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=bca6a23f-140e-4dd8-a050-02f6e9a5ff33;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 1:00:46 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:01:28 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=7a98af14-d78a-4bbb-8920-7314897e319e;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663394489334;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 1:01:29 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=0589478d-fdcd-4e6f-8c74-b1e2994a33c8;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 1:01:46 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:02:38 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 1:02:41 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=f66b3b9b-66dd-4cc4-b3ca-26c9913a0daa;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 1:02:42 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 1:02:45 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=bc2fa229-def2-4948-9c63-33eb1753f42d;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 1:02:46 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:02:47 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 1:02:49 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=c5ae5db0-2feb-4745-bb6d-f923214f6aa4;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 1:02:51 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 1:02:53 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=2be522fa-2e30-4743-8302-7e772ce6d6ea;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 1:02:55 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 1:02:57 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=b9e4a8ff-1746-4b48-bd23-56b653f2aa83;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 1:02:59 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 1:03:01 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=48b6284f-ac64-47e7-8d2e-25b944f4a89c;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 1:03:29 AM]PING :tmi.twitch.tv
+[9/17/2022 1:03:35 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=14582a5b-9e78-48ed-a951-9c7befc4f5b0;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663394615802;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 1:03:35 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=f6d98d1b-b8ab-45e2-a15c-6505dcdcfd1a;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 1:03:46 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:04:01 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 1:04:03 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=a384a536-0e4b-40cc-b628-81092a3db840;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 1:04:05 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 1:04:07 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=a5070892-e238-445b-9660-dd78b7701ac5;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 1:04:09 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 1:04:11 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=910d627a-48a6-49b2-abd5-2de35fb23e5d;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 1:04:46 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:05:01 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=84ccc9ed-f452-421e-ad9e-5c741f1e8c8a;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663394701627;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 1:05:01 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=0e5c674a-7589-4380-828f-04567375627c;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 1:05:46 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:06:46 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:07:39 AM]PING :tmi.twitch.tv
+[9/17/2022 1:07:47 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:08:47 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:09:47 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:10:47 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:11:47 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:12:06 AM]PING :tmi.twitch.tv
+[9/17/2022 1:12:47 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:13:47 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:14:47 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:15:48 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:16:22 AM]PING :tmi.twitch.tv
+[9/17/2022 1:16:48 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:17:48 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:18:48 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:19:48 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:20:38 AM]PING :tmi.twitch.tv
+[9/17/2022 1:20:48 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:21:48 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:22:48 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:23:49 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:24:39 AM]PING :tmi.twitch.tv
+[9/17/2022 1:24:49 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:25:49 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:26:49 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:27:49 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:28:49 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:29:11 AM]PING :tmi.twitch.tv
+[9/17/2022 1:29:49 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:30:50 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:31:50 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:32:50 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:33:50 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:34:06 AM]PING :tmi.twitch.tv
+[9/17/2022 1:34:50 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:35:50 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:36:50 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:37:50 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:38:51 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:39:05 AM]PING :tmi.twitch.tv
+[9/17/2022 1:39:51 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:40:51 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:41:51 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:42:51 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:43:06 AM]PING :tmi.twitch.tv
+[9/17/2022 1:43:51 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:44:51 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:45:51 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:46:52 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:47:27 AM]PING :tmi.twitch.tv
+[9/17/2022 1:47:52 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:48:52 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:49:52 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:50:52 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:51:52 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:52:03 AM]PING :tmi.twitch.tv
+[9/17/2022 1:52:52 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:53:53 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:54:53 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:55:53 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:56:05 AM]PING :tmi.twitch.tv
+[9/17/2022 1:56:53 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:57:53 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:58:53 AM]PONG :tmi.twitch.tv
+[9/17/2022 1:59:53 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:00:39 AM]PING :tmi.twitch.tv
+[9/17/2022 2:00:54 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:01:08 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 2:01:10 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=86b41805-5b85-4c43-94d5-0ead22eda63a;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 2:01:12 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 2:01:14 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=8f0170d3-7b6f-4b77-8c5a-2c939554a3c1;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 2:01:16 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 2:01:18 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=49cba328-8c0c-409e-b2f7-e57989825fd4;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 2:01:28 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=fe6813ed-7c9b-41f6-8c63-31a3fc84986d;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663398088677;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :hi
+[9/17/2022 2:01:48 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=4fdfbaf9-eb6b-429e-8699-364f510e07e5;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663398109421;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :buy followers
+[9/17/2022 2:01:49 AM]@msg-id=bad_timeout_broadcaster :tmi.twitch.tv NOTICE #kllerrain :You cannot timeout the broadcaster.
+[9/17/2022 2:01:51 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=1c3fad3e-6445-41e1-a85e-e8b4eec95403;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 2:01:54 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:02:54 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:03:54 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:04:46 AM]PING :tmi.twitch.tv
+[9/17/2022 2:04:54 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:05:54 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:06:54 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:07:55 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:08:55 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:09:11 AM]PING :tmi.twitch.tv
+[9/17/2022 2:09:55 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:10:55 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:11:55 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:12:55 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:13:34 AM]PING :tmi.twitch.tv
+[9/17/2022 2:13:55 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:14:55 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:15:56 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:16:56 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:17:47 AM]PING :tmi.twitch.tv
+[9/17/2022 2:17:56 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:18:56 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:19:36 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=dbccf508-56e4-4e63-b156-f9054f09d21a;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663399176780;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 2:19:56 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:20:56 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:21:56 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:22:06 AM]PING :tmi.twitch.tv
+[9/17/2022 2:22:57 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:23:57 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:24:57 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:25:57 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:26:26 AM]PING :tmi.twitch.tv
+[9/17/2022 2:26:57 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:27:57 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:28:57 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:29:57 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:30:58 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:31:15 AM]PING :tmi.twitch.tv
+[9/17/2022 2:31:58 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:32:58 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:33:58 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:34:58 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:35:21 AM]PING :tmi.twitch.tv
+[9/17/2022 2:35:58 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:36:58 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:37:59 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:38:59 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:39:56 AM]PING :tmi.twitch.tv
+[9/17/2022 2:39:59 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:40:59 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:41:59 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:42:59 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:43:59 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:44:54 AM]PING :tmi.twitch.tv
+[9/17/2022 2:45:00 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:46:00 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:47:00 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:48:00 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:49:00 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:49:27 AM]PING :tmi.twitch.tv
+[9/17/2022 2:50:00 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:51:00 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:52:01 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:53:01 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:53:47 AM]PING :tmi.twitch.tv
+[9/17/2022 2:54:01 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:55:01 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:56:01 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:57:01 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:58:00 AM]PING :tmi.twitch.tv
+[9/17/2022 2:58:01 AM]PONG :tmi.twitch.tv
+[9/17/2022 2:59:01 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:00:02 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:01:02 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:02:02 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:02:37 AM]PING :tmi.twitch.tv
+[9/17/2022 3:03:02 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:04:02 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:05:02 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:06:02 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:06:49 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:06:51 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=d189e65f-7cc7-490f-bbdd-05e9aa31b387;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:06:53 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:06:55 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=3424846d-8cd1-4d2b-919c-d4bfb23c584f;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:06:57 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:06:59 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=38eeb255-6521-481d-9427-46a35305d8d5;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:07:02 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:07:07 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=741b04de-5473-427f-9188-05396a336a6d;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663402028323;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :hi
+[9/17/2022 3:07:14 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=8f953fd8-0bdb-4ecc-b385-69862bf8adc8;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663402035342;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :hi
+[9/17/2022 3:07:18 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=cb3dcd8d-6e26-4451-a6c2-e0bda648c7d7;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663402038525;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 3:07:23 AM]PING :tmi.twitch.tv
+[9/17/2022 3:08:03 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:08:05 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=def47fd8-eb56-42fa-840a-79e653ee1a5f;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663402085572;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob
+[9/17/2022 3:09:03 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:10:03 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:11:04 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:12:04 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:12:18 AM]PING :tmi.twitch.tv
+[9/17/2022 3:13:04 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:13:35 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:13:37 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=13404504-251b-4a28-8d0b-9a819c0604c1;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:13:39 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:13:41 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=c3253c31-d1ad-4bf5-9f26-2a7cf9479ca2;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:13:43 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:13:45 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=a309812f-d88b-401e-af45-e479a1ecbf30;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:14:04 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:15:04 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:15:33 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=25a0827c-d7b8-4399-ba3a-7839fe962ecd;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663402533699;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 3:15:53 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:15:55 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=037b7797-06b7-4090-ad6f-aa708272b709;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:15:57 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:15:59 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=5342f6eb-3aba-4b75-b403-34b3b9b780b7;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:16:01 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:16:03 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=4ef56254-cf51-4ed0-b2f2-2b8da1741f52;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:16:04 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:16:23 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=6169b300-4c53-422c-b1ad-ad120ca8b3b8;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663402583496;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 3:16:32 AM]PING :tmi.twitch.tv
+[9/17/2022 3:17:04 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:17:17 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=1e0897ac-ec28-4257-9d80-72fdc75fa307;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663402637823;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob
+[9/17/2022 3:18:04 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:18:50 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:18:53 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=6f718407-afa1-415f-b89c-b904f7c9a152;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:18:55 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:18:57 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=0ded5534-0d94-4d4e-b7a6-b827f3f060cf;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:18:59 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:19:01 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=ee7aa643-6d24-4597-a52c-09c947a40b24;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:19:05 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:20:05 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:20:23 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=9f6cff84-4f15-4f67-941b-925e566d3212;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663402824310;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 3:20:24 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=bdc206ce-a4a4-42bb-867c-906105a2a5e2;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:20:30 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=70992c58-ebb2-47a8-88af-bdd9ce151a56;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663402830746;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob
+[9/17/2022 3:20:30 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=bf442512-3cca-425c-b898-6520d430f7a7;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:21:05 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:21:25 AM]PING :tmi.twitch.tv
+[9/17/2022 3:22:05 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:23:05 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:24:05 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:25:05 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:25:30 AM]PING :tmi.twitch.tv
+[9/17/2022 3:26:06 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:26:44 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:26:46 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=bd773fbe-3c07-481c-859f-1ef581ffeef0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:26:48 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:26:50 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=124b2335-209a-4bb2-989d-a0cee9880bd2;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:26:52 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:26:54 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=ffdee447-c34b-455d-a3fa-6a85563b49ac;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:27:06 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:27:06 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=21b715ac-0bc7-4fd5-893f-ddfa7fefb1be;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663403227340;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :hi
+[9/17/2022 3:27:09 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=9cd62080-10ba-47e8-884a-1d22955f7844;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663403230196;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob
+[9/17/2022 3:28:06 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:29:06 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:29:11 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:29:13 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=b34bddfb-2755-42c4-884c-dbdd39a61fc7;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:29:15 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:29:17 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=32355a71-b287-459b-b361-9ba0a327b7a9;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:29:19 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:29:21 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=dfb16321-e922-444d-a8ab-df2ef486cb96;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:30:06 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:30:11 AM]PING :tmi.twitch.tv
+[9/17/2022 3:30:35 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=25a5a788-1861-4ad6-a2ac-cb8f93101ea3;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663403435540;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 3:30:35 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=5d6e036a-5be2-4827-887e-138eb077ee3a;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:31:06 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:31:26 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=6df6a284-df0a-4dbe-b33a-e741135e26fa;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663403487153;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob
+[9/17/2022 3:31:26 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=b7bc5c0d-50c7-4d76-8230-eed1b544441b;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:32:05 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:32:06 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:32:07 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=3c524a34-997c-4484-aa1b-88c9b08b8a0d;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:32:09 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:32:11 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=e8159ba5-37da-4ede-93af-51c77821b13f;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:32:13 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:33:06 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:34:07 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:34:24 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=e0d1a448-af43-4cd4-8cc4-a634dbf851bb;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663403664841;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :hi
+[9/17/2022 3:34:25 AM]PING :tmi.twitch.tv
+[9/17/2022 3:34:30 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=c3006c26-2c58-4398-874e-116f6bd4dc05;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663403671196;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 3:34:31 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=ce210e39-32df-4f07-b7d9-815277230d4b;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:34:51 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=bbbc2c39-feb2-45c5-90f4-02afaa9aa529;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663403691589;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob
+[9/17/2022 3:34:51 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=c137ba5f-6cd1-4390-98c6-197fc59dd765;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:35:07 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:36:07 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:37:07 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:37:51 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:37:53 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=27731c62-095b-45d3-b25f-4d9e5cc77e94;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:37:55 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:37:57 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=4a26e7bd-b698-42b8-93aa-d7f6439771af;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:37:59 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:38:01 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=9954f8e7-dd89-4c3f-90ea-8d51a3d21d8d;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:38:07 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:38:40 AM]PING :tmi.twitch.tv
+[9/17/2022 3:38:53 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=2f0633d3-2150-44d5-b391-0d76d61e85f3;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663403933825;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :hi
+[9/17/2022 3:38:55 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=797159cf-521a-4088-9bd2-df4b94ab182c;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663403935620;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob
+[9/17/2022 3:38:55 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=f77244f1-3988-45c5-93cb-4b971b85aa2a;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:38:57 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=feb2212c-0ed4-4b86-b51f-c4045e0d922a;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:39:07 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:39:47 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=d5523e8f-0d72-4805-90ed-c1e29bd56d4c;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663403987904;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname BOB
+[9/17/2022 3:39:47 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=8f088581-03b0-4d28-b1b9-4af7debaefd4;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:39:49 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=6627ef2a-83e2-4e2f-8c55-bafbaee3d103;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:39:57 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=8fb3a22b-75a2-4657-9688-f056a458992a;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663403997900;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname tevin_vr
+[9/17/2022 3:39:57 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=d70bc4f0-9c02-4705-8484-8ce418fe78f3;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:39:59 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=96da8a44-3039-4397-a393-cd81fbed83c3;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:40:07 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:41:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:41:16 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=2fd10a78-5227-4ee1-a90c-ab9ce846bf66;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663404077243;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname tevin_vr
+[9/17/2022 3:41:17 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=0a5a08ff-8961-409f-b7d1-1057c9819389;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:41:19 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=7777b1b9-ce9b-46d3-8f5f-7ed2de62b808;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:42:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:43:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:43:19 AM]PING :tmi.twitch.tv
+[9/17/2022 3:43:31 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:43:33 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=88fdb75f-7a62-4b38-8ca1-2b95021fae7d;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:43:35 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:43:37 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=76ea6d6d-19a9-4573-b795-018e3b626010;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:43:39 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:43:41 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=fcbf727f-99b7-47e4-bb84-88e92f38c0fe;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:44:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:44:37 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=a4053607-0354-4d77-94e8-1a753ee7a34e;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663404277556;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 3:44:37 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=a6769ed2-88a4-40c3-9647-fa78216b1a0e;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:44:43 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=039aee8d-233c-41b3-8099-b946dc8b33ee;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663404284296;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname BOB
+[9/17/2022 3:44:44 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=c7b526b8-94eb-49e4-b195-4236d241a2ab;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:44:46 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=4a245a68-46b9-4c41-a9be-d8fd3295c1e9;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:45:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:46:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:47:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:47:33 AM]PING :tmi.twitch.tv
+[9/17/2022 3:48:08 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:48:13 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:48:16 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=e949dbdd-11ab-4aef-a835-c34922e30bfd;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:48:18 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:48:20 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=c29da770-29a0-4f94-aa1c-259d08b1495e;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:48:22 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:48:24 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=dd6c098a-2067-4ab8-891a-24def52777e4;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:48:42 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=8a7c37cb-38f7-45a8-8ea8-dec84f0724e6;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663404523319;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 3:48:43 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=a7396771-cf01-41c7-95f4-05482e6f975e;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:48:45 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=bf635b3b-1cbe-497b-8934-5e08ed870c4a;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663404525696;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname BOB
+[9/17/2022 3:48:45 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=5a1bf609-9883-411b-8114-da0adf51032f;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:48:47 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=6c342216-70bb-45d4-b8b2-4b6a72074abd;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:48:51 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=fabb260b-4e78-463d-87f3-09b58d5e11f1;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663404532042;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname tevin_vr
+[9/17/2022 3:48:51 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=daf8ea09-8ae9-43bc-b011-cda8fca3dbf1;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:48:53 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=941e5fc1-caa8-487f-ba6f-605aa708b81c;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:49:09 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:50:09 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:51:09 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:52:09 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:52:23 AM]PING :tmi.twitch.tv
+[9/17/2022 3:53:08 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:53:09 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:53:10 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=faa620d7-ce57-4cd2-8138-e03d54e646c5;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:53:12 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:53:14 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=bd41f616-0961-4527-9239-76562217f1f5;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:53:16 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:53:18 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=a65c2c21-7fc4-4d15-924f-401896bd5d46;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:53:27 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=aa9e8ebe-8a34-4681-b3d2-db7b415bb741;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663404807694;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 3:53:27 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=6050576e-4d1e-4160-8377-f045df94ba32;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:53:29 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=b0d18960-8320-4e3a-816b-f5de9e152719;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:54:09 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:54:46 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=9018796a-a604-4311-8ba4-3d6b4d3f9585;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:54:48 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:54:50 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=838886a9-1895-4d43-a3df-5224a783fb8d;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:54:52 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:54:54 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=e4d6dc56-604a-4c4a-aa3d-37e67702f757;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:54:59 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=0b2647f2-d7bb-4e0b-92fa-5e7da78fd979;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663404900322;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 3:55:00 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=884a9aea-4e33-49dd-b253-e756d0fa28f3;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:55:02 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=ce27dfa3-617d-40f1-9cc8-6b72bf493859;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:55:09 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:55:13 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=da0f63b6-2be5-4404-9d0d-113bc7c2ed7e;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663404913774;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname BOB
+[9/17/2022 3:55:13 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=8e9e7e81-e8c7-4ff8-b921-0fbac6f8f722;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:55:15 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=872156de-83f9-47a0-9c46-4096dd0fffab;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:56:10 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:56:26 AM]PING :tmi.twitch.tv
+[9/17/2022 3:57:10 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:58:10 AM]PONG :tmi.twitch.tv
+[9/17/2022 3:58:57 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:58:59 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=22793446-c339-46d8-9fe9-a326763127dd;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:59:01 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:59:04 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=fdcefa3f-57ea-4409-a10a-9a36baf1bc98;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:59:05 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 3:59:08 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=9bfae6b9-e86d-44dd-af0f-2e21aeb638ec;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 3:59:10 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:00:09 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=53545855-84cc-4508-8ef9-50efe9330ad0;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663405209775;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 4:00:10 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:00:48 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:00:49 AM]PING :tmi.twitch.tv
+[9/17/2022 4:00:51 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=e0d355fb-cc4e-4de8-9979-29830697b0cd;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:00:53 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:00:55 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=903da49b-cb02-461a-ac02-9c2b74681500;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:00:57 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:00:59 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=c624eed0-e403-4191-a625-498256c93d3a;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:01:02 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=a27f1aec-bf8a-4228-82e2-f492e3f63c42;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663405262684;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 4:01:02 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=53a78e31-cd58-4b22-ba7f-380d6d43260b;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:01:10 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:01:56 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=65f33042-4a37-4858-819d-c7a8d2383929;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663405317118;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 4:01:56 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=f1e7d9cf-84a1-42a4-a982-c05c4211cfd0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:01:57 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=347b390d-4fdd-4e57-95b5-eb50fdca374f;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663405318337;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/17/2022 4:01:59 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=95121404-358b-466c-9752-409fb29ad3ad;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:02:02 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=c49c2f2a-918e-472b-ab34-83724418d15c;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663405323491;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob
+[9/17/2022 4:02:03 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=0c406e7e-bf1a-452c-9d66-881c78a6d6a3;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:02:10 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:03:10 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:04:11 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:05:11 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:05:24 AM]PING :tmi.twitch.tv
+[9/17/2022 4:06:11 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:07:11 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:08:11 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:09:11 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:09:42 AM]PING :tmi.twitch.tv
+[9/17/2022 4:10:11 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:11:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:12:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:12:23 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=8a50e430-e455-461d-87b6-cd3a4048c5ec;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:12:25 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:12:27 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=366182d0-26c1-4a4a-b5d6-c5637bb8ca74;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:12:29 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:12:31 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=3f83e801-25be-42f7-8e20-78d3fcec7bbe;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:12:35 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=354fe8ac-1e3f-4567-b736-76e5b96bc97c;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663405956322;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob
+[9/17/2022 4:12:36 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=c6e0f670-1fdf-494b-98d9-133737743382;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:12:38 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=dd0c37c4-550e-4d13-82e9-4ee1ff0e940c;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:13:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:14:00 AM]PING :tmi.twitch.tv
+[9/17/2022 4:14:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:15:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:16:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:17:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:17:17 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:17:19 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=fad90988-c5d0-4b90-b0d2-1af800355ce4;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:17:21 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:17:23 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=8ee5711e-61ba-4598-b055-8bfb90d5b61a;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:17:25 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:17:27 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=2fef5d15-8681-4f87-b4b9-b6303857304c;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:18:11 AM]PING :tmi.twitch.tv
+[9/17/2022 4:18:12 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:18:35 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=aba9b2d6-3770-4f20-8cd0-68d8cced6496;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663406315647;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob
+[9/17/2022 4:18:35 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=5e85520f-44c9-41c5-94d9-92a78af6af9e;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:18:37 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=47e5e91b-1abe-4578-8edf-f7c581902214;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:19:13 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:19:58 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:20:00 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=2fbc90e3-e021-461c-bf30-4bd2272bbd3f;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:20:02 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:20:04 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=3732c18f-bb0d-4850-ba36-716e83a7ed2a;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:20:06 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:20:08 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=da1d1ece-4e5c-4d31-bc8b-74433a7b13da;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:20:13 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:21:13 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:21:56 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=aabfe5b7-0150-4ada-8ab5-c3798292a6f1;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663406516577;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob
+[9/17/2022 4:21:56 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=d30bee45-dd7a-4439-abbd-643dcb88ec57;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:21:58 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=4a149a30-4bfe-4009-92a0-5dfc017c30d6;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:22:00 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=07e0bd46-c03a-4613-b8e5-35415cdab133;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:22:02 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=979d46cb-f175-44b9-8ef7-5aaff36e4807;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:22:13 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:22:52 AM]PING :tmi.twitch.tv
+[9/17/2022 4:23:03 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=82553da6-b9f9-4cd1-91c1-4919d7f304c9;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663406584366;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob osh
+[9/17/2022 4:23:04 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=cc4a95b1-2eb6-449d-b0b3-d92abe0e069e;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:23:06 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=13ecbfd4-85cb-446b-99b8-3da0e5b379bd;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:23:08 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=9ebbc397-6074-4440-be48-14a3f79586cc;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:23:10 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=032a81f6-0f51-4416-9e46-3ff6670fc088;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:23:13 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:24:13 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:24:54 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:24:56 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=964af4ca-fd88-4663-8296-232bb67cee9a;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:24:58 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:25:00 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=0e872464-7f36-46cc-811f-16e6bc229a0a;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:25:02 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:25:04 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=c33625d8-6551-4a50-9474-e0819dc26b68;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:25:13 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:25:22 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:25:24 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=472a6975-dff4-460a-8b9a-9d5d651099a0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:25:29 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=9f539b14-206b-4f36-8c5c-d6fc986046da;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663406729898;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob osh
+[9/17/2022 4:25:29 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=99168a3c-de96-46ee-a5b9-25c539eee670;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:25:31 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=e97939e3-cfe8-4f35-ab99-1b5bc8ee46ce;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:25:33 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=9c0e3bf3-4be5-4646-a4b3-6db12cf8539a;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:25:35 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=752679c4-313c-43fd-967c-6b35166ceea2;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:26:14 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:26:26 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:26:28 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=ce9e7b84-77be-42ac-b858-33219a7cb243;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:26:33 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=ee79bbfa-2939-4750-8d91-01bb66c320f9;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663406793740;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob osh
+[9/17/2022 4:26:33 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=5e15f598-dbc4-4275-b8d7-575c7a44f02f;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:26:35 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=1a93235d-836a-4db0-bfea-7e392a4c42cf;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:26:37 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=319a1ba7-3d96-4976-9017-3153c1747216;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:26:39 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=db0a48b7-f820-4491-9c7d-6c018fcf94e1;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:27:14 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:27:27 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:27:29 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=ac61a80a-8c05-4e48-8832-f5fd3c2f49d1;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:27:31 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=9ea237e5-a6b3-46c4-bedd-999645f06433;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663406851819;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob osh
+[9/17/2022 4:27:31 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=3860cb94-7370-40ee-8c8d-cb113bdaecd8;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:27:32 AM]PING :tmi.twitch.tv
+[9/17/2022 4:27:33 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=dfa1cbf6-1379-4ca2-8579-92e7c5ec74a4;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:27:35 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=8a5a65f4-b6fa-45d4-b48a-17cca8daa869;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:27:37 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=b6791b5c-5fa8-477a-b925-078957b6ff26;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:28:14 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:28:59 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:29:01 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=d8c079bf-f149-42d2-be4a-a0267fdb67d1;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:29:02 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=90bf5a91-1da1-4ec8-bbc2-bb8ebfb468b7;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663406943146;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob osh
+[9/17/2022 4:29:03 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=b3bc1998-98fc-42db-88b5-ce2bd7eb1bde;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:29:05 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=562d7d62-5672-4267-9d81-ac3e6f771f11;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:29:14 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:30:14 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:31:14 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:31:37 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:31:39 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=03b761dc-ca25-4d90-b303-3e94dd573b2c;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:31:49 AM]PING :tmi.twitch.tv
+[9/17/2022 4:32:14 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:32:21 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:32:24 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=280085bd-7d12-4371-a072-d1d56b0e78c5;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:32:26 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=007dca6b-2343-43e5-85e9-ac8b2deb08e3;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663407146524;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname as
+[9/17/2022 4:32:26 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=1feee031-5481-4b73-bd1a-a514df7dd7a7;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:33:14 AM]PONG :tmi.twitch.tv
+[9/17/2022 4:34:03 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/17/2022 4:34:05 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=ebfe7a61-f9bd-4d43-9ad9-dc95f2b3991c;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:34:07 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=c364cd21-7996-4c2b-8720-729f3860d6a7;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663407247821;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname bob osh
+[9/17/2022 4:34:07 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=7a4ea732-2c46-458d-8f46-9cc941c92510;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/17/2022 4:34:15 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:12:19 AM]:tmi.twitch.tv 001 kllerbot :Welcome, GLHF!
+:tmi.twitch.tv 002 kllerbot :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 kllerbot :This server is rather new
+:tmi.twitch.tv 004 kllerbot :-
+:tmi.twitch.tv 375 kllerbot :-
+:tmi.twitch.tv 372 kllerbot :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 kllerbot :>
+[9/18/2022 12:12:19 AM]:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[9/18/2022 12:12:19 AM]:tmi.twitch.tv CAP * ACK :twitch.tv/tags
+[9/18/2022 12:12:19 AM]:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[9/18/2022 12:12:19 AM]:kllerbot!kllerbot@kllerbot.tmi.twitch.tv JOIN #kllerrain
+:kllerbot.tmi.twitch.tv 353 kllerbot = #kllerrain :kllerbot
+:kllerbot.tmi.twitch.tv 366 kllerbot #kllerrain :End of /NAMES list
+@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+@emote-only=0;followers-only=-1;r9k=0;room-id=28341681;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #kllerrain
+[9/18/2022 12:12:19 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/18/2022 12:12:25 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/18/2022 12:12:27 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=4e5b7595-7986-4da6-995d-ac270429f964;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:12:46 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=c27f82a6-9062-4047-941a-6d2f6fa2db59;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663477966543;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :buy followers
+[9/18/2022 12:12:46 AM]@msg-id=bad_timeout_broadcaster :tmi.twitch.tv NOTICE #kllerrain :You cannot timeout the broadcaster.
+[9/18/2022 12:12:48 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=73991280-2e55-4bb1-99d1-58021968e936;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:13:08 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=46a0932c-3994-46dc-a1d6-c7881e27e6a7;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663477988395;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/18/2022 12:13:08 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=d6c8911a-84a4-40a3-9bf5-08b43ebbd9f0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:13:15 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=d73aea21-86ec-4228-80ea-1398c4f9ce92;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663477995943;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname jeff
+[9/18/2022 12:13:15 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=dd68806b-ba04-4be6-99ba-8b265144112e;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:13:18 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:13:18 AM]:streamelements!streamelements@streamelements.tmi.twitch.tv JOIN #kllerrain
+[9/18/2022 12:14:11 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=d4a57be1-ddfb-4781-906a-5988e1be7043;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663478051977;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname @jeff
+[9/18/2022 12:14:12 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=66ddb509-a63a-4995-8c88-ee4c59115dba;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:14:18 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:14:21 AM]:streamelements!streamelements@streamelements.tmi.twitch.tv PART #kllerrain
+[9/18/2022 12:14:33 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=774d10b1-8df1-4eed-babc-97fbaba77bde;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663478073322;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname @jeff hi
+[9/18/2022 12:14:33 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=34a91235-4761-43e9-bd78-5a3b1a30bde5;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:15:18 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:16:03 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/18/2022 12:16:05 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=85f17090-bffd-4972-a84e-b709c5d584d4;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:16:16 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=11ada386-9fb5-43f5-b432-792848e6b04d;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663478176920;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname @jeff
+[9/18/2022 12:16:16 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=94806935-6be2-4969-9bd8-f6db6e27fb0b;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:16:18 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:16:54 AM]PING :tmi.twitch.tv
+[9/18/2022 12:16:59 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=ca551f84-5993-4bee-8ecb-c1107e8b82e3;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663478219644;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname @jeff
+[9/18/2022 12:16:59 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=91fdf15a-3237-434d-822f-3d7584f23032;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:17:05 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=70144f23-bbd7-40a7-aa56-4dac96c3beaa;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663478225566;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname jeff
+[9/18/2022 12:17:05 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=27988f23-100f-43eb-a1ed-561179e8c426;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:17:18 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:17:36 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/18/2022 12:17:38 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=dbf78550-3ec6-4c0e-86d8-1536cd2710d8;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:17:39 AM]:kllerrain!kllerrain@kllerrain.tmi.twitch.tv JOIN #kllerrain
+:streamelements!streamelements@streamelements.tmi.twitch.tv JOIN #kllerrain
+[9/18/2022 12:17:49 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=84e8c680-c192-4858-8906-76266cb8d66e;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663478269850;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname jeff
+[9/18/2022 12:18:08 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/18/2022 12:18:10 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=ed629427-ef81-4f5a-8697-4db39cfb0927;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:18:12 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/18/2022 12:18:14 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=3025aa60-5d10-4265-b7d3-ab1c2d803529;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:18:15 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=627c6920-0894-4799-a0b0-c4732d071ec7;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663478295686;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname jeff
+[9/18/2022 12:18:16 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=917c7003-368e-4890-8fdf-d15833d08a8f;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:18:18 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:18:18 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=7a497f60-63a0-4fac-8296-d8b767329816;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:18:41 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/18/2022 12:18:44 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=3a80c1f3-b0b0-4a5f-b3f9-7fd25dbb683f;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:18:51 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=0afb85e4-bd76-42f7-a6ac-6afa3f03331e;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663478331666;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname jeff
+[9/18/2022 12:18:51 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=c1b373d6-084a-4de0-8847-e2465aac3f2c;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:18:53 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=f5d2b172-d291-4431-b7d7-3e585f3ad98e;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:19:18 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:20:19 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:21:19 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:21:38 AM]PING :tmi.twitch.tv
+[9/18/2022 12:22:19 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:23:19 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:24:19 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:25:19 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:26:09 AM]PING :tmi.twitch.tv
+[9/18/2022 12:26:19 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:27:20 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:27:20 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/18/2022 12:27:22 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=02f7e608-2ae1-4594-8095-87f268588cfc;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:27:30 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=da7a45b5-9333-40f9-a0ed-921d05d57e19;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663478850617;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname
+[9/18/2022 12:27:30 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=dfc9e392-72ca-4254-b9fb-7263b54f0dba;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:27:32 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=cc8127bb-94ed-448b-8a81-23b487ee035f;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:28:20 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:28:42 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=a531c45d-8bd6-4a98-b3dd-4891927cd03e;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663478923147;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname jeff
+[9/18/2022 12:28:43 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=59d83880-6097-409c-a438-786173f7c9e2;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:28:45 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=a7f49865-ddd5-47b6-a47a-fe83c9f2a8b7;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:29:20 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:30:19 AM]PING :tmi.twitch.tv
+[9/18/2022 12:30:19 AM]@msg-id=room_mods :tmi.twitch.tv NOTICE #kllerrain :The moderators of this channel are: kllerbot, streamelements
+[9/18/2022 12:30:20 AM]PONG :tmi.twitch.tv
+[9/18/2022 12:30:21 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=6067626d-c14b-4e0e-b99f-acf1f43767a8;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:30:56 AM]@badge-info=;badges=broadcaster/1;color=#2E8B57;display-name=kllerRain;emotes=;first-msg=0;flags=;id=26f58082-bb70-4e22-8050-d8e3446197da;mod=0;returning-chatter=0;room-id=28341681;subscriber=0;tmi-sent-ts=1663479056213;turbo=0;user-id=28341681;user-type= :kllerrain!kllerrain@kllerrain.tmi.twitch.tv PRIVMSG #kllerrain :!nickname jeff
+[9/18/2022 12:30:56 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=68d946be-3752-4c8c-92c9-fef0efe5e3a3;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:30:58 AM]@badge-info=;badges=moderator/1;color=;display-name=kllerbot;emote-sets=0;id=2f7e5e35-2215-4ef1-b9f9-82f65ee5b02b;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #kllerrain
+[9/18/2022 12:31:20 AM]PONG :tmi.twitch.tv

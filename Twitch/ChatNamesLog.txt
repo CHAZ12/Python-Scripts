@@ -1,0 +1,28 @@
+ USERS:['420f1tc00l', '746576696e', 'aarondang', 'aetherlight', 'alelitoxz', 'alexisssu', 'alexisthenexis', 'aliceydra', 'anna_banana_10', 'arkticace', 'arttira', 'astrouzumaki', 'azianstrider', 'baswollenberg', 'bilboswaginyolo420twerk69', 'bobbo343', 'bonfiredes', 'bwayshibby', 'caedeia', 'catgirleddie', 'charmand3r212', 'chrisdasa', 'christmas_______', 'cubhall', 'd_bbz', 'd_madman', 'danskacreme', 'dante1000000000', 'doogleef', 'dylbot3000', 'echopedal_', 'eulerick', 'faraheen__', 'frantuary', 'gradg1t', 'guardian_2013', 'hainz7', 'harvestlake', 'haunty_7', 'hbwolfz', 'hunterdimitrescu', 'ildsll', 'imnotbotting', 'iskrillzzz', 'jawshieboy', 'jazzykat', 'jimmydorry', 'justmaple', 'killzerk', 'kingemil_of_norway', 'kllerrain', 'larbyy', 'loadster', 'loamy_sand', 'margot', 'mashiroshiinaa_', 'mcmuffinbuns', 'meismilkman', 'mekadvahanasong', 'minciits', 'mithkabob', 'mmpcode', 'molorien', 'mura_vr', 'nebwla', 'nnem', 'oddlle', 'palapula', 'partyhatset2147m', 'peachykeem', 'premier_panda', 'razorclaws', 'riceboi694', 'romeogiggletoess', 'sansduke', 'satacreed79', 'scuffedmilkman', 'seasonzero', 'seven701', 'skysukii', 'snowyrainz', 'soapsudstv', 'sophiafox21', 'spoiuyz', 'spuderman12321', 'sticker8', 'tbhbrie', 'tearkat', 'teoslnte', 'theoriginalkalona', 'thunderthighss89', 'tigger2435', 'tizcloud', 'trashbag_72', 'vallus', 'vreyvrey', 'vtuberplus', 'weenel', 'xxhashbrownssxx', 'yakkuu']
+ MODS: ['curious_emily', 'koishibot', 'kundji12', 'streamelements']
+ VIPS: ['fenrircrow', 'oilless']
+ 
+ 
+ BECUASE OF THE LIMITATIONS OF STREAMLABSCHATBOT THE SCRIPT READS A FILE FORMAT AS SEEN ABOVE.
+ 
+ YOU(THE STREAMER) HAS TO ADD VALIDATED USESNAMES MANUALLY 
+ 
+ EX. 'ADDUSERNAMEHERE', OR USE THE SCRIPT EX.(TWITCHBOTS)
+ 
+ HOWEVER, IT IS VERY EASY TO REMOVE THE CHECK FOR VALID USERNAMES. BUT THE DOWNSIDE
+ 
+ IS THAT YOU CAN ENTER A INVALID USERNAME(NOT A TWITCH USER) AND IT WILL STILL SUCCEED.
+ 
+ 
+ 
+ HOWEVER, YOU CAN  AUTOMATICALLY VALIDATING USERNAMES FROM TWITCH.TV IS POSSIBLE
+ 
+ THIS NEXT SCRIPT WILL SHOW YOU (GETWITCHUSERNAME)
+ 
+ 
+ 
+YOU CAN TAKE THIS A STEP FURTHER AND CHECK IF YOU REACHED A GOAL, THEN RUN A COMMAND
+
+FOREXAMPLE STREAMER REACHES GOAL OF 100 SUBS, !PLAYSOUND PARTY 
+
+ 
