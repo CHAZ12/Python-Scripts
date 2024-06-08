@@ -1,0 +1,997 @@
+Time: 2023-12-13T21:45:27.429000+00:00
+Main Label:Misc
+Username:Melon Man
+if the bug is extremely game breaking should i @ anyone in particular?
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T21:42:21.705000+00:00
+Main Label:Server
+Username:dawulef
+so i was playing with some friends and i put on the tragedy mask just as we started leaving the planet.
+the item dissapeared and when we landed at the company it wasn't on my face anymore.
+prolly not a huge deal since it's a niche situation tho.
+also we were playing vanilla so no mods
+Attachments: []
+Found Labels:['Server', 'Creatures', 'Glitches']
+------------------------------------------------
+Time: 2023-12-13T21:36:54.712000+00:00
+Main Label:Misc
+Username:dawulef
+
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184609922609066004/VID-20231213-WA0003.mp4?ex=658c98f6&is=657a23f6&hm=f58a073670b5665199a508b198ec0bda422ba18da11a3b3b83fe3c7802ad493b&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T21:11:16.122000+00:00
+Main Label:Euqipment
+Username:Wurps
+those swings were easily in range and were closer than usual, you can hear the wall hitting sound effect from the shovel and not empty air hits which should not be playing as these hits were aimed normally and should have hit just fine, it's not hard to intentionally produce this issue, doing things as simple as backing up against a wall and then walking forward while swinging in some circumstances will repeatedly play the wall hit sfx on swing which has a fair chance of indicating that the hits are being counted as hitting the wall despite you clearly swinging in an open field
+Attachments: []
+Found Labels:['Equipment']
+------------------------------------------------
+Time: 2023-12-13T21:08:28.041000+00:00
+Main Label:Misc
+Username:Honks
+you kept missing btw, its not a bug, you just kept missing, if you hit it then it would do a flinch animation thing.
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T21:00:38.445000+00:00
+Main Label:Misc
+Username:Honks
+possible skill issue
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T20:58:35.765000+00:00
+Main Label:Misc
+Username:Wurps
+#1 problem in the game right now imo
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184600279413432390/shovel_hitreg_thumper.mp4?ex=658c8ffb&is=657a1afb&hm=b615f567ee46504a4ee39731d93b5f8f2e242ec7ed4492ebc4201ed4bd990f8d&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T20:55:38.322000+00:00
+Main Label:Misc
+Username:KillerRain
+Absyn, scroll up on this page....
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T20:55:04.952000+00:00
+Main Label:Creatures
+Username:Absyn
+I dont think its a huge thing but you can join the monster in the wall
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184599395912646807/ladderguy.mp4?ex=658c8f28&is=657a1a28&hm=d773a6a4d320ac41efbe2d1a36d08c5a8430201d1c5bce4ca66a86f8324ff2a9&
+Found Labels:['Creatures']
+------------------------------------------------
+Time: 2023-12-13T20:41:30.522000+00:00
+Main Label:ShipItem
+Username:ChokenStroker
+After leaving a game to go and eat when I came back everything that was not in my locker was gone (4 fancy lamps and some axels).
+Attachments: []
+Found Labels:['ShipItem']
+------------------------------------------------
+Time: 2023-12-13T20:23:20.791000+00:00
+Main Label:Server
+Username:Mulgar
+No mods. Went to land at the company and walked outside when the doors opened and it killed me and forced me to spectate myself but I could still walk around. The last person in my session disconnected right as I was getting ready to walk out.
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184591409756524598/image.png?ex=658c87b8&is=657a12b8&hm=08ffb9288a42f44e8f387dfddeb03537ae143c5888571e607d33de325842e7ae&
+Found Labels:['Modded', 'Server']
+------------------------------------------------
+Time: 2023-12-13T19:29:30.575000+00:00
+Main Label:Server
+Username:AlexSFeather
+the entirety of his pc loses connection to the internet for about a minute or two
+His discord cuts and his game crashes
+however its only his pc that loses connection
+everything else is fine and still has connection
+Attachments: []
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-13T19:27:34.574000+00:00
+Main Label:Misc
+Username:KillerRain
+Androgalxi, pretty sure in the future there is going to be a kill box there for easiest fix. You should be the first one to post it if that is the case LOL. or a message saying LOL YOU TRIED.
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T19:24:18.772000+00:00
+Main Label:Equipment
+Username:androgalaxi
+Oh I bet. It makes sense when you have a pocket ladder at hand that has many uses. Of course stuff like that is going to happen.
+Attachments: []
+Found Labels:['Equipment']
+------------------------------------------------
+Time: 2023-12-13T19:24:03.621000+00:00
+Main Label:Misc
+Username:Spetsnaz
+Typo at the end of the Coil Head bestiary "Just stare at **htem** or use a stun grenade!" also a typo in the Jesters bestiary.
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T19:19:11.374000+00:00
+Main Label:Equipment
+Username:KillerRain
+Androgalaxi, the amount of edge cases that need to be made for the ladder because of stuff like this is going to be insane.
+Attachments: []
+Found Labels:['Equipment']
+------------------------------------------------
+Time: 2023-12-13T19:16:17.071000+00:00
+Main Label:Misc
+Username:AlexSFeather
+both log files were grabbed from my friend's pc so both of them are his
+i do not suffer from this issue myself
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T19:12:43.104000+00:00
+Main Label:Modded
+Username:androgalaxi
+Found this while messing around with the ladder at the company
+I don't think this is supposed to happen 🤣
+
+*yes I know it's modded but I tested this in the vanilla version and I get the same outcome*
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184573631834095718/2023-12-13_14-10-04.mp4?ex=658c772a&is=657a022a&hm=d43c07dcf33e79f75278e4019764697744ca13281b6cb055e09770208e7caf0c&
+Found Labels:['Modded', 'Equipment']
+------------------------------------------------
+Time: 2023-12-13T19:12:00.322000+00:00
+Main Label:Server
+Username:Floppy Disk
+Also can you clarify what "the internet cuts" means? Does he lose internet connection throughout his PC or does he just get kicked from the game? <@123052683329404931>. If he goes to Steam > Library > Lethal Company > Properties > Beta's > Beta Participation > previous, does he still have this issue?
+Attachments: []
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-13T19:11:08.786000+00:00
+Main Label:Server
+Username:KillerRain
+From your original post of the playerLog file. and the one you just posted at 12:46 PM. do not match who is whos? I can conclude that Player_1 is your friends because it says: You got invited by AlexSFeather to join 1097752*********. and the first one at 6:10PM is yours. Can you confirm this?. Also  I am seeing this: EventQueue: Large number of received packets pending dispatch (21). Possibly due to long frame times (last frame was 806.9295ms).
+Attachments: []
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-13T19:10:26.146000+00:00
+Main Label:Graphics
+Username:AlexSFeather
+Verified game files
+moved the game to other drive
+playing in borderless/fullscreen/windowed
+updating video drivers
+probably more i am missing
+Attachments: []
+Found Labels:['Graphics']
+------------------------------------------------
+Time: 2023-12-13T19:04:46.766000+00:00
+Main Label:Server
+Username:AlexSFeather
+i am referring to my friend having this issue
+we play on vanilla
+he was fine when the game initially release but once the autumn update landed this issue appeared
+Attachments: []
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-13T19:00:08.825000+00:00
+Main Label:Creatures
+Username:Stone
+That would make more sense, but they're not really mimics, just masks that have attached themselves onto human bodies (presumably human I mean, WE COULD BE FURRIES)
+Attachments: []
+Found Labels:['Creatures']
+------------------------------------------------
+Time: 2023-12-13T18:54:59.438000+00:00
+Main Label:Misc
+Username:Floppy Disk
+What has your friend tried so far? Verified game files?
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T18:54:52.670000+00:00
+Main Label:Misc
+Username:KillerRain
+Have you played the game with no issues previously, also are you on vanilla?
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T18:46:04.155000+00:00
+Main Label:Misc
+Username:AlexSFeather
+The issue is still persisting even after the recent update
+Please me and my friend want it fixed because it makes it impossible for my friend to play at all
+here is the most recent log if it helps in any way
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184566929076260924/Player_1.log?ex=658c70ec&is=6579fbec&hm=9add18d895ff23651ef31cca55f5072cd732508ec905554499b1d7b0717f1b16&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T18:39:25.850000+00:00
+Main Label:Misc
+Username:Melody
+thank you. i thought i broke the game for a moment! 😭
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T18:37:42.573000+00:00
+Main Label:Misc
+Username:Floppy Disk
+Snare flea's lower you to critical in singleplayer. It is an intended game mechanic
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T18:32:19.146000+00:00
+Main Label:Misc
+Username:Melody
+yeah i was singleplayer. this was the player.log _turns out yeah they dont kill on singleplayer???? good to know._
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184563468741902466/Player.log?ex=658c6db3&is=6579f8b3&hm=1d256e7b3ade058d6ba551f8788851adda5a70a517e850b0e5a08045e47449de&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T18:29:59.311000+00:00
+Main Label:Misc
+Username:KillerRain
+Melody are you on singleplayer?
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T18:24:59.853000+00:00
+Main Label:Server
+Username:Melody
+Opening the menu as you are about to die from a headcrab causes a really interesting situation where if you are dying, the headcrab does not kill you, pops off what should be your dead body and runs, with you on the verge of death. entirely unintended. I couldnt get a video of it, but i can try to recreate it. i dont know if the fact i was facing a wall was anything important.
+Attachments: []
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-13T18:03:01.045000+00:00
+Main Label:Creatures
+Username:Cobalt
+they are referring to the masked
+Attachments: []
+Found Labels:['Creatures']
+------------------------------------------------
+Time: 2023-12-13T17:56:12.659000+00:00
+Main Label:Creatures
+Username:Stone
+Pretty sure that's to do with mods, and there isn't a mimic in the base game
+Attachments: []
+Found Labels:['Creatures']
+------------------------------------------------
+Time: 2023-12-13T17:55:49.053000+00:00
+Main Label:Creatures
+Username:Cairngorm
+Hi, every time I get grabbed by a mimic and one of my teammates or my self manages to kill them I get stuck with the camera centered and not being able to turn and my model gets stuck in that place from 3rd person's view.
+Attachments: []
+Found Labels:['Creatures']
+------------------------------------------------
+Time: 2023-12-13T17:50:53.259000+00:00
+Main Label:Server
+Username:ArmL
+Hello ! What can i do when i receive the "an error occured" everytime i try to join a game ?
+Attachments: []
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-13T17:49:27.974000+00:00
+Main Label:ShipItem
+Username:CotFish
+Happened after my friend used the teleporter on me while I was on the computer. Shovel dropped on the ground and it was impossible for us to pick it up
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184552682346774628/Lethal_Company_2023.12.13_-_18.47.20.02.DVR.mp4?ex=658c63a7&is=6579eea7&hm=055463915083697adeb65ae7238d5bceef60b2b0650506a1882ff1776e61fec5&
+Found Labels:['ShipItem']
+------------------------------------------------
+Time: 2023-12-13T17:34:22.737000+00:00
+Main Label:Equipment
+Username:Floppy Disk
+Jumping during the ignition phase seems to make quite a bit of difference (at least, practically speaking) seeing as dropping from the same height without jumping (you wait for the jetpack to generate enough thrust to lift you off on its own) seems to apply fall damage as well as this stored damage.
+
+(the explosion at the end is me pressing M1)
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184548887248252998/boom2_trimmed.mp4?ex=658c601e&is=6579eb1e&hm=0d65104114cd448bc133b1a0d2ed988e869250efdce7ed16bf2d007128d9a727&
+Found Labels:['Equipment', 'Rank']
+------------------------------------------------
+Time: 2023-12-13T17:21:34.047000+00:00
+Main Label:Equipment
+Username:Floppy Disk
+Had a weird thing with the jetpack that other people have also been talking about and I managed to reproduce it.
+
+1) Get the jetpack and ignite + Jump
+2) Fly to about (2-4m) high
+3) Drop to the floor
+4) Next time you ignite, the jetpack damages you
+
+I know I am just stating the problem and not being particularly helpful, but I can't possibly speculate what's going on behind the scenes.  I thought it might be good to post it nonetheless.
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184545662898032671/boom.mp4?ex=658c5d1d&is=6579e81d&hm=dd6695b9b98f094804e9d925f8559dd3e52804629ff665051c150067c7c9fae4&
+Found Labels:['Equipment']
+------------------------------------------------
+Time: 2023-12-13T17:19:12.839000+00:00
+Main Label:Modded
+Username:görkem
+so we experienced something like this and im not really sure if its because of mods, so i thought it is best to post about it here. And we actually tried selling these things and it fulfilled the quota
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184545070909755513/Moments-clip-from-Dec-13-2023.mp4?ex=658c5c90&is=6579e790&hm=6735e49a5b9a961c7397b5b93a6f1e732bc1e21f09adcda7270aaac32a1421dc&
+Found Labels:['Modded', 'Rank']
+------------------------------------------------
+Time: 2023-12-13T16:57:53.464000+00:00
+Main Label:Modded
+Username:Chilly
+modding stuff isnt really allowed here, best to ask for help with mods in a lc modding server
+Attachments: []
+Found Labels:['Modded', 'Server']
+------------------------------------------------
+Time: 2023-12-13T16:50:05.697000+00:00
+Main Label:Modded
+Username:Dentristan
+Can someone help? ( mods context )
+<a:danceByTiovayn:1182527841791905873>
+Attachments: []
+Found Labels:['Modded']
+------------------------------------------------
+Time: 2023-12-13T16:36:36.102000+00:00
+Main Label:Misc
+Username:Falcon
+ermm what the flip
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184534347643113523/image.png?ex=658c5294&is=6579dd94&hm=1a4e060d9929f02b5339214ca1f33987e60d046aed65fd61e60a9bdad3f81137&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T16:12:02.724000+00:00
+Main Label:Misc
+Username:Floppy Disk
+Me as well, makes me think it's intentional. Is the shovel 50% off aswell?
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T16:01:39.397000+00:00
+Main Label:Misc
+Username:Shadow Hunter
+If you refund the game you can still play it. after you refund the game as long as you have the game still installed then you can still play it by clicking the game in your library and going to the gear icon and then going to the browse local files and double clicking the exe file. the game will then boot right up do to it not checking with steam that the game is indeed purchased.
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T15:23:36.883000+00:00
+Main Label:Graphics
+Username:Andrew tate
+fps issue the game is stuck at 15 fps even tho i change lots of things
+Attachments: []
+Found Labels:['Graphics']
+------------------------------------------------
+Time: 2023-12-13T14:47:44.163000+00:00
+Main Label:Misc
+Username:zombie
+whenever i start a new game the moons weathers are always the same
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184506950650707988/image.png?ex=658c3910&is=6579c410&hm=da56782bfddefe07bca5d5081165d788c1ceee20948b4de0e0484bae6c4f793d&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T14:18:28.618000+00:00
+Main Label:Server
+Username:seal-ling
+getting grabbed while killing a ||masked fella|| locks ur camera and for the server locks u where u wouldve been grabbed (from what I've heard and saw)
+Attachments: []
+Found Labels:['Server', 'Graphics', 'Creatures']
+------------------------------------------------
+Time: 2023-12-13T13:45:27.674000+00:00
+Main Label:Misc
+Username:MichaelCoD
+Nah, I'll wait.
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T13:44:46.262000+00:00
+Main Label:Misc
+Username:RockeT
+I have the exact same issue, just refund the game till it gets fixed
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T13:20:24.665000+00:00
+Main Label:Misc
+Username:CordezBR
+Same problem here
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T12:27:55.426000+00:00
+Main Label:Misc
+Username:Mike Chang Fitness
+Dude. Giant was not nerfed at all haha. Unless it’s a glitch that when I’m crouch walking and his back is to me and just immediately 180s toward me even though I’m across the map. That’s the worst enemy and you can’t defend against it or even outrun it if you’re holding supplies. Please either make them slow as hell or have very short sight. Because this is making some runs impossible later in the day
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T10:05:04.723000+00:00
+Main Label:Misc
+Username:whaterangel
+don't know how this happend but it did
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184435817616248932/image.png?ex=658bf6d0&is=657981d0&hm=2a25dcd2cc7b54893df7267df36d41d005b0dcbdecb12dd3cc1a7c6e3760fa79&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T09:37:53.568000+00:00
+Main Label:Misc
+Username:LethalChicken
+That's not really a bug, more just the nature of random generation. It would be nice if the endpoints or however the dungeon was generated were more likely to be more spread out from the entrance
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T09:33:39.406000+00:00
+Main Label:Rank
+Username:Zainnhy
+map generation has an issue where there is rooms that are pointless or go nowhere. But another path that expands greatly
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184427909281218653/image.png?ex=658bef73&is=65797a73&hm=73941b5ea44e9223f75d74d61ee4277a27346defe2c9da4101adaf938be40038&
+Found Labels:['Rank']
+------------------------------------------------
+Time: 2023-12-13T08:53:56.905000+00:00
+Main Label:Modded
+Username:mad red king
+im experencing issues with booting since the most recent update, everytime i do i make it at most to the menu after selecting online before it crashes and goes unresponsive, more often than not, not even to selecting online. it triggers amd with a pop up saying driver timeout. i have purged and reinstalled the game files, and my graphics drivers as well as removing all mods, no luck. before the update, no problems but now cant even start. im using a rx 580. wanted to know if anybody has suggestions or if anybody else has the same problem
+Attachments: []
+Found Labels:['Modded', 'Server', 'Graphics', 'Rank']
+------------------------------------------------
+Time: 2023-12-13T08:39:37.696000+00:00
+Main Label:Misc
+Username:Zainnhy
+Dine when starting the game has a chance to be completely flooded from the start.
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184414313390297198/image.png?ex=658be2c9&is=65796dc9&hm=97f5c16fa64e977b129bd57f668c5d3df76df894602f2197e445df08ed44f487&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T08:32:07.062000+00:00
+Main Label:Server
+Username:Rug
+I'd like to mention 2 bugs i've encountered, when you put things like shovels in the red cabinet sometimes they just vanish. Also Spiders are completely immune to the landmines explosion, don't know if that's intended.
+Attachments: []
+Found Labels:['Server', 'Rank']
+------------------------------------------------
+Time: 2023-12-13T08:11:55.223000+00:00
+Main Label:ShipItem
+Username:The_Enderwolf
+small bug but when you open a present when taking off, the item falls through the ship
+Attachments: []
+Found Labels:['ShipItem', 'Glitches']
+-------------------------------------------------
+Time: 2023-12-13T06:55:28.783000+00:00
+Main Label:Misc
+Username:KillerRain
+Imagine just being 5 away from getting what you want.
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T06:53:34.828000+00:00
+Main Label:Misc
+Username:pballs
+welcome mat is 50 dollars but says its 40
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184387625486921778/image.png?ex=658bc9ee&is=657954ee&hm=69ed7e4b6a3148e49dbd6cd9c9fc6d5d372f46d27f8a694e29a4ea0260e3ce04&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T06:19:20.432000+00:00
+Main Label:Misc
+Username:NICK
+
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184379005454008340/bug.mp4?ex=658bc1e7&is=65794ce7&hm=003c08a4ee111e55c7872dc5c4306a76b98e33451af0be526689b95fc74b9f9f&
+Found Labels:['Misc']
+---------------------------------------------------
+Time: 2023-12-13T06:00:47.300000+00:00
+Main Label:Misc
+Username:KillerRain
+mikashy, can you upload his playerlog.txt @ Windows:First type in "run" in search bar->Then type "%appdata%"->click AppData at top to back out of Roaming folder->LocalLow->ZeekerssRBLX->Lethal Company->player.txt. also can you send me a pm so I don't have to talk here
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T05:41:43.843000+00:00
+Main Label:Misc
+Username:mikashy
+here's a video of him showing the problem
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184369543720751195/2023-12-13-00-38-21_YFvC1u5w.mp4?ex=658bb917&is=65794417&hm=0d6761783c2c7e0c269fb4fd36e5e9cf6efd2d9eec5b76ab8e9b96b6138d28e4&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T05:36:40.014000+00:00
+Main Label:Server
+Username:mikashy
+hey guys, my friend is having a problem trying to enter any server, he says that every time he tries to enter, the game just frozes
+Attachments: []
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-13T05:29:40.012000+00:00
+Main Label:Misc
+Username:KillerRain
+Having any modified files when launching vanilla will cause this
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T05:27:58.444000+00:00
+Main Label:Modded
+Username:Kaeus Baeus
+are you using thundermod or are you manually doing it? because manually modding the game can be pretty unreliable with some different processes
+Attachments: []
+Found Labels:['Modded']
+------------------------------------------------
+Time: 2023-12-13T05:27:05.809000+00:00
+Main Label:Server
+Username:Mutop
+4 out of 5 of my friends were able to join except the one with the problem q.q
+Attachments: []
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-13T05:21:13.734000+00:00
+Main Label:Modded
+Username:Kaeus Baeus
+windows 10 should be fine, its usually a lot better atleast, it might just be being silly with server connection and mods
+Attachments: []
+Found Labels:['Modded', 'Server']
+------------------------------------------------
+Time: 2023-12-13T05:17:40.476000+00:00
+Main Label:Misc
+Username:Purple Waffle𓅱
+why my files keep corrupting
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T04:55:42.735000+00:00
+Main Label:Modded
+Username:Mutop
+I have a friend of mine who has a black screen whenever he trys to join a modded server. I do believe its because he has Windows 10, However, I just wanted to confirm this information I got off of online.
+Attachments: []
+Found Labels:['Modded', 'Server', 'Graphics']
+------------------------------------------------
+Time: 2023-12-13T04:21:22.894000+00:00
+Main Label:Server
+Username:k⛧dence
+hey if anyone could help me I'd appreciate it, after loading up the game and getting to the screen where it says yk host, join crew, setting, etc. I will go to either join a crew or host a game and once I "join" either my game either crashes or stops responding. is there any way to fix this? I have tried uninstalling the game, updating my windows, restarting my PC, and many other things and they have seemed not to work.
+Attachments: []
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-13T04:01:14.883000+00:00
+Main Label:Misc
+Username:<o>U<o>
+If anyone could help^
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T03:22:40.335000+00:00
+Main Label:Misc
+Username:bungtheshikigami
+Host's player log included
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184334548545327235/Host_Player.log?ex=658b9880&is=65792380&hm=afb13512fbfda409ab772cf13247a4d6022c8369c4e2ede371b0b8a009b02890&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T03:17:04.605000+00:00
+Main Label:Modded
+Username:bungtheshikigami
+Note: Modded game, screenshot with mods installed. Server owner ran an additional mod called LethalFashion.
+
+Step 1: Get tragedy mask.
+Step 2: Get into orbit.
+Step 3: Get mask to latch onto you. 
+Step 4: ???: Mask muffles player's voice but masked player is still able to assume control & doesn't notice any difference.
+Step 5: Quota.
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184333139003330710/Player.log?ex=658b9730&is=65792230&hm=cff35edac894a740608cb91d7e574ac27fe5611180aad43b16abd4ffd2c53c59&
+Found Labels:['Modded', 'Graphics', 'Creatures']
+------------------------------------------------
+Time: 2023-12-13T03:16:14.295000+00:00
+Main Label:Server
+Username:EmilitaSparkler
+I have been trying to play all day.  Any time I try and host a game no one can join it and if I try to enter a server both end in an error occurred displayed across the screen. Friends are also experiencing this.  I have done SO MUCH RESEARCH and can not find an answer. Tried verifying files, uninstalling and reinstalling game. Please I beg for any advice. 😭 👏 🧎‍♀️
+Attachments: []
+Found Labels:['Server', 'Rank']
+------------------------------------------------
+Time: 2023-12-13T03:01:13.750000+00:00
+Main Label:Misc
+Username:the gluntch
+on titan rocks can spawn on the stairs
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T02:57:55.931000+00:00
+Main Label:Misc
+Username:Pero.Lord
+Me and a few other people where playing when suddenly our "ankles rolled". We got random damage, no enemies, nothing around us, and we took damage. It started with me, then to another player, than another. We dubbed it "Ankle rolling". At some points, we would take massive amounts of hits from this, and on occasion, we'd die from this. However, we wouldn't get a notif saying "critical injury" like if you get normal hit from a entity. 
+
+I will be playing later today to see if I can get my ankles to roll again
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T02:57:02.122000+00:00
+Main Label:Graphics
+Username:🐉 Noodle
+Is anyone having an issue with the game not giving any sort of directional audio? usually in games i have no issues detecting which direction a sound i coming from, but in leathal company it sounds solid mono, i might be able to hear a SLIGHT difference in direction for some ambient sounds and monsters, but if i can hear anyone's voice it just sounds like its coming from everywhere equally.
+Attachments: []
+Found Labels:['Graphics']
+------------------------------------------------
+Time: 2023-12-13T02:46:55.219000+00:00
+Main Label:Misc
+Username:<o>U<o>
+Here's what I'm talking about! Its much choppier in the vid than in actuality because of the screen recorder tho
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184325551205388358/technicalissue.webm?ex=658b901f&is=65791b1f&hm=018408ad2f4d253df97f25672e03cf7c8f934da8f77d59401e66fdb8bc97eacb&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T02:40:04.860000+00:00
+Main Label:ShipItem
+Username:SurrenderTTV
+Don't drop loot here on ship otherwise you cant re-grab/equip/scan the item or items.
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184323830269874296/image.png?ex=658b8e84&is=65791984&hm=e0d15dc94d23d5b317b39d42293c5bf086aea4e3e4e6db665dd45da769821013&
+Found Labels:['ShipItem', 'Equipment', 'Glitches']
+------------------------------------------------
+Time: 2023-12-13T02:38:05.707000+00:00
+Main Label:Server
+Username:Jecklon
+Me and my friend were starting anew after we failed to meet quota, and we went to experimentation to start the run off. Thing is though, even though we were on experimentation, the dungeon generation was that of rend's. We heard something spawn and looked around, but we couldn't find anything. Then my game promptly crashed.
+Attachments: []
+Found Labels:['Server', 'Graphics', 'Rank']
+------------------------------------------------
+Time: 2023-12-13T02:10:58.120000+00:00
+Main Label:Server
+Username:ali.mp4
+no idea what im supposed to do, i can open the game but when i press online and then go to try to host a server, it won't let me. when i press host it just closes the hosting configuration thing without opening anything, multiplayer also won't load up any servers
+
+problem resolved
+after trying a bunch of things, i signed out of steam and back into steam and that fixed the problem
+Attachments: []
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-13T01:54:54.133000+00:00
+Main Label:Misc
+Username:<o>U<o>
+Hey, I have a technical problem. Lethal Company is stuck loading. Whenever I start up the game, the first two logos (powered by Unity and Zeeseekers) load just fine and my cursor switches to the game version, but then the screen just stays black. I can move the cursor but nothing loads. Help?
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T01:38:57.103000+00:00
+Main Label:Misc
+Username:WarriorRaven
+can confirm ive had this happen too!
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T01:25:26.382000+00:00
+Main Label:Misc
+Username:gregory(the retar)
+for some reason i cant talk when im dead
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T01:22:53.081000+00:00
+Main Label:Misc
+Username:TanmanG
+If I'm not mistaken, `timeSincePlayerMoving` is placed incorrectly within the `UpdatePlayerPositionClientRpc` method. It's called after the `if (isOwner) return;` branch and as a result, player's don't reset their own `timeSincePlayerMoving` variable
+
+From what I can tell, the other `timeSince...` variables all reset on the players local client, so this is likely a bug
+
+Edit: Transpile patched a copy of the `timeSincePlayerMoving = 0` line to right before the branch and that does in fact fix `timeSincePlayerMoving` not resetting on move
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T01:17:17.095000+00:00
+Main Label:Server
+Username:Magicwooman
+So many under discussion in steam are experiencing consistent crashing . Creating a server or Joining crashes the game immediately no way to play this is the 3rd day for me i have not been able to enjoy the game 😦
+Attachments: []
+Found Labels:['Server', 'Rank']
+------------------------------------------------
+Time: 2023-12-13T01:17:13.814000+00:00
+Main Label:Server
+Username:wutazu.
+having issues joining lobbies
+Attachments: []
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-13T01:17:12.969000+00:00
+Main Label:Equipment
+Username:enderguy
+idea: assume the jetpack is setting your pants aflame to keep the immersion until the bug is fixed
+Attachments: []
+Found Labels:['Equipment']
+------------------------------------------------
+Time: 2023-12-13T01:13:54.087000+00:00
+Main Label:Misc
+Username:Creepers
+No, I jump right before I take off and I take a ton of damage when I start thrusting
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T01:11:32.960000+00:00
+Main Label:Equipment
+Username:enderguy
+jetpack go boom? or no
+Attachments: []
+Found Labels:['Equipment']
+------------------------------------------------
+Time: 2023-12-13T01:06:49.322000+00:00
+Main Label:Equipment
+Username:Creepers
+Anybody know why I take so much damage when I take off with the jetpack, without even colliding with anything?
+Attachments: []
+Found Labels:['Equipment']
+------------------------------------------------
+Time: 2023-12-13T00:57:58.520000+00:00
+Main Label:Controls
+Username:Godofjoking
+Please fix controller movement joystick issue
+Attachments: []
+Found Labels:['Controls']
+------------------------------------------------
+Time: 2023-12-13T00:56:49.318000+00:00
+Main Label:Graphics
+Username:pkcrory
+Got attacked by a masked employee, and got saved by an ally killing them with a shotgun.
+After this, my body stayed in place, but I could move around still?
+Allies could hear my voice through my body, but not through me.
+Enemies wouldn't aggro to me, but still did damage as normal.
+Teleporting moves my body, but doesn't fix the issue.
+Attachments: []
+Found Labels:['Graphics', 'Creatures']
+------------------------------------------------
+Time: 2023-12-13T00:43:19.751000+00:00
+Main Label:Misc
+Username:Khronos
+Still nothing?
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-13T00:33:31.175000+00:00
+Main Label:Equipment
+Username:Logan
+Climbing a ladder while sinking in quicksand seems to permanently slow movement.
+Attachments: []
+Found Labels:['Equipment']
+------------------------------------------------
+Time: 2023-12-13T00:12:25.545000+00:00
+Main Label:Modded
+Username:leu
+anyone can help, when i open my lethal company it says that i am in 1648 version, just when i am with mods
+Attachments: []
+Found Labels:['Modded']
+------------------------------------------------
+Time: 2023-12-13T00:08:36.710000+00:00
+Main Label:Server
+Username:Ty.G
+I keep getting this error when playing. even though I'm the only one from my party that gets disconnected. Happens sporadically, if I'm host or anyone one of my friends is. No Mods, pure vanilla.
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184285711826960505/Lethal_Company_GobggXD0jz.png?ex=658b6b04&is=6578f604&hm=d2f42d8e2cc4b77cf9e701e377cf7cf3342958f6dab866cdfb6fd3fee9dc46bf&
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-13T00:05:57.754000+00:00
+Main Label:Modded
+Username:leu
+anyone can help, when i open my lethal company it says that i am in 1648 version, just when i am with mods
+Attachments: []
+Found Labels:['Modded']
+------------------------------------------------
+Time: 2023-12-13T00:03:27.393000+00:00
+Main Label:Misc
+Username:Phoenix Rose
+either this is a bug or intended feature. as this has happened to me in vanilla game as well as ive seen it happen to youtubers. where if you are looking at a Coil head and walk far too close to it, it can just randomly decide to move and kill you
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-12T23:59:37.024000+00:00
+Main Label:Creatures
+Username:Pistachio
+<@254882999940677634>  hi ! thanks a lot for the work ! Game breaking bug : 
+When you fight a mask and stay victorious your cam is locked and you can’t move it if u have trigger the animation ,
+I think the problem is because you cant move your head when he grab you ,maybe if u can enable head movement when the grab animation' is playing
+Attachments: []
+Found Labels:['Creatures']
+------------------------------------------------
+Time: 2023-12-12T23:47:52.598000+00:00
+Main Label:Modded
+Username:Aspidis
+that's good to know, i do hope things resolve soon, would love to play the game more except watching others play 😅 
+
+i'm just a bit puzzled about how my friends (about 5 of them) are all able to play without any issues, but i'm the only one in the group that has these issues using the same updated game and mods as they are <:orz_blobs:718033879000416286>
+
+EDIT: The game keeps crashing in Vanilla, regardless of having mods or not. I uninstalled mods and reinstalled the game, and it crashes, cant even play on my own.
+Attachments: []
+Found Labels:['Modded', 'Server']
+------------------------------------------------
+Time: 2023-12-12T23:47:50.104000+00:00
+Main Label:Misc
+Username:stunkV2
+every time i open the the game it goes black and just gives me white screen is there away to fix this
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-12T23:44:30.422000+00:00
+Main Label:Equipment
+Username:Captain (hee/hee)
+damn  you just constantly open gifts and make bank. thats pretty broken
+Attachments: []
+Found Labels:['Equipment']
+------------------------------------------------
+Time: 2023-12-12T23:43:42.033000+00:00
+Main Label:ShipItem
+Username:famferenc
+if you have high ping and 2 people try to pickup the same gift, one of the players gets a glitched gift item that can be infinitely opened (the item the gift gives is a random item but same item everytime after)
+
+The items show they are worth 0 credits when scanned but the DO have a true value when sold at the company.
+
+The present vanishes when you re-enter orbit or leaving the game I think. Had all this happen to me on a public lobby where everyone got thousands of credits
+Attachments: []
+Found Labels:['ShipItem', 'Equipment', 'Glitches']
+------------------------------------------------
+Time: 2023-12-12T23:38:56.482000+00:00
+Main Label:Modded
+Username:Captain (hee/hee)
+mods did break on newest update, mods only work on v40 as of now
+Attachments: []
+Found Labels:['Modded']
+------------------------------------------------
+Time: 2023-12-12T23:38:15.892000+00:00
+Main Label:Modded
+Username:Aspidis
+EDIT: The game keeps crashing in Vanilla, regardless of having mods or not. I uninstalled mods and reinstalled the game, and it crashes, cant even play on my own.
+
+Mods included: We're using mods so more people can play... every one of my friends is able to play the game with the new update and the mods installed, but i keep getting errors and crashes... is there any way of fixing this? It sometimes crashes the game only, but mostly other apps too such as Steam, Discord, or my whole laptop even. I got BSOD twice at least when launching the game, and i am unable to sometimes get past the Launching options (online/lan) or even host myself with mods. (the BSOD codes were Video_tdr_failure and memory_management)
+
+Before, everything was working fine, with and without mods. But this started happening after the latest update was introduced, i reinstalled the game and the mods and everything from scratch, but nothing helped. I keep getting the same yellow lines in the console.
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184278074100043776/image.png?ex=658b63e7&is=6578eee7&hm=965589d72cba335f810a798327a5e1a56ce594d65cb67090703d68c87105ef55&
+Found Labels:['Modded', 'Server']
+------------------------------------------------
+Time: 2023-12-12T23:36:37.581000+00:00
+Main Label:Equipment
+Username:Pidgeot
+if you are on high ping (about 100+ from my experience)
+you can open a gift multiple times (highest i got was 16)
+Attachments: []
+Found Labels:['Equipment', 'Rank']
+------------------------------------------------
+Time: 2023-12-12T23:33:27.808000+00:00
+Main Label:Misc
+Username:famferenc
+had this bug too
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-12T23:23:44.120000+00:00
+Main Label:Misc
+Username:briana.png
+
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184274417283514498/Replay_2023-12-12_15-21-59.mp4?ex=658b607f&is=6578eb7f&hm=1205aaea4b5a4e253ebd4dfc9c005547df20715938639318afbad6ab6c1de759&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-12T23:18:11.331000+00:00
+Main Label:Creatures
+Username:briana.png
+bug where the mask animation plays with other items, not sure how it was caused other then me tapping left cliick with the mask
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184273021003894834/Replay_2023-12-12_15-16-35.mp4?ex=658b5f32&is=6578ea32&hm=bd04a3737c282331025fd398514dc73dc99a508cf9e05401d1b4a7b4ea68ddfb&
+Found Labels:['Creatures', 'Equipment', 'Glitches']
+----------------------------------------------------
+Time: 2023-12-12T23:14:31.188000+00:00
+Main Label:Controls
+Username:Drupins
+Any news about the scroll wheel breaking when rebinding bug?
+Attachments: []
+Found Labels:['Controls']
+------------------------------------------------
+Time: 2023-12-12T23:13:58.404000+00:00
+Main Label:Misc
+Username:Beaver that will eat ur crops
+doing weekly maintenance
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-12T23:13:48.014000+00:00
+Main Label:Server
+Username:Cheese Extreme
+are the steam servers down for anyone else?
+Attachments: []
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-12T23:08:27.386000+00:00
+Main Label:Misc
+Username:TheOwlManBranch
+what happened was i was crouching in a corner and stood up, somehow ended up behind a pipe
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-12T22:58:21.750000+00:00
+Main Label:ShipItem
+Username:KillerRain
+did you get teleported into a wall with the inverse teleporter or did a monster push you or someone?
+Attachments: []
+Found Labels:['ShipItem']
+------------------------------------------------
+Time: 2023-12-12T22:57:21.660000+00:00
+Main Label:Misc
+Username:TheOwlManBranch
+im stuck in a wall 😭
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184267780887945278/image.png?ex=658b5a51&is=6578e551&hm=1a7515a7a7d926fb54bf53e1a57021ac541e367259ef83f6f3b6b449f728d543&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-12T22:43:36.262000+00:00
+Main Label:Server
+Username:Rujex
+not modded server i was host too
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184264318678736946/WTF.mp4?ex=658b5718&is=6578e218&hm=aa77679c622a7cdb2ec3783117d8ddfd272be33c270006e8843869b6be1f949d&
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-12T22:42:46.075000+00:00
+Main Label:Misc
+Username:giovarlin_31
+logs to that
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184264108086931587/Player.log?ex=658b56e5&is=6578e1e5&hm=7d41e46b2b32140002b176560906ecf999198060d2c146a490fced939f748ec3&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-12T22:29:35.196000+00:00
+Main Label:Misc
+Username:KillerRain
+do you have the player.log file to post. This can show you the duplication error. Find player Log on Windows:First type in "run" in search bar->Then type "%appdata%"->click AppData at top to back out of Roaming folder->LocalLow->ZeekerssRBLX->Lethal Company->player.txt
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-12T22:27:50.295000+00:00
+Main Label:Misc
+Username:giovarlin_31
+had a bug where a friend saw like she had a present in her hand (but she didn't had one)
+So each time she opened the present there would appear axle of thin air  (1st image her pov, 2 second one my pov)
+
+How do i find player log <@182603119115370498> ?
+can't find it. but anyway
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184260350946836610/image.png?ex=658b5366&is=6578de66&hm=dcdc5193a6e4fad9b74bd0e9f156f26af812b18c25dea14b4b6ba9661b0fea8c&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-12T22:23:06.166000+00:00
+Main Label:ShipItem
+Username:zuleeeeeeee
+had a bug were the ship wouldn't leave even past 12 am, i was immortal and me and my friend both got ourselves killed. Nothing, it wouldnt let us leave xd
+Attachments: []
+Found Labels:['ShipItem']
+------------------------------------------------
+Time: 2023-12-12T22:16:50.845000+00:00
+Main Label:Misc
+Username:briana.png
+is this happening for anyone?
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184257584010625124/Replay_2023-12-12_14-11-58.mp4?ex=658b50d2&is=6578dbd2&hm=2d8ea7a8abf25310a5bf86ff96df3d9210d7b533a8b6a86662b7e52bf639dc33&
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-12T22:09:59.725000+00:00
+Main Label:Server
+Username:Ostn5
+Bug: player appears to be stuck to others while still able to move freely, and no matter where that player is, their voice still comes from the "ghost" that is stuck.
+
+Circumstances: player was possibly grabbed by a masked man and a giant at the same time, was complaining of not being able to move or look anywhere. (When I looked, the giant was standing in place and moving his arm in a twitchy way). 
+Player was teleported out, and now appeared to be stuck in place to others while still able to move and interact with objects. This continued even in orbit and after landing on the company moon.
+Attachments: []
+Found Labels:['Server', 'Graphics', 'Creatures', 'ShipItem']
+------------------------------------------------
+Time: 2023-12-12T22:06:35.470000+00:00
+Main Label:Creatures
+Username:Nana
+If my friend kills mimic mid-animation i can't move my cam.
+Attachments: []
+Found Labels:['Creatures']
+------------------------------------------------
+Time: 2023-12-12T22:06:27.792000+00:00
+Main Label:Misc
+Username:Shepard Ehn'Sven
+Just wanted to report that another hoarding but stole from and then killed me.
+Attachments: []
+Found Labels:['Misc']
+------------------------------------------------
+Time: 2023-12-12T22:05:12.240000+00:00
+Main Label:Creatures
+Username:Leba
+after saving my mate from the new doppleganger mask monster it bugged her character, she said she was moving in her screen but i still viewd her running in place <@254882999940677634>
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184254651810455633/Lethal_Company_2023.12.12_-_23.02.39.02.DVR.mp4?ex=658b4e17&is=6578d917&hm=4154605f1ad92070dc44adcfff3b2298f5f2f8e5c83fa1716d5b829a085bc46f&
+Found Labels:['Creatures']
+------------------------------------------------
+Time: 2023-12-12T21:41:00.942000+00:00
+Main Label:Server
+Username:luv3nvy
+Can't connect to my friends nor i can to any random lobby. I press join a crew and not a single one shows up on a screen. I've tried checking up the cache of the game via steam settings, it didn't help. I can host the lobby but can't invite people. Error showing up when i try to connect to my friends via steam invite: "Host has already landed or didn't load up" Please help.
+Attachments: []
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-12T21:38:15.389000+00:00
+Main Label:Creatures
+Username:CroSS
+idk how to contact with developer of that mod: https://thunderstore.io/c/lethal-company/p/amnsoft/EmployeeAssignments/
+i found 2 bugs:
+- one: on screen. It happens when i killed the hoarding bug (i had it as a assigment target)
+- second: if you get apparatus quest it is not working (if im not mistaken there is only 1 apparatus per map). So i got apparatus but it was named normaly. Not assigment target like usual.
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184247873689362512/image.png?ex=658b47c7&is=6578d2c7&hm=2d279471934c37a48e6af20478b1b7e6645f97a500476a0c8b483224b09f203c&
+Found Labels:['Creatures']
+------------------------------------------------
+Time: 2023-12-12T21:36:19.820000+00:00
+Main Label:Server
+Username:Creepers
+We getting completely different map layouts. Are map layouts client side but everybody gets the same layout? I'm walking through walls for them and thery're walking through walls for me. He's rehosted the server but I still have it.
+Attachments: https://cdn.discordapp.com/attachments/774242154561798144/1184247388454531133/Untitled_Project.mp4?ex=658b4753&is=6578d253&hm=19e13ee0b73d6b7708c400dd292f4b41af4a7513e0d7c5ffae5d20b18bed80e7&
+Found Labels:['Server']
+------------------------------------------------
+Time: 2023-12-12T21:28:34.182000+00:00
+Main Label:Graphics
+Username:Lorcus
+So I've encountered 2 bugs. I forgot to screenshot them tho...
+One of them is a phantom Player avatar (Name above their head is **Player #**) that stands directly in front of the Entrance/Exit of whatever door the actual Player the phantom is last went through.
+Another is a phantom voice that appeared on the side of the ship. It was one of my fellow co-workers and was literally him talking and all that, however he was inside the lootable/factory the entire time. He couldn't hear me either
+Attachments: []
+Found Labels:['Graphics', 'ShipItem']
+------------------------------------------------
+Time: 2023-12-12T21:08:24.448000+00:00
+Main Label:Misc
+Username:Dunac
+People really don't know how to give valuable bug reports lmao
+Attachments: []
+Found Labels:['Misc']
