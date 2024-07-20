@@ -1,0 +1,26 @@
+{
+    "builds":[
+        {
+            "src":"api/getpoll.py",
+            "use":"@vercel/python"
+        },
+        {
+            "src":"main.py",
+            "use":"@vercel/python"
+        },
+        {
+            "src":"GetYTpoll.py",
+            "use":"@vercel/python"
+        }
+    ],
+    "routes":[
+        {
+            "src":"/api/getpoll",
+            "dest":"api/getpoll.py"
+        },
+        {
+            "src":"/api/getytpoll",
+            "dest":"api/getpoll.py"
+        }
+    ]
+}
