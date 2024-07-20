@@ -6,9 +6,8 @@ import os
 YT_URL= os.getenv('YT_URL')
 print(f"YOUTUBE URL: {YT_URL}")
 def getYTPoll():
-    bob = "https://studio.youtube.com/live_chat?continuation=0ofMyANfGkJDaWtxSndvWVZVTTVSMnBtTFdReVNURjRiVWsxUmxCelNFNWxibXRuRWdzdE5IYzVXbTh0VVVGTlFTQU1NQUElM0QwAYIBBggEGAIgAIgBAaABv_SA9IG1hwOoAQA%253D"
     headers = {  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
-    r = requests.get(bob, headers=headers)
+    r = requests.get(str(YT_URL), headers=headers)
     choices = []
     if r.status_code == 200:
         soup = BeautifulSoup(r.content, "html.parser")
@@ -25,7 +24,7 @@ def getYTPoll():
         if choices == []:
             print('User is not live.')
             return None, None
-        return str(title).strip("[]") ,choices
+        return str(title).strip("[]\'") ,choices
     else:
         print('Failed to retrieve data')
         return None, None
