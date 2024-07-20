@@ -1,0 +1,6 @@
+Flask==2.0.1
+requests==2.26.0
+psycopg2-binary==2.9.9
+Werkzeug==2.2.2
+python-dotenv==1.0.1
+BeautifulSoup4==4.11.2
