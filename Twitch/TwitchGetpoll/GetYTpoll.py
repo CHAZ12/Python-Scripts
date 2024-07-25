@@ -1,0 +1,68 @@
+import requests 
+from bs4 import BeautifulSoup
+import re
+#YT_URL= os.getenv('YT_URL')
+MainPage = "https://www.youtube.com/@Kinstruction"
+LiveChatPage ="https://studio.youtube.com/live_chat?"
+print(f"YOUTUBE URL: {MainPage}")
+def GetVideoID():
+    print("getting VideoID")
+    headers = {  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+    r = requests.get(str(MainPage), headers=headers)
+    soup = BeautifulSoup(r.content, "html.parser")
+    if r.status_code == 200:
+        content = r.text
+        pos = r.text.find('/hqdefault_live.jpg')
+        if pos != -1:
+            start_idx = content.rfind(r'\/', 0, pos) + 1
+            video_id = content[start_idx:pos]
+            videoId = re.findall(r'(?<=vi\/)([^\/]+)', video_id)[0]
+            print(videoId)
+            if videoId == None:
+                return "Poll: Could not get VideoId"
+            return videoId        
+    else:
+        print('Page not found')
+
+def GetContinuation():
+    print("getting continuation")
+    StreamPage = "https://www.youtube.com/watch?v=" + str(GetVideoID())
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+    r = requests.get(str(StreamPage), headers=headers)
+    if r.status_code == 200:
+        content = r.text
+        pos = content.find('reloadContinuationData')
+        if pos != -1:
+            video_id = content[pos:pos+300]
+            continuation = re.findall(r'(?<=continuation":")([^\"]+)', video_id)[0]
+            print(continuation)
+            if continuation == None:
+                return "Poll: Could not get continuation"
+            return continuation
+    else:
+        print('Page not found')
+
+def getYTPoll():
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+    PollPage = f"{LiveChatPage}continuation={str(GetContinuation())}"
+    r = requests.get(str(PollPage), headers=headers)
+    choices = []
+    if r.status_code == 200:
+        soup = BeautifulSoup(r.content, "html.parser")
+        title = re.findall(r'(?<="pollQuestion":{"runs":\[{"text":")([^"]+)',str(soup.contents))
+        print(title)
+        for i in range(len(re.findall(r'(([^"]+)(?="}]},"selected":false))',str(soup.contents)))):
+            pollchoice1 = re.findall(r'(([^"]+)(?="}]},"selected":false))',str(soup.contents))[i]
+            choices.append(pollchoice1[0])
+        print('Retrieved YT data')
+        choices = [{"title": choice} for choice in choices if choice is not None]
+        print(choices)
+        if choices == []:
+            print('User is not live.')
+            return None, None
+        return str(title).strip("[]\'") ,choices
+    else:
+        print('Failed to retrieve data')
+        return None, None
+
+getYTPoll()
