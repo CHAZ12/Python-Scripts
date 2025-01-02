@@ -1,0 +1,10 @@
+Get vercel for python steps
+
+1) install from web node.js
+2) create virutal enviroment by "python -m venv <path>" then type "/scripts/activate.bat"
+3) install dependeces Flask "pip install Flask"
+4) Create requirements.txt file... "pip freeze > requirements.txt"
+5) in CMD type "npm i -g vercel" to get vercel installed
+6) type "vercel login" in CMD
+7) type "vercel ." to start deployment, when it asks for root just keep it blank.
+8) To update code type "Vercel --prod"
