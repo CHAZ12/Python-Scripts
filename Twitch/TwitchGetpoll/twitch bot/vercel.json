@@ -1,0 +1,22 @@
+{
+    "builds":[
+        {
+            "src":"api/getraid.py",
+            "use":"@vercel/python"
+        },
+        {
+            "src":"TwitchSendmessage.py",
+            "use":"@vercel/python"
+        }
+    ],
+    "routes":[
+        {
+            "src":"/api/getraid",
+            "dest":"api/getraid.py"
+        },
+        {
+            "src":"/api/sendraid",
+            "dest":"api/getraid.py"
+        }
+    ]
+}
